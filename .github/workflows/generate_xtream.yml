@@ -30,9 +30,15 @@ jobs:
 
       - name: Copy config from secrets
         run: |
-          echo "portal_url: $PORTAL_URL" > config.yaml
-          echo "mac: $PORTAL_MAC" >> config.yaml
-          echo "filters:\n  languages:\n    es_es: true\n    fr_fr: true\n    en_gb: true" >> config.yaml
+          cat > config.yaml <<EOF
+          portal_url: "$PORTAL_URL"
+          mac: "$PORTAL_MAC"
+          filters:
+            languages:
+              es_es: true
+              fr_fr: true
+              en_gb: true
+          EOF
 
       - name: Run generator
         run: |
