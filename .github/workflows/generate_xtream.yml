@@ -1,0 +1,67 @@
+name: Generate Xtream Playlists
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  build-and-generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Copy config from secrets
+        run: |
+          echo "portal_url: ${{ secrets.PORTAL_URL }}" > config.yaml
+          echo "mac: ${{ secrets.PORTAL_MAC }}" >> config.yaml
+          echo "filters:\n  languages:\n    es_es: true\n    fr_fr: true\n    en_gb: true" >> config.yaml
+        env:
+          PORTAL_URL: ${{ secrets.PORTAL_URL }}
+          PORTAL_MAC: ${{ secrets.PORTAL_MAC }}
+
+      - name: Run generator
+        run: |
+          python generate.py --config config.yaml --outdir generated
+
+      - name: Commit and push generated to gh-pages
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          # create orphan gh-pages branch and copy generated files to root
+          git checkout --orphan gh-pages
+          git rm -rf . || true
+          mkdir -p generated
+          cp -r generated/* . || true
+          git add -A
+          git commit -m "Update generated playlists from workflow" || echo "No changes to commit"
+          git push origin gh-pages --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Cloudflare Worker
+        if: ${{ secrets.CF_API_TOKEN && secrets.CF_ACCOUNT_ID }}
+        run: |
+          npm install -g wrangler
+          # create a minimal wrangler.toml using the account id secret
+          cat > cloudflare_worker/wrangler.toml <<'EOF'
+          name = "mactoxtream-worker"
+          main = "index.js"
+          account_id = "${{ secrets.CF_ACCOUNT_ID }}"
+          EOF
+          cd cloudflare_worker
+          npx wrangler publish
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
