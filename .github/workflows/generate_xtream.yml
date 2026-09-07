@@ -8,6 +8,11 @@ on:
 jobs:
   build-and-generate:
     runs-on: ubuntu-latest
+    env:
+      PORTAL_URL: ${{ secrets.PORTAL_URL }}
+      PORTAL_MAC: ${{ secrets.PORTAL_MAC }}
+      CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+      CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -25,12 +30,9 @@ jobs:
 
       - name: Copy config from secrets
         run: |
-          echo "portal_url: ${{ secrets.PORTAL_URL }}" > config.yaml
-          echo "mac: ${{ secrets.PORTAL_MAC }}" >> config.yaml
+          echo "portal_url: $PORTAL_URL" > config.yaml
+          echo "mac: $PORTAL_MAC" >> config.yaml
           echo "filters:\n  languages:\n    es_es: true\n    fr_fr: true\n    en_gb: true" >> config.yaml
-        env:
-          PORTAL_URL: ${{ secrets.PORTAL_URL }}
-          PORTAL_MAC: ${{ secrets.PORTAL_MAC }}
 
       - name: Run generator
         run: |
@@ -52,16 +54,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy Cloudflare Worker
-        if: ${{ secrets.CF_API_TOKEN && secrets.CF_ACCOUNT_ID }}
+        if: ${{ env.CF_API_TOKEN != '' && env.CF_ACCOUNT_ID != '' }}
         run: |
           npm install -g wrangler
-          # create a minimal wrangler.toml using the account id secret
-          cat > cloudflare_worker/wrangler.toml <<'EOF'
-          name = "mactoxtream-worker"
-          main = "index.js"
-          account_id = "${{ secrets.CF_ACCOUNT_ID }}"
-          EOF
+          # create a minimal wrangler.toml using the account id from env
+          cat > cloudflare_worker/wrangler.toml <<EOF
+name = "mactoxtream-worker"
+main = "index.js"
+account_id = "$CF_ACCOUNT_ID"
+EOF
           cd cloudflare_worker
           npx wrangler publish
-        env:
-          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
