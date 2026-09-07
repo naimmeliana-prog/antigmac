@@ -58,10 +58,9 @@ jobs:
         run: |
           npm install -g wrangler
           # create a minimal wrangler.toml using the account id from env
-          cat > cloudflare_worker/wrangler.toml <<EOF
-name = "mactoxtream-worker"
-main = "index.js"
-account_id = "$CF_ACCOUNT_ID"
-EOF
+          mkdir -p cloudflare_worker
+          echo 'name = "mactoxtream-worker"' > cloudflare_worker/wrangler.toml
+          echo 'main = "index.js"' >> cloudflare_worker/wrangler.toml
+          echo "account_id = \"$CF_ACCOUNT_ID\"" >> cloudflare_worker/wrangler.toml
           cd cloudflare_worker
           npx wrangler publish
