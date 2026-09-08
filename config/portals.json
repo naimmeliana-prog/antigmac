@@ -1,0 +1,125 @@
+{
+  "portals": [
+    {
+      "id": "portal1",
+      "name": "GreatOTT",
+      "enabled": true,
+      "url": "http://mag.greatott.me:80",
+      "portal_path": "/c/",
+      "mac": "00:1A:79:74:B1:B9",
+      "serial": "FFFFFFFF00000001",
+      "device_id": "00000000000000000000000000000001",
+      "device_id2": "00000000000000000000000000000001",
+      "signature": "00000000000000000000000000000001"
+    }
+  ],
+  "xtream_users": [
+    {
+      "username": "antigmac1",
+      "password": "antigpass1"
+    },
+    {
+      "username": "antigmac2",
+      "password": "antigpass2"
+    },
+    {
+      "username": "antigmac3",
+      "password": "antigpass3"
+    }
+  ],
+  "filters": {
+    "live_tv": {
+      "languages": ["es_spain", "fr_france", "en_uk"],
+      "include_keywords": {
+        "es_spain": [
+          "españa", "spain", "español", "es |", "| es", "[es]", "(es)",
+          "tvE", "antena 3", "telecinco", "cuatro", "la sexta", "rtve",
+          "canal sur", "canal 9", "tv3", "etb", "telemadrid", "aragón tv",
+          "castilla", "andalucía", "canarias", "baleares", "murcia",
+          "extremadura", "navarra", "rioja", "cantabria", "asturias",
+          "aragón", "galicia", "cataluña", "valenciana", "vasca"
+        ],
+        "fr_france": [
+          "france", "français", "fr |", "| fr", "[fr]", "(fr)",
+          "tf1", "france 2", "france 3", "france 4", "france 5",
+          "m6", "canal+", "bfm", "arte", "lci", "itele", "tmc",
+          "tfx", "tf1+", "france info", "franceinfo", "gulli",
+          "c8", "cnews", "cstar", "cherie 25", "numero 23"
+        ],
+        "en_uk": [
+          "uk |", "| uk", "[uk]", "(uk)", "united kingdom", "britain",
+          "bbc", "itv", "channel 4", "channel 5", "sky", "bt sport",
+          "dave", "gold", "alibi", "w channel", "yesterday", "really",
+          "quest", "more4", "film4", "e4", "4seven", "freeview",
+          "virgin", "great britain", "england", "scottish", "welsh"
+        ]
+      },
+      "exclude_keywords": {
+        "es_spain": [
+          "latino", "latin", "mexico", "argentina", "colombia", "chile",
+          "venezuela", "peru", "ecuador", "bolivia", "paraguay", "uruguay",
+          "cuba", "dominican", "honduras", "guatemala", "el salvador",
+          "nicaragua", "costa rica", "panama", "latina", "latam",
+          "sudamerica", "sudamérica", "america latina", "centroamerica"
+        ],
+        "fr_france": [
+          "canada", "québec", "quebec", "belgique", "belgium", "suisse",
+          "switzerland", "caraïbes", "caraibes", "caribbean", "afrique",
+          "africa", "maghreb", "maroc", "algerie", "algérie", "tunisie",
+          "sénégal", "senegal", "côte d'ivoire", "cameroun", "haïti", "haiti",
+          "guadeloupe", "martinique", "réunion", "reunion", "louisiane"
+        ],
+        "en_uk": [
+          "usa", "us |", "| us", "[us]", "(us)", "american", "america",
+          "canada", "canadian", "australia", "australian", "ireland",
+          "irish", "south africa", "new zealand", "india", "pakistan",
+          "bangla", "urdu", "hindi", "arabic", "nz |", "au |", "in |"
+        ]
+      }
+    },
+    "movies": {
+      "languages": ["es_spain", "fr_france"],
+      "include_keywords": {
+        "es_spain": [
+          "españa", "spain", "español", "es |", "| es", "[es]", "(es)"
+        ],
+        "fr_france": [
+          "france", "français", "fr |", "| fr", "[fr]", "(fr)"
+        ]
+      },
+      "exclude_keywords": {
+        "es_spain": [
+          "latino", "latin", "mexico", "argentina", "colombia", "chile",
+          "venezuela", "peru", "latam", "latinoamerica"
+        ],
+        "fr_france": [
+          "canada", "québec", "belgique", "suisse", "caraïbes", "afrique",
+          "maghreb", "maroc", "algerie", "tunisie"
+        ]
+      }
+    },
+    "series": {
+      "languages": ["es_spain"],
+      "include_keywords": {
+        "es_spain": [
+          "españa", "spain", "español", "es |", "| es", "[es]", "(es)"
+        ]
+      },
+      "exclude_keywords": {
+        "es_spain": [
+          "latino", "latin", "mexico", "argentina", "colombia", "chile",
+          "venezuela", "peru", "latam", "latinoamerica"
+        ]
+      }
+    }
+  },
+  "settings": {
+    "update_interval_hours": 6,
+    "request_timeout": 30,
+    "max_retries": 3,
+    "retry_delay": 5,
+    "page_size": 14,
+    "data_dir": "data",
+    "log_level": "INFO"
+  }
+}

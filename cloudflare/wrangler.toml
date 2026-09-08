@@ -1,0 +1,11 @@
+name = "antigmac"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Variables de entorno del Worker
+# Configura estas variables en el dashboard de Cloudflare
+# o mediante: wrangler secret put PORTAL_URL
+[vars]
+PORTAL_URL = "http://mag.greatott.me:80"
+GITHUB_REPO = "naimmeliana-prog/antigmac"
+GITHUB_BRANCH = "main"
