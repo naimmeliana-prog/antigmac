@@ -34,6 +34,9 @@ ES_SPAIN_INCLUDE = [
     r"neox\b", r"nova\b.*es", r"energia\b.*es", r"ten\b.*es", r"fdf\b",
     r"divinity\b", r"atreseries", r"cine\+", r"movistar\+", r"#0\b",
     r"disney\+\s*es", r"espanish", r"\[esp\]", r"\(esp\)",
+    # Plataformas OTT / VOD / Series
+    r"disney", r"netflix", r"hbo", r"amazon", r"prime", r"apple\s*tv", r"apple\+",
+    r"movistar", r"hulu", r"dazn", r"paramount\+", r"skyshowtime", r"pluto",
     # Regiones España
     r"madrid", r"barcelona", r"andalucia", r"andalucía", r"cataluña",
     r"valencia", r"galicia", r"asturias", r"cantabria", r"murcia",
@@ -351,13 +354,17 @@ class ContentFilter:
         return filtered
 
     def filter_series_categories(self, categories: List[Dict]) -> List[Dict]:
-        """Filtra categorías de Series (solo Español España)."""
+        """Filtra categorías de Series (solo Español España / plataformas sin exclusiones latino)."""
         filtered = []
         for cat in categories:
             name = cat.get("title", cat.get("name", ""))
-            if is_spain_spanish(name) and not _matches_any(_normalize(name), _ES_EXC):
-                cat["_lang"] = "es_spain"
-                filtered.append(cat)
+            norm = _normalize(name)
+            # Ignorar si es explícitamente contenido latino o de otras regiones
+            if _matches_any(norm, _ES_EXC) and not _matches_any(norm, _ES_INC):
+                continue
+
+            cat["_lang"] = "es_spain"
+            filtered.append(cat)
 
         logger.info(f"Categorías Series: {len(categories)} total → {len(filtered)} aceptadas")
         return filtered
