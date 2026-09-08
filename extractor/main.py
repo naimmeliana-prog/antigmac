@@ -144,6 +144,12 @@ def process_portal(
     raw_channels = client.get_all_live_channels_by_category(filtered_live_cats_raw)
     filtered_channels = content_filter.filter_live_channels(raw_channels, filtered_live_cats_raw)
     xtream_live_streams = builder.build_live_streams(filtered_channels, xtream_live_cats)
+    
+    # Eliminar categorías Live sin contenido
+    used_live_cat_ids = {str(s["category_id"]) for s in xtream_live_streams}
+    xtream_live_cats = [c for c in xtream_live_cats if str(c["category_id"]) in used_live_cat_ids]
+    
+    save_json(xtream_live_cats, portal_data_dir / "live_categories.json")
     save_json(xtream_live_streams, portal_data_dir / "live_streams.json")
     logger.info(f"  ✅ {len(xtream_live_cats)} categorías | {len(xtream_live_streams)} canales Live")
 
@@ -155,12 +161,17 @@ def process_portal(
     raw_vod_cats = client.get_vod_categories()
     filtered_vod_cats_raw = content_filter.filter_vod_categories(raw_vod_cats)
     xtream_vod_cats = builder.build_vod_categories(filtered_vod_cats_raw)
-    save_json(xtream_vod_cats, portal_data_dir / "vod_categories.json")
 
     logger.info(f"  Descargando películas de {len(filtered_vod_cats_raw)} categorías...")
     raw_movies = client.get_all_vod_by_category(filtered_vod_cats_raw)
     filtered_movies = content_filter.filter_movies(raw_movies, filtered_vod_cats_raw)
     xtream_vod_streams = builder.build_vod_streams(filtered_movies, xtream_vod_cats)
+
+    # Eliminar categorías VOD sin contenido
+    used_vod_cat_ids = {str(s["category_id"]) for s in xtream_vod_streams}
+    xtream_vod_cats = [c for c in xtream_vod_cats if str(c["category_id"]) in used_vod_cat_ids]
+
+    save_json(xtream_vod_cats, portal_data_dir / "vod_categories.json")
     save_json(xtream_vod_streams, portal_data_dir / "vod_streams.json")
     logger.info(f"  ✅ {len(xtream_vod_cats)} categorías | {len(xtream_vod_streams)} películas")
 
@@ -172,12 +183,17 @@ def process_portal(
     raw_series_cats = client.get_series_categories()
     filtered_series_cats_raw = content_filter.filter_series_categories(raw_series_cats)
     xtream_series_cats = builder.build_series_categories(filtered_series_cats_raw)
-    save_json(xtream_series_cats, portal_data_dir / "series_categories.json")
 
     logger.info(f"  Descargando series de {len(filtered_series_cats_raw)} categorías...")
     raw_series = client.get_all_series_by_category(filtered_series_cats_raw)
     filtered_series = content_filter.filter_series_list(raw_series, filtered_series_cats_raw)
     xtream_series_list = builder.build_series_list(filtered_series, xtream_series_cats)
+
+    # Eliminar categorías de Series sin contenido
+    used_series_cat_ids = {str(s["category_id"]) for s in xtream_series_list}
+    xtream_series_cats = [c for c in xtream_series_cats if str(c["category_id"]) in used_series_cat_ids]
+
+    save_json(xtream_series_cats, portal_data_dir / "series_categories.json")
     save_json(xtream_series_list, portal_data_dir / "series.json")
     logger.info(f"  ✅ {len(xtream_series_cats)} categorías | {len(xtream_series_list)} series")
 
