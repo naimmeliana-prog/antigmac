@@ -1,0 +1,14 @@
+logs/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.env
+.env.local
+*.log
+.node_modules/
+node_modules/
+.wrangler/
+.worker_url
