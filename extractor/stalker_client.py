@@ -457,8 +457,8 @@ class StalkerClient:
             total_items = int(js.get("total_items", len(all_episodes)))
             logger.debug(f"  Series {series_id} pág {page}: {len(data)} eps (total: {total_items})")
 
-            # Terminar si ya tenemos todos los episodios
-            if len(all_episodes) >= total_items:
+            # Terminar si ya tenemos todos los episodios o si la página actual vino con menos elementos del tamaño estándar (14)
+            if (total_items > 0 and len(all_episodes) >= total_items) or len(data) < 14:
                 break
             page += 1
 
