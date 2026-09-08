@@ -342,6 +342,7 @@ class StalkerClient:
             cat_id = str(cat.get("id", "*"))
             cat_name = cat.get("title", "")
             page = 0
+            cat_count = 0  # ← contador POR CATEGORÍA (no acumulado)
 
             logger.info(f"  → Categoría VOD: '{cat_name}'")
             while True:
@@ -356,10 +357,15 @@ class StalkerClient:
                         movie["_category_id"] = cat_id
                         movie["_category_name"] = cat_name
                         all_movies.append(movie)
+                        cat_count += 1
 
-                if len(all_movies) >= total or not movies:
-                    break
                 page += 1
+                # Parar si ya tenemos todos los items de esta categoría
+                if total > 0 and cat_count >= total:
+                    break
+                # Parar si la página vino vacía (sin más datos)
+                if not movies:
+                    break
 
         logger.info(f"  → {len(all_movies)} películas VOD totales")
         return all_movies
@@ -414,23 +420,61 @@ class StalkerClient:
     def get_series_info(self, series_id: str) -> Optional[Dict]:
         """
         Obtiene información detallada de una serie: temporadas y episodios.
+        Pagina todas las páginas disponibles para obtener TODOS los episodios.
         """
+        all_episodes = []
+        page = 0
+        total_items = 0
+
+        while True:
+            params = {
+                "type": "series",
+                "action": "get_ordered_list",
+                "movie_id": series_id,
+                "season_id": "0",
+                "episode_id": "0",
+                "p": str(page),
+                "JsHttpRequest": "1-xml",
+            }
+            result = self._request(params)
+            if not result or "js" not in result:
+                break
+
+            js = result["js"]
+            if not isinstance(js, dict):
+                break
+
+            data = js.get("data", [])
+
+            # Si "data" no es lista, devolver el dict directamente (formato no paginado)
+            if not isinstance(data, list):
+                return js
+
+            if not data:
+                break
+
+            all_episodes.extend(data)
+            total_items = int(js.get("total_items", len(all_episodes)))
+            logger.debug(f"  Series {series_id} pág {page}: {len(data)} eps (total: {total_items})")
+
+            # Terminar si ya tenemos todos los episodios
+            if len(all_episodes) >= total_items:
+                break
+            page += 1
+
+        if all_episodes:
+            return {"data": all_episodes, "total_items": len(all_episodes)}
+
+        # Fallback via VOD
         params = {
-            "type": "series",
+            "type": "vod",
             "action": "get_ordered_list",
             "movie_id": series_id,
             "season_id": "0",
             "episode_id": "0",
+            "p": "0",
             "JsHttpRequest": "1-xml",
         }
-        result = self._request(params)
-        if result and "js" in result:
-            js = result["js"]
-            if isinstance(js, dict):
-                return js
-
-        # Fallback via VOD
-        params["type"] = "vod"
         result = self._request(params)
         if result and "js" in result:
             return result["js"]
@@ -446,6 +490,7 @@ class StalkerClient:
             cat_id = str(cat.get("id", "*"))
             cat_name = cat.get("title", "")
             page = 0
+            cat_count = 0  # ← contador POR CATEGORÍA
 
             logger.info(f"  → Categoría Series: '{cat_name}'")
             while True:
@@ -460,10 +505,13 @@ class StalkerClient:
                         serie["_category_id"] = cat_id
                         serie["_category_name"] = cat_name
                         all_series.append(serie)
+                        cat_count += 1
 
-                if len(all_series) >= total or not series_list:
-                    break
                 page += 1
+                if total > 0 and cat_count >= total:
+                    break
+                if not series_list:
+                    break
 
         logger.info(f"  → {len(all_series)} series totales")
         return all_series
