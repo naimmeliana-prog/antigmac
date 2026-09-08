@@ -251,22 +251,31 @@ async function stalkerCreateLink(portalUrl, mac, cmd, isLive = false) {
 }
 
 /**
- * Resuelve la URL final de un stream:
- * 1. Intenta create_link dinámicamente en el portal.
- * 2. Si falla, limpia el cmd almacenado y lo usa directamente.
+ * Resuelve la URL final de un stream.
+ * Los _stalker_cmd ya vienen limpios (sin prefijo ffrt) desde el extractor Python.
+ * 1. Si el cmd ya es una URL completa (http/https/rtmp) → redirigir directamente.
+ * 2. Si es una ruta relativa → intentar create_link dinámico en el portal.
+ * 3. Fallback: construir URL combinando portalUrl + path.
  */
 async function resolveStreamUrl(stalkerCmd, env, isLive = false) {
   if (!stalkerCmd) return null;
   const portalUrl = (env?.PORTAL_URL || "http://mag.greatott.me:80").replace(/\/$/, "");
   const mac = env?.PORTAL_MAC || "00:1A:79:74:B1:B9";
 
-  // Primero intentar create_link dinámico
+  // Paso 1: si ya es una URL completa, usarla directamente (caso más común)
+  const cleaned = cleanStalkerCmd(stalkerCmd);
+  if (cleaned && (cleaned.startsWith("http://") || cleaned.startsWith("https://") || cleaned.startsWith("rtmp://"))) {
+    return cleaned;
+  }
+
+  // Paso 2: intentar create_link dinámico (para paths relativos o cmd sin limpiar)
   const dynamic = await stalkerCreateLink(portalUrl, mac, stalkerCmd, isLive);
   if (dynamic) return dynamic;
 
-  // Fallback: limpiar el cmd almacenado y usarlo directamente
+  // Paso 3: construir URL combinando portal + path relativo
   return resolveRawUrl(stalkerCmd, portalUrl);
 }
+
 
 // ─────────────────────────────────────────────────────────────────────────────
 // GENERADOR M3U
