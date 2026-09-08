@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-10",
+"episode_count": 1,
+"id": 173645774,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP5zuQvWAFrgWptS0iXvDI3iND.jpg"
+}
+],
+"info": {
+"name": "ES - Teacup (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP5zuQvWAFrgWptS0iXvDI3iND.jpg",
+"plot": "",
+"cast": "",
+"director": "Ian McCulloch",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867940",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1949929358",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-10",
+"plot": "Un variopinto grupo de personas de la Georgia rural deben unirse ante una misteriosa amenaza para sobrevivir. A medida que van descubriendo la verdad sobre varios sucesos inexplicables, deberán hacer frente a problemas del pasado y resentimientos mutuos, viéndose forzados a aceptar la dura realidad y unirse por el bien de su localidad, o todos ellos acabarán aniquilados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867940",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Njk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38697:1"
+}
+]
+}
+}

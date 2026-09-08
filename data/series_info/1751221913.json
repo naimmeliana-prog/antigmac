@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-15",
+"episode_count": 1,
+"id": 1365160030,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG0jRHUoyZ2bwsnjfoyXx6mpHoB.jpg"
+}
+],
+"info": {
+"name": "ES - Agatha Christie: Las siete esferas (2026) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG0jRHUoyZ2bwsnjfoyXx6mpHoB.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Chibnall",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867997",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "525745023",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-15",
+"plot": "En esta adaptación de la novela de Agatha Christie, una joven aristócrata se vuelca en resolver el misterioso asesinato que remata una fiesta de lujo en su casa de campo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867997",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47547:1"
+}
+]
+}
+}

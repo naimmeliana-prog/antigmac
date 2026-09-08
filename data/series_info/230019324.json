@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-05",
+"episode_count": 1,
+"id": 997706976,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/dr0YytV1UdjRCi4PKNcQTfRIdgy.jpg"
+}
+],
+"info": {
+"name": "ES - Chorus Girls",
+"cover": "https://image.tmdb.org/t/p/w154/dr0YytV1UdjRCi4PKNcQTfRIdgy.jpg",
+"plot": "",
+"cast": "",
+"director": "Louise Mieritz, Ditte Hansen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867888",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1051444461",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-05",
+"plot": "Serie de TV (2023). 8 episodios. Ocho jóvenes bailarinas intentan sobrevivir en un lugar de trabajo sexista a mediados de los años 70. Durante un verano lleno de acontecimientos, las chicas intentarán encontrar fuerza en la unión y el coraje para resistir y poder cambiar las circunstancias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867888",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30162:1"
+}
+]
+}
+}

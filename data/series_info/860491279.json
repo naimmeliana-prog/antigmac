@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2003-09-07",
+"episode_count": 5,
+"id": 962397551,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj3sVi1fJFKJPSPPCJC94yvEDQy.jpg"
+}
+],
+"info": {
+"name": "ES - Aqui no hay quien viva (2003)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj3sVi1fJFKJPSPPCJC94yvEDQy.jpg",
+"plot": "",
+"cast": "",
+"director": "Alberto Caballero, Laura Caballero, Iñaki Ariztimuño",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867987",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1289985245",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-09-07",
+"plot": "Roberto y Lucía están felices por mudarse al nuevo piso, pero desconocen la comunidad de vecinos que les espera. En la calle Desengaño, convivirán con sus vecinos un tanto peculiares. Por un lado, Marisa, Vicenta y Concha, tres jubiladas cotillas. Alicia y Belén, jóvenes desempleadas. El presidente y su familia. Una pareja gay del 1ºB. Y por otro lado, el portero que todo el día se queja.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867987",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg1LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35285:5"
+},
+{
+"id": "395192605",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-09-07",
+"plot": "Roberto y Lucía están felices por mudarse al nuevo piso, pero desconocen la comunidad de vecinos que les espera. En la calle Desengaño, convivirán con sus vecinos un tanto peculiares. Por un lado, Marisa, Vicenta y Concha, tres jubiladas cotillas. Alicia y Belén, jóvenes desempleadas. El presidente y su familia. Una pareja gay del 1ºB. Y por otro lado, el portero que todo el día se queja.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867987",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35285:4"
+},
+{
+"id": "396682233",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-09-07",
+"plot": "Roberto y Lucía están felices por mudarse al nuevo piso, pero desconocen la comunidad de vecinos que les espera. En la calle Desengaño, convivirán con sus vecinos un tanto peculiares. Por un lado, Marisa, Vicenta y Concha, tres jubiladas cotillas. Alicia y Belén, jóvenes desempleadas. El presidente y su familia. Una pareja gay del 1ºB. Y por otro lado, el portero que todo el día se queja.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867987",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35285:3"
+},
+{
+"id": "204057731",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-09-07",
+"plot": "Roberto y Lucía están felices por mudarse al nuevo piso, pero desconocen la comunidad de vecinos que les espera. En la calle Desengaño, convivirán con sus vecinos un tanto peculiares. Por un lado, Marisa, Vicenta y Concha, tres jubiladas cotillas. Alicia y Belén, jóvenes desempleadas. El presidente y su familia. Una pareja gay del 1ºB. Y por otro lado, el portero que todo el día se queja.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867987",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35285:2"
+},
+{
+"id": "730418913",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-09-07",
+"plot": "Roberto y Lucía están felices por mudarse al nuevo piso, pero desconocen la comunidad de vecinos que les espera. En la calle Desengaño, convivirán con sus vecinos un tanto peculiares. Por un lado, Marisa, Vicenta y Concha, tres jubiladas cotillas. Alicia y Belén, jóvenes desempleadas. El presidente y su familia. Una pareja gay del 1ºB. Y por otro lado, el portero que todo el día se queja.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867987",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35285:1"
+}
+]
+}
+}

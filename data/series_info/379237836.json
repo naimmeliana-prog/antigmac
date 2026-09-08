@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-01-10",
+"episode_count": 3,
+"id": 1955867896,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW7h1dmGknSBbkviwGFJoWkga7B.jpg"
+}
+],
+"info": {
+"name": "ES - Einstein",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW7h1dmGknSBbkviwGFJoWkga7B.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867895",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "826979856",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-01-10",
+"plot": "Felix es un genio treintañero de la física al igual que su bisabuelo, Albert Einstein. Pero también padece una enfermedad hereditaria que probablemente acabará con su vida antes de cumplir los 40. Su consumo de drogas le mete en líos con la policía, lo que le obliga a ayudarles con los casos más difíciles para no acabar entre rejas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867895",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg4NzAsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8870:3"
+},
+{
+"id": "763325332",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-01-10",
+"plot": "Felix es un genio treintañero de la física al igual que su bisabuelo, Albert Einstein. Pero también padece una enfermedad hereditaria que probablemente acabará con su vida antes de cumplir los 40. Su consumo de drogas le mete en líos con la policía, lo que le obliga a ayudarles con los casos más difíciles para no acabar entre rejas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867895",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg4NzAsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8870:2"
+},
+{
+"id": "1300725680",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-01-10",
+"plot": "Felix es un genio treintañero de la física al igual que su bisabuelo, Albert Einstein. Pero también padece una enfermedad hereditaria que probablemente acabará con su vida antes de cumplir los 40. Su consumo de drogas le mete en líos con la policía, lo que le obliga a ayudarles con los casos más difíciles para no acabar entre rejas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867895",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg4NzAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8870:1"
+}
+]
+}
+}

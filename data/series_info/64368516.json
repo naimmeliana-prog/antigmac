@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2013-10-03",
+"episode_count": 5,
+"id": 67306887,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/skerTaHjg2cJhxrxybCcVE7Pgcf.jpg"
+}
+],
+"info": {
+"name": "ES - Los originales (2013)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/skerTaHjg2cJhxrxybCcVE7Pgcf.jpg",
+"plot": "",
+"cast": "",
+"director": "Julie Plec",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867915",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1727635358",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-10-03",
+"plot": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867915",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjA3LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38207:5"
+},
+{
+"id": "454501681",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-10-03",
+"plot": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867915",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjA3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38207:4"
+},
+{
+"id": "519070114",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-10-03",
+"plot": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867915",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjA3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38207:3"
+},
+{
+"id": "1184318225",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-10-03",
+"plot": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867915",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38207:1"
+},
+{
+"id": "46695218",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-10-03",
+"plot": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867915",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjA3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38207:2"
+}
+]
+}
+}

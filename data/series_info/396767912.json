@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-25",
+"episode_count": 1,
+"id": 1788555195,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC8iJtw14sEcwEgJJtX8htBvRgb.jpg"
+}
+],
+"info": {
+"name": "ES - Reykjavík Fusion (2025) (IS)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC8iJtw14sEcwEgJJtX8htBvRgb.jpg",
+"plot": "",
+"cast": "",
+"director": "Gunnar Páll Ólafsson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867931",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1390668164",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-25",
+"plot": "Jónas (Ólafur Darri Ólafsson) es un chef de gran talento que sale de prisión tras ser acusado de incendiar su antiguo restaurante. Decidido a reconstruir su vida, lucha por recuperar la custodia de sus hijos y el respeto de su ex mujer, a quien aún ama. Pero el mundo exterior no se lo pone fácil: rechazado por la sociedad y sin oportunidades laborales, se ve obligado a aceptar dinero ilícito de un antiguo compañero de celda para abrir un nuevo restaurante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867931",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2OTk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46996:1"
+}
+]
+}
+}

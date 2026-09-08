@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2012-01-22",
+"episode_count": 2,
+"id": 1252036756,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/alG1Z8LtLoX8hKo9dWBnwPYiiG3.jpg"
+}
+],
+"info": {
+"name": "ES - Real Humans",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/alG1Z8LtLoX8hKo9dWBnwPYiiG3.jpg",
+"plot": "",
+"cast": "",
+"director": "Lars Lundström",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867929",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "694528229",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-01-22",
+"plot": "La serie está ambientada en un presente alternativo en el que los robots de compañía son habituales. Se presentan los clásicos dilemas éticos sobre identidad, humanidad, derechos, etc... Ciencia ficción clásica al estilo de las novelas de Asimov actualizada a nuestros días.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867929",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwOTgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9098:2"
+},
+{
+"id": "773855791",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-01-22",
+"plot": "La serie está ambientada en un presente alternativo en el que los robots de compañía son habituales. Se presentan los clásicos dilemas éticos sobre identidad, humanidad, derechos, etc... Ciencia ficción clásica al estilo de las novelas de Asimov actualizada a nuestros días.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867929",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwOTgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9098:1"
+}
+]
+}
+}

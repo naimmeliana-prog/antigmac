@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2013-03-10",
+"episode_count": 3,
+"id": 101843717,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg"
+}
+],
+"info": {
+"name": "ES - Shetland (2013)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+"plot": "",
+"cast": "",
+"director": "Ann Cleeves",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867935",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1532110473",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-03-10",
+"plot": "Miniserie dramática de corte policial en la que un detective regresa a su pueblo natal tras varios años de ausencia. Las islas Shetland son el hogar natal del detective Jimmy Perez (Douglas Henshall, 'The Kidnap Diaries', 'The Silence'), pero lo dejó atrás para iniciar su carrera como investigador. Ahora, años después, ha regresado a casa dispuesto a defender a sus compatriotas y vecinos de cualquier mal que amenace la tranquila vida de las islas. Por ello, cuando un joven arqueólogo encuentra algunos huesos humanos que evidencian muertas violentas y una mujer es asesinada de un disparo, Jimmy y su equipo deciden encontrar a los responsables a como dé lugar. De esta forma se ve atrapado entre dos importantes familias marcadas por el odio, la envidia y la traición, y cuyo enfrentamiento a dividido a los tranquilos habitantes de las Shetland",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjI1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35225:3"
+},
+{
+"id": "1010735738",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-03-10",
+"plot": "Miniserie dramática de corte policial en la que un detective regresa a su pueblo natal tras varios años de ausencia. Las islas Shetland son el hogar natal del detective Jimmy Perez (Douglas Henshall, 'The Kidnap Diaries', 'The Silence'), pero lo dejó atrás para iniciar su carrera como investigador. Ahora, años después, ha regresado a casa dispuesto a defender a sus compatriotas y vecinos de cualquier mal que amenace la tranquila vida de las islas. Por ello, cuando un joven arqueólogo encuentra algunos huesos humanos que evidencian muertas violentas y una mujer es asesinada de un disparo, Jimmy y su equipo deciden encontrar a los responsables a como dé lugar. De esta forma se ve atrapado entre dos importantes familias marcadas por el odio, la envidia y la traición, y cuyo enfrentamiento a dividido a los tranquilos habitantes de las Shetland",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjI1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35225:2"
+},
+{
+"id": "205372054",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-03-10",
+"plot": "Miniserie dramática de corte policial en la que un detective regresa a su pueblo natal tras varios años de ausencia. Las islas Shetland son el hogar natal del detective Jimmy Perez (Douglas Henshall, 'The Kidnap Diaries', 'The Silence'), pero lo dejó atrás para iniciar su carrera como investigador. Ahora, años después, ha regresado a casa dispuesto a defender a sus compatriotas y vecinos de cualquier mal que amenace la tranquila vida de las islas. Por ello, cuando un joven arqueólogo encuentra algunos huesos humanos que evidencian muertas violentas y una mujer es asesinada de un disparo, Jimmy y su equipo deciden encontrar a los responsables a como dé lugar. De esta forma se ve atrapado entre dos importantes familias marcadas por el odio, la envidia y la traición, y cuyo enfrentamiento a dividido a los tranquilos habitantes de las Shetland",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35225:1"
+}
+]
+}
+}

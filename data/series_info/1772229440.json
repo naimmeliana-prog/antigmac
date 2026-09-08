@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-30",
+"episode_count": 1,
+"id": 9393280,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kczUA9Sbcjx2bIJoZqMFQLXl705.jpg"
+}
+],
+"info": {
+"name": "ES - Irreverent",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kczUA9Sbcjx2bIJoZqMFQLXl705.jpg",
+"plot": "",
+"cast": "",
+"director": "Paddy Macrae",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867906",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "938571971",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-30",
+"plot": "Después de un atraco fallido, un mediador criminal huye de Chicago y se esconde en una pequeña comunidad de arrecifes de Australia, donde se hace pasar por el nuevo reverendo de la iglesia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867906",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34236:1"
+}
+]
+}
+}

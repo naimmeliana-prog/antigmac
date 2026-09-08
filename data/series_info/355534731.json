@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-10-14",
+"episode_count": 1,
+"id": 459000616,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg"
+}
+],
+"info": {
+"name": "ES - Amor eterno (2015)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg",
+"plot": "",
+"cast": "",
+"director": "Hilal Saral",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868041",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "917500476",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-10-14",
+"plot": "Kemal Soydere (Burak Özçivit) es hijo de una familia de clase media. En su último año en ingeniería de minas, una chica llamada Nihan Sezin (Neslihan Atagül) entra en su monótona vida. El amor parece imposible por la diferencia de clases entre ellos, pero se las arreglan para estar juntos. Hasta que un día, Kemal tiene que mudarse a Zoguldak para trabajar en una mina, dejando a Nihan en Estambul. Desconoce que su novia se casará obligada con Emir Kozcuoglu (Kaan Urgancioglu), un hombre enamorado de ella desde que eran niños. Kemal se aísla en su trabajo y pasan cinco años, hasta que un accidente en la mina hace que tome la decisión de regresar a Estambul para afrontar su pasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868041",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35530:1"
+}
+]
+}
+}

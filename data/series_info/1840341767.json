@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-09",
+"episode_count": 1,
+"id": 1993973853,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57tccw2UNqgTPxK8fScYTQ1SLrS.jpg"
+}
+],
+"info": {
+"name": "ES - BNA (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57tccw2UNqgTPxK8fScYTQ1SLrS.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868016",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "278205726",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-09",
+"plot": "Transformada en una animana mapache, la joven Michiru busca refugio y respuestas dentro de la zona especial de Anima City con la ayuda del animano lobo Shirou.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868016",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43515:1"
+}
+]
+}
+}

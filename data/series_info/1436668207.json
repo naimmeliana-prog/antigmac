@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-01",
+"episode_count": 1,
+"id": 489245752,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Vld3m911sM9pJF6OI6vgovbS9j.jpg"
+}
+],
+"info": {
+"name": "ES - Huset",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Vld3m911sM9pJF6OI6vgovbS9j.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Fupz Aakeson, Michael Noer, Frederik Louis Hviid",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867906",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "292645190",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-01",
+"plot": "Sammi, Henrik, Miriam y Gert son funcionarios de prisiones y colegas en una antigua y deteriorada prisión danesa. Su ambiente de trabajo es crudo y hostil, y sus respectivas vidas fuera de los muros de la prisión están llenas de conflictos, secretos y soledad por razones muy diferentes. Secretos que pronto resurgirán y tendrán grandes consecuencias no sólo para los cuatro prisioneros, sino para todos los que están dentro y fuera de los muros.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867906",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNTM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33538:1"
+}
+]
+}
+}

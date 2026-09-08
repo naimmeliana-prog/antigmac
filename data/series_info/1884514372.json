@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-10-16",
+"episode_count": 1,
+"id": 1046955731,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGSWzX6i9nXiDpt5O9desGk1MMW.jpg"
+}
+],
+"info": {
+"name": "ES - Antidisturbios",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGSWzX6i9nXiDpt5O9desGk1MMW.jpg",
+"plot": "",
+"cast": "",
+"director": "Rodrigo Sorogoyen, Isabel Peña",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867976",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "852452267",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-10-16",
+"plot": "Seis antidisturbios ejecutan un desahucio en el centro de Madrid que se complica y un hombre acaba muriendo. Un equipo de Asuntos Internos será el encargado de investigar los hechos y los seis antidisturbios se enfrentan a una acusación de homicidio imprudente. El grupo de agentes busca una salida por su cuenta que acaba separándolos y, finalmente, complicando aún más la situación. Laia, una de las agentes de Asuntos Internos, se obsesiona con el caso y acaba descubriendo que, tras ese desahucio malogrado, hay mucho más.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867976",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Mjk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34296:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-02-11",
+"episode_count": 1,
+"id": 223529482,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg"
+}
+],
+"info": {
+"name": "ES - Clarice (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg",
+"plot": "",
+"cast": "",
+"director": "Alex Kurtzman, Jenny Lumet",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867888",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1091759549",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-11",
+"plot": "Ambientada un año después de los acontecimientos de “El silencio de los corderos”, “Clarice” se sumerge en la historia de Clarice Starling cuando vuelve a perseguir a asesinos y a depredadores sexuales, a la vez que entra en el mundo de la política.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867888",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MjI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25226:1"
+}
+]
+}
+}

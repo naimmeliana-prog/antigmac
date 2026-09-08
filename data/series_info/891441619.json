@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2009-10-06",
+"episode_count": 1,
+"id": 427580567,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1CdZEUcnVYypLOp8cfb7W9mSp2.jpg"
+}
+],
+"info": {
+"name": "ES - 30 for 30 (2009)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1CdZEUcnVYypLOp8cfb7W9mSp2.jpg",
+"plot": "",
+"cast": "",
+"director": "Connor Schell, Bill Simmons, John Dahl",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868036",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "211014555",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-10-06",
+"plot": "30 for 30 es el título de una serie de documentales que se transmiten por ESPN, sus cadenas hermanas y en línea que destacan personas y eventos interesantes en la historia del deporte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868036",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37080:1"
+}
+]
+}
+}

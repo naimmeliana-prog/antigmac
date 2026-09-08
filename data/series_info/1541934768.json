@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-12",
+"episode_count": 1,
+"id": 233699350,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wt3XtZ9CgCf484HWbpm10Adu1te.jpg"
+}
+],
+"info": {
+"name": "ES - El caso Cenicienta (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wt3XtZ9CgCf484HWbpm10Adu1te.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867897",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "114688257",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-12",
+"plot": "Miniserie de TV. 8 Episodios. Segunda parte de la miniserie 'El jurado' (2019) y sigue la historia de un jurado popular que tiene que dictar el veredicto en un caso complejo. Anton Bergman y su hija Julie son acusados de asesinar a Marianne Coens, la pareja de Anton y madrastra de Julie. Sin embargo, nada es lo que parece. Para la resolución del caso, doce personas son llamadas a formar parte de un jurado popular. La serie muestra el contexto que acompaña a cada uno de los miembros y cómo influyen sus circunstancias personales en la decisión que tendrán que tomar durante el juicio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867897",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35030:1"
+}
+]
+}
+}

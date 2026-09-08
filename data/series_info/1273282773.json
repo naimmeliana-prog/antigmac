@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-20",
+"episode_count": 4,
+"id": 1387465024,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VpSUU8xMeh7U9FjuMUBFH0xDfI.jpg"
+}
+],
+"info": {
+"name": "ES - From (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VpSUU8xMeh7U9FjuMUBFH0xDfI.jpg",
+"plot": "",
+"cast": "",
+"director": "John Griffin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867903",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "534037474",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-20",
+"plot": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867903",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODU2LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37856:4"
+},
+{
+"id": "1708471264",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-20",
+"plot": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867903",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37856:1"
+},
+{
+"id": "558241324",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-20",
+"plot": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867903",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODU2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37856:3"
+},
+{
+"id": "327798357",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-20",
+"plot": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867903",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODU2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37856:2"
+}
+]
+}
+}

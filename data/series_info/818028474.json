@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-15",
+"episode_count": 1,
+"id": 1486104329,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhUx6JOPWOXmfdR4fjKr8tL7cZh.jpg"
+}
+],
+"info": {
+"name": "ES - Alaska revelada (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhUx6JOPWOXmfdR4fjKr8tL7cZh.jpg",
+"plot": "",
+"cast": "",
+"director": "Paula de Soto Barrio",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868039",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1473764217",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-15",
+"plot": "‘Alaska revelada’ es un acercamiento a la vida personal y profesional de la artista desde un lugar de intimidad hasta ahora desconocido. La metamorfosis de un icono pop que no ha dejado de reinventarse a lo largo de las diferentes etapas de su vida.\r\n\r\nSiempre defensora de transformar su cuerpo para construir también su interior, en ‘Salud’ exploramos cómo ha sido el viaje desde muy niña para alcanzar una transformación física y espiritual. En ‘Dinero’ recorremos la amplísima vida profesional de Alaska, llena de puntos álgidos de fama y dinero, así como de ruinas económicas absolutas. En ‘Amor’ vertebramos las relaciones de Olvido con el otro. La figura de su padre, la relación con su exmánager Pito Cubillas, su gran amistad con Nacho Canut y el gran amor de su vida, Mario Vaquerizo.\r\n\r\nUna serie documental articulada como un bolero a lo largo de tres conceptos que definen toda vida humana: salud, dinero y amor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868039",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38895:1"
+}
+]
+}
+}

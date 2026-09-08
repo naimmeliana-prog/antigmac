@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-07",
+"episode_count": 1,
+"id": 993500059,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvEkr0zhe4DKdgf2ylcwFxyEFok.jpg"
+}
+],
+"info": {
+"name": "ES - Moonhaven - (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvEkr0zhe4DKdgf2ylcwFxyEFok.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Ocko",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867919",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "530577086",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-07",
+"plot": "180 años en el futuro, Bella Sway, piloto de un carguero lunar y contrabandista, es acusada de un crimen y enviada a Moonhaven, una comunidad utópica construida en la Luna y encargada de encontrar soluciones a los problemas que pronto acabarán con la civilización en la Madre Tierra.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867919",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5NTQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19549:1"
+}
+]
+}
+}

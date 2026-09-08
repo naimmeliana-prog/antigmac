@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-03-01",
+"episode_count": 2,
+"id": 1582496994,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/93ndcYbNv1cNicKjp9512TXi0NX.jpg"
+}
+],
+"info": {
+"name": "ES - Bad Banks",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/93ndcYbNv1cNicKjp9512TXi0NX.jpg",
+"plot": "",
+"cast": "",
+"director": "Christian Schwochow",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867881",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1677834008",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-01",
+"plot": "La ambiciosa Jana se enfrenta a las maquinaciones inescrupulosas del mundo de las finanzas. Su vida laboral está determinada por el egoísmo, la presión para triunfar y el machismo. Pronto tendrá que decidir hasta dónde está preparada para su carrera.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867881",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDIxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34421:2"
+},
+{
+"id": "1011696953",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-01",
+"plot": "La ambiciosa Jana se enfrenta a las maquinaciones inescrupulosas del mundo de las finanzas. Su vida laboral está determinada por el egoísmo, la presión para triunfar y el machismo. Pronto tendrá que decidir hasta dónde está preparada para su carrera.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867881",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34421:1"
+}
+]
+}
+}

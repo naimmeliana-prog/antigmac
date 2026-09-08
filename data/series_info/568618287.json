@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-19",
+"episode_count": 1,
+"id": 1892236890,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN4x0pgxKD0cWayIfySPhsopXIp.jpg"
+}
+],
+"info": {
+"name": "ES - Una buena familia americana (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN4x0pgxKD0cWayIfySPhsopXIp.jpg",
+"plot": "",
+"cast": "",
+"director": "Katie Robbins",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867964",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "567820884",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-19",
+"plot": "Esta serie dramática, contada desde varios puntos de vista para tratar de plasmar todas las perspectivas, prejuicios y traumas, está inspirada por la inquietante historia de una pareja del Medio Oeste estadounidense que adopta a una niña con un tipo de enanismo raro. Sin embargo, conforme va creciendo junto a sus hijos biológicos, van aflorando misterios sobre ella y su historia, y empiezan a sospechar poco a poco que quizá no es quien dice ser.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867964",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42399:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-27",
+"episode_count": 1,
+"id": 1973898070,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rV1owsdKtXytJ5eFMOOVTze3mrk.jpg"
+}
+],
+"info": {
+"name": "ES - Blossoms Shanghai (2023) (CN)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rV1owsdKtXytJ5eFMOOVTze3mrk.jpg",
+"plot": "",
+"cast": "",
+"director": "王家衛",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867884",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1125504026",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-27",
+"plot": "Con el telón de fondo del crecimiento económico masivo de la década de 1990, la historia sigue a A Bao, un millonario hecho a sí mismo y su viaje desde ser un joven oportunista con un pasado turbulento hasta acumular una riqueza deslumbrante en la ciudad de Shanghai.  También sigue su enredo con cuatro mujeres que representan los objetivos de su vida: aventura, honor, amor e inocencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867884",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44350:1"
+}
+]
+}
+}

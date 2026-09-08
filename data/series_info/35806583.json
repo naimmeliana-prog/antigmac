@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-24",
+"episode_count": 1,
+"id": 792812654,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubYG6zVmZmJ1DgQzIefcIcRD7Ja.jpg"
+}
+],
+"info": {
+"name": "ES - Rey y conquistador (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubYG6zVmZmJ1DgQzIefcIcRD7Ja.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Robert Johnson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867931",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1232240795",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-24",
+"plot": "Guillermo de Normandía y Harold de Wessex estaban destinados a encontrarse en la batalla de Hastings en 1066. Eran aliados pero no tenían derecho a la monarquía británica, y el destino los enfrentó por la corona del país.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867931",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0OTI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44924:1"
+}
+]
+}
+}

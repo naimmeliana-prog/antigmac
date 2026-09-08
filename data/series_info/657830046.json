@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-01",
+"episode_count": 1,
+"id": 1854379031,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnSofbokGtgYJJ2jzL5s9RwHdwk.jpg"
+}
+],
+"info": {
+"name": "ES - Detective Touré (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnSofbokGtgYJJ2jzL5s9RwHdwk.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlos Vila, David Pérez Sañudo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867892",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "255275596",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-01",
+"plot": "Touré, un inmigrante guineano asentado en Bilbao, se gana la vida como improvisado detective de poca monta. Su pericia, intuición y particular sentido del humor le hacen ganarse la confianza de la Ertzaintza y le sumergen en una compleja investigación en la que se enfrentará a múltiples peligros: conocerá de cerca la corrupción inmobiliaria, los tejemanejes del conflictivo barrio de San Francisco e incluso se topará con la mafia nigeriana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867892",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Mzc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38378:1"
+}
+]
+}
+}

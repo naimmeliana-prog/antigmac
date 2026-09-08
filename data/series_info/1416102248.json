@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-08",
+"episode_count": 2,
+"id": 236057796,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPO6rruv6ZmSn5VXYv2M0IqKrNs.jpg"
+}
+],
+"info": {
+"name": "ES - Patience (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPO6rruv6ZmSn5VXYv2M0IqKrNs.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Baker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867926",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "381741187",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-08",
+"plot": "Una archivista autista con talento, se adentra en un mundo impredecible cuando la detective Bea descubre sus singulares habilidades para resolver crímenes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867926",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzY3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44367:2"
+},
+{
+"id": "146280287",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-08",
+"plot": "Una archivista autista con talento, se adentra en un mundo impredecible cuando la detective Bea descubre sus singulares habilidades para resolver crímenes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867926",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44367:1"
+}
+]
+}
+}

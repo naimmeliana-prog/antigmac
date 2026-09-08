@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-03",
+"episode_count": 1,
+"id": 1846312368,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxNHWDWYaVUy7MgnK2DB6JjCAGE.jpg"
+}
+],
+"info": {
+"name": "ES - Lost Boys and Fairies (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxNHWDWYaVUy7MgnK2DB6JjCAGE.jpg",
+"plot": "",
+"cast": "",
+"director": "Daf James",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867916",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1009999995",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-03",
+"plot": "Drama divertido y conmovedor que explora la crianza de los hijos a través de la perspectiva de la adopción gay.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867916",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36749:1"
+}
+]
+}
+}

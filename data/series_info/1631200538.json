@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-29",
+"episode_count": 1,
+"id": 1892306574,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5qggsccaLeBz3n2Fjfp39WR1B.jpg"
+}
+],
+"info": {
+"name": "ES - Después de la fiesta (2023) (NZ)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5qggsccaLeBz3n2Fjfp39WR1B.jpg",
+"plot": "",
+"cast": "",
+"director": "Dianne Taylor, Robyn Malcolm",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867891",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "947388602",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-29",
+"plot": "Penny lo pierde todo cuando acusa a su marido de un delito sexual contra la amiga adolescente de su hija y nadie la cree.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867891",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0Mzk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44394:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-01",
+"episode_count": 1,
+"id": 172379010,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W6z0r3CsN4P5Ra7AWCLQtCU7D8.jpg"
+}
+],
+"info": {
+"name": "ES - Boiling Point (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W6z0r3CsN4P5Ra7AWCLQtCU7D8.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Graham, Philip Barantini, James Cummings",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867885",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1569556702",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-01",
+"plot": "Ocho meses después de que su mentor Andy Jones sufriera un ataque cardíaco, la jefa de cocina Carly está luchando por forjar un nombre para el nuevo restaurante londinense Point North junto con su antiguo equipo de cocina. Con la presión de atraer nuevos clientes hambrientos y la restricción financiera para mantener la rentabilidad del negocio, el equipo debe encontrar una manera de gestionar sus complicadas vidas personales mientras crea alimentos de calidad día tras día.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867885",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MTAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35101:1"
+}
+]
+}
+}

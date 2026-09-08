@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2013-04-07",
+"episode_count": 4,
+"id": 582137436,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg"
+}
+],
+"info": {
+"name": "ES - Ataque a los Titanes",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868015",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "1687201537",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-04-07",
+"plot": "Hace cien años, los titanes atacaron y diezmaron a la humanidad. Para sobrevivir, esta se recluyó en grandes ciudades amuralladas, creyendo que estaría segura para siempre. Pero, cien años después de aquel ataque, un titán colosal hace su aparición en una de las urbes, destruye el parapeto y permite que sus congéneres menores devoren de nuevo a los hombres. El Cuerpo de Exploradores, al que pertenece Eren Jaeger, deberá enfrentarse a ellos y contraatacarlos, para que la humanidad pueda vivir de nuevo en paz.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868015",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNzU5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11759:4"
+},
+{
+"id": "1829121200",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-04-07",
+"plot": "Hace cien años, los titanes atacaron y diezmaron a la humanidad. Para sobrevivir, esta se recluyó en grandes ciudades amuralladas, creyendo que estaría segura para siempre. Pero, cien años después de aquel ataque, un titán colosal hace su aparición en una de las urbes, destruye el parapeto y permite que sus congéneres menores devoren de nuevo a los hombres. El Cuerpo de Exploradores, al que pertenece Eren Jaeger, deberá enfrentarse a ellos y contraatacarlos, para que la humanidad pueda vivir de nuevo en paz.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868015",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNzU5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11759:3"
+},
+{
+"id": "1842739192",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-04-07",
+"plot": "Hace cien años, los titanes atacaron y diezmaron a la humanidad. Para sobrevivir, esta se recluyó en grandes ciudades amuralladas, creyendo que estaría segura para siempre. Pero, cien años después de aquel ataque, un titán colosal hace su aparición en una de las urbes, destruye el parapeto y permite que sus congéneres menores devoren de nuevo a los hombres. El Cuerpo de Exploradores, al que pertenece Eren Jaeger, deberá enfrentarse a ellos y contraatacarlos, para que la humanidad pueda vivir de nuevo en paz.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868015",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNzU5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11759:2"
+},
+{
+"id": "765283759",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-04-07",
+"plot": "Hace cien años, los titanes atacaron y diezmaron a la humanidad. Para sobrevivir, esta se recluyó en grandes ciudades amuralladas, creyendo que estaría segura para siempre. Pero, cien años después de aquel ataque, un titán colosal hace su aparición en una de las urbes, destruye el parapeto y permite que sus congéneres menores devoren de nuevo a los hombres. El Cuerpo de Exploradores, al que pertenece Eren Jaeger, deberá enfrentarse a ellos y contraatacarlos, para que la humanidad pueda vivir de nuevo en paz.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868015",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNzU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11759:1"
+}
+]
+}
+}

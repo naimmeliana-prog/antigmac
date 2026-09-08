@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-22",
+"episode_count": 1,
+"id": 871152684,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/28HczUA6opmghLQvJ6z7ecsZ8lG.jpg"
+}
+],
+"info": {
+"name": "ES - Oxen (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/28HczUA6opmghLQvJ6z7ecsZ8lG.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Thorsboe, Jens Henrik Jensen, Mai Brostrøm",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867925",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1763034653",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-22",
+"plot": "Niels Oxen es el héroe de guerra más condecorado de Dinamarca. Mientras investiga la muerte de su mejor amigo, fallecido durante una misión militar en Mali, Oxen es detenido injustamente por posesión de estupefacientes, y expulsado deshonrosamente del ejército. Oxen se retira a una reclusión absoluta en el bosque de Rold en busca de paz y tranquilidad, sin embargo, la jefa del Servicio Danés de Seguridad e Inteligencia, Frigg Mossman, acaba por reclutarlo para una misión de incógnito y acaba inmerso en una mortífera red de misterios. Basada en la serie de libros homónima de Jens Henrik Jensen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867925",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34953:1"
+}
+]
+}
+}

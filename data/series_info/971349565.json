@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2020-03-02",
+"episode_count": 4,
+"id": 1520428781,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/cTz7gZuCd6wtvXWt55ALWlTqYc6.jpg"
+}
+],
+"info": {
+"name": "ES - Bendita paciencia",
+"cover": "https://image.tmdb.org/t/p/w154/cTz7gZuCd6wtvXWt55ALWlTqYc6.jpg",
+"plot": "",
+"cast": "",
+"director": "Simon Blackwell",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868031",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "496520138",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-02",
+"plot": "Coproducción de FX y Sky que describe la paradoja de los padres de que existe la posibilidad, de forma simultánea, de amar a tu hijo hasta el fin del mundo, mientras estás tan cabreado que lo enviarías allí. Martin Freeman interpreta a un padre cariñoso que descubre que no es exactamente el hombre que pensó que era y Daisy Haggard da vida a su esposa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28237:4"
+},
+{
+"id": "893742610",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-02",
+"plot": "Coproducción de FX y Sky que describe la paradoja de los padres de que existe la posibilidad, de forma simultánea, de amar a tu hijo hasta el fin del mundo, mientras estás tan cabreado que lo enviarías allí. Martin Freeman interpreta a un padre cariñoso que descubre que no es exactamente el hombre que pensó que era y Daisy Haggard da vida a su esposa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28237:3"
+},
+{
+"id": "206785231",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-02",
+"plot": "Coproducción de FX y Sky que describe la paradoja de los padres de que existe la posibilidad, de forma simultánea, de amar a tu hijo hasta el fin del mundo, mientras estás tan cabreado que lo enviarías allí. Martin Freeman interpreta a un padre cariñoso que descubre que no es exactamente el hombre que pensó que era y Daisy Haggard da vida a su esposa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28237:2"
+},
+{
+"id": "432155166",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-02",
+"plot": "Coproducción de FX y Sky que describe la paradoja de los padres de que existe la posibilidad, de forma simultánea, de amar a tu hijo hasta el fin del mundo, mientras estás tan cabreado que lo enviarías allí. Martin Freeman interpreta a un padre cariñoso que descubre que no es exactamente el hombre que pensó que era y Daisy Haggard da vida a su esposa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28237:1"
+}
+]
+}
+}

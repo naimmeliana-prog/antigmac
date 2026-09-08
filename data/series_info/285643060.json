@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-03-07",
+"episode_count": 2,
+"id": 1411118698,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thPyXxVwkKKCNU8cZDmSIa5oRKd.jpg"
+}
+],
+"info": {
+"name": "ES - Elimíname (Delete Me) (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thPyXxVwkKKCNU8cZDmSIa5oRKd.jpg",
+"plot": "",
+"cast": "",
+"director": "Marie Kleivdal Kristiansen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867899",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1345529782",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-07",
+"plot": "Dos mejores amigas, Marion y Marit, están a punto de terminar la escuela secundaria y en un mundo donde el estatus lo es todo, aprenden que una pequeña broma inocente puede volverse viral y cambiar sus vidas para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867899",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35428:1"
+},
+{
+"id": "1706826202",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-07",
+"plot": "Dos mejores amigas, Marion y Marit, están a punto de terminar la escuela secundaria y en un mundo donde el estatus lo es todo, aprenden que una pequeña broma inocente puede volverse viral y cambiar sus vidas para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867899",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDI4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35428:2"
+}
+]
+}
+}

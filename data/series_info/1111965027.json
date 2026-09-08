@@ -1,0 +1,341 @@
+{
+"seasons": [
+{
+"air_date": "1997-08-13",
+"episode_count": 14,
+"id": 1568499479,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg"
+}
+],
+"info": {
+"name": "ES - South Park (1997)",
+"cover": "https://image.tmdb.org/t/p/w154/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+"plot": "",
+"cast": "",
+"director": "Trey Parker, Matt Stone",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867936",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "398900467",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29446:4"
+},
+{
+"id": "771994076",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29446:3"
+},
+{
+"id": "1168365064",
+"episode_num": 1,
+"title": "Season 24",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoyNCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:24"
+},
+{
+"id": "971461120",
+"episode_num": 1,
+"title": "Season 25",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoyNSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:25"
+},
+{
+"id": "258214870",
+"episode_num": 1,
+"title": "Season 23",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoyMywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:23"
+},
+{
+"id": "403497662",
+"episode_num": 1,
+"title": "Season 22",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoyMiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:22"
+},
+{
+"id": "685538375",
+"episode_num": 1,
+"title": "Season 21",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoyMSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:21"
+},
+{
+"id": "645332479",
+"episode_num": 1,
+"title": "Season 20",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoyMCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:20"
+},
+{
+"id": "31860495",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29446:2"
+},
+{
+"id": "62496789",
+"episode_num": 1,
+"title": "Season 19",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoxOSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:19"
+},
+{
+"id": "1731043186",
+"episode_num": 1,
+"title": "Season 18",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoxOCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:18"
+},
+{
+"id": "1888097668",
+"episode_num": 1,
+"title": "Season 17",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoxNywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:17"
+},
+{
+"id": "1242872626",
+"episode_num": 1,
+"title": "Season 16",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoxNiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:16"
+},
+{
+"id": "298254102",
+"episode_num": 1,
+"title": "Season 15",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-08-13",
+"plot": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ2LCJzZWFzb25fbnVtIjoxNSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "29446:15"
+}
+]
+}
+}

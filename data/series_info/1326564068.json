@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-10-03",
+"episode_count": 1,
+"id": 215736111,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZxMTBheuGwNBQxF5JzLp2hHdDs.jpg"
+}
+],
+"info": {
+"name": "ES - Star Trek: Short Treks (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZxMTBheuGwNBQxF5JzLp2hHdDs.jpg",
+"plot": "",
+"cast": "",
+"director": "Alex Kurtzman, Bryan Fuller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867938",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1165904024",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-03",
+"plot": "Una serie de cortometrajes independientes con personajes e historias de Star Trek: Discovery (2017).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867938",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38863:1"
+}
+]
+}
+}

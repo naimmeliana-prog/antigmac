@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-03-26",
+"episode_count": 1,
+"id": 458031050,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwwPwDXJgzxVMvF451BVRgq6v3M.jpg"
+}
+],
+"info": {
+"name": "ES - El día (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwwPwDXJgzxVMvF451BVRgq6v3M.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonas Geirnaert, Julie Mahieu",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867898",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "928930776",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-26",
+"plot": "Serie de TV (2018). 12 episodios. El atraco de un banco conmociona a una pequeña ciudad flamenca. Los atracadores se atrincheran dentro del banco, donde tienen secuestradas a algunas personas. La policía llega a las instalaciones e intenta controlar la situación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867898",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35544:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2012-02-01",
+"episode_count": 3,
+"id": 1193521913,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujsqIDRPpMuepBrKHDOVXhsr8Wa.jpg"
+}
+],
+"info": {
+"name": "ES - Con el culo al aire",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujsqIDRPpMuepBrKHDOVXhsr8Wa.jpg",
+"plot": "",
+"cast": "",
+"director": "David Fernández, David Abajo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867988",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1876755135",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-02-01",
+"plot": "Tino (Paco Tous) es el alma del camping donde se centra la serie. Un churrero que va con su furgoneta de feria en feria y que siempre ha vivido ahí. Alardea de llevar un tipo de vida alternativo, al margen de la legalidad. Ni siquiera tiene carné de conducir. Su problema es que se enamora de Alicia (Natalia Roig). Esa relación sentimental le pondrá en el brete de pasar por convenciones sociales que odia.\r\n\r\nJorge (Raúl Arévalo) se imaginaba a su edad casado por la iglesia, con hijos y con un chalet en las afueras. Su realidad es que le han echado de la empresa por robar para intentar seguir el alto ritmo de vida de su novia, que le ha acabado abandonando. Se va a vivir al camping con Ángel (Raúl Fernández), un amigo de toda la vida. Un hombre irónico, cínico y muy atractivo, padre de un hijo, que fue a parar allí por un mal divorcio, que le dejó en la calle",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867988",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34512:3"
+},
+{
+"id": "1537572935",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-02-01",
+"plot": "Tino (Paco Tous) es el alma del camping donde se centra la serie. Un churrero que va con su furgoneta de feria en feria y que siempre ha vivido ahí. Alardea de llevar un tipo de vida alternativo, al margen de la legalidad. Ni siquiera tiene carné de conducir. Su problema es que se enamora de Alicia (Natalia Roig). Esa relación sentimental le pondrá en el brete de pasar por convenciones sociales que odia.\r\n\r\nJorge (Raúl Arévalo) se imaginaba a su edad casado por la iglesia, con hijos y con un chalet en las afueras. Su realidad es que le han echado de la empresa por robar para intentar seguir el alto ritmo de vida de su novia, que le ha acabado abandonando. Se va a vivir al camping con Ángel (Raúl Fernández), un amigo de toda la vida. Un hombre irónico, cínico y muy atractivo, padre de un hijo, que fue a parar allí por un mal divorcio, que le dejó en la calle",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867988",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34512:2"
+},
+{
+"id": "258783508",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-02-01",
+"plot": "Tino (Paco Tous) es el alma del camping donde se centra la serie. Un churrero que va con su furgoneta de feria en feria y que siempre ha vivido ahí. Alardea de llevar un tipo de vida alternativo, al margen de la legalidad. Ni siquiera tiene carné de conducir. Su problema es que se enamora de Alicia (Natalia Roig). Esa relación sentimental le pondrá en el brete de pasar por convenciones sociales que odia.\r\n\r\nJorge (Raúl Arévalo) se imaginaba a su edad casado por la iglesia, con hijos y con un chalet en las afueras. Su realidad es que le han echado de la empresa por robar para intentar seguir el alto ritmo de vida de su novia, que le ha acabado abandonando. Se va a vivir al camping con Ángel (Raúl Fernández), un amigo de toda la vida. Un hombre irónico, cínico y muy atractivo, padre de un hijo, que fue a parar allí por un mal divorcio, que le dejó en la calle",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867988",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34512:1"
+}
+]
+}
+}

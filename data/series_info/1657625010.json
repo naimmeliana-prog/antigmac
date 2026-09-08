@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-10",
+"episode_count": 1,
+"id": 1076522518,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqCDLvhm7czEf739tiwganFK23t.jpg"
+}
+],
+"info": {
+"name": "ES - The Kollective (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqCDLvhm7czEf739tiwganFK23t.jpg",
+"plot": "",
+"cast": "",
+"director": "Leonardo Fasoli, Maddalena Ravagli, Femke Wolting",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867945",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1226550853",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-10",
+"plot": "The Kollective es un grupo de periodistas independientes que lucha contra la desinformación en la era digital. Su misión: revelar verdades ocultas y enfrentar el poder con hechos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867945",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46551:1"
+}
+]
+}
+}

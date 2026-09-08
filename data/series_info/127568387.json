@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-03",
+"episode_count": 1,
+"id": 207905735,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRXI0QvXgyFl18OQE5cL5Dl68my.jpg"
+}
+],
+"info": {
+"name": "ES - Flashback (2025) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRXI0QvXgyFl18OQE5cL5Dl68my.jpg",
+"plot": "",
+"cast": "",
+"director": "Clélia Constantine",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867902",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1147326982",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-03",
+"plot": "La serie sigue a Elsa Letellier, agente de la policía científica de Lyon, que abrazó su carrera en homenaje a su padre, una leyenda de la policía, misteriosamente asesinado en servicio el día del sexto cumpleaños de su hija. Treinta años después, la noche de su 36º cumpleaños y cuando el caso está a punto de superar el plazo de prescripción, Elsa se encuentra, por un fenómeno inexplicable, transportada a 1994, apenas unos meses antes de la muerte de su padre. Tras el shock y la estupefacción, pronto se convence del carácter providencial de este regreso al pasado: ¡puede impedir la muerte de su padre! Para lograrlo, aprovechará este viaje para acercarse a él y convertirse en su compañera de equipo, sin revelar nunca su verdadera identidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867902",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46544:1"
+}
+]
+}
+}

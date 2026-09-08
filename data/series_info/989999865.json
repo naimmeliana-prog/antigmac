@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-07-27",
+"episode_count": 2,
+"id": 1709046199,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg"
+}
+],
+"info": {
+"name": "ES - Twisted Metal (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Rhett Reese, Paul Wernick, Michael Jonathan Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867964",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "390515903",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-27",
+"plot": "A un forastero con boca de motor que no recuerda su pasado se le ofrece la oportunidad de una vida mejor, pero solo si puede entregar con éxito un paquete misterioso a través de un páramo postapocalíptico. Con la ayuda de un ladrón de autos que empuña un hacha, se enfrentará a merodeadores salvajes que conducen vehículos de destrucción y otros peligros de la carretera, incluido un payaso trastornado que conduce un camión de helados demasiado familiar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867964",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjU4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37258:2"
+},
+{
+"id": "1470060586",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-27",
+"plot": "A un forastero con boca de motor que no recuerda su pasado se le ofrece la oportunidad de una vida mejor, pero solo si puede entregar con éxito un paquete misterioso a través de un páramo postapocalíptico. Con la ayuda de un ladrón de autos que empuña un hacha, se enfrentará a merodeadores salvajes que conducen vehículos de destrucción y otros peligros de la carretera, incluido un payaso trastornado que conduce un camión de helados demasiado familiar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867964",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37258:1"
+}
+]
+}
+}

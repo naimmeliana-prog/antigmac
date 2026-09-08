@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-28",
+"episode_count": 1,
+"id": 581722289,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/warIzrnywMOf9DUVV8wvORfcmPv.jpg"
+}
+],
+"info": {
+"name": "ES - Fuimos los afortunados",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/warIzrnywMOf9DUVV8wvORfcmPv.jpg",
+"plot": "",
+"cast": "",
+"director": "Erica Lipez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867903",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "217867258",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-28",
+"plot": "Una familia judía está decidida a sobrevivir y reunirse después de haber sido separada en la Segunda Guerra Mundial.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867903",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyNTYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32563:1"
+}
+]
+}
+}

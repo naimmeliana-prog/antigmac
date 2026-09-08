@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-07",
+"episode_count": 1,
+"id": 162393787,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IXWfH0FUMuhjfgVfzen1iHsyhE.jpg"
+}
+],
+"info": {
+"name": "ES - El cineclub (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IXWfH0FUMuhjfgVfzen1iHsyhE.jpg",
+"plot": "",
+"cast": "",
+"director": "Aimee Lou Wood, Ralph Davis",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867897",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "393786603",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-07",
+"plot": "Evie y Noa, son dos amigos inseparables desde la universidad que, 198 semanas después, siguen reuniéndose cada viernes para recrear en un garaje el universo de grandes clásicos del cine. Pero mientras Noa está a punto de mudarse a Bristol por un ascenso profesional, Evie permanece encerrada en casa de su madre tras una crisis de salud mental que la ha obligado a pausar su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867897",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48317:1"
+}
+]
+}
+}

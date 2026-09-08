@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-31",
+"episode_count": 1,
+"id": 54296836,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aFe8f5ttpSfuXbsLZoho6O9HGo.jpg"
+}
+],
+"info": {
+"name": "ES - Muerte en las dunas (2023) (DE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aFe8f5ttpSfuXbsLZoho6O9HGo.jpg",
+"plot": "",
+"cast": "",
+"director": "Sven Koch, Ismail Sahin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867920",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1139202724",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-31",
+"plot": "Una joven desaparece en la costa después de una fiesta. La policía Folkmer, sin embargo, sospecha que se trata de algo más que un caso de desaparición e investiga. Junto con el policía Wolf, de la Oficina de Policía Criminal de Wilhelmshaven, descubre primero el paradero de un asesino en serie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867920",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44365:1"
+}
+]
+}
+}

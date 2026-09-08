@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-14",
+"episode_count": 1,
+"id": 640383917,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/an8gG0KBoCLeTaZBoSIhYNKHnP0.jpg"
+}
+],
+"info": {
+"name": "ES - Emperor of Ocean Park (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/an8gG0KBoCLeTaZBoSIhYNKHnP0.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Carter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867900",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1986875339",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-14",
+"plot": "Set in the worlds of politics, Ivy League academia, and the beaches of Martha’s Vineyard. It centers on Talcott Garland, an Ivy League law professor whose quiet life is shattered when his father, Judge Oliver Garland, dies of an apparent heart attack. The nature of the judge’s death is questioned by Tal’s sister, Mariah, a former journalist and inveterate conspiracy theorist, who believes that the judge, a failed Black nominee to the Supreme Court, met with foul play.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867900",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37860:1"
+}
+]
+}
+}

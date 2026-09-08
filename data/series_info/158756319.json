@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2015-04-07",
+"episode_count": 5,
+"id": 154072881,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg"
+}
+],
+"info": {
+"name": "ES - Allí abajo (2015)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg",
+"plot": "",
+"cast": "",
+"director": "César Benítez, Aitor Gabilondo, Óscar Terol",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867986",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1534456235",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-07",
+"plot": "La serie gira en torno a Iñaki, un vasco de cuarenta años que nunca ha salido del País Vasco. Vive con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, que ve a Iñaki como un niño eterno incapaz de funcionar por su cuenta en la vida. El único intercambio afectivo que mantiene Iñaki es con sus amigos de toda la vida. En el bar que regenta Iñaki, heredado de su difunto padre, trabaja Nekane, una camarera que está locamente enamorada de él, pero que nunca se lo ha dicho.\r\n\r\nY mientras la vida de Iñaki transcurre plácidamente, un día se ve obligado a acompañar a su madre a Sevilla en un viaje del Imserso, un viaje para el que no está preparado. Para Iñaki, nada volverá a ser lo mismo una vez esté atrapado... allí abajo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867986",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI3LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35027:5"
+},
+{
+"id": "802650444",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-07",
+"plot": "La serie gira en torno a Iñaki, un vasco de cuarenta años que nunca ha salido del País Vasco. Vive con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, que ve a Iñaki como un niño eterno incapaz de funcionar por su cuenta en la vida. El único intercambio afectivo que mantiene Iñaki es con sus amigos de toda la vida. En el bar que regenta Iñaki, heredado de su difunto padre, trabaja Nekane, una camarera que está locamente enamorada de él, pero que nunca se lo ha dicho.\r\n\r\nY mientras la vida de Iñaki transcurre plácidamente, un día se ve obligado a acompañar a su madre a Sevilla en un viaje del Imserso, un viaje para el que no está preparado. Para Iñaki, nada volverá a ser lo mismo una vez esté atrapado... allí abajo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867986",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35027:4"
+},
+{
+"id": "934912529",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-07",
+"plot": "La serie gira en torno a Iñaki, un vasco de cuarenta años que nunca ha salido del País Vasco. Vive con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, que ve a Iñaki como un niño eterno incapaz de funcionar por su cuenta en la vida. El único intercambio afectivo que mantiene Iñaki es con sus amigos de toda la vida. En el bar que regenta Iñaki, heredado de su difunto padre, trabaja Nekane, una camarera que está locamente enamorada de él, pero que nunca se lo ha dicho.\r\n\r\nY mientras la vida de Iñaki transcurre plácidamente, un día se ve obligado a acompañar a su madre a Sevilla en un viaje del Imserso, un viaje para el que no está preparado. Para Iñaki, nada volverá a ser lo mismo una vez esté atrapado... allí abajo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867986",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35027:3"
+},
+{
+"id": "1964527524",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-07",
+"plot": "La serie gira en torno a Iñaki, un vasco de cuarenta años que nunca ha salido del País Vasco. Vive con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, que ve a Iñaki como un niño eterno incapaz de funcionar por su cuenta en la vida. El único intercambio afectivo que mantiene Iñaki es con sus amigos de toda la vida. En el bar que regenta Iñaki, heredado de su difunto padre, trabaja Nekane, una camarera que está locamente enamorada de él, pero que nunca se lo ha dicho.\r\n\r\nY mientras la vida de Iñaki transcurre plácidamente, un día se ve obligado a acompañar a su madre a Sevilla en un viaje del Imserso, un viaje para el que no está preparado. Para Iñaki, nada volverá a ser lo mismo una vez esté atrapado... allí abajo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867986",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35027:2"
+},
+{
+"id": "234055724",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-07",
+"plot": "La serie gira en torno a Iñaki, un vasco de cuarenta años que nunca ha salido del País Vasco. Vive con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, que ve a Iñaki como un niño eterno incapaz de funcionar por su cuenta en la vida. El único intercambio afectivo que mantiene Iñaki es con sus amigos de toda la vida. En el bar que regenta Iñaki, heredado de su difunto padre, trabaja Nekane, una camarera que está locamente enamorada de él, pero que nunca se lo ha dicho.\r\n\r\nY mientras la vida de Iñaki transcurre plácidamente, un día se ve obligado a acompañar a su madre a Sevilla en un viaje del Imserso, un viaje para el que no está preparado. Para Iñaki, nada volverá a ser lo mismo una vez esté atrapado... allí abajo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867986",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35027:1"
+}
+]
+}
+}

@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "1992-09-05",
+"episode_count": 4,
+"id": 1466699742,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcOV7JFbJpNqH8mzSuL8jG1WVy4.jpg"
+}
+],
+"info": {
+"name": "ES - Batman: La Serie Animada (1992)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcOV7JFbJpNqH8mzSuL8jG1WVy4.jpg",
+"plot": "",
+"cast": "",
+"director": "Bruce Timm, Eric Radomski",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867883",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "710798954",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1992-09-05",
+"plot": "Bruce Wayne de día, Batman de noche. Junto a su inseparable aprendiz, Robin, Batman luchará por la estabilidad y bienestar de los habitantes de Gotham; protegiendo a la ciudad de villanos como Dos Caras, Joker, Harley Quinn y Pingüino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867883",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35395:4"
+},
+{
+"id": "778260644",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1992-09-05",
+"plot": "Bruce Wayne de día, Batman de noche. Junto a su inseparable aprendiz, Robin, Batman luchará por la estabilidad y bienestar de los habitantes de Gotham; protegiendo a la ciudad de villanos como Dos Caras, Joker, Harley Quinn y Pingüino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867883",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35395:3"
+},
+{
+"id": "1423251443",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1992-09-05",
+"plot": "Bruce Wayne de día, Batman de noche. Junto a su inseparable aprendiz, Robin, Batman luchará por la estabilidad y bienestar de los habitantes de Gotham; protegiendo a la ciudad de villanos como Dos Caras, Joker, Harley Quinn y Pingüino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867883",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35395:2"
+},
+{
+"id": "1593139262",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1992-09-05",
+"plot": "Bruce Wayne de día, Batman de noche. Junto a su inseparable aprendiz, Robin, Batman luchará por la estabilidad y bienestar de los habitantes de Gotham; protegiendo a la ciudad de villanos como Dos Caras, Joker, Harley Quinn y Pingüino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867883",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35395:1"
+}
+]
+}
+}

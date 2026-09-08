@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-21",
+"episode_count": 1,
+"id": 1973092158,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omGBc3zC6VzUELayedp8pBBgJwt.jpg"
+}
+],
+"info": {
+"name": "ES - Hal & Harper (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omGBc3zC6VzUELayedp8pBBgJwt.jpg",
+"plot": "",
+"cast": "",
+"director": "Cooper Raiff",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867904",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "277993750",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-21",
+"plot": "Hal y Harper son hermanos veinteañeros que, sin embargo, parecen anclados en su infancia. Los retiene el trauma no superado de la pérdida de su madre cuando eran niños. Ahora que su padre ha puesto en venta la casa familiar para comenzar una nueva vida con su pareja, Kate, con quien espera un nuevo bebé, sienten como si un terremoto hiriera los débiles cimientos que sustentaban sus vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867904",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMDAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43001:1"
+}
+]
+}
+}

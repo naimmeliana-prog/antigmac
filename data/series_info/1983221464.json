@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-30",
+"episode_count": 2,
+"id": 1533129961,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/z0zipqRdOiE2TRtIQ5BsMIiYfhU.jpg"
+}
+],
+"info": {
+"name": "ES - Ser o no ser (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/z0zipqRdOiE2TRtIQ5BsMIiYfhU.jpg",
+"plot": "",
+"cast": "",
+"director": "Coral Cruz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867935",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "232671850",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-30",
+"plot": "Joel, un chico trans de 16 años, comienza el bachillerato escénico en un nuevo instituto donde nadie lo conoce. Hace unos meses que está transitando y, con el passing que tiene, puede presentarse a sus compañeros tal y como siempre se ha visto. Sin embargo, la ocultación de su proceso de transición entrará en conflicto con la exigencia de su profesora de teatro, quien pide a sus alumnos que se quiten todas las máscaras para poder meterse en la piel de sus personajes. Joel tiene miedo de no ser aceptado y también de perder el interés de Ona, una compañera de clase, de la que se ha enamorado a primera vista.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjEyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28212:2"
+},
+{
+"id": "675597923",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-30",
+"plot": "Joel, un chico trans de 16 años, comienza el bachillerato escénico en un nuevo instituto donde nadie lo conoce. Hace unos meses que está transitando y, con el passing que tiene, puede presentarse a sus compañeros tal y como siempre se ha visto. Sin embargo, la ocultación de su proceso de transición entrará en conflicto con la exigencia de su profesora de teatro, quien pide a sus alumnos que se quiten todas las máscaras para poder meterse en la piel de sus personajes. Joel tiene miedo de no ser aceptado y también de perder el interés de Ona, una compañera de clase, de la que se ha enamorado a primera vista.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28212:1"
+}
+]
+}
+}

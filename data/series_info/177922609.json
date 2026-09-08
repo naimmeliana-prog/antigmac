@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "1980-09-15",
+"episode_count": 1,
+"id": 584857813,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfcbFozvKkC2dRqsNn0soIHGfBL.jpg"
+}
+],
+"info": {
+"name": "ES - Shōgun (1980)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfcbFozvKkC2dRqsNn0soIHGfBL.jpg",
+"plot": "",
+"cast": "",
+"director": "James Clavell",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867935",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1677552255",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1980-09-15",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31631:1"
+}
+]
+}
+}

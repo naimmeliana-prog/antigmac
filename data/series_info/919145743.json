@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-12-26",
+"episode_count": 3,
+"id": 304916113,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NHa7aBKsaTWdZKdggsjX8ej2EB.jpg"
+}
+],
+"info": {
+"name": "ES - CHYLKA (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NHa7aBKsaTWdZKdggsjX8ej2EB.jpg",
+"plot": "",
+"cast": "",
+"director": "Remigiusz Mróz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867886",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "125357656",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-12-26",
+"plot": "Drama legal polaco sobre Joanna Chyłka, una abogada valiente y rebelde que no se detendrá ante nada ni ante nadie para descubrir la verdad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867886",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36043:3"
+},
+{
+"id": "610773690",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-12-26",
+"plot": "Drama legal polaco sobre Joanna Chyłka, una abogada valiente y rebelde que no se detendrá ante nada ni ante nadie para descubrir la verdad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867886",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36043:2"
+},
+{
+"id": "446139296",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-12-26",
+"plot": "Drama legal polaco sobre Joanna Chyłka, una abogada valiente y rebelde que no se detendrá ante nada ni ante nadie para descubrir la verdad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867886",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36043:1"
+}
+]
+}
+}

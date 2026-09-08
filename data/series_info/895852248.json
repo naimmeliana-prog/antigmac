@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-19",
+"episode_count": 2,
+"id": 1482453590,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy87kVh0gcHzFNkSqT32Sp8s7wv.jpg"
+}
+],
+"info": {
+"name": "ES - The Hunting Party (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy87kVh0gcHzFNkSqT32Sp8s7wv.jpg",
+"plot": "",
+"cast": "",
+"director": "JJ Bailey",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867945",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "222816933",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-19",
+"plot": "Cuando una misteriosa explosión en una prisión de alto secreto libera a los asesinos en serie más peligrosos del mundo, la mayoría de los cuales se creía que habían sido ejecutados años antes, un pequeño equipo de investigadores de élite se pone en marcha para capturarlos a todos y responder a la pregunta de si la explosión fue un accidente... o una fuga orquestada.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867945",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzUxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42751:2"
+},
+{
+"id": "126081607",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-19",
+"plot": "Cuando una misteriosa explosión en una prisión de alto secreto libera a los asesinos en serie más peligrosos del mundo, la mayoría de los cuales se creía que habían sido ejecutados años antes, un pequeño equipo de investigadores de élite se pone en marcha para capturarlos a todos y responder a la pregunta de si la explosión fue un accidente... o una fuga orquestada.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867945",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42751:1"
+}
+]
+}
+}

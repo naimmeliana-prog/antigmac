@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-07-17",
+"episode_count": 1,
+"id": 18695530,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/lwZCPn0oXrceUhzfguz9jlIROJY.jpg"
+}
+],
+"info": {
+"name": "ES - El quinto mandamiento",
+"cover": "https://image.tmdb.org/t/p/w154/lwZCPn0oXrceUhzfguz9jlIROJY.jpg",
+"plot": "",
+"cast": "",
+"director": "Sarah Phelps",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867899",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1075514297",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-17",
+"plot": "Sigue la muerte de Peter Farquhar y Ann Moore-Martin en el pueblo de Maids Moreton, Buckinghamshire, y los extraordinarios acontecimientos que se desarrollaron en los años siguientes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867899",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNTE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30516:1"
+}
+]
+}
+}

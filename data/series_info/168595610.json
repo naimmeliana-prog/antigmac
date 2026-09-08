@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2016-10-11",
+"episode_count": 4,
+"id": 1078256885,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCutmhFznao1Pzy6wM1C32kxAEu.jpg"
+}
+],
+"info": {
+"name": "ES - Channel Zero",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCutmhFznao1Pzy6wM1C32kxAEu.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Antosca",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867887",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "442705494",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-11",
+"plot": "Una escalofriante historia sin par, Channel Zero dedica cada temporada a relatar una historia de terror original.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867887",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzI0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34324:3"
+},
+{
+"id": "389843319",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-11",
+"plot": "Una escalofriante historia sin par, Channel Zero dedica cada temporada a relatar una historia de terror original.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867887",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzI0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34324:4"
+},
+{
+"id": "984943485",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-11",
+"plot": "Una escalofriante historia sin par, Channel Zero dedica cada temporada a relatar una historia de terror original.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867887",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzI0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34324:2"
+},
+{
+"id": "1799252000",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-11",
+"plot": "Una escalofriante historia sin par, Channel Zero dedica cada temporada a relatar una historia de terror original.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867887",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34324:1"
+}
+]
+}
+}

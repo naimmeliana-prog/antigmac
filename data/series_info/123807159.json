@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-07-02",
+"episode_count": 1,
+"id": 473141104,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnsNXjv4GLpuTaWsr0Rpp2xF0VO.jpg"
+}
+],
+"info": {
+"name": "ES - Amor Obstinado (2015)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnsNXjv4GLpuTaWsr0Rpp2xF0VO.jpg",
+"plot": "",
+"cast": "",
+"director": "Raşit Çelikezer, Osman Sınav, Yusuf Omer Sinav",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868040",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1632455213",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-02",
+"plot": "Defne (Acelya Topaloglu) es una muchacha joven y linda que acaba de graduarse de una universidad bien conocida en Turquía. Ella esta por comenzar a trabajar en una empresa llamada \"Aras Tecnología\" como ingeniera informática,en su primer día de trabajo Defne discute con su hermano celoso Cinar (Eren Vurdem) ya que el encuentra su ropa muy provocadora y la manda a cambiarse, ella con tal de hacerle caso decide llevarse la ropa al trabajo para cambiarse allí. Ya en el estacionamiento accidentalmente choca con Yalin (Can Yaman) un joven y apuesto muchacho que cambiara su vida para siempre",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868040",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35532:1"
+}
+]
+}
+}

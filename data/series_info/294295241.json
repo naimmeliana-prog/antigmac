@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2015-01-06",
+"episode_count": 2,
+"id": 1284862327,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/VkGalFD0CEvDM0Tprzm53BqxHj.jpg"
+}
+],
+"info": {
+"name": "ES - Agente Carter",
+"cover": "https://image.tmdb.org/t/p/w154/VkGalFD0CEvDM0Tprzm53BqxHj.jpg",
+"plot": "",
+"cast": "",
+"director": "Christopher Markus, Stephen McFeely",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868020",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "566648652",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-06",
+"plot": "1946. La paz ha significado un revés para la agente Carter al verse marginada cuando los hombres vuelven del extranjero. Trabajando como agente secreta en la R.C.E., Peggy se ve haciendo trabajo administrativo cuando preferiría pasar a la acción y luchar contra los malos. Al mismo tiempo, busca la manera de apañárselas como mujer soltera tras haber perdido al amor de su vida, Steve Rogers. Cuando un viejo amigo, Howard Stark, es acusado injustamente de vender sus armas más letales, se pone en contacto con Peggy para encontrar a los responsables y limpiar su nombre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868020",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDYxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30061:2"
+},
+{
+"id": "1790365843",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-06",
+"plot": "1946. La paz ha significado un revés para la agente Carter al verse marginada cuando los hombres vuelven del extranjero. Trabajando como agente secreta en la R.C.E., Peggy se ve haciendo trabajo administrativo cuando preferiría pasar a la acción y luchar contra los malos. Al mismo tiempo, busca la manera de apañárselas como mujer soltera tras haber perdido al amor de su vida, Steve Rogers. Cuando un viejo amigo, Howard Stark, es acusado injustamente de vender sus armas más letales, se pone en contacto con Peggy para encontrar a los responsables y limpiar su nombre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868020",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30061:1"
+}
+]
+}
+}

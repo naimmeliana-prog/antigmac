@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-12",
+"episode_count": 1,
+"id": 1634859220,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYo9W9bd8jCskDnJNBczR6OYLFo.jpg"
+}
+],
+"info": {
+"name": "ES - Almas robadas",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYo9W9bd8jCskDnJNBczR6OYLFo.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867878",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1110976543",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-12",
+"plot": "Durante la investigación sobre el asesinato de un alto funcionario de la Agencia Sueca de Migración, el principal sospechoso del crimen también aparece muerto y la fiscal Jana Berzelius reconoce en su cadáver unas marcas que le resultan familiares, y que guardan relación con su pasado como niña refugiada en un país devastado por la guerra.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867878",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31201:1"
+}
+]
+}
+}

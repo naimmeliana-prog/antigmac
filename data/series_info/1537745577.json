@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2018-10-11",
+"episode_count": 5,
+"id": 1793558143,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg"
+}
+],
+"info": {
+"name": "ES - Mocro Maffia (V.O.S) (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
+"plot": "",
+"cast": "",
+"director": "Achmed Akkabi, Thijs Römer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867918",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "651862636",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-11",
+"plot": "Los mejores amigos Romano, Potlood y De Paus ascienden en el rango del mundo criminal. Antes de que se den cuenta, dirigen todo el mercado de coque de Ámsterdam. A causa de los celos, su relación se complica y acaba siendo hostil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867918",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTkzLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37193:4"
+},
+{
+"id": "433461901",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-11",
+"plot": "Los mejores amigos Romano, Potlood y De Paus ascienden en el rango del mundo criminal. Antes de que se den cuenta, dirigen todo el mercado de coque de Ámsterdam. A causa de los celos, su relación se complica y acaba siendo hostil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867918",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTkzLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37193:5"
+},
+{
+"id": "1437615370",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-11",
+"plot": "Los mejores amigos Romano, Potlood y De Paus ascienden en el rango del mundo criminal. Antes de que se den cuenta, dirigen todo el mercado de coque de Ámsterdam. A causa de los celos, su relación se complica y acaba siendo hostil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867918",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37193:1"
+},
+{
+"id": "42781553",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-11",
+"plot": "Los mejores amigos Romano, Potlood y De Paus ascienden en el rango del mundo criminal. Antes de que se den cuenta, dirigen todo el mercado de coque de Ámsterdam. A causa de los celos, su relación se complica y acaba siendo hostil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867918",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTkzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37193:2"
+},
+{
+"id": "1651156657",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-11",
+"plot": "Los mejores amigos Romano, Potlood y De Paus ascienden en el rango del mundo criminal. Antes de que se den cuenta, dirigen todo el mercado de coque de Ámsterdam. A causa de los celos, su relación se complica y acaba siendo hostil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867918",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTkzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37193:3"
+}
+]
+}
+}

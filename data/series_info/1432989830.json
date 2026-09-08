@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-14",
+"episode_count": 1,
+"id": 63695080,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHQJkDZ4OjqJnp4vtphxOQ7GIh6.jpg"
+}
+],
+"info": {
+"name": "ES - Blade Runner: El Loto Negro",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHQJkDZ4OjqJnp4vtphxOQ7GIh6.jpg",
+"plot": "",
+"cast": "",
+"director": "Kenji Kamiyama, Shinji Aramaki",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867884",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1457555649",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "Los Ángeles 2032. Una mujer joven se despierta sin recuerdos y con habilidades mortales. Las únicas pistas de su misterio son un dispositivo de datos bloqueado y un tatuaje de un loto negro. Juntando las piezas, debe cazar a las personas responsables de su brutal y sangriento pasado para encontrar la verdad de su identidad perdida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867884",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15135:1"
+}
+]
+}
+}

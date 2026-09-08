@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "1996-02-07",
+"episode_count": 3,
+"id": 1650538556,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg"
+}
+],
+"info": {
+"name": "ES - Dragon Ball GT",
+"cover": "https://image.tmdb.org/t/p/w154/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg",
+"plot": "",
+"cast": "",
+"director": "Akira Toriyama",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867894",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1457575449",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1996-02-07",
+"plot": "Dragon Ball GT es un anime original creado por el estudio de animación japonés Toei Animation ubicada una década después del final de Dragon Ball Z, es el tercer anime de la serie de televisión japonesa Dragon Ball. A diferencia de las dos primeros animes, no se basa en el manga original Dragon Ball de Akira Toriyama, sino que fue creado como una secuela de la serie de anime.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29592:3"
+},
+{
+"id": "794107228",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1996-02-07",
+"plot": "Dragon Ball GT es un anime original creado por el estudio de animación japonés Toei Animation ubicada una década después del final de Dragon Ball Z, es el tercer anime de la serie de televisión japonesa Dragon Ball. A diferencia de las dos primeros animes, no se basa en el manga original Dragon Ball de Akira Toriyama, sino que fue creado como una secuela de la serie de anime.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29592:2"
+},
+{
+"id": "731486040",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1996-02-07",
+"plot": "Dragon Ball GT es un anime original creado por el estudio de animación japonés Toei Animation ubicada una década después del final de Dragon Ball Z, es el tercer anime de la serie de televisión japonesa Dragon Ball. A diferencia de las dos primeros animes, no se basa en el manga original Dragon Ball de Akira Toriyama, sino que fue creado como una secuela de la serie de anime.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29592:1"
+}
+]
+}
+}

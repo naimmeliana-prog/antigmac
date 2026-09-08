@@ -1,0 +1,499 @@
+[
+  {
+    "category_id": "374489383",
+    "category_name": "🇪🇸 ES| 2026 ESTRENOS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2366"
+  },
+  {
+    "category_id": "1058534187",
+    "category_name": "🇪🇸 ES| ACCION/CRIMEN",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1899"
+  },
+  {
+    "category_id": "26841215",
+    "category_name": "🇪🇸 ES| ANIME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1545"
+  },
+  {
+    "category_id": "1581572517",
+    "category_name": "🇪🇸 ES| APPLE+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1803"
+  },
+  {
+    "category_id": "374606837",
+    "category_name": "🇪🇸 ES| BELICO",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1847"
+  },
+  {
+    "category_id": "125764446",
+    "category_name": "🇪🇸 ES| CIENCIA FICCION/FANTASIA",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1931"
+  },
+  {
+    "category_id": "1525355295",
+    "category_name": "🇪🇸 ES| COMEDIA",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1827"
+  },
+  {
+    "category_id": "1992381826",
+    "category_name": "🇪🇸 ES| DISNEY+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1794"
+  },
+  {
+    "category_id": "272652825",
+    "category_name": "🇪🇸 ES| DOCUMENTALES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2015"
+  },
+  {
+    "category_id": "190432749",
+    "category_name": "🇪🇸 ES| DRAMA/ROMANCE/FAMILIA",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1866"
+  },
+  {
+    "category_id": "1027016113",
+    "category_name": "🇪🇸 ES| HECHOSREALES/HISTORIA",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1932"
+  },
+  {
+    "category_id": "288250025",
+    "category_name": "🇪🇸 ES| MAFIA",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1867"
+  },
+  {
+    "category_id": "480726772",
+    "category_name": "🇪🇸 ES| MAX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1788"
+  },
+  {
+    "category_id": "934373361",
+    "category_name": "🇪🇸 ES| NETFLIX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1544"
+  },
+  {
+    "category_id": "604315264",
+    "category_name": "🇪🇸 ES| NIÑOS/ANIMACION",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1744"
+  },
+  {
+    "category_id": "256743278",
+    "category_name": "🇪🇸 ES| PELICULAS 1980/2000",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2049"
+  },
+  {
+    "category_id": "223194870",
+    "category_name": "🇪🇸 ES| PELICULAS 2000/2010",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "948"
+  },
+  {
+    "category_id": "1541858359",
+    "category_name": "🇪🇸 ES| PELICULAS 2010/2020",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2051"
+  },
+  {
+    "category_id": "1493670607",
+    "category_name": "🇪🇸 ES| PELICULAS 2024",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1755"
+  },
+  {
+    "category_id": "1548338604",
+    "category_name": "🇪🇸 ES| PELICULAS 2025",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2048"
+  },
+  {
+    "category_id": "778949034",
+    "category_name": "🇪🇸 ES| PELICULAS 4K/UHD",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1677"
+  },
+  {
+    "category_id": "756304128",
+    "category_name": "🇪🇸 ES| PELICULAS 2020/2023",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1546"
+  },
+  {
+    "category_id": "416569799",
+    "category_name": "🇪🇸 ES| PELICULAS ANTIGUAS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "637"
+  },
+  {
+    "category_id": "1387757939",
+    "category_name": "🇪🇸 ES| PRIME+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1786"
+  },
+  {
+    "category_id": "1080933804",
+    "category_name": "🇪🇸 ES| SAGA",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1650"
+  },
+  {
+    "category_id": "295503129",
+    "category_name": "🇪🇸 ES| SPORTS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1752"
+  },
+  {
+    "category_id": "278681540",
+    "category_name": "🇪🇸 ES| SUPERHEROES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1713"
+  },
+  {
+    "category_id": "1795122558",
+    "category_name": "🇪🇸 ES| TERROR/SUSPENSE",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1848"
+  },
+  {
+    "category_id": "788860477",
+    "category_name": "🇪🇸 ES| WESTERNS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2346"
+  },
+  {
+    "category_id": "1649268632",
+    "category_name": "🇫🇷 WORLDCUP 2022",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1553"
+  },
+  {
+    "category_id": "850635701",
+    "category_name": "🇫🇷 EXYU| STRANI FILMOVI 1950-2022",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "964"
+  },
+  {
+    "category_id": "1183808417",
+    "category_name": "🇫🇷 FR| ACTEURS FRANÇAIS",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1131"
+  },
+  {
+    "category_id": "1742296612",
+    "category_name": "🇫🇷 FR| ACTION/AVENTURE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "638"
+  },
+  {
+    "category_id": "747862236",
+    "category_name": "🇫🇷 FR| ANIMATION",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "870"
+  },
+  {
+    "category_id": "570561500",
+    "category_name": "🇫🇷 FR| APPLE TV+",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1357"
+  },
+  {
+    "category_id": "1973852114",
+    "category_name": "🇫🇷 FR| ART MARTIAUX",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "996"
+  },
+  {
+    "category_id": "1126120838",
+    "category_name": "🇫🇷 FR| ASIATIQUE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1060"
+  },
+  {
+    "category_id": "60816499",
+    "category_name": "🇫🇷 FR| CHUCK NORRIS",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "2445"
+  },
+  {
+    "category_id": "614148004",
+    "category_name": "🇫🇷 FR| CLASSIQUE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "699"
+  },
+  {
+    "category_id": "1947688408",
+    "category_name": "🇫🇷 FR| COMÉDIE/DRAME",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "641"
+  },
+  {
+    "category_id": "1961146865",
+    "category_name": "🇫🇷 FR| DE NOËL",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "654"
+  },
+  {
+    "category_id": "1884844422",
+    "category_name": "🇫🇷 FR| DISNEY",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "716"
+  },
+  {
+    "category_id": "167558581",
+    "category_name": "🇫🇷 FR| DOCUMENTAIRE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "648"
+  },
+  {
+    "category_id": "1568597181",
+    "category_name": "🇫🇷 FR| DRAME",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "646"
+  },
+  {
+    "category_id": "1445202021",
+    "category_name": "🇫🇷 FR| DRAME/ROMANCE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "642"
+  },
+  {
+    "category_id": "890176151",
+    "category_name": "🇫🇷 FR| FILM 1980-1999",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "854"
+  },
+  {
+    "category_id": "1029894954",
+    "category_name": "🇫🇷 FR| FILMOGRAPHIE LOUIS DE FUNES",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "924"
+  },
+  {
+    "category_id": "334101180",
+    "category_name": "🇫🇷 FR| FILMS 2026",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "857"
+  },
+  {
+    "category_id": "533139522",
+    "category_name": "🇫🇷 FR| FILMS 4K/3D",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "626"
+  },
+  {
+    "category_id": "783021762",
+    "category_name": "🇫🇷 FR| FILMS UHD",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1582"
+  },
+  {
+    "category_id": "1429933914",
+    "category_name": "🇫🇷 FR| GUERRE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "871"
+  },
+  {
+    "category_id": "1359478342",
+    "category_name": "🇫🇷 FR| HBO FILMS",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "767"
+  },
+  {
+    "category_id": "903364655",
+    "category_name": "🇫🇷 FR| HORREUR/EPOUVANTE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "872"
+  },
+  {
+    "category_id": "1581306236",
+    "category_name": "🇫🇷 FR| JEUNESSE 4K/3D",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "643"
+  },
+  {
+    "category_id": "419335105",
+    "category_name": "🇫🇷 FR| MAFIA GANGSTER",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "715"
+  },
+  {
+    "category_id": "96377581",
+    "category_name": "🇫🇷 FR| MANGA",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "758"
+  },
+  {
+    "category_id": "101821540",
+    "category_name": "🇫🇷 FR| MARVEL UNIVERS",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1181"
+  },
+  {
+    "category_id": "555980717",
+    "category_name": "🇫🇷 FR| MyCANAL",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1354"
+  },
+  {
+    "category_id": "502356402",
+    "category_name": "🇫🇷 FR| NETFLIX",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "714"
+  },
+  {
+    "category_id": "787657166",
+    "category_name": "🇫🇷 FR| NETFLIX 2026",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1872"
+  },
+  {
+    "category_id": "1200164915",
+    "category_name": "🇫🇷 FR| NETFLIX JEUNESSE FAMILLE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1179"
+  },
+  {
+    "category_id": "542479033",
+    "category_name": "🇫🇷 FR| PARAMOUNT+",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1355"
+  },
+  {
+    "category_id": "1667860200",
+    "category_name": "🇫🇷 FR| PRIME +",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1178"
+  },
+  {
+    "category_id": "1215991391",
+    "category_name": "🇫🇷 FR| SAGA",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "856"
+  },
+  {
+    "category_id": "696173324",
+    "category_name": "🇫🇷 FR| SCIENCE/FICTION/FANTASTIQUE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "644"
+  },
+  {
+    "category_id": "1287466820",
+    "category_name": "🇫🇷 FR| THEATRE ET SPECTACLE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "846"
+  },
+  {
+    "category_id": "1417109110",
+    "category_name": "🇫🇷 FR| THRILLER/CRIME",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "645"
+  },
+  {
+    "category_id": "1745479539",
+    "category_name": "🇫🇷 FR| TOP CINEMA",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1186"
+  },
+  {
+    "category_id": "427593810",
+    "category_name": "🇫🇷 FR| WESTERN",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "873"
+  },
+  {
+    "category_id": "285700328",
+    "category_name": "🇫🇷 FR| ZIGGO GO",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1119"
+  },
+  {
+    "category_id": "1596356368",
+    "category_name": "🇫🇷 FR| BIBLIQUE",
+    "parent_id": 0,
+    "_lang": "fr_france",
+    "_stalker_id": "1556"
+  }
+]

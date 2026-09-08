@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-25",
+"episode_count": 1,
+"id": 1790872012,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrt2F6PBfgnI7e1mOcmsxOryPn.jpg"
+}
+],
+"info": {
+"name": "ES - Atrapadas en Bolivia (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrt2F6PBfgnI7e1mOcmsxOryPn.jpg",
+"plot": "",
+"cast": "",
+"director": "Emilie K. Beck",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867977",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1030489732",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-25",
+"plot": "Tres mujeres noruegas encarceladas en Bolivia por cargos relacionados con las drogas se enfrentan a la mentira, la traición y a una arriesgada fuga en la selva con la ayuda de un aliado poco probable.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867977",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48659:1"
+}
+]
+}
+}

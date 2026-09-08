@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-29",
+"episode_count": 1,
+"id": 91727620,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn7TFZnR9U2KpJovIg5F1WZ1qs2.jpg"
+}
+],
+"info": {
+"name": "ES - Murder Before Evensong (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn7TFZnR9U2KpJovIg5F1WZ1qs2.jpg",
+"plot": "",
+"cast": "",
+"director": "David Moore",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867921",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "995903848",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-29",
+"plot": "El canónigo Daniel Clement es el rector del aparentemente idílico pueblo de Champton. La tranquila vida de la comunidad se ve alterada cuando un hombre aparece asesinado en el templo, apuñalado con unas tijeras de podar. A partir de ese momento, la calma del pueblo se resquebraja y los secretos mejor guardados comienzan a salir a la luz. Daniel Clement se ve obligado a colaborar con el detective Neil Vanloo para descubrir al asesino, que podría encontrarse entre los propios miembros de su congregación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867921",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47957:1"
+}
+]
+}
+}

@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2021-08-31",
+"episode_count": 5,
+"id": 1312332768,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yD7k8IX20WTpHlLqB97Q9d2clq.jpg"
+}
+],
+"info": {
+"name": "ES - Solo asesinatos en el edificio (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yD7k8IX20WTpHlLqB97Q9d2clq.jpg",
+"plot": "",
+"cast": "",
+"director": "Steve Martin, John Hoffman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867936",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "480773561",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-31",
+"plot": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQ1LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36045:5"
+},
+{
+"id": "1407150906",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-31",
+"plot": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQ1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36045:4"
+},
+{
+"id": "165144565",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-31",
+"plot": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQ1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36045:3"
+},
+{
+"id": "324499196",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-31",
+"plot": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQ1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36045:2"
+},
+{
+"id": "1830599842",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-31",
+"plot": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36045:1"
+}
+]
+}
+}

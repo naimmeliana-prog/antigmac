@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-06-18",
+"episode_count": 1,
+"id": 225371593,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQef0LAjxeWF710M05EHCLXz1Fh.jpg"
+}
+],
+"info": {
+"name": "ES - Amor Lógica Venganza (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQef0LAjxeWF710M05EHCLXz1Fh.jpg",
+"plot": "",
+"cast": "",
+"director": "Murat Öztürk",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868040",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1513472769",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-06-18",
+"plot": "Esra y Ozan tienen un pasado en común. Para huir de una vida sin futuro, ella decidió proponerle matrimonio al joven ingeniero nada más licenciarse, pero su relación terminó en divorcio. Años después, el destino ha querido reunirles, pero sus vidas han cambiado mucho desde entonces. Esra no tiene trabajo y Ozan se ha convertido en el millonario CEO de una gran empresa... y entre ellos aún hay muchas cosas pendientes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868040",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35531:1"
+}
+]
+}
+}

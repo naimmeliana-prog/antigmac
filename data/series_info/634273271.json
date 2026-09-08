@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-11-08",
+"episode_count": 1,
+"id": 588436331,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/kPSbTjQ6wev3iGHh8fmcyn12aL7.jpg"
+}
+],
+"info": {
+"name": "ES - Arde Madrid (2018)",
+"cover": "https://image.tmdb.org/t/p/w154/kPSbTjQ6wev3iGHh8fmcyn12aL7.jpg",
+"plot": "",
+"cast": "",
+"director": "Paco León, Anna R. Costa",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867976",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1219541688",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-08",
+"plot": "Madrid 1961. Ana Mari es solterona, coja, franquista e instructora de la Sección Femenina. Por orden de Franco, recibe el encargo de ir a trabajar de criada a casa de Ava Gardner con la intención de espiarla. Para ello tiene que fingir estar casada con Manolo, un buscavidas que se convertirá en el chófer de la actriz americana. Manolo intentará aprovechar su posición para sus chanchullos con clanes gitanos implicando a Ana Mari y a su hermano esquizofrénico, Floren. Hasta tal punto que entre ellos surgirá una relación más que íntima. Junto a la joven doncella Pilar, asistirán a las continuas fiestas que Ava y su círculo disfrutaban a diario en esa Dolce Vita madrileña reservada para una élite. Fiestas que acabarán con los nervios de los vecinos de abajo, nada más y nada menos que el General Perón y su esposa Isabelita recién exiliados de Argentina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867976",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22846:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-02",
+"episode_count": 2,
+"id": 742944275,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GbJUat6fXmNbvcJgFFZJS8fSKv.jpg"
+}
+],
+"info": {
+"name": "ES - English Teacher (2024) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GbJUat6fXmNbvcJgFFZJS8fSKv.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Jordan Alvarez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867901",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "107978800",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-02",
+"plot": "Evan Marquez es un profesor de Austin, en Texas, que suele acabar inmerso en la maraña que son los aspectos personales, profesionales y políticos de trabajar en un instituto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867901",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46663:2"
+},
+{
+"id": "985640759",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-02",
+"plot": "Evan Marquez es un profesor de Austin, en Texas, que suele acabar inmerso en la maraña que son los aspectos personales, profesionales y políticos de trabajar en un instituto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867901",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46663:1"
+}
+]
+}
+}

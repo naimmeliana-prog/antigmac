@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-06",
+"episode_count": 2,
+"id": 280242346,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abf8tHznhSvl9BAElD2cQeRr7do.jpg"
+}
+],
+"info": {
+"name": "ES - Arcane: League of Legends (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+"plot": "",
+"cast": "",
+"director": "Christian Linke, Alex Yee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868015",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "162872272",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-06",
+"plot": "Con las dispares ciudades de Piltover y Zaun como telón de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnologías mágicas y creencias enfrentadas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868015",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37979:1"
+},
+{
+"id": "515966016",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-06",
+"plot": "Con las dispares ciudades de Piltover y Zaun como telón de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnologías mágicas y creencias enfrentadas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868015",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTc5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37979:2"
+}
+]
+}
+}

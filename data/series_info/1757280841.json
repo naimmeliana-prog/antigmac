@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-18",
+"episode_count": 2,
+"id": 999222198,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iqnF9VuG9FNDJPpQ9Mfo9a7gr0.jpg"
+}
+],
+"info": {
+"name": "ES - Así es Florida, tío (2024) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iqnF9VuG9FNDJPpQ9Mfo9a7gr0.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Herwick, Jeff Tomsic",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868030",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1017445170",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-18",
+"plot": "Esta serie de comedia nocturna destaca las historias más impactantes del Estado del Sol, recreadas por algunos de los favoritos de Hollywood.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46805:2"
+},
+{
+"id": "1031021215",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-18",
+"plot": "Esta serie de comedia nocturna destaca las historias más impactantes del Estado del Sol, recreadas por algunos de los favoritos de Hollywood.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46805:1"
+}
+]
+}
+}

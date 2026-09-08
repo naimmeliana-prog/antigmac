@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-04",
+"episode_count": 1,
+"id": 134638337,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg"
+}
+],
+"info": {
+"name": "ES - The Paper (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+"plot": "",
+"cast": "",
+"director": "Greg Daniels, Michael Koman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867946",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "121238542",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-04",
+"plot": "El equipo documental que inmortalizó la sucursal de Dunder Mifflin en Scranton está buscando un nuevo tema cuando descubre un periódico histórico de Toledo, The Truth Teller, y al entusiasta editor que intenta revivirlo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867946",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46895:1"
+}
+]
+}
+}

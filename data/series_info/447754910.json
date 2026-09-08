@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-16",
+"episode_count": 1,
+"id": 1010370260,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/vNPfbjfWn0VatpFUwd2QHtUMPad.jpg"
+}
+],
+"info": {
+"name": "ES - Sangre y dinero",
+"cover": "https://image.tmdb.org/t/p/w154/vNPfbjfWn0VatpFUwd2QHtUMPad.jpg",
+"plot": "",
+"cast": "",
+"director": "Xavier Giannoli, Frédéric Planchon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867934",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "98576031",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-16",
+"plot": "En 2005, Europa implementa un impuesto sobre el carbono para luchar contra el cambio climático, pero que, para las grandes empresas, se traduce rápidamente como el \"derecho a contaminar, si pagas\". Dos estafadores de Belville, Simon Weynachter (Vincent Lindon) y Alain Fitoussi (Ramzy Bedia), y un joven rico adicto a las finanzas y al póker, Jérôme Attias (Niels Schneider), se reúnen para desviar varios miles de millones de euros de estas \"cuotas de carbono\" de los estados de la Unión Europea a sus bolsillos... El caso fue bautizado como \"el fraude del siglo\" por los medios de comunicación franceses.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867934",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30269:1"
+}
+]
+}
+}

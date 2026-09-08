@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-07",
+"episode_count": 2,
+"id": 1992471361,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBX3kZCAS5O3gyKCYCVaevAChPi.jpg"
+}
+],
+"info": {
+"name": "ES - Cardo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBX3kZCAS5O3gyKCYCVaevAChPi.jpg",
+"plot": "",
+"cast": "",
+"director": "Ana Rujas, Claudia Costafreda",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867988",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "498356163",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-07",
+"plot": "'Cardo' narra la historia de María, una chica madrileña al borde de 30 años sin mucho que ofrecer al mundo, enganchada a las drogas y a desenvolverse a través de relaciones tóxicas y sexuales, odia su cuerpo a la vez que lo utiliza para conseguir retos efímeros. La ficción reflexiona sobre las expectativas que se nos imponen según lo que somos físicamente, según lo que somos socialmente y el vacío de toda una generación de jóvenes que hoy rondan los 30 años. Cómo llenamos ese vacío a través de consumismo y placeres efímeros sin ahondar en lo que realmente nos pasa ni en quiénes realmente somos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867988",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34435:2"
+},
+{
+"id": "289095578",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-07",
+"plot": "'Cardo' narra la historia de María, una chica madrileña al borde de 30 años sin mucho que ofrecer al mundo, enganchada a las drogas y a desenvolverse a través de relaciones tóxicas y sexuales, odia su cuerpo a la vez que lo utiliza para conseguir retos efímeros. La ficción reflexiona sobre las expectativas que se nos imponen según lo que somos físicamente, según lo que somos socialmente y el vacío de toda una generación de jóvenes que hoy rondan los 30 años. Cómo llenamos ese vacío a través de consumismo y placeres efímeros sin ahondar en lo que realmente nos pasa ni en quiénes realmente somos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867988",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34435:1"
+}
+]
+}
+}

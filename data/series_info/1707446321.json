@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-06-03",
+"episode_count": 3,
+"id": 274503709,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5f23i30nFJz0nrd3DGheOCqXa2P.jpg"
+}
+],
+"info": {
+"name": "ES - POSE (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5f23i30nFJz0nrd3DGheOCqXa2P.jpg",
+"plot": "",
+"cast": "",
+"director": "Ryan Murphy, Brad Falchuk, Steven Canals",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867925",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1568117591",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-03",
+"plot": "Serie de TV (2018-2021). 3 temporadas. \"Pose\" es una serie sobre la escena cultural afroamericana y latina LGBTQ+ y de género inconformista de la ciudad de Nueva York en la década de 1980. Los personajes destacados son bailarines y modelos que compiten por trofeos y reconocimiento en esta cultura underground, y que se apoyan mutuamente en una red de familias elegidas conocidas como Houses (Casas).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867925",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDM0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38034:3"
+},
+{
+"id": "1432655442",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-03",
+"plot": "Serie de TV (2018-2021). 3 temporadas. \"Pose\" es una serie sobre la escena cultural afroamericana y latina LGBTQ+ y de género inconformista de la ciudad de Nueva York en la década de 1980. Los personajes destacados son bailarines y modelos que compiten por trofeos y reconocimiento en esta cultura underground, y que se apoyan mutuamente en una red de familias elegidas conocidas como Houses (Casas).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867925",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDM0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38034:2"
+},
+{
+"id": "1725352228",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-03",
+"plot": "Serie de TV (2018-2021). 3 temporadas. \"Pose\" es una serie sobre la escena cultural afroamericana y latina LGBTQ+ y de género inconformista de la ciudad de Nueva York en la década de 1980. Los personajes destacados son bailarines y modelos que compiten por trofeos y reconocimiento en esta cultura underground, y que se apoyan mutuamente en una red de familias elegidas conocidas como Houses (Casas).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867925",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38034:1"
+}
+]
+}
+}

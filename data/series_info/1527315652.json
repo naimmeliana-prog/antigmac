@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-07",
+"episode_count": 2,
+"id": 1949105423,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld6CEnOTxZifoEekxTdMRqpbFVk.jpg"
+}
+],
+"info": {
+"name": "ES - Puños de hielo (2023) (FI)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld6CEnOTxZifoEekxTdMRqpbFVk.jpg",
+"plot": "",
+"cast": "",
+"director": "Olli Haikka, Olli Tola, Timo Varpio",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867928",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1040322272",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-07",
+"plot": "La inspectora Maria Pudas (Saara Kotkaniemi), excampeona del mundo de boxeo, protagoniza esta serie policíaca ambientada en Rovaniemi, capital administrativa de Laponia e importante foco turístico y universitario de Finlandia. En el implacable paisaje del Círculo Polar Ártico como telón de fondo, Maria vive volcada en su trabajo y el deporte, mientras hace todo lo posible para mejorar la vida de su esposa Essi (Iina Kuustonen ) y sus dos hijos, Leo y Sofia. Con la ayuda de su compañero, Samu (Karim Rapatti), Maria aborda en cada episodio un nuevo crimen basado en hechos reales. A medida que avanza la serie, María se verá obligada a sopesar su vuelta al mundo del boxeo para saldar las deudas de su padre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867928",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjE0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47214:2"
+},
+{
+"id": "1586410950",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-07",
+"plot": "La inspectora Maria Pudas (Saara Kotkaniemi), excampeona del mundo de boxeo, protagoniza esta serie policíaca ambientada en Rovaniemi, capital administrativa de Laponia e importante foco turístico y universitario de Finlandia. En el implacable paisaje del Círculo Polar Ártico como telón de fondo, Maria vive volcada en su trabajo y el deporte, mientras hace todo lo posible para mejorar la vida de su esposa Essi (Iina Kuustonen ) y sus dos hijos, Leo y Sofia. Con la ayuda de su compañero, Samu (Karim Rapatti), Maria aborda en cada episodio un nuevo crimen basado en hechos reales. A medida que avanza la serie, María se verá obligada a sopesar su vuelta al mundo del boxeo para saldar las deudas de su padre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867928",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47214:1"
+}
+]
+}
+}

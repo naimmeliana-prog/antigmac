@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-04",
+"episode_count": 1,
+"id": 1369226868,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg"
+}
+],
+"info": {
+"name": "ES - Todas las de la ley (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Robin Baitz, Joe Baken, Ryan Murphy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867956",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1463004015",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-04",
+"plot": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con rupturas de alto riesgo, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde el dinero manda y el amor es un campo de batalla, estas mujeres no solo juegan, sino que cambian las reglas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867956",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46430:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-08",
+"episode_count": 1,
+"id": 1452775604,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9SPGN8SuhUMpobL8CKUgp9As1V.jpg"
+}
+],
+"info": {
+"name": "ES - The Pirate Bay (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9SPGN8SuhUMpobL8CKUgp9As1V.jpg",
+"plot": "",
+"cast": "",
+"director": "Piotr Marciniak",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867946",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1254098259",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-08",
+"plot": "Una historia real e impactante: basada en hechos reales, esta serie sueca ofrece una visión profunda del impacto de The Pirate Bay en la cultura digital. Un caso muy controvertido que aún colea y en el que confluyen dos derechos esenciales: el derecho a la libertad y el derecho a la propiedad.\r\n\r\nEn 2003 tres informáticos suecos Peter (alias brokep), Fredrik (alias TiAMO) y Gottfrid (alias anakata) se conocen en un foro de Internet. Pronto deciden crear una plataforma de intercambio de archivos como reacción a las grandes empresas que intentan hacerse con el control de la red. Los tres jóvenes inician una auténtica revolución permitiendo que millones de usuarios intercambien películas y archivos de música libremente a través de Internet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867946",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5OTI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39924:1"
+}
+]
+}
+}

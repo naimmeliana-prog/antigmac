@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-17",
+"episode_count": 1,
+"id": 1215683684,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXE3m8SyicvIy8jpalv2dQkaeVP.jpg"
+}
+],
+"info": {
+"name": "ES - American Sports Story: Aaron Hernandez (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXE3m8SyicvIy8jpalv2dQkaeVP.jpg",
+"plot": "",
+"cast": "",
+"director": "Stuart Zicherman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867879",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1192893489",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-17",
+"plot": "Serie de antología que se centrará en un evento destacado sobre una figura del deporte, y que se narrará a través de la perspectiva de múltiples personajes. La primera temporada se centrará en el futbolista Aaron Hernández, condenado por asesinato y suicidio",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867879",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37075:1"
+}
+]
+}
+}

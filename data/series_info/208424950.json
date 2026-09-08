@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-22",
+"episode_count": 2,
+"id": 12259017,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRDb93pcHwOnEjINUROtI8IToms.jpg"
+}
+],
+"info": {
+"name": "ES - Accused (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRDb93pcHwOnEjINUROtI8IToms.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867877",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1171772520",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-22",
+"plot": "Serie antológica sobre crímenes que examina algunos de los problemas sociales más relevantes de nuestro tiempo, refractados a través del prisma de personas corrientes atrapadas en circunstancias extraordinarias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867877",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjAzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41603:2"
+},
+{
+"id": "1782122360",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-22",
+"plot": "Serie antológica sobre crímenes que examina algunos de los problemas sociales más relevantes de nuestro tiempo, refractados a través del prisma de personas corrientes atrapadas en circunstancias extraordinarias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867877",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41603:1"
+}
+]
+}
+}

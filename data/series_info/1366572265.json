@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-08-25",
+"episode_count": 3,
+"id": 1001307843,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKMCbTAkEgvA97M8Isdqp4t12Cf.jpg"
+}
+],
+"info": {
+"name": "ES - Sanditon (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKMCbTAkEgvA97M8Isdqp4t12Cf.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrew Davies",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867934",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "759457543",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-25",
+"plot": "Sanditon es el nombre de un antiguo pueblo de pescadores que se está transformando en un balneario de moda. Allí se encuentra Charlotte Heywood, una mujer liberal y moderna para la época y también muy impulsiva que desea reinventarse. La trama da un giro cuando salen a la luz las agendas ocultas de los personajes, cuya fortuna depende del éxito comercial de Sanditon.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867934",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjYxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37261:3"
+},
+{
+"id": "1001553005",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-25",
+"plot": "Sanditon es el nombre de un antiguo pueblo de pescadores que se está transformando en un balneario de moda. Allí se encuentra Charlotte Heywood, una mujer liberal y moderna para la época y también muy impulsiva que desea reinventarse. La trama da un giro cuando salen a la luz las agendas ocultas de los personajes, cuya fortuna depende del éxito comercial de Sanditon.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867934",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjYxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37261:2"
+},
+{
+"id": "777961895",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-25",
+"plot": "Sanditon es el nombre de un antiguo pueblo de pescadores que se está transformando en un balneario de moda. Allí se encuentra Charlotte Heywood, una mujer liberal y moderna para la época y también muy impulsiva que desea reinventarse. La trama da un giro cuando salen a la luz las agendas ocultas de los personajes, cuya fortuna depende del éxito comercial de Sanditon.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867934",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37261:1"
+}
+]
+}
+}

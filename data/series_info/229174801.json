@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-09",
+"episode_count": 2,
+"id": 1793332778,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCmZCRDq1vA02IehHTpYWgQO6xz.jpg"
+}
+],
+"info": {
+"name": "ES - Muerte bajo cero (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCmZCRDq1vA02IehHTpYWgQO6xz.jpg",
+"plot": "",
+"cast": "",
+"director": "Christian Rönnbacka",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867920",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "858930265",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Thriller psicológico de 8 episodios que transcurre en Porvoo, al sur de Finlandia, donde el idílico río que atraviesa la ciudad se convierte en el escenario de unos misteriosos asesinatos. El principal sospechoso es Tero Lindfors (Onni Parviainen), un joven policía con un pasado de problemas mentales, cuyo padre trabajó durante más de veinte años con el inspector jefe Antti Hautalehto (Mikko Leppilampi). Para descubrir la verdad Hautalehto tendrá que sacar a la luz un suceso traumático del pasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867920",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDA3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36007:2"
+},
+{
+"id": "66301454",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Thriller psicológico de 8 episodios que transcurre en Porvoo, al sur de Finlandia, donde el idílico río que atraviesa la ciudad se convierte en el escenario de unos misteriosos asesinatos. El principal sospechoso es Tero Lindfors (Onni Parviainen), un joven policía con un pasado de problemas mentales, cuyo padre trabajó durante más de veinte años con el inspector jefe Antti Hautalehto (Mikko Leppilampi). Para descubrir la verdad Hautalehto tendrá que sacar a la luz un suceso traumático del pasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867920",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36007:1"
+}
+]
+}
+}

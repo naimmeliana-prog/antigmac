@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2015-01-16",
+"episode_count": 3,
+"id": 142129618,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWbfF5gMAvybRhsCDFVat1gZgqz.jpg"
+}
+],
+"info": {
+"name": "ES - 12 Monos",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWbfF5gMAvybRhsCDFVat1gZgqz.jpg",
+"plot": "",
+"cast": "",
+"director": "Terry Matalas, Travis Fickett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867876",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "553325728",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-16",
+"plot": "Sigue el viaje de un viajero en el tiempo desde el futuro post-apocalíptico que aparece en nuestros días a una misión para localizar y erradicar la fuente de una plaga mortal que eventualmente diezmará a la raza humana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867876",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg1NDQsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8544:3"
+},
+{
+"id": "1820635941",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-16",
+"plot": "Sigue el viaje de un viajero en el tiempo desde el futuro post-apocalíptico que aparece en nuestros días a una misión para localizar y erradicar la fuente de una plaga mortal que eventualmente diezmará a la raza humana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867876",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg1NDQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8544:2"
+},
+{
+"id": "1590726841",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-16",
+"plot": "Sigue el viaje de un viajero en el tiempo desde el futuro post-apocalíptico que aparece en nuestros días a una misión para localizar y erradicar la fuente de una plaga mortal que eventualmente diezmará a la raza humana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867876",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg1NDQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8544:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-08",
+"episode_count": 1,
+"id": 763043253,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qotEvxBhgVJpnN3Mf23GYJ3ESRG.jpg"
+}
+],
+"info": {
+"name": "ES - Asalto al Banco Central (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qotEvxBhgVJpnN3Mf23GYJ3ESRG.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868012",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1220525156",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-08",
+"plot": "España, 1981. Un grupo de hombres armados asalta un banco y toma cientos de rehenes. Una periodista compite con las autoridades para descubrir el verdadero motivo del golpe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868012",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37880:1"
+}
+]
+}
+}

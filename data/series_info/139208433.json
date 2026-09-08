@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-01",
+"episode_count": 1,
+"id": 1676440498,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qb2XtA2XCoZWyt4Yth7TziOEnR.jpg"
+}
+],
+"info": {
+"name": "ES - The Darkness (La oscuridad) (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qb2XtA2XCoZWyt4Yth7TziOEnR.jpg",
+"plot": "",
+"cast": "",
+"director": "Lasse Hallström",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867944",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1919138387",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-01",
+"plot": "Narra la historia de la detective de homicidios Hulda Hermannsdóttir (Lena Olin), que ha de investigar un estremecedor caso de asesinato mientras intenta superar sus propios traumas personales. Ante una inminente jubilación anticipada y la obligación de trabajar con un nuevo compañero, Hulda está decidida a encontrar al asesino, incluso si para ello tiene que arriesgar su propia vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867944",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4OTAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38901:1"
+}
+]
+}
+}

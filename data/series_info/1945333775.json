@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2018-02-01",
+"episode_count": 5,
+"id": 192191415,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFwkWTDUjLN0LQmidsUJWEViCmo.jpg"
+}
+],
+"info": {
+"name": "ES - La resistencia (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFwkWTDUjLN0LQmidsUJWEViCmo.jpg",
+"plot": "",
+"cast": "",
+"director": "Ricardo Castella",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867910",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "751202975",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-01",
+"plot": "La Resistencia Cada noche de lunes a jueves, David Broncano se enfrenta a un late late night que ha supuesto todo un fenómeno televisivo al crear una nueva forma de hacer televisión. Con su peculiar humor, las cosas puedan tomar rumbos insospechados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867910",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDc4LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37078:5"
+},
+{
+"id": "789127404",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-01",
+"plot": "La Resistencia Cada noche de lunes a jueves, David Broncano se enfrenta a un late late night que ha supuesto todo un fenómeno televisivo al crear una nueva forma de hacer televisión. Con su peculiar humor, las cosas puedan tomar rumbos insospechados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867910",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDc4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37078:4"
+},
+{
+"id": "97576477",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-01",
+"plot": "La Resistencia Cada noche de lunes a jueves, David Broncano se enfrenta a un late late night que ha supuesto todo un fenómeno televisivo al crear una nueva forma de hacer televisión. Con su peculiar humor, las cosas puedan tomar rumbos insospechados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867910",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDc4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37078:3"
+},
+{
+"id": "498329806",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-01",
+"plot": "La Resistencia Cada noche de lunes a jueves, David Broncano se enfrenta a un late late night que ha supuesto todo un fenómeno televisivo al crear una nueva forma de hacer televisión. Con su peculiar humor, las cosas puedan tomar rumbos insospechados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867910",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDc4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37078:2"
+},
+{
+"id": "223295002",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-01",
+"plot": "La Resistencia Cada noche de lunes a jueves, David Broncano se enfrenta a un late late night que ha supuesto todo un fenómeno televisivo al crear una nueva forma de hacer televisión. Con su peculiar humor, las cosas puedan tomar rumbos insospechados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867910",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37078:1"
+}
+]
+}
+}

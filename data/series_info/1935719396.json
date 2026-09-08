@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-26",
+"episode_count": 1,
+"id": 1726346040,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XpnL8wrBSe4dhjK2SLcStg3NHN.jpg"
+}
+],
+"info": {
+"name": "ES - Aguas turbias (2025) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XpnL8wrBSe4dhjK2SLcStg3NHN.jpg",
+"plot": "",
+"cast": "",
+"director": "Chun Sung-il",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868020",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "73747932",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-26",
+"plot": "En la anárquica Joseon, el río Gyeonggang se ha convertido en aguas turbias. Siyul esconde un pasado problemático, Choi Eun sueña con convertirse en la mayor comerciante del país, y Jung Chun aspira a ser un oficial recto. Sus destinos se entrelazan al luchar para dar forma a su mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868020",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45629:1"
+}
+]
+}
+}

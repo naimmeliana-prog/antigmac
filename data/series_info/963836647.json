@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-02-10",
+"episode_count": 1,
+"id": 37955317,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YdTJtEhgMmOtcI9sISzl8iDXJv.jpg"
+}
+],
+"info": {
+"name": "ES - Amor a segunda vista (2015)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YdTJtEhgMmOtcI9sISzl8iDXJv.jpg",
+"plot": "",
+"cast": "",
+"director": "Ersoy Güler",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868041",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1566457754",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-02-10",
+"plot": "Zeynep Taşkın y Fatih Şekercizade, dos jóvenes de diferentes orígenes se cruzan en un vuelo de regreso a sus casas en Turquía. Ambos deben retomar sus vidas allí, pero antes de hacerlo, deciden fingir un matrimonio para librarse de sus familias.  Fatih es un joven millonario que no quiere que le obliguen a casarse, mientras que Zeynep necesita tiempo para poder explicarles que fue abandonada por su novio y se convirtió en madre soltera.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868041",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35529:1"
+}
+]
+}
+}

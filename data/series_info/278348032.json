@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2011-04-10",
+"episode_count": 3,
+"id": 1956566716,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O9e885eK5VoVfNfjcPxyigLtA8.jpg"
+}
+],
+"info": {
+"name": "ES - A un paso del cielo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O9e885eK5VoVfNfjcPxyigLtA8.jpg",
+"plot": "",
+"cast": "",
+"director": "Enrico Oldoini",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868023",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "228251588",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-04-10",
+"plot": "‘A un paso del cielo’ es la historia de Pietro, el jefe de equipo del Cuerpo Forestal de la ciudad, un hombre con un doloroso secreto detrás. Él era una leyenda de la montaña, un escalador capaz de conquistar los picos más difíciles hasta que el trágico accidente de su mujer, que murió durante una escalada. Desde entonces su vida ha cambiado y elige para retirarse las montañas para recuperar la paz y encontrarse a sí mismo. Pietro colabora con el ayudante de la comisaría napolitana, Huber, en la resolución de crímenes y casos sin aparente solución a pesar de la oposición del comisario Vincenzo Nappi.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNjg4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13688:3"
+},
+{
+"id": "176973445",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-04-10",
+"plot": "‘A un paso del cielo’ es la historia de Pietro, el jefe de equipo del Cuerpo Forestal de la ciudad, un hombre con un doloroso secreto detrás. Él era una leyenda de la montaña, un escalador capaz de conquistar los picos más difíciles hasta que el trágico accidente de su mujer, que murió durante una escalada. Desde entonces su vida ha cambiado y elige para retirarse las montañas para recuperar la paz y encontrarse a sí mismo. Pietro colabora con el ayudante de la comisaría napolitana, Huber, en la resolución de crímenes y casos sin aparente solución a pesar de la oposición del comisario Vincenzo Nappi.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13688:1"
+},
+{
+"id": "22649603",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-04-10",
+"plot": "‘A un paso del cielo’ es la historia de Pietro, el jefe de equipo del Cuerpo Forestal de la ciudad, un hombre con un doloroso secreto detrás. Él era una leyenda de la montaña, un escalador capaz de conquistar los picos más difíciles hasta que el trágico accidente de su mujer, que murió durante una escalada. Desde entonces su vida ha cambiado y elige para retirarse las montañas para recuperar la paz y encontrarse a sí mismo. Pietro colabora con el ayudante de la comisaría napolitana, Huber, en la resolución de crímenes y casos sin aparente solución a pesar de la oposición del comisario Vincenzo Nappi.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13688:2"
+}
+]
+}
+}

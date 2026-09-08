@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-09-21",
+"episode_count": 1,
+"id": 506254057,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wfyd41N8nIZq1TEonj90rcmqYE.jpg"
+}
+],
+"info": {
+"name": "ES - Blindspot",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wfyd41N8nIZq1TEonj90rcmqYE.jpg",
+"plot": "",
+"cast": "",
+"director": "Martin Gero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868032",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "704215451",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-21",
+"plot": "Blindspot parte de una atractiva mujer, sin recuerdos de su pasado, que aparece desnuda en Times Square cubriendo su cuerpo solamente de tatuajes intrincados. Su descubrimiento pone en marcha un gran y complejo misterio que llama inmediatamente la atención del FBI, que comienzan a seguir la hoja de ruta en su cuerpo para revelar una conspiración más amplia de delito y, de esa manera, descubrir la verdad sobre su identidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMDIxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10021:3"
+}
+]
+}
+}

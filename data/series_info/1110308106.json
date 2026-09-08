@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-19",
+"episode_count": 1,
+"id": 1869088075,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIT5meYMxaNPi8X6YgEVcyDsfTa.jpg"
+}
+],
+"info": {
+"name": "ES - Barrio Esperanza (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIT5meYMxaNPi8X6YgEVcyDsfTa.jpg",
+"plot": "",
+"cast": "",
+"director": "Iván Escobar, Antonio Sánchez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868021",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "722127488",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-19",
+"plot": "Durante su condena, Esperanza, una mujer que en su juventud cometió un error tras otro, aprovechó el tiempo para estudiar la carrera de magisterio y aprobar la oposición para dar clase en un colegio público. Ahora, como maestra de Primaria, descubrirá que lo que aprendió en prisión le será de más utilidad que los temarios de la oposición.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868021",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49023:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-08",
+"episode_count": 1,
+"id": 257409056,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mimnqhjGdo3qlhn5tTJtjIETEJU.jpg"
+}
+],
+"info": {
+"name": "ES - The Thing About Pam (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mimnqhjGdo3qlhn5tTJtjIETEJU.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867947",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "469553052",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-08",
+"plot": "Serie basada en un crimen real, el asesinato de Betsy Faria en 2011, por el que fue condenado su marido, aunque él aseguró que no la mató. Después se desataron una serie de sucesos que expusieron una trama diabólica en la que participó Pam Hupp.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867947",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38623:1"
+}
+]
+}
+}

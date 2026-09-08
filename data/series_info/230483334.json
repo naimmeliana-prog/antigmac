@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-17",
+"episode_count": 1,
+"id": 243047144,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1f2h6q5FUBN9pe0wl5iUg5bzCq.jpg"
+}
+],
+"info": {
+"name": "ES - Detective Harjunpää (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1f2h6q5FUBN9pe0wl5iUg5bzCq.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867891",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1887508618",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-17",
+"plot": "El sargento Harjunpää (Olli Rahkonen) es un hombre de familia reservado, y psicológicamente muy astuto, conocido por su honestidad y que es capaz de empatizar tanto con las víctimas, como con los criminales. A su lado, Onerva Nykanen (Olga Temonen) será su mano derecha para emprender la investigación de una ola de asesinatos que tienen lugar en la capital finlandesa durante los interminables días del verano escandinavo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867891",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42755:1"
+}
+]
+}
+}

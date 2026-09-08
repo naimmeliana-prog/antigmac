@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "1986-10-15",
+"episode_count": 1,
+"id": 1705311220,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4KLsqSXBLsR72gklIVDem1jvpD.jpg"
+}
+],
+"info": {
+"name": "ES - Supergol",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4KLsqSXBLsR72gklIVDem1jvpD.jpg",
+"plot": "",
+"cast": "",
+"director": "Akira Shigino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867939",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "217893500",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1986-10-15",
+"plot": "Trata sobre un equipo de fútbol infantil a punto de ser disuelto por la falta de interés y calidad de sus componentes, hasta que llega un chico nuevo (Rafael, en el doblaje original castellano) recién mudado a la ciudad. Con su calidad y, especialmente, su contagiosa ilusión por el fútbol el equipo se transformará totalmente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867939",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34320:1"
+}
+]
+}
+}

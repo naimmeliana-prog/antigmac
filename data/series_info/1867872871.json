@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-25",
+"episode_count": 1,
+"id": 1054306155,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cujwwxNF1A8U3WHumDelgcUCDg1.jpg"
+}
+],
+"info": {
+"name": "ES - Mòpies (2022) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cujwwxNF1A8U3WHumDelgcUCDg1.jpg",
+"plot": "",
+"cast": "",
+"director": "Toti Garcia, Lluís Prieto",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867921",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "62271678",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-25",
+"plot": "En la sierra de Tramuntana, Bel, una adolescente asiste con su hermano Pere a un campamento de verano en el Santuario de Lluc. Allí, Pedro se reencuentra con Gori e integra a Hilda en el grupo de amigos, los Espiadimonis. Judith, una monitora del campamento, les incentiva a realizar la actividad más emocionante de todas: ir a cazar mopias. Durante la actividad, mientras que un ser extraño se esconde en el bosque, ocurre un suceso inexplicable. Ante el fenómeno, Bel, junto con la ayuda de Judith y la colaboración de Gori y Hilda, partirá en busca de las claves para resolver el misterio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867921",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49048:1"
+}
+]
+}
+}

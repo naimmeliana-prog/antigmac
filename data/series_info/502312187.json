@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-17",
+"episode_count": 2,
+"id": 484314228,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0EI6nLIOEnOLsAw9g0mNO6CV2v.jpg"
+}
+],
+"info": {
+"name": "ES - Oh Hell (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0EI6nLIOEnOLsAw9g0mNO6CV2v.jpg",
+"plot": "",
+"cast": "",
+"director": "Johannes Boss",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867924",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1733288242",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-17",
+"plot": "La vida de Helene, de 24 años, es todo lo contrario al mundo perfecto de Instagram. Además, ella tiene parte de la culpa del divorcio de sus padres. Cuando conoce al profesor de violonchelo Oskar, Hell tiene por fin la oportunidad de vivir la vida que se imaginaba.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867924",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38561:1"
+},
+{
+"id": "1959188982",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-17",
+"plot": "La vida de Helene, de 24 años, es todo lo contrario al mundo perfecto de Instagram. Además, ella tiene parte de la culpa del divorcio de sus padres. Cuando conoce al profesor de violonchelo Oskar, Hell tiene por fin la oportunidad de vivir la vida que se imaginaba.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867924",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTYxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38561:2"
+}
+]
+}
+}

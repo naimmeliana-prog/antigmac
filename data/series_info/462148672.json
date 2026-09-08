@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-05",
+"episode_count": 1,
+"id": 1574778282,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAQYZMcYQqUN1Vhp9lATqi7Ro59.jpg"
+}
+],
+"info": {
+"name": "ES - Bajo Control",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAQYZMcYQqUN1Vhp9lATqi7Ro59.jpg",
+"plot": "",
+"cast": "",
+"director": "Charly Delwart",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867881",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "69839447",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-05",
+"plot": "Marie Tessier, 45 años, directora de una ONG, es nombrada Ministra de Asuntos Exteriores el día en que cinco europeos, entre ellos dos franceses, son tomados como rehenes por terroristas en el Sahel. Convirtiendo la crisis en un asunto personal, Marie cruza rápidamente todas las líneas rojas e intenta dar la impresión de que todo está bajo control.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867881",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32265:1"
+}
+]
+}
+}

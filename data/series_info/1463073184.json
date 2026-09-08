@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2009-03-02",
+"episode_count": 3,
+"id": 1840684017,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/erMjFQbdjSxNFr0nBalajIGeb2s.jpg"
+}
+],
+"info": {
+"name": "ES - Angel of Death (2009) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/erMjFQbdjSxNFr0nBalajIGeb2s.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868005",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1106508049",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-03-02",
+"plot": "Angel of Death is a web series of eight to ten minute episodes created by Ed Brubaker. The series stars Zoë Bell as Eve, an assassin taking revenge on her former employers, and costars Lucy Lawless. Angel of Death was produced by White Rock Lake Production and distributed by Sony Pictures Television. The episodes were released on Crackle from March 2 to March 13, 2009.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868005",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTk2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35996:3"
+},
+{
+"id": "928284797",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-03-02",
+"plot": "Angel of Death is a web series of eight to ten minute episodes created by Ed Brubaker. The series stars Zoë Bell as Eve, an assassin taking revenge on her former employers, and costars Lucy Lawless. Angel of Death was produced by White Rock Lake Production and distributed by Sony Pictures Television. The episodes were released on Crackle from March 2 to March 13, 2009.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868005",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTk2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35996:2"
+},
+{
+"id": "1855928502",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-03-02",
+"plot": "Angel of Death is a web series of eight to ten minute episodes created by Ed Brubaker. The series stars Zoë Bell as Eve, an assassin taking revenge on her former employers, and costars Lucy Lawless. Angel of Death was produced by White Rock Lake Production and distributed by Sony Pictures Television. The episodes were released on Crackle from March 2 to March 13, 2009.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868005",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35996:1"
+}
+]
+}
+}

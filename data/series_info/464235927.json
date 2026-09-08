@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-10-08",
+"episode_count": 1,
+"id": 1049361043,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aY23kASw02LgWBfoqBjLhCTZDTH.jpg"
+}
+],
+"info": {
+"name": "ES - Blood (2018) (IE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aY23kASw02LgWBfoqBjLhCTZDTH.jpg",
+"plot": "",
+"cast": "",
+"director": "Sophie Petzal",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867884",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1651450838",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-08",
+"plot": "Cat Hogan es una mujer solitaria que lleva años huyendo de su pasado. Un pasado al cual deberá enfrentarse cuando la repentina y accidental muerte de su madre, Mary, la lleve de nuevo junto a esa familia a la que ha tratado de evitar en los últimos diez años. Cat, que siempre ha sido la oveja negra, añadirá tensión a la ya de por si incómoda reunión familiar cuando empiece a sospechar que la muerte de su madre no ha sido accidental, y que su padre podría haber tenido algo que ver en ella. \"Blood\" se centra en los siete días posteriores a la muerte de Mary, mientras Cat trata de encontrar en las sombras de su pasado la luz que aclare las sospechas del presente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867884",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44349:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-01",
+"episode_count": 1,
+"id": 6480408,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw9DBdrF58jsv2mkCqcQTJynsTU.jpg"
+}
+],
+"info": {
+"name": "ES - Mi nombre es Farah (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw9DBdrF58jsv2mkCqcQTJynsTU.jpg",
+"plot": "",
+"cast": "",
+"director": "Cem Görgeç, Deniz Dargı, Cenk Boğatur",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867917",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "233000912",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-01",
+"plot": "Farah es una joven que ha tenido que huir de su país natal y lucha ilegalmente por sobrevivir junto a su hijo enfermo en Estambul. En una noche aparentemente ordinaria, su vida da un giro inesperado cuando presencia involuntariamente un asesinato. Este suceso la llevará a un cruce de caminos con Tahir Lekesiz, un hombre al que conoce esa misma noche. Este encuentro cambiará sus vidas para siempre y los arrastrará a un mundo de misterio, intriga y peligro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867917",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35397:1"
+}
+]
+}
+}

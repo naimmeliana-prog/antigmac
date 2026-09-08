@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-28",
+"episode_count": 1,
+"id": 786082467,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCR66tgDuScN7oapR4ljq3L7tsn.jpg"
+}
+],
+"info": {
+"name": "ES - Secrets (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCR66tgDuScN7oapR4ljq3L7tsn.jpg",
+"plot": "",
+"cast": "",
+"director": "Kaspar Munk, Lone Hørslev",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867934",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1442299648",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-28",
+"plot": "Los hermanos Mads y Eva luchan contra sus demonios personales mientras se esfuerzan por liberarse de patrones destructivos, poniendo a prueba los límites de los lazos familiares. Él es un profesor de música que escapa de su rutina y de su sensación de fracaso a través de la fiesta, el alcohol y las drogas. Ella es una prestigiosa arquitecta que se enfrenta a una grave crisis personal y profesional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867934",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41601:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-05",
+"episode_count": 1,
+"id": 479550630,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjNM1CAM3hXJyL8HLpOlsVyKzxY.jpg"
+}
+],
+"info": {
+"name": "ES  - Las Leonas (2026) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjNM1CAM3hXJyL8HLpOlsVyKzxY.jpg",
+"plot": "",
+"cast": "",
+"director": "Olivier Rosemberg, Carine Prevot",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867989",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "990447866",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-05",
+"plot": "Tras verse con el agua al cuello, cinco amigas desesperadas no encuentran otra salida que montar una banda, robar un montón de armas y ponerse a atracar bancos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867989",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47921:1"
+}
+]
+}
+}

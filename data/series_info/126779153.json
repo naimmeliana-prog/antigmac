@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2017-04-05",
+"episode_count": 4,
+"id": 281849582,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qt3pvbEqIhCI2pBCAPES0v8zP3.jpg"
+}
+],
+"info": {
+"name": "ES - Brockmire (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qt3pvbEqIhCI2pBCAPES0v8zP3.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867885",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1779488067",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-05",
+"plot": "Jim Brockmire fue el locutor de deportes más grande de la televisión. Tenía éxito, dinero y una vida perfecta hasta que descubrió que su mujer le había sido infiel. A raíz de este suceso, sufre una vergonzosa crisis mientras está narrando un importante partido de béisbol y se retira del mundo del espectáculo. Una década más tarde, Brockmire decide retomar su carrera en una decandente ciudad de Nueva York donde comienza a trabajar para una radio local que retransmite una pequeña liga de béisbol que quiere conseguir la gloria. Jules es la propietaria y Charles el joven entrenador de este equipo que acaba de fichar a una vieja gloria de la televisión para intentar conseguir un poco de renombre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867885",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTgwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37980:4"
+},
+{
+"id": "181182530",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-05",
+"plot": "Jim Brockmire fue el locutor de deportes más grande de la televisión. Tenía éxito, dinero y una vida perfecta hasta que descubrió que su mujer le había sido infiel. A raíz de este suceso, sufre una vergonzosa crisis mientras está narrando un importante partido de béisbol y se retira del mundo del espectáculo. Una década más tarde, Brockmire decide retomar su carrera en una decandente ciudad de Nueva York donde comienza a trabajar para una radio local que retransmite una pequeña liga de béisbol que quiere conseguir la gloria. Jules es la propietaria y Charles el joven entrenador de este equipo que acaba de fichar a una vieja gloria de la televisión para intentar conseguir un poco de renombre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867885",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTgwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37980:3"
+},
+{
+"id": "1880958899",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-05",
+"plot": "Jim Brockmire fue el locutor de deportes más grande de la televisión. Tenía éxito, dinero y una vida perfecta hasta que descubrió que su mujer le había sido infiel. A raíz de este suceso, sufre una vergonzosa crisis mientras está narrando un importante partido de béisbol y se retira del mundo del espectáculo. Una década más tarde, Brockmire decide retomar su carrera en una decandente ciudad de Nueva York donde comienza a trabajar para una radio local que retransmite una pequeña liga de béisbol que quiere conseguir la gloria. Jules es la propietaria y Charles el joven entrenador de este equipo que acaba de fichar a una vieja gloria de la televisión para intentar conseguir un poco de renombre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867885",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTgwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37980:2"
+},
+{
+"id": "1700957081",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-05",
+"plot": "Jim Brockmire fue el locutor de deportes más grande de la televisión. Tenía éxito, dinero y una vida perfecta hasta que descubrió que su mujer le había sido infiel. A raíz de este suceso, sufre una vergonzosa crisis mientras está narrando un importante partido de béisbol y se retira del mundo del espectáculo. Una década más tarde, Brockmire decide retomar su carrera en una decandente ciudad de Nueva York donde comienza a trabajar para una radio local que retransmite una pequeña liga de béisbol que quiere conseguir la gloria. Jules es la propietaria y Charles el joven entrenador de este equipo que acaba de fichar a una vieja gloria de la televisión para intentar conseguir un poco de renombre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867885",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37980:1"
+}
+]
+}
+}

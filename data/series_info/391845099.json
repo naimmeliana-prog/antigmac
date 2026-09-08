@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2010-03-16",
+"episode_count": 5,
+"id": 108726393,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/co2mZbCuO1Vv86a2VVcBYaBJwmf.jpg"
+}
+],
+"info": {
+"name": "ES - Justified: La ley de Raylan",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/co2mZbCuO1Vv86a2VVcBYaBJwmf.jpg",
+"plot": "",
+"cast": "",
+"director": "Graham Yost",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867907",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "435050384",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-03-16",
+"plot": "El alguacil Raylan Givens es un oficial del estilo del siglo XIX, pero hoy en día, que impone su propia justicia al enfrentarse a los delincuentes, lo que le causa conflictos con sus jefes en el Servicio de Alguaciles de Estados Unidos. Como resultado de haber disparado a un fugitivo en Miami en una \"justificada\" acción, se le reubicó en el distrito que cubre su ciudad natal en el este de Kentucky, el condado de Harlan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867907",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM1LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34335:5"
+},
+{
+"id": "1482930349",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-03-16",
+"plot": "El alguacil Raylan Givens es un oficial del estilo del siglo XIX, pero hoy en día, que impone su propia justicia al enfrentarse a los delincuentes, lo que le causa conflictos con sus jefes en el Servicio de Alguaciles de Estados Unidos. Como resultado de haber disparado a un fugitivo en Miami en una \"justificada\" acción, se le reubicó en el distrito que cubre su ciudad natal en el este de Kentucky, el condado de Harlan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867907",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34335:4"
+},
+{
+"id": "1866222865",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-03-16",
+"plot": "El alguacil Raylan Givens es un oficial del estilo del siglo XIX, pero hoy en día, que impone su propia justicia al enfrentarse a los delincuentes, lo que le causa conflictos con sus jefes en el Servicio de Alguaciles de Estados Unidos. Como resultado de haber disparado a un fugitivo en Miami en una \"justificada\" acción, se le reubicó en el distrito que cubre su ciudad natal en el este de Kentucky, el condado de Harlan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867907",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34335:3"
+},
+{
+"id": "1647349967",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-03-16",
+"plot": "El alguacil Raylan Givens es un oficial del estilo del siglo XIX, pero hoy en día, que impone su propia justicia al enfrentarse a los delincuentes, lo que le causa conflictos con sus jefes en el Servicio de Alguaciles de Estados Unidos. Como resultado de haber disparado a un fugitivo en Miami en una \"justificada\" acción, se le reubicó en el distrito que cubre su ciudad natal en el este de Kentucky, el condado de Harlan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867907",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34335:2"
+},
+{
+"id": "202857740",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-03-16",
+"plot": "El alguacil Raylan Givens es un oficial del estilo del siglo XIX, pero hoy en día, que impone su propia justicia al enfrentarse a los delincuentes, lo que le causa conflictos con sus jefes en el Servicio de Alguaciles de Estados Unidos. Como resultado de haber disparado a un fugitivo en Miami en una \"justificada\" acción, se le reubicó en el distrito que cubre su ciudad natal en el este de Kentucky, el condado de Harlan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867907",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34335:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-01",
+"episode_count": 2,
+"id": 1709282136,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rec774m02XNLSjU9qm5z6UUfMRl.jpg"
+}
+],
+"info": {
+"name": "ES - The Ark (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rec774m02XNLSjU9qm5z6UUfMRl.jpg",
+"plot": "",
+"cast": "",
+"director": "Dean Devlin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867942",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "659757471",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-01",
+"plot": "El Arca tiene lugar 100 años en el futuro cuando las misiones de colonización planetaria han comenzado como una necesidad para ayudar a asegurar la supervivencia de la raza humana. La primera de estas misiones en una nave espacial conocida como Ark One se encuentra con un evento catastrófico que causa destrucción masiva y pérdida de vidas. Con más de un año antes de llegar a su planeta objetivo, la falta de suministros vitales y la pérdida de liderazgo, la tripulación restante debe convertirse en la mejor versión de sí misma para mantener el rumbo y sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867942",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36044:2"
+},
+{
+"id": "290998542",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-01",
+"plot": "El Arca tiene lugar 100 años en el futuro cuando las misiones de colonización planetaria han comenzado como una necesidad para ayudar a asegurar la supervivencia de la raza humana. La primera de estas misiones en una nave espacial conocida como Ark One se encuentra con un evento catastrófico que causa destrucción masiva y pérdida de vidas. Con más de un año antes de llegar a su planeta objetivo, la falta de suministros vitales y la pérdida de liderazgo, la tripulación restante debe convertirse en la mejor versión de sí misma para mantener el rumbo y sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867942",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36044:1"
+}
+]
+}
+}

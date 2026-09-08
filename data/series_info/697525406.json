@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-17",
+"episode_count": 1,
+"id": 997745321,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8m4ExDRn3oqZJI33mxKaZBjbf1v.jpg"
+}
+],
+"info": {
+"name": "ES - Minx",
+"cover": "https://image.tmdb.org/t/p/w154/8m4ExDRn3oqZJI33mxKaZBjbf1v.jpg",
+"plot": "",
+"cast": "",
+"director": "Ellen Rapoport",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867918",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1331021658",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-17",
+"plot": "En la década de 1970 en Los Ángeles, Joyce, una joven y seria feminista une fuerzas con un editor de poca monta para crear la primera revista erótica para mujeres.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867918",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29896:1"
+}
+]
+}
+}

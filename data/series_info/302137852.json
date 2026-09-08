@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-22",
+"episode_count": 1,
+"id": 883871160,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/lpInnZep9PfG491qJtZAIbAEF7F.jpg"
+}
+],
+"info": {
+"name": "ES - The Best Man: The Final Chapters (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/lpInnZep9PfG491qJtZAIbAEF7F.jpg",
+"plot": "",
+"cast": "",
+"director": "Malcolm D. Lee, Dayna Lynne North",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867942",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "425122565",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-22",
+"plot": "Póngase al día con Harper, Robyn, Jordan, Lance, Quentin, Shelby, Candace y Murch a medida que evolucionan sus relaciones y las quejas pasadas resurgen en las etapas impredecibles de la crisis de mediana edad se encuentran con el renacimiento de la vida mediana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867942",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NjkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24691:1"
+}
+]
+}
+}

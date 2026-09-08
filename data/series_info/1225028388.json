@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-10-28",
+"episode_count": 3,
+"id": 960565267,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS4YC1oErEWJUnom6fl7dOxn1Se.jpg"
+}
+],
+"info": {
+"name": "ES - El tiempo de la felicidad (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS4YC1oErEWJUnom6fl7dOxn1Se.jpg",
+"plot": "",
+"cast": "",
+"director": "Siv Rajendram Eliassen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867899",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "525892227",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-28",
+"plot": "Año 1969 en el pequeño pueblo costero de Stavanger (Noruega). Diversas compañías petrolíferas de todo el mundo han realizado perforaciones en el Mar del Norte, pero al no haber encontrado nada, están pensando en abandonar el lugar. El día de Nochebuena, Phillips Petroleum, una empresa estadounidense, logra encontrar el yacimiento petrolífero más grande de la historia. La vida en Stavanger, hasta la fecha un pueblo dedicado a la pesca y que sufría una grave crisis económica, va a dar un giro de 180 grados y Noruega experimentará un cambio sin precedentes en su avance hacia el estado del bienestar y la igualdad de derechos entre hombres y mujeres. La historia se centra en cuatro jóvenes, los noruegos Anna, Christian y Toril y el estadounidense Jonathan, sus relaciones y sus sueños en un tiempo de prosperidad y cambio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867899",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjgzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41283:2"
+},
+{
+"id": "530500248",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-28",
+"plot": "Año 1969 en el pequeño pueblo costero de Stavanger (Noruega). Diversas compañías petrolíferas de todo el mundo han realizado perforaciones en el Mar del Norte, pero al no haber encontrado nada, están pensando en abandonar el lugar. El día de Nochebuena, Phillips Petroleum, una empresa estadounidense, logra encontrar el yacimiento petrolífero más grande de la historia. La vida en Stavanger, hasta la fecha un pueblo dedicado a la pesca y que sufría una grave crisis económica, va a dar un giro de 180 grados y Noruega experimentará un cambio sin precedentes en su avance hacia el estado del bienestar y la igualdad de derechos entre hombres y mujeres. La historia se centra en cuatro jóvenes, los noruegos Anna, Christian y Toril y el estadounidense Jonathan, sus relaciones y sus sueños en un tiempo de prosperidad y cambio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867899",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41283:1"
+},
+{
+"id": "914414395",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-28",
+"plot": "Año 1969 en el pequeño pueblo costero de Stavanger (Noruega). Diversas compañías petrolíferas de todo el mundo han realizado perforaciones en el Mar del Norte, pero al no haber encontrado nada, están pensando en abandonar el lugar. El día de Nochebuena, Phillips Petroleum, una empresa estadounidense, logra encontrar el yacimiento petrolífero más grande de la historia. La vida en Stavanger, hasta la fecha un pueblo dedicado a la pesca y que sufría una grave crisis económica, va a dar un giro de 180 grados y Noruega experimentará un cambio sin precedentes en su avance hacia el estado del bienestar y la igualdad de derechos entre hombres y mujeres. La historia se centra en cuatro jóvenes, los noruegos Anna, Christian y Toril y el estadounidense Jonathan, sus relaciones y sus sueños en un tiempo de prosperidad y cambio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867899",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjgzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41283:3"
+}
+]
+}
+}

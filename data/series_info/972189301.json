@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-02",
+"episode_count": 1,
+"id": 85917742,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/T6P2hxlya0XVWZdktWy6mdrT6J.jpg"
+}
+],
+"info": {
+"name": "ES - Agatha Christie: Hacia cero (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/T6P2hxlya0XVWZdktWy6mdrT6J.jpg",
+"plot": "",
+"cast": "",
+"director": "Agatha Christie, Rachel Bennette",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867878",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1172524910",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-02",
+"plot": "Miniserie de TV. 3 episodios. El superintendente Battle y el inspector Leach investigan el asesinato de una viuda en Gull's Point. Un suicidio fallido, una acusación de robo falso y la vida amorosa de una estrella del tenis conectan, revelando un complot de asesinato.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867878",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43514:1"
+}
+]
+}
+}

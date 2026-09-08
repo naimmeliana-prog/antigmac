@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-07-26",
+"episode_count": 1,
+"id": 1673787596,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3IhN8WmV1euQLxXEk2u3OTauXB.jpg"
+}
+],
+"info": {
+"name": "ES - Campamento Albanta",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3IhN8WmV1euQLxXEk2u3OTauXB.jpg",
+"plot": "",
+"cast": "",
+"director": "Jorge Alonso, Amanda Encinas, Nico Frasquet",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867988",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "766294397",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-07-26",
+"plot": "Cada verano, una veintena de adolescentes acuden durante un mes a un campamento de rehabilitación en mitad de la naturaleza: Albanta, un recóndito lugar alejado de todo lo que conocen hasta ahora en el que se enfrentan a sus miedos y sus traumas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867988",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34434:1"
+}
+]
+}
+}

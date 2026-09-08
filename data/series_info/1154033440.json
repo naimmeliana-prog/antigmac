@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-19",
+"episode_count": 1,
+"id": 398722775,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/up0FBeEtw0tZ8t54zezDYD4V0m0.jpg"
+}
+],
+"info": {
+"name": "ES - Último acto (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/up0FBeEtw0tZ8t54zezDYD4V0m0.jpg",
+"plot": "",
+"cast": "",
+"director": "Pelle Rådström",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867975",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1688157962",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-19",
+"plot": "En 1998, el famoso dramaturgo Lars Norén y la productora Isa Stenberg son invitados a colaborar en una prisión con tres convictos. La junta de la prisión considera el teatro como una forma de rehabilitación. Pero el proyecto, delincuentes reales interpretándose a sí mismos, se convierte en un proceso imparable en el que se dan de lado la seguridad y los mecanismos de control preventivo. El resultado es una obra legendaria, un acalorado debate público y un doble asesinato que a día de hoy sigue siendo una herida abierta en la historia contemporánea de Suecia y un interrogante ético sin resolver.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867975",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42313:1"
+}
+]
+}
+}

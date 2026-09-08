@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-07",
+"episode_count": 3,
+"id": 98122094,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4QimOuzhz4cdJOgBMC355Rt0HZ.jpg"
+}
+],
+"info": {
+"name": "ES - Tell Me Lies (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4QimOuzhz4cdJOgBMC355Rt0HZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Meaghan Oppenheimer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867941",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1372805557",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-07",
+"plot": "Cuando Lucy Albright llega al campus de su pequeña universidad, lejos de su madre, a quien nunca perdonó por un acto de traición en sus primeros años de adolescencia, Lucy abraza la vida universitaria y todo lo que tiene para ofrecer. Pero todo cambia cuando conoce a Stephen DeMarco, quien tiene su propio pasado misterioso. Su enredo adictivo tendrá consecuencias que nunca podrían haber imaginado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867941",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTY0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38564:3"
+},
+{
+"id": "262755170",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-07",
+"plot": "Cuando Lucy Albright llega al campus de su pequeña universidad, lejos de su madre, a quien nunca perdonó por un acto de traición en sus primeros años de adolescencia, Lucy abraza la vida universitaria y todo lo que tiene para ofrecer. Pero todo cambia cuando conoce a Stephen DeMarco, quien tiene su propio pasado misterioso. Su enredo adictivo tendrá consecuencias que nunca podrían haber imaginado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867941",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTY0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38564:2"
+},
+{
+"id": "1795833685",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-07",
+"plot": "Cuando Lucy Albright llega al campus de su pequeña universidad, lejos de su madre, a quien nunca perdonó por un acto de traición en sus primeros años de adolescencia, Lucy abraza la vida universitaria y todo lo que tiene para ofrecer. Pero todo cambia cuando conoce a Stephen DeMarco, quien tiene su propio pasado misterioso. Su enredo adictivo tendrá consecuencias que nunca podrían haber imaginado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867941",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38564:1"
+}
+]
+}
+}

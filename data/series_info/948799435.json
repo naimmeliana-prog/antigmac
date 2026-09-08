@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-26",
+"episode_count": 1,
+"id": 1702144486,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6d2QSfxD4x0v2kEvhyOm7r797ut.jpg"
+}
+],
+"info": {
+"name": "ES - BMF (Black Mafia Family)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6d2QSfxD4x0v2kEvhyOm7r797ut.jpg",
+"plot": "",
+"cast": "",
+"director": "Randy Huggins",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868024",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "877019465",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-26",
+"plot": "Drama inspirado en la historia real de dos hermanos que se criaron en las decadentes calles del suroeste de Detroit a fines de la década de 1980 y dieron origen a una de las familias criminales más influyentes de Estados Unidos. El carismático liderazgo de Demetrius 'Big Meech' Flenory, la perspicacia empresarial de Terry 'Southwest T' Flenory y la visión de la hermandad en comunidad, más allá del tráfico de drogas y dentro del mundo del hip-hop, convertirían a los hermanos en un icono a nivel mundial. Su inquebrantable creencia en la lealtad a la familia sería la piedra angular de su relación y el núcleo de su posible distanciamiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868024",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31635:1"
+}
+]
+}
+}

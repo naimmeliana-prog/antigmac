@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-21",
+"episode_count": 1,
+"id": 280428351,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu1rHul4SK6VefzXc7tyTBe9DJV.jpg"
+}
+],
+"info": {
+"name": "ES - The Blind Detective (2018) (2018) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu1rHul4SK6VefzXc7tyTBe9DJV.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867942",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1567032445",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-21",
+"plot": "El exagente de policía Alex Haller, viudo y ciego tras una explosión, busca justicia cueste lo que cueste.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867942",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34416:1"
+}
+]
+}
+}

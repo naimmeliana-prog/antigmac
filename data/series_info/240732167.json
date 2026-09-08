@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-07",
+"episode_count": 1,
+"id": 1660246151,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATfYcICUPfooOYrPuEFSw6Rsco.jpg"
+}
+],
+"info": {
+"name": "ES - Hasta que te mate (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATfYcICUPfooOYrPuEFSw6Rsco.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867904",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "249889497",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-07",
+"plot": "En 1991, la enfermera Delia Balmer conoce a John Sweeney en un pub de Londres, un flechazo instantáneo que les une como pareja. La personalidad artística e inconformista de Sweeney pronto desaparece para dar paso a su lado oscuro, violento y manipulador. Finalmente, él confiesa haber asesinado a su anterior pareja. Es entonces cuando la policía le arresta, pero seguidamente le libera bajo fianza tras un error catastrófico de los jueces, quienes consideran que no es un sujeto peligroso... Serie basada en la novela autobiográfica de la propia Balmer, que arroja luz sobre los fallos del sistema judicial en los casos de violencia de género.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867904",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34947:1"
+}
+]
+}
+}

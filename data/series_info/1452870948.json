@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-11",
+"episode_count": 1,
+"id": 878978309,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg"
+}
+],
+"info": {
+"name": "ES - Kimi wa Houkago Insomnia (2023) (JP)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868043",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "767662672"
+},
+"episodes": {
+"1": [
+{
+"id": "449831668",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-11",
+"plot": "Ganta Nakami es un estudiante de secundaria que sufre de insomnio. Un día conoce a Isaki Magari, una chica con la misma condición. Se forma una relación extraña pero especial cuando comparten un secreto y se ponen al día con el sueño en el observatorio abandonado de su escuela...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868043",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48319:1"
+}
+]
+}
+}

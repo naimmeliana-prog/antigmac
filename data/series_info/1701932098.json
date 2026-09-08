@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-02",
+"episode_count": 1,
+"id": 60021617,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f0vthsiAS3OpTbIbH9qpCzAL3A.jpg"
+}
+],
+"info": {
+"name": "ES - Efectos Secundarios (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f0vthsiAS3OpTbIbH9qpCzAL3A.jpg",
+"plot": "",
+"cast": "",
+"director": "Steve Hely, Joseph Bennett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868016",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "1849947005",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-02",
+"plot": "Marshall y Frances, excompañeros de laboratorio, revelan una conspiración en la que están implicadas las grandes farmacéuticas y el gobierno para extraer un hongo que podría contener la solución para curar todas las enfermedades del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868016",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNTk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41596:1"
+}
+]
+}
+}

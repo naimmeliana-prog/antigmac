@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2014-09-22",
+"episode_count": 2,
+"id": 1328647461,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u80AJrwINGOeQElFd2fTOUaJyXY.jpg"
+}
+],
+"info": {
+"name": "ES - Scorpion",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u80AJrwINGOeQElFd2fTOUaJyXY.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Santora",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867934",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "805072320",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-09-22",
+"plot": "Scorpion es una serie de televisión estadounidense transmitida por CBS que se estrenó en el 2014. Se basa en la vida del autoproclamado genio y experto en ordenadores Walter O'Brien. En la serie O'Brien y sus amigos genios se ayudan entre ellos para resolver amenazas globales y salvar vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867934",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg2OTAsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8690:4"
+},
+{
+"id": "36320643",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-09-22",
+"plot": "Scorpion es una serie de televisión estadounidense transmitida por CBS que se estrenó en el 2014. Se basa en la vida del autoproclamado genio y experto en ordenadores Walter O'Brien. En la serie O'Brien y sus amigos genios se ayudan entre ellos para resolver amenazas globales y salvar vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867934",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg2OTAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8690:1"
+}
+]
+}
+}

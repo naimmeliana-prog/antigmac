@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-10",
+"episode_count": 1,
+"id": 142145363,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CyNjKgbgs6dTBKNkUJsEfMnX1B.jpg"
+}
+],
+"info": {
+"name": "ES - Alef (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CyNjKgbgs6dTBKNkUJsEfMnX1B.jpg",
+"plot": "",
+"cast": "",
+"director": "Emre Kayiş",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868040",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1186223450",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-10",
+"plot": "Cuando el detective de homicidios cercano a la jubilación Settar Öztürk se le asigna un caso final con su compañero de caso Kemal McAllister, descubren una serie de asesinatos despiadados y operose. Pronto descubren que se trata de un asesino en serie cuyos motivos están relacionados con la herejía y el sufismo islámicos. A medida que el caso se desenreda, los detectives descubren que resolver el caso no es su único papel en esta imagen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868040",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35524:1"
+}
+]
+}
+}

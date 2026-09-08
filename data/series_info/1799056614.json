@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2016-09-14",
+"episode_count": 4,
+"id": 354600973,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cop35HdXqbrPDc9ClyrOmv3sJV2.jpg"
+}
+],
+"info": {
+"name": "ES - Doctor Doctor",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cop35HdXqbrPDc9ClyrOmv3sJV2.jpg",
+"plot": "",
+"cast": "",
+"director": "Claudia Karvan, Tony McNamara, Ian Collie, Alan Harris",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867893",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "392158454",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-14",
+"plot": "Esta exitosa serie australiana del creador Tony McNamara, nominado al Óscar por 'The Favourite', el talentoso, encantador y aparentemente infalible Hugh Knight es una estrella en ascenso en el mundo de la cirugía cardiaca, pero después de un incidente con drogas y alcohol, se ve obligado a regresar a su pueblo natal como médico general y a lidiar con su complicada situación familiar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867893",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTA4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15108:4"
+},
+{
+"id": "1433435177",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-14",
+"plot": "Esta exitosa serie australiana del creador Tony McNamara, nominado al Óscar por 'The Favourite', el talentoso, encantador y aparentemente infalible Hugh Knight es una estrella en ascenso en el mundo de la cirugía cardiaca, pero después de un incidente con drogas y alcohol, se ve obligado a regresar a su pueblo natal como médico general y a lidiar con su complicada situación familiar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867893",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTA4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15108:3"
+},
+{
+"id": "367581297",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-14",
+"plot": "Esta exitosa serie australiana del creador Tony McNamara, nominado al Óscar por 'The Favourite', el talentoso, encantador y aparentemente infalible Hugh Knight es una estrella en ascenso en el mundo de la cirugía cardiaca, pero después de un incidente con drogas y alcohol, se ve obligado a regresar a su pueblo natal como médico general y a lidiar con su complicada situación familiar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867893",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTA4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15108:2"
+},
+{
+"id": "1346048010",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-14",
+"plot": "Esta exitosa serie australiana del creador Tony McNamara, nominado al Óscar por 'The Favourite', el talentoso, encantador y aparentemente infalible Hugh Knight es una estrella en ascenso en el mundo de la cirugía cardiaca, pero después de un incidente con drogas y alcohol, se ve obligado a regresar a su pueblo natal como médico general y a lidiar con su complicada situación familiar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867893",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15108:1"
+}
+]
+}
+}

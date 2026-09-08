@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-09",
+"episode_count": 1,
+"id": 1649286370,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWr1Rs74n4yZOWXEuLi1RsbsIF4.jpg"
+}
+],
+"info": {
+"name": "ES - La revuelta (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWr1Rs74n4yZOWXEuLi1RsbsIF4.jpg",
+"plot": "",
+"cast": "",
+"director": "Ricardo Castella",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867910",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "14081048",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-09",
+"plot": "Un grupo de grandes cómicos y cómicas acompañan a David Broncano, que entrevista a gente famosa en un teatro del centro de Madrid para que al final el protagonista sea uno del público que se sentó en la tercera fila. Artistas, deportistas, científicos y todo tipo de personalidades se sumergen en las conversaciones más impredecibles con el presentador, siempre acompañado por su banda: Ricardo Castella, veterano de la comedia española, y el campeón de beatbox Grison, una mina antipersona de chistes que nunca sabes cuándo ni cómo va a saltar. Además, Jorge Ponce, el cómico residente, llevará el humor cada vez más lejos aunque el cable de la cámara solo le permita llegar a Gran Vía. A ellos se suman colaboradoras y colaboradores de primera división (Lala Chus, Valeria Ros, Yunez Chaib, Pablo Ibarburu, Pantomima Full, Ernesto Sevilla…), así como amigos del programa como Antonio Resines o Dani Rovira en un programa espontáneo donde nunca sabes qué va a pasar… salvo que te vas a reír",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867910",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37072:1"
+}
+]
+}
+}

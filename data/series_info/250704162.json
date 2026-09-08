@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-05",
+"episode_count": 1,
+"id": 355342297,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJuETlbfd0tj2TgbpRMif7Xc1W1.jpg"
+}
+],
+"info": {
+"name": "ES - Doce citas antes de Navidad (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJuETlbfd0tj2TgbpRMif7Xc1W1.jpg",
+"plot": "",
+"cast": "",
+"director": "Erin Rodman, Davah Avena",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867893",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1269693048",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-05",
+"plot": "Sigue a la diseñadora Kate, que vive en el pintoresco pueblo de Blexford, Inglaterra, con su padre Mac, quien está divorciado desde hace tiempo. Cuando no está en el trabajo, Kate cuida a Mac, que se está recuperando de un accidente. Su mejor amiga, Laura, la inscribe en un programa de búsqueda de pareja con temática navideña que se lleva a cabo en los días previos a las vacaciones y que presenta experiencias de citas navideñas cuidadosamente seleccionadas, en un intento de sacar a Kate de su rutina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867893",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47215:1"
+}
+]
+}
+}

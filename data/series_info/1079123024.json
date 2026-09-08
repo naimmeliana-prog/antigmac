@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-07",
+"episode_count": 1,
+"id": 289978309,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CtiUIEWnJQPORkOQR0LSBYUYpS.jpg"
+}
+],
+"info": {
+"name": "ES - El incidente Darwin (2026) (JP)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CtiUIEWnJQPORkOQR0LSBYUYpS.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868043",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "767662672"
+},
+"episodes": {
+"1": [
+{
+"id": "1447915462",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-07",
+"plot": "Charlie es único: un humancé, híbrido de humano y chimpancé. Su intelecto y habilidades físicas son excepcionales. Por eso, el grupo terrorista Alianza de Liberación Animal lo persigue y, para ello, tomarán medidas muy radicales. Sin embargo, Charlie está dispuesto a contraatacar por sus seres queridos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868043",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NDE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47416:1"
+}
+]
+}
+}

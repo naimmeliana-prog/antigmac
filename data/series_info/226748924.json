@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-27",
+"episode_count": 1,
+"id": 179802283,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRrJOQ6TQbEPRRTHxoNErcYQX1Z.jpg"
+}
+],
+"info": {
+"name": "ES - Ayla y los Mirror (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRrJOQ6TQbEPRRTHxoNErcYQX1Z.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868021",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "165554221",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-27",
+"plot": "Ayla, una adolescente acostumbrada a una vida de lujo, de repente lo pierde todo, incluyendo sus recuerdos. Obligada a empezar desde cero, pero con la certeza de que el baile es lo que siempre le ha gustado, y con la ayuda la de sus nuevos amigos, Ayla tendrá que redescubrir quién es, ¿lo conseguirá?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868021",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36745:1"
+}
+]
+}
+}

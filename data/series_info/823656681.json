@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-27",
+"episode_count": 1,
+"id": 317221951,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sCqLXwVCPCLExokWyIW7s6BTMw.jpg"
+}
+],
+"info": {
+"name": "ES - Noche de chicas (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sCqLXwVCPCLExokWyIW7s6BTMw.jpg",
+"plot": "",
+"cast": "",
+"director": "Javier Naya, Sergio Cánovas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867923",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "729405865",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-27",
+"plot": "Una historia de amistad y venganza en la que ellas, por el peso de la herida abierta, no serán solo las víctimas, sino también los verdugos. Un viaje de autodescubrimiento de cinco amigas que tienen la posibilidad de hacer justicia por mano propia. Lola planeó durante meses su venganza, sin embargo, todo empieza a salir mal cuando sus amigas de la infancia vuelven ocasionalmente al pueblo sin previo aviso y pronto descubren su plan. Lola ahora solo tiene dos opciones: o las convence de que miren hacia otro lado o para que se unan a su plan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867923",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMTI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42129:1"
+}
+]
+}
+}

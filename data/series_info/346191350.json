@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-09",
+"episode_count": 1,
+"id": 1837581719,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucwjasSOz2pr4TsRycK7Muegsh2.jpg"
+}
+],
+"info": {
+"name": "ES - Días de ceniza (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucwjasSOz2pr4TsRycK7Muegsh2.jpg",
+"plot": "",
+"cast": "",
+"director": "Louise Kennedy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867895",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "978543821",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-09",
+"plot": "En 1975, en un pequeño pueblo a las afueras de Belfast, donde cada palabra puede convertirse en una sentencia, Cushla, una joven maestra católica, conoce a Michael. Él es un abogado protestante, mayor y casado, habituado a defender a sospechosos del IRA. Entre pubs llenos de soldados, silencios cargados de miedo y una comunidad vigilante, ambos se lanzan a una relación tan apasionada como imposible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867895",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47955:1"
+}
+]
+}
+}

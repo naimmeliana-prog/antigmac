@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-30",
+"episode_count": 1,
+"id": 252496436,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfxUYcqiVeE1ZtGQuZofH4hNuQf.jpg"
+}
+],
+"info": {
+"name": "ES - Los emigrantes (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfxUYcqiVeE1ZtGQuZofH4hNuQf.jpg",
+"plot": "",
+"cast": "",
+"director": "Erik Poppe",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867914",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1435780334",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-30",
+"plot": "Suecia, 1849. Una familia sumida en la pobreza decide trasladarse a Estados Unidos con la esperanza de encontrar una vida mejor y más próspera. Aunque saben que el viaje será peligroso y que la presión de afrontar una nueva vida en una tierra extraña y salvaje es grande, están decididos a triunfar. Basada en la novela clásica de Vilhelm Moberg.el.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867914",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38015:1"
+}
+]
+}
+}

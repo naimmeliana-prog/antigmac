@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2015-07-05",
+"episode_count": 7,
+"id": 1684868407,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbhu0tIv5E1PbAw2YPjrhoQ7I1s.jpg"
+}
+],
+"info": {
+"name": "ES - Dragon Ball Super",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbhu0tIv5E1PbAw2YPjrhoQ7I1s.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867894",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "564647396",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-05",
+"plot": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31432:1"
+},
+{
+"id": "931854208",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-05",
+"plot": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMyLCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31432:7"
+},
+{
+"id": "851710688",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-05",
+"plot": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMyLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31432:6"
+},
+{
+"id": "938548193",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-05",
+"plot": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMyLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31432:5"
+},
+{
+"id": "730758125",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-05",
+"plot": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMyLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31432:4"
+},
+{
+"id": "1018948833",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-05",
+"plot": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31432:3"
+},
+{
+"id": "24594295",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-07-05",
+"plot": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31432:2"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-18",
+"episode_count": 1,
+"id": 1919803643,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYwBc8rmi7xYoqpdSwkROy3LD0R.jpg"
+}
+],
+"info": {
+"name": "ES - Bellefond (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYwBc8rmi7xYoqpdSwkROy3LD0R.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867985",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "623757015",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-18",
+"plot": "El exfiscal Antoine Bellefond se convierte en abogado penalista y profesor de derecho penal en el sur de Francia. Decidido a cumplir la misión que se impuso, lucha contra la injusticia y los errores judiciales, acompañado por sus tres mejores alumnos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867985",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42999:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-24",
+"episode_count": 3,
+"id": 1020823951,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqPkfEb8oK7pbBwv91oJI1mkexc.jpg"
+}
+],
+"info": {
+"name": "ES - Billy el Niño (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqPkfEb8oK7pbBwv91oJI1mkexc.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Hirst",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867884",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1870740233",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-24",
+"plot": "Una serie épica de aventuras románticas basada en la vida del famoso forajido estadounidense Billy the Kid, desde sus humildes raíces irlandesas hasta sus primeros días como vaquero y pistolero en la frontera estadounidense, hasta su papel fundamental en la guerra del condado de Lincoln y más allá.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867884",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjYyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46662:3"
+},
+{
+"id": "714343852",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-24",
+"plot": "Una serie épica de aventuras románticas basada en la vida del famoso forajido estadounidense Billy the Kid, desde sus humildes raíces irlandesas hasta sus primeros días como vaquero y pistolero en la frontera estadounidense, hasta su papel fundamental en la guerra del condado de Lincoln y más allá.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867884",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46662:2"
+},
+{
+"id": "1748941153",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-24",
+"plot": "Una serie épica de aventuras románticas basada en la vida del famoso forajido estadounidense Billy the Kid, desde sus humildes raíces irlandesas hasta sus primeros días como vaquero y pistolero en la frontera estadounidense, hasta su papel fundamental en la guerra del condado de Lincoln y más allá.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867884",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46662:1"
+}
+]
+}
+}

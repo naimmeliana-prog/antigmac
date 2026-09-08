@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-09",
+"episode_count": 1,
+"id": 1032962659,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7gSH3f1zFBN01TZCdj2G3U4TDp.jpg"
+}
+],
+"info": {
+"name": "ES - Corazon Oscuro (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7gSH3f1zFBN01TZCdj2G3U4TDp.jpg",
+"plot": "",
+"cast": "",
+"director": "Oskar Söderlund, Gustav Möller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867889",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1585251203",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-09",
+"plot": "Sanna es la hija de 21 años de un rico terrateniente del sur de Suecia. Su padre, Bengt, hace su fortuna arrendando su vasta extensión de tierra heredada a familias de agricultores, muchos de los cuales luchan para llegar a fin de mes. Severo e inflexible, Bengt tiene influencia sobre los menos afortunados, mientras que Sanna lucha con la idea de convertirse en su heredero. Cuando comienza una relación con Marcus, el hijo pobre de un granjero cercano, su padre le da un ultimátum: deja a Marcus o pierde tu herencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40565:1"
+}
+]
+}
+}

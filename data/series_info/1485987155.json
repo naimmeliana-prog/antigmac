@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-13",
+"episode_count": 1,
+"id": 297695071,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/501OlP6UN3FvjC8CAbm4zU9rzEi.jpg"
+}
+],
+"info": {
+"name": "ES - Ocurrió a orillas del río (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/501OlP6UN3FvjC8CAbm4zU9rzEi.jpg",
+"plot": "",
+"cast": "",
+"director": "Kerstin Ekman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867924",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "77608112",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-13",
+"plot": "Una tarde de verano de 1970, dos turistas aparecen asesinados en una tienda de campaña. El crimen entrelaza la vida de cuatro personas al azar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867924",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36009:1"
+}
+]
+}
+}

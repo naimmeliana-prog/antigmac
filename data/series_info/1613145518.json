@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-23",
+"episode_count": 1,
+"id": 1974414126,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XbgWv137Umc8resTDeWh9ff7Y0.jpg"
+}
+],
+"info": {
+"name": "ES - CIA (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+"plot": "",
+"cast": "",
+"director": "Dick Wolf, David Hudgins, Nicole Perlman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867886",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "313572842",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-23",
+"plot": "Cuando el agente especial del FBI Bill Goodman (Nick Gehlfuss), que sigue las reglas, es asignado a un grupo de trabajo clandestino de la CIA y el FBI, se ve obligado a colaborar con el reservado y pícaro oficial de la CIA, Colin Glass (Tom Ellis). Juntos realizarán operaciones encubiertas en Nueva York, destapando complots internacionales, células terroristas y secretos geopolíticos. En la CIA, Bill aprenderá sobre la marcha las reglas de este turbio mundo mientras Colin lo guía a lo más profundo de los juegos de espionaje donde solo una cosa está clara: su trabajo mantiene a Estados Unidos a salvo, incluso si nadie sabe jamás lo que hicieron en la sombra.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867886",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49135:1"
+}
+]
+}
+}

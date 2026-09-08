@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-27",
+"episode_count": 1,
+"id": 1890058539,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X9HHqQu7UTEjIjMDtg1H16zWzD.jpg"
+}
+],
+"info": {
+"name": "ES - Agatha Christie: Matar es fácil",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X9HHqQu7UTEjIjMDtg1H16zWzD.jpg",
+"plot": "",
+"cast": "",
+"director": "Sian Ejiwunmi-Le Berre",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867975",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "38329926",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-27",
+"plot": "Luke Fitzwilliam se encuentra tras la pista de un asesino en serie tras conocer a la señorita Pinkerton en un tren a Londres. Ahora Fitzwilliam tiene que encontrar al asesino antes de que se derrame más sangre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867975",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyOTA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32907:1"
+}
+]
+}
+}

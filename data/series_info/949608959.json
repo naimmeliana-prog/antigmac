@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2017-10-13",
+"episode_count": 4,
+"id": 428899789,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBy35t7EmAj29Bw7JZtTHX7z5St.jpg"
+}
+],
+"info": {
+"name": "ES - Babylon Berlin",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBy35t7EmAj29Bw7JZtTHX7z5St.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Tykwer, Hendrik Handloegten, Achim von Borries",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867977",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "325619426",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Babylon Berlín, una serie alemana de 16 capítulos ambientada en el Berlín de los años veinte, cuando la diversión parecía no tener fin en la gran ciudad y que tiene como protagonista a un joven detective de 29 años marcado por su experiencia en la Gran Guerra, puede escribir un nuevo y gran capitulo en la historia de las producciones para televisión que se han hecho hasta la fecha en Europa, por una razón existencial: la serie es terriblemente ambiciosa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867977",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwNzQsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9074:4"
+},
+{
+"id": "1927845200",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Babylon Berlín, una serie alemana de 16 capítulos ambientada en el Berlín de los años veinte, cuando la diversión parecía no tener fin en la gran ciudad y que tiene como protagonista a un joven detective de 29 años marcado por su experiencia en la Gran Guerra, puede escribir un nuevo y gran capitulo en la historia de las producciones para televisión que se han hecho hasta la fecha en Europa, por una razón existencial: la serie es terriblemente ambiciosa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867977",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwNzQsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9074:3"
+},
+{
+"id": "945500489",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Babylon Berlín, una serie alemana de 16 capítulos ambientada en el Berlín de los años veinte, cuando la diversión parecía no tener fin en la gran ciudad y que tiene como protagonista a un joven detective de 29 años marcado por su experiencia en la Gran Guerra, puede escribir un nuevo y gran capitulo en la historia de las producciones para televisión que se han hecho hasta la fecha en Europa, por una razón existencial: la serie es terriblemente ambiciosa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867977",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwNzQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9074:2"
+},
+{
+"id": "1292987369",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Babylon Berlín, una serie alemana de 16 capítulos ambientada en el Berlín de los años veinte, cuando la diversión parecía no tener fin en la gran ciudad y que tiene como protagonista a un joven detective de 29 años marcado por su experiencia en la Gran Guerra, puede escribir un nuevo y gran capitulo en la historia de las producciones para televisión que se han hecho hasta la fecha en Europa, por una razón existencial: la serie es terriblemente ambiciosa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867977",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwNzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9074:1"
+}
+]
+}
+}

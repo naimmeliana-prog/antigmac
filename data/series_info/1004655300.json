@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-15",
+"episode_count": 1,
+"id": 215678263,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkZNdwSZ1Gk4Z8c1jnZPaWBFP6r.jpg"
+}
+],
+"info": {
+"name": "ES - Muerte en la familia Murdaugh (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkZNdwSZ1Gk4Z8c1jnZPaWBFP6r.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael D. Fuller, Erin Lee Carr",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867920",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "390470508",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-15",
+"plot": "Maggie y Alex disfrutan de una vida de lujo y privilegio como miembros de una de las dinastías legales más poderosas de Carolina del Sur. Pero cuando su hijo Paul se ve involucrado en un accidente náutico mortal, la familia se enfrenta a una prueba sin precedentes. A medida que salen a la luz los detalles y surgen nuevos desafíos, las conexiones de la familia con varias muertes misteriosas plantean preguntas que amenazan todo lo que Maggie y Alex aprecian.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867920",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NDI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46427:1"
+}
+]
+}
+}

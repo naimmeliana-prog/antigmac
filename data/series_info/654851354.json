@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2015-03-04",
+"episode_count": 2,
+"id": 1184239663,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCdD4PZWgcgx2HBklcXSA29ZuK9.jpg"
+}
+],
+"info": {
+"name": "ES - CSI: Cyber",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCdD4PZWgcgx2HBklcXSA29ZuK9.jpg",
+"plot": "",
+"cast": "",
+"director": "Anthony Zuiker, Ann Donahue, Carol Mendelsohn",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867886",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1621006085",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-03-04",
+"plot": "Nueva serie de la saga CSI, protagonizada por la agente especial Avery Ryan que dirige la División de Delitos Cibernéticos del FBI. El personaje de Ryan (Arquette), que está inspirado en la ciberpsicóloga Mary Aiken, apareció en dos capítulos de 'CSI: Las Vegas' en 2014.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867886",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzkxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15791:2"
+},
+{
+"id": "1410904897",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-03-04",
+"plot": "Nueva serie de la saga CSI, protagonizada por la agente especial Avery Ryan que dirige la División de Delitos Cibernéticos del FBI. El personaje de Ryan (Arquette), que está inspirado en la ciberpsicóloga Mary Aiken, apareció en dos capítulos de 'CSI: Las Vegas' en 2014.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867886",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15791:1"
+}
+]
+}
+}

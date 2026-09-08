@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-12",
+"episode_count": 2,
+"id": 192647647,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg"
+}
+],
+"info": {
+"name": "ES - The Gold (2023) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg",
+"plot": "",
+"cast": "",
+"director": "Neil Forsyth",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867944",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "933116608",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-12",
+"plot": "El 26 de noviembre de 1983, seis hombres armados roban oro por valor de 26 millones de libras del depósito de seguridad de Brink's-Mat y tratan de deshacerse de los lingotes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867944",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2OTM3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46937:2"
+},
+{
+"id": "423425379",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-12",
+"plot": "El 26 de noviembre de 1983, seis hombres armados roban oro por valor de 26 millones de libras del depósito de seguridad de Brink's-Mat y tratan de deshacerse de los lingotes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867944",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2OTM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46937:1"
+}
+]
+}
+}

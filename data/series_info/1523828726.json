@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-22",
+"episode_count": 1,
+"id": 1032330035,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQQP1IWVzOdTndtAYRqFh5B83Mc.jpg"
+}
+],
+"info": {
+"name": "ES - Reinas del Soho (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQQP1IWVzOdTndtAYRqFh5B83Mc.jpg",
+"plot": "",
+"cast": "",
+"director": "Polly Stenham, Alex Warren",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867930",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1714649453",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-22",
+"plot": "Kate Galloway es una mujer que lo ha perdido todo después de que su marido se suicide. Junto a su hija adolescente, con desparpajo y bastantes agallas, abre un club en el Soho londinense, un barrio que pronto controlan bandas de mujeres que regentan los clubs y controlan el negocio de las drogas y el alcohol. Como respuesta, la policía metropolitana experimenta con una división de agentes femeninas infiltrando a una de ellas, Violet Davies, en la banda de Kate.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867930",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42395:1"
+}
+]
+}
+}

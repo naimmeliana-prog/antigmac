@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-01",
+"episode_count": 1,
+"id": 384412123,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg"
+}
+],
+"info": {
+"name": "ES - Jakov (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg",
+"plot": "",
+"cast": "",
+"director": "Mani Maserrat-Agah, Tomas Jonsgården",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867907",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "892370484",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-01",
+"plot": "Radovan 'Jakov' Jakovic es un yugoslavo que verá en el contrabando de tabaco en Suecia, en los años noventa, la vía para vivir la vida que siempre deseó. La serie retrata la transformación radical de la Suecia de los años noventa, de pacífica a peligrosa, mientras sigue el ascenso de Radovan 'Jakov' Jakovic desde la miseria hasta la riqueza criminal, y Gunn Philak, la única policía que ve la amenaza mafiosa inminente en la sombra del contrabando de cigarrillos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867907",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41823:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-18",
+"episode_count": 2,
+"id": 455631660,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcI50B1ytbaozGWmblkMRYBPPsm.jpg"
+}
+],
+"info": {
+"name": "ES - Crimen, de Irvine Welsh (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcI50B1ytbaozGWmblkMRYBPPsm.jpg",
+"plot": "",
+"cast": "",
+"director": "Irvine Welsh, Dean Cavanagh",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867889",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1112612301",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-18",
+"plot": "Cuando una colegiala de Edimburgo es secuestrada, DI Ray Lennox, se identifica fuertemente con la víctima. Él cree que el perpetrador es el asesino en serie Mister Confectioner y sus jefes creen que Confectioner está ya tras las rejas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMDExLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40011:2"
+},
+{
+"id": "144894352",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-18",
+"plot": "Cuando una colegiala de Edimburgo es secuestrada, DI Ray Lennox, se identifica fuertemente con la víctima. Él cree que el perpetrador es el asesino en serie Mister Confectioner y sus jefes creen que Confectioner está ya tras las rejas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40011:1"
+}
+]
+}
+}

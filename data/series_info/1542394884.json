@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-23",
+"episode_count": 1,
+"id": 1017156445,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofcFK6Cuw13ta4XljTNTQctcaqj.jpg"
+}
+],
+"info": {
+"name": "ES - Weiss & Morales (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofcFK6Cuw13ta4XljTNTQctcaqj.jpg",
+"plot": "",
+"cast": "",
+"director": "Pepe Coira",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867973",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "972348025",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-23",
+"plot": "Cuando un crimen es cometido en las Islas Canarias y afecta a la comunidad alemana, el sargento de la guardia civil española Raúl Morales y la agente de la BKA alemana Nina Weiss se verán obligados a trabajar juntos. Una colaboración que no agrada a ninguno, pues pondrá en evidencia sus diferencias. Pero, a pesar de ello, encontrarán la manera de resolver cada uno de los casos que se les presenten.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867973",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43863:1"
+}
+]
+}
+}

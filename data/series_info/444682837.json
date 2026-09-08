@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-23",
+"episode_count": 1,
+"id": 1539466050,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/jy97TkIobFgXMA6VcHqFTZNB16f.jpg"
+}
+],
+"info": {
+"name": "ES - Soundtrack #1",
+"cover": "https://image.tmdb.org/t/p/w154/jy97TkIobFgXMA6VcHqFTZNB16f.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Hee-won",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867936",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "359677709",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-23",
+"plot": "Han Sun-Woo es un fotógrafo novato. No habla mucho, pero es un hombre amable y afectuoso. Es amigo de Lee Eun-Soo. Han sido amigos cercanos durante 20 años. Mientras tanto, Lee Eun-Soo trabaja como letrista para ganarse la vida. Ella tiene una personalidad honesta y brillante. Por una razón, Han Sun-Woo y Lee Eun-Soo comienzan a vivir juntos en la misma casa durante 2 semanas. Permaneciendo juntos, su relación se desarrolla románticamente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29055:1"
+}
+]
+}
+}

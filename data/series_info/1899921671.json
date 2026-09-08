@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-24",
+"episode_count": 1,
+"id": 1824452894,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/90fovFXIKRdDR9loh4r33zsAnG2.jpg"
+}
+],
+"info": {
+"name": "ES - ENA. La reina Victoria Eugenia (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/90fovFXIKRdDR9loh4r33zsAnG2.jpg",
+"plot": "",
+"cast": "",
+"director": "Javier Olivares",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867895",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "34085591",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-24",
+"plot": "Ena es la historia de una reina y también de una mujer. De una joven inglesa que jamás había soñado ser reina de España. Alfonso XIII, con diecinueve años y Rey de España desde 1902, se fijó en ella, una elección que contrarió a su madre, María Cristina. En el viaje, dejó atrás a su familia, sus costumbres, su cultura y tuvo que renunciar a su religión para vivir en tierra extraña, en la que lo primero que sufrió fue un atentado el mismo día de su boda, durante el desfile nupcial en la calle Mayor, tras casarse en la Iglesia de los Jerónimos, y que causó decenas de víctimas. Nunca se sintió aceptada ni querida, pero luchó siempre para conseguir ambas cosas. Moderna en un ambiente tradicional, fue icono de la moda y de la liberación de las costumbres femeninas. Aunque en España se la conoce más como Victoria Eugenia, en la Familia Real británica y en su círculo de amistades siempre la llamaron, cariñosamente, Ena, un homenaje a su nacimiento en tierras escocesas, donde pasó su infancia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867895",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46742:1"
+}
+]
+}
+}

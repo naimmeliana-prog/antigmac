@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2001-06-03",
+"episode_count": 5,
+"id": 1290893421,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tU4NRCZVZgzeqMixoNJorU950tC.jpg"
+}
+],
+"info": {
+"name": "ES - A dos metros bajo tierra",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tU4NRCZVZgzeqMixoNJorU950tC.jpg",
+"plot": "",
+"cast": "",
+"director": "Alan Ball",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868030",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "717572994",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-03",
+"plot": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE2LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31516:5"
+},
+{
+"id": "791488412",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-03",
+"plot": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE2LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31516:4"
+},
+{
+"id": "427024737",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-03",
+"plot": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31516:3"
+},
+{
+"id": "430912408",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-03",
+"plot": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31516:2"
+},
+{
+"id": "1852905215",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-03",
+"plot": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31516:1"
+}
+]
+}
+}

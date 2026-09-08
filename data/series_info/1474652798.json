@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-27",
+"episode_count": 1,
+"id": 1237985705,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjw2KjAFnqPzCNOYgh3yiLQOZl5.jpg"
+}
+],
+"info": {
+"name": "ES - Douglas is cancelled (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjw2KjAFnqPzCNOYgh3yiLQOZl5.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Moffat",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867894",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "466803763",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-27",
+"plot": "Cuando Douglas Bellowes, un querido presentador de noticias a nivel nacional, es sorprendido contando un chiste sexista en una boda, su carrera, así como el respaldo de su familia y compañeros de trabajo, se ven seriamente amenazados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36080:1"
+}
+]
+}
+}

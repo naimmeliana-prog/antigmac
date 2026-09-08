@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-10",
+"episode_count": 2,
+"id": 1805218360,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/wGg7P87IrGinG963WisFlMSEeFs.jpg"
+}
+],
+"info": {
+"name": "ES - Entre tierras",
+"cover": "https://image.tmdb.org/t/p/w154/wGg7P87IrGinG963WisFlMSEeFs.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867901",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1403573809",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-10",
+"plot": "María (Megan Montaner), una mujer andaluza dedicada a cuidar de su familia desde que murió su padre decide sacrificarse por los suyos y acepta casarse con un terrateniente manchego que viene a su pueblo buscando esposa, a cambio de asegurarse el bienestar y el futuro de su madre y hermanos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867901",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDcyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28472:2"
+},
+{
+"id": "700059434",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-10",
+"plot": "María (Megan Montaner), una mujer andaluza dedicada a cuidar de su familia desde que murió su padre decide sacrificarse por los suyos y acepta casarse con un terrateniente manchego que viene a su pueblo buscando esposa, a cambio de asegurarse el bienestar y el futuro de su madre y hermanos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867901",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28472:1"
+}
+]
+}
+}

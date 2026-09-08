@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-08",
+"episode_count": 3,
+"id": 781518740,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TAkM0XlCETq7Qi3X5tPlC3OFdc.jpg"
+}
+],
+"info": {
+"name": "ES - Acapulco",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TAkM0XlCETq7Qi3X5tPlC3OFdc.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Shuman, Austin Winsberg, Eduardo Cisneros",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868026",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1937831887",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "En 1984, Máximo Gallardo cumple el sueño de su vida cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco. Pronto descubrirá que las cosas van a ser mucho más complicadas de lo que imaginaba.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868026",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjI3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34227:3"
+},
+{
+"id": "1376359116",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "En 1984, Máximo Gallardo cumple el sueño de su vida cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco. Pronto descubrirá que las cosas van a ser mucho más complicadas de lo que imaginaba.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868026",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjI3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34227:2"
+},
+{
+"id": "16312771",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "En 1984, Máximo Gallardo cumple el sueño de su vida cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco. Pronto descubrirá que las cosas van a ser mucho más complicadas de lo que imaginaba.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868026",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34227:1"
+}
+]
+}
+}

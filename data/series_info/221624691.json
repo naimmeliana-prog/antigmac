@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-12-12",
+"episode_count": 3,
+"id": 1510994076,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/284lmdTK5KRJAITfMQNSJtAuriJ.jpg"
+}
+],
+"info": {
+"name": "ES - The Wall - (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/284lmdTK5KRJAITfMQNSJtAuriJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Frédéric Ouellet",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867948",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1524920413",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-12",
+"plot": "Fermont es un pequeño pueblo minero situado en el noreste de Quebec donde se encuentra el cadáver de una joven bailarina. La policía de Quebec envía a la detective Céline, una de sus profesionales más experimentadas, para investigar el caso. La colonia está aislada del exterior por una estructura rodeada de un enorme muro que hace la vida absolutamente claustrofóbica. Allí Céline se encontrará fortuitamente con una persona de su pasado a la que deberá enfrentarse mientras se hace cargo de la investigación. En un paisaje completamente nevado dónde las cosas no hacen nada más que complicarse descubrirá que todos en el muro tenían algo que ver con la víctima.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867948",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NzE3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24717:3"
+},
+{
+"id": "1850126167",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-12",
+"plot": "Fermont es un pequeño pueblo minero situado en el noreste de Quebec donde se encuentra el cadáver de una joven bailarina. La policía de Quebec envía a la detective Céline, una de sus profesionales más experimentadas, para investigar el caso. La colonia está aislada del exterior por una estructura rodeada de un enorme muro que hace la vida absolutamente claustrofóbica. Allí Céline se encontrará fortuitamente con una persona de su pasado a la que deberá enfrentarse mientras se hace cargo de la investigación. En un paisaje completamente nevado dónde las cosas no hacen nada más que complicarse descubrirá que todos en el muro tenían algo que ver con la víctima.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867948",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NzE3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24717:2"
+},
+{
+"id": "1935363059",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-12",
+"plot": "Fermont es un pequeño pueblo minero situado en el noreste de Quebec donde se encuentra el cadáver de una joven bailarina. La policía de Quebec envía a la detective Céline, una de sus profesionales más experimentadas, para investigar el caso. La colonia está aislada del exterior por una estructura rodeada de un enorme muro que hace la vida absolutamente claustrofóbica. Allí Céline se encontrará fortuitamente con una persona de su pasado a la que deberá enfrentarse mientras se hace cargo de la investigación. En un paisaje completamente nevado dónde las cosas no hacen nada más que complicarse descubrirá que todos en el muro tenían algo que ver con la víctima.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867948",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24717:1"
+}
+]
+}
+}

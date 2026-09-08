@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-25",
+"episode_count": 1,
+"id": 755152591,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxDFQYs9M3VcaAdSOH3kJxzcWOf.jpg"
+}
+],
+"info": {
+"name": "ES  - Nada nos pasará (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxDFQYs9M3VcaAdSOH3kJxzcWOf.jpg",
+"plot": "",
+"cast": "",
+"director": "Pınar Bulut",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868018",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1606727652",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-25",
+"plot": "En una fiesta, los opuestos Aktan y Lal se enamoran perdidamente. Su romance de cuento les hace dar un vuelco a sus vidas para estar juntos, pero su historia se hunde en el caos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868018",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNTM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50537:1"
+}
+]
+}
+}

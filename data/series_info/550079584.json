@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-08",
+"episode_count": 1,
+"id": 1047136416,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thWXKVICtrArMmbChOfKtRMUUNJ.jpg"
+}
+],
+"info": {
+"name": "ES - Desaparecida en la Provenza (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thWXKVICtrArMmbChOfKtRMUUNJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Yann Le Gal, Benjamin Richard",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867891",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1653913609",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-08",
+"plot": "Tras 20 años casados, Elsa y Laurent Lacaze aparentan ser el matrimonio perfecto y, junto a su hija adolescente Lucie, forman una familia idílica. Sin embargo, todo se tuerce el día en el que Elsa desaparece sin dejar rastro. Será entonces cuando padre e hija descubran que la mujer a la que creían conocer es en realidad todo un misterio para ellos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867891",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36747:1"
+}
+]
+}
+}

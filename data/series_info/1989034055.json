@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-25",
+"episode_count": 1,
+"id": 389629371,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1u52LxOOowSHqlDbUl6ftDQPoJ.jpg"
+}
+],
+"info": {
+"name": "ES - La sombra alargada (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1u52LxOOowSHqlDbUl6ftDQPoJ.jpg",
+"plot": "",
+"cast": "",
+"director": "George Kay",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867911",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1187619626",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-25",
+"plot": "La aparición del cadáver de un prostituta en un parque del barrio de Chapelton, en Leeds, pone en alerta a la policía del condado, con el detective sargento Dennis Hoban (Toby Jones) al mando de las investigaciones junto a su mano derecha, el sargento Jim Hobson (Lee Ingleby). Poco a poco, la cifra de mujeres muertas va creciendo hasta llegar a cinco en dos años, y las alarmas sociales se disparan en especial cuando el asesino, conocido como el destripador de Yorkshire, ya no mata exclusivamente a prostitutas en parques de Leeds, sino que mata en otras ciudades e incluso en el interior de las casas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867911",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36016:1"
+}
+]
+}
+}

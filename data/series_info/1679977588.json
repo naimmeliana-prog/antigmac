@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-03-15",
+"episode_count": 1,
+"id": 1539267050,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVIthGrXC0mcWpX3muGLFBW7rU8.jpg"
+}
+],
+"info": {
+"name": "ES - Belgravia",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVIthGrXC0mcWpX3muGLFBW7rU8.jpg",
+"plot": "",
+"cast": "",
+"director": "Julian Fellowes",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867978",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "607404602",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-15",
+"plot": "La noche del 15 de junio de 1815, lo más selecto de la sociedad británica se reúne en Bruselas para asistir al baile de gala de la duquesa de Richmond en honor al duque de Wellington. Al día siguiente, muchos de los jóvenes que acudieron a la fiesta perderán la vida en el campo de batalla de Waterloo. Sophia Trenchard, hija de un exitoso comerciante, entenderá cuando se mude a Belgravia, el nuevo barrio de moda de Londres, lo que significó aquella noche en sus vidas...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867978",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31465:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-19",
+"episode_count": 1,
+"id": 68872241,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uehjCh6fx6KNjv6eWmslxLrPM0N.jpg"
+}
+],
+"info": {
+"name": "ES - Laid (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uehjCh6fx6KNjv6eWmslxLrPM0N.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867911",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "649348549",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-19",
+"plot": "Una mujer descubre que sus antiguos amantes están muriendo de formas inusuales y debe retroceder en su línea de tiempo sexual para confrontar su pasado y poder seguir adelante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867911",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40587:1"
+}
+]
+}
+}

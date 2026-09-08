@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-29",
+"episode_count": 1,
+"id": 669832769,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRbtxCoQ1pcWvhOQhl5e3Rf1ytv.jpg"
+}
+],
+"info": {
+"name": "ES - La jueza Lewis (2024) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRbtxCoQ1pcWvhOQhl5e3Rf1ytv.jpg",
+"plot": "",
+"cast": "",
+"director": "Hannah Daniel, Georgia Lee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867909",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "468416375",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-29",
+"plot": "La vida de la experimentada juez de una ciudad de Gales se pone patas arriba cuando un caso toca muy de cerca a su hija. La experimentada juez Claire Lewis se enfrenta a problemas personales mientras preside varios casos en la ciudad. Cuando un amigo de su hija se enfrenta a cargos por incendio provocado, la lealtad de Claire hacia su comunidad se pone a prueba. Las cosas empeoran cuando el capo criminal local aparece en escena. Claire y él se conocen desde hace mucho tiempo: ¿volverá su pasado para amenazar su presente?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867909",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1ODY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45869:1"
+}
+]
+}
+}

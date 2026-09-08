@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-13",
+"episode_count": 1,
+"id": 223946334,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zb3zxvbdUYrP0SS7Fl4cXnJ3yJK.jpg"
+}
+],
+"info": {
+"name": "ES - Butterfly (HQ)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zb3zxvbdUYrP0SS7Fl4cXnJ3yJK.jpg",
+"plot": "",
+"cast": "",
+"director": "Steph Cha, Ken Woodruff",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868025",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "651867330",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-13",
+"plot": "David Jung, un misterioso agente de inteligencia de Estados Unidos que se esconde en Corea del Sur, ve como su vida se desmorona cuando una terrible decisión de su pasado resurge para atormentarlo y se convierte en el objetivo de Rebecca, una joven asesina, y de Caddis, la siniestra organización para la que esta trabaja.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868025",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44730:1"
+}
+]
+}
+}

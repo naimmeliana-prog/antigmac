@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2015-02-17",
+"episode_count": 2,
+"id": 765046767,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eONDHS7ty6RywYT6UEPV5o4o2H.jpg"
+}
+],
+"info": {
+"name": "ES - Bajo sospecha",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eONDHS7ty6RywYT6UEPV5o4o2H.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos, Gema R. Neira",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867987",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "26825870",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-02-17",
+"plot": "Narra la investigación de dos policías nacionales designados como infiltrados al caso de una desaparición de una niña de siete años, el policía Víctor Reyes y la Inspectora Laura Cortés; y la investigación de su superior, el Comisario Casas.\r\n\r\nEl día de su primera comunión, Alicia Vega, una niña de siete años, desaparece sin dejar rastro. Tras dos semanas de intensa búsqueda, la policía solo tiene una cosa en claro: el culpable es uno de los invitados a la ceremonia y miembro de la familia de la niña. Los agentes Víctor y Laura se hacen pasar por un matrimonio recién llegado al pueblo de Cienfuegos, y se infiltran en el entorno de la familia Vega y del resto de sospechosos. Mientras ellos dos permanecen en la sombra, el comisario Casas es la parte oficial de la investigación y la única persona que conoce la verdadera identidad de sus agentes infiltrados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867987",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34510:1"
+},
+{
+"id": "664589793",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-02-17",
+"plot": "Narra la investigación de dos policías nacionales designados como infiltrados al caso de una desaparición de una niña de siete años, el policía Víctor Reyes y la Inspectora Laura Cortés; y la investigación de su superior, el Comisario Casas.\r\n\r\nEl día de su primera comunión, Alicia Vega, una niña de siete años, desaparece sin dejar rastro. Tras dos semanas de intensa búsqueda, la policía solo tiene una cosa en claro: el culpable es uno de los invitados a la ceremonia y miembro de la familia de la niña. Los agentes Víctor y Laura se hacen pasar por un matrimonio recién llegado al pueblo de Cienfuegos, y se infiltran en el entorno de la familia Vega y del resto de sospechosos. Mientras ellos dos permanecen en la sombra, el comisario Casas es la parte oficial de la investigación y la única persona que conoce la verdadera identidad de sus agentes infiltrados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867987",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34510:2"
+}
+]
+}
+}

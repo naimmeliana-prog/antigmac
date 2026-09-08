@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-26",
+"episode_count": 3,
+"id": 1924622518,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/reMAnYY36uIrYZaUjoDUnP21llT.jpg"
+}
+],
+"info": {
+"name": "ES - Big Boys",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/reMAnYY36uIrYZaUjoDUnP21llT.jpg",
+"plot": "",
+"cast": "",
+"director": "Jack Rooke",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867883",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1225507815",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-26",
+"plot": "El tímido y adorable Jack es un chico de 19 años criado en Watford, Inglaterra. Jack ha pasado el último año encerrado en casa con su madre, afligido por la muerte de su padre, pero ha llegado el momento de que tome las riendas de su vida, abandone el nido materno y encuentre su lugar en la universidad (y en la vida). Es ahí donde conoce a Danny, su compañero de cuarto, un estudiante mayor que él con el que desarrollará una improbable, curiosa y tierna amistad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867883",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Mjk5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34299:4"
+},
+{
+"id": "66122767",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-26",
+"plot": "El tímido y adorable Jack es un chico de 19 años criado en Watford, Inglaterra. Jack ha pasado el último año encerrado en casa con su madre, afligido por la muerte de su padre, pero ha llegado el momento de que tome las riendas de su vida, abandone el nido materno y encuentre su lugar en la universidad (y en la vida). Es ahí donde conoce a Danny, su compañero de cuarto, un estudiante mayor que él con el que desarrollará una improbable, curiosa y tierna amistad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867883",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Mjk5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34299:2"
+},
+{
+"id": "569174375",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-26",
+"plot": "El tímido y adorable Jack es un chico de 19 años criado en Watford, Inglaterra. Jack ha pasado el último año encerrado en casa con su madre, afligido por la muerte de su padre, pero ha llegado el momento de que tome las riendas de su vida, abandone el nido materno y encuentre su lugar en la universidad (y en la vida). Es ahí donde conoce a Danny, su compañero de cuarto, un estudiante mayor que él con el que desarrollará una improbable, curiosa y tierna amistad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867883",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Mjk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34299:1"
+}
+]
+}
+}

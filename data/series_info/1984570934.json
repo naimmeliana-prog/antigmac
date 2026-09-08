@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-06",
+"episode_count": 1,
+"id": 241075658,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YJzH2fGt96ExpRNcIp1yyTqB3n.jpg"
+}
+],
+"info": {
+"name": "ES - Muerte por un rayo (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YJzH2fGt96ExpRNcIp1yyTqB3n.jpg",
+"plot": "",
+"cast": "",
+"director": "Mike Makowsky",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867921",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "828178594",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-06",
+"plot": "La historia de James Garfield, quien se alzó de entre las sombras para convertirse en el 20.º presidente estadounidense... y Charles Guiteau, el hombre que lo asesinó.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867921",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46546:1"
+}
+]
+}
+}

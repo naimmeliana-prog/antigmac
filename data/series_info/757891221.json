@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-26",
+"episode_count": 1,
+"id": 1513849683,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNEYn9gul2ZspILeJziOOBMCaH8.jpg"
+}
+],
+"info": {
+"name": "ES - Algo terrible está a punto de suceder (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNEYn9gul2ZspILeJziOOBMCaH8.jpg",
+"plot": "",
+"cast": "",
+"director": "Haley Z. Boston",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867998",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1017342584",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-26",
+"plot": "Una novia presiente que algo terrible ocurrirá en su boda... y cuanto más se acerca al altar, peor se vuelve todo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867998",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48725:1"
+}
+]
+}
+}

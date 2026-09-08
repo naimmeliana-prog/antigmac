@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-18",
+"episode_count": 1,
+"id": 166595528,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHr0WlZvDcgc22QThu74PAXjYmJ.jpg"
+}
+],
+"info": {
+"name": "ES - Salto a la gloria (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHr0WlZvDcgc22QThu74PAXjYmJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Antti Kaarlela",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867933",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1180733274",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-18",
+"plot": "Miniserie de TV (2024). 3 episodios. Sigue la vida de Hoddan, una adolescente somalí de 16 años que se traslada con su padre a Ylitornio, un municipio de Finlandia ubicado en plena Laponia. Allí, la joven descubre una antigua colina de esquí, donde conoce a Seppo, un antiguo saltador profesional que ve en ella un gran potencial y decide convertirse en su entrenador. Desde ese momento, Hoddan persigue un ambicioso objetivo: convertirse en la mejor saltadora de esquí del mundo y ganar los próximos Juegos Olímpicos de Invierno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867933",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38862:1"
+}
+]
+}
+}

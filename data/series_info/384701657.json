@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-31",
+"episode_count": 1,
+"id": 880911322,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h0HDjUZMF2VLWehHmKZ39bQInc.jpg"
+}
+],
+"info": {
+"name": "ES - Inspectora Ellis (2024) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h0HDjUZMF2VLWehHmKZ39bQInc.jpg",
+"plot": "",
+"cast": "",
+"director": "Sian Ejiwunmi-Le Berre, Paul Logue",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867906",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "57984994",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-31",
+"plot": "Serie de TV (2024-). 3 episodios. La inspectora Ellis y su compañero el sargento Harper, llegan a una comisaría para resolver casos de asesinato. A pesar de ser menospreciada por ser una mujer, Ellis es una detective decidida, impulsada por un sentido de justicia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867906",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44355:1"
+}
+]
+}
+}

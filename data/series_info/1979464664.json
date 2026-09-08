@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-03",
+"episode_count": 3,
+"id": 1117766136,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
+}
+],
+"info": {
+"name": "ES - The Capture (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben Chanan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867943",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "865972399",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-03",
+"plot": "Un oportuno thriller de espionaje moderno que explora las apremiantes preguntas sobre la vigilancia y la desinformación. En Londres, la condena del antiguo soldado Shaun Emery, es anulada después de que se demuestre que fue encarcelado gracias a pruebas de vídeo defectuosas. Pero tras un nuevo arresto, la tenaz y joven detective encargada de su caso comienza a descubrir una compleja conspiración a gran escala que involucra grabaciones de cámaras de seguridad manipuladas. La vida de Shaun da un giro sorprendente y pronto deberá luchar por su libertad una vez más.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867943",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDM0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35434:3"
+},
+{
+"id": "358224725",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-03",
+"plot": "Un oportuno thriller de espionaje moderno que explora las apremiantes preguntas sobre la vigilancia y la desinformación. En Londres, la condena del antiguo soldado Shaun Emery, es anulada después de que se demuestre que fue encarcelado gracias a pruebas de vídeo defectuosas. Pero tras un nuevo arresto, la tenaz y joven detective encargada de su caso comienza a descubrir una compleja conspiración a gran escala que involucra grabaciones de cámaras de seguridad manipuladas. La vida de Shaun da un giro sorprendente y pronto deberá luchar por su libertad una vez más.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867943",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDM0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35434:2"
+},
+{
+"id": "166623963",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-03",
+"plot": "Un oportuno thriller de espionaje moderno que explora las apremiantes preguntas sobre la vigilancia y la desinformación. En Londres, la condena del antiguo soldado Shaun Emery, es anulada después de que se demuestre que fue encarcelado gracias a pruebas de vídeo defectuosas. Pero tras un nuevo arresto, la tenaz y joven detective encargada de su caso comienza a descubrir una compleja conspiración a gran escala que involucra grabaciones de cámaras de seguridad manipuladas. La vida de Shaun da un giro sorprendente y pronto deberá luchar por su libertad una vez más.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867943",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35434:1"
+}
+]
+}
+}

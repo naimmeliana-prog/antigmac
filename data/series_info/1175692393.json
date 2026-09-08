@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-07",
+"episode_count": 1,
+"id": 681425923,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dR3AENagyS6EDNLdbEbSUDA7C3.jpg"
+}
+],
+"info": {
+"name": "ES - Becoming Karl Lagerfeld",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dR3AENagyS6EDNLdbEbSUDA7C3.jpg",
+"plot": "",
+"cast": "",
+"director": "Raphaëlle Bacqué, Isaure Pisani-Ferry, Jennifer Have",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868022",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "59213387",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-07",
+"plot": "En 1972, Karl Lagerfeld es un diseñador de prêt-à-porter de 38 años que la mayoría del público desconoce. Su encuentro con el joven Jacques de Bascher, un dandi ambicioso y seductor, lo cambia todo. Karl está por fin preparado para enfrentarse a su amigo, el genio de la alta costura Yves Saint Laurent, y a su formidable socio, Pierre Bergé. Glamur, lucha de egos, celebraciones extravagantes y pasión destructiva: presencia cómo Karl Lagerfeld se convirtió en una leyenda.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868022",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34164:1"
+}
+]
+}
+}

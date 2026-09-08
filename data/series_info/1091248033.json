@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-10-06",
+"episode_count": 3,
+"id": 809732540,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMOZ7VZwGbHcoiMksZjvyO5AFRT.jpg"
+}
+],
+"info": {
+"name": "ES - Batwoman",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMOZ7VZwGbHcoiMksZjvyO5AFRT.jpg",
+"plot": "",
+"cast": "",
+"director": "Caroline Dries",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868031",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1407279115",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-06",
+"plot": "Kate Kane protege las calles de Gotham como Batwoman, una luchadora con una gran formación dedicada a acabar con el debilitado mundo criminal de la ciudad, pero… no la llames heroína. En una ciudad desesperada por encontrar su salvación Kate deberá enfrentarse a sus propios demonios antes de convertirse en la esperanza de Gotham.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzQsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8234:3"
+},
+{
+"id": "822627710",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-06",
+"plot": "Kate Kane protege las calles de Gotham como Batwoman, una luchadora con una gran formación dedicada a acabar con el debilitado mundo criminal de la ciudad, pero… no la llames heroína. En una ciudad desesperada por encontrar su salvación Kate deberá enfrentarse a sus propios demonios antes de convertirse en la esperanza de Gotham.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8234:2"
+},
+{
+"id": "381682264",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-06",
+"plot": "Kate Kane protege las calles de Gotham como Batwoman, una luchadora con una gran formación dedicada a acabar con el debilitado mundo criminal de la ciudad, pero… no la llames heroína. En una ciudad desesperada por encontrar su salvación Kate deberá enfrentarse a sus propios demonios antes de convertirse en la esperanza de Gotham.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8234:1"
+}
+]
+}
+}

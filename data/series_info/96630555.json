@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2012-06-01",
+"episode_count": 2,
+"id": 75480802,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lCMxCkmUyc8cQSHSr6YETCuhF8.jpg"
+}
+],
+"info": {
+"name": "ES - Barrabás",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lCMxCkmUyc8cQSHSr6YETCuhF8.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867882",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "680651418",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-01",
+"plot": "Billy Zane interpreta a Barrabás, el hombre cuya vida se salvó debido a la crucifixión de Jesucristo. Basado en la novela ganadora del Premio Nobel de Literatura por Par Lagerkvist, Barrabás es una historia arraigada en la Biblia que cobrará vida en REELZ como una miniserie de cuatro horas y cuenta la historia final de la redención. Barrabás se rodó en Túnez y está dirigido por el ganador del Premio Emmy, Roger Young.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867882",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwOTYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9096:1"
+},
+{
+"id": "1755120423",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-01",
+"plot": "Billy Zane interpreta a Barrabás, el hombre cuya vida se salvó debido a la crucifixión de Jesucristo. Basado en la novela ganadora del Premio Nobel de Literatura por Par Lagerkvist, Barrabás es una historia arraigada en la Biblia que cobrará vida en REELZ como una miniserie de cuatro horas y cuenta la historia final de la redención. Barrabás se rodó en Túnez y está dirigido por el ganador del Premio Emmy, Roger Young.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867882",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwOTYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9096:2"
+}
+]
+}
+}

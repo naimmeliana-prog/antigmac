@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-23",
+"episode_count": 1,
+"id": 68903680,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9PpsCKghxfVGuSF4FbZmDiByr3.jpg"
+}
+],
+"info": {
+"name": "ES - Cris Miró (Ella) (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9PpsCKghxfVGuSF4FbZmDiByr3.jpg",
+"plot": "",
+"cast": "",
+"director": "Martín Vatenberg",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867889",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1278705695",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-23",
+"plot": "El viaje de Cris Miró como la primera vedette trans de Argentina en 1995, arrojando luz sobre la comunidad trans. A pesar de las dificultades, abrazó su verdadero yo hasta su prematuro fallecimiento, dejando un legado de inspiración y aceptación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35740:1"
+}
+]
+}
+}

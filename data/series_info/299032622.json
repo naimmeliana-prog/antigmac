@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-09-24",
+"episode_count": 1,
+"id": 1008703804,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTyggtfFK6vuvP3g1HIBqhi6b5J.jpg"
+}
+],
+"info": {
+"name": "ES - Cennet (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTyggtfFK6vuvP3g1HIBqhi6b5J.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868042",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "28874139",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-24",
+"plot": "Cennet fue abandonada cuando era bebé y ha luchado valientemente por la vida, desesperada por el amor maternal que se ha perdido. Criada por su abuela, Cennet tiene poco en su vida aparte de su mejor amiga. Sin embargo, un accidente los separa y él desaparece de su vida. Años más tarde, a pesar de su pobre experiencia, Cennet ha trabajado duro para convertirse en la mejor estudiante de su clase de arquitectura. Después de su graduación, la madre de su compañera de escuela Melisa le ofrece un trabajo soñado en su exitosa firma.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868042",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35535:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-18",
+"episode_count": 1,
+"id": 215004142,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg"
+}
+],
+"info": {
+"name": "ES - Betty La Fea 2: La Historia Continua (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg",
+"plot": "",
+"cast": "",
+"director": "Juan Carlos Pérez, Marta Betoldi, César Betancur",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868025",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1982026680",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-18",
+"plot": "Cuenta la historia de la icónica Beatriz Pinzón Solano, Betty la fea, 20 años después de la conclusión de la serie original. Mientras la empoderada Betty sigue casada con su esposo y líder de la compañía, Armando Mendoza, ella reconstruye su relación con su hija adolescente Mila, y trata de sobrellevar la crisis de su compañía familiar, preguntándose si hace 20 años escogió el camino que la hizo verdaderamente feliz.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868025",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35286:1"
+}
+]
+}
+}

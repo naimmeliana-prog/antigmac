@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-29",
+"episode_count": 1,
+"id": 1544972390,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/18t0KvANUj3dR9NfDYKBrtqFJHn.jpg"
+}
+],
+"info": {
+"name": "ES - Power Play (Miniserie)",
+"cover": "https://image.tmdb.org/t/p/w154/18t0KvANUj3dR9NfDYKBrtqFJHn.jpg",
+"plot": "",
+"cast": "",
+"director": "Silje Storstein, Kristin Grue, Johan Fasting",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867927",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1621302312",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-29",
+"plot": "Narra la increíble historia de Gro Harlem Brundtland, a finales de los años 70 era una joven doctora en favor del aborto hasta que, al impresionar el gobierno a su alrededor, va ascendiendo de rango hasta convertirse en la primera mujer Primera Ministra de Noruega en 1981.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867927",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MzkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29390:1"
+}
+]
+}
+}

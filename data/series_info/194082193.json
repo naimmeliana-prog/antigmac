@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-09",
+"episode_count": 1,
+"id": 474925554,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ErR4qIwAWQPlonlfko4j6UlPiP.jpg"
+}
+],
+"info": {
+"name": "ES - Ballard (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ErR4qIwAWQPlonlfko4j6UlPiP.jpg",
+"plot": "",
+"cast": "",
+"director": "Kendall Sherwood",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868024",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "663931148",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-09",
+"plot": "La inspectora Renée Ballard se sumerge en una red de asesinatos y corrupción mientras persigue a un cruel asesino en serie y descubre una siniestra conspiración policial que amenaza todo lo que defiende. Con sus propios demonios acechándola, Ballard debe burlar a criminales y colegas para proporcionarle la tan esperada justicia a las víctimas y sus familias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868024",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NDEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44413:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-07",
+"episode_count": 1,
+"id": 1205030242,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSz5nrTrHBsbdVJJgYMB1tJ5nkv.jpg"
+}
+],
+"info": {
+"name": "ES - Andén 7 (LQ) (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSz5nrTrHBsbdVJJgYMB1tJ5nkv.jpg",
+"plot": "",
+"cast": "",
+"director": "Louise Doughty",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868030",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "794656665",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-07",
+"plot": "Cuenta la historia de Lisa, que presencia un cataclismo en el andén 7 de una estación de ferrocarril y en su memoria encuentra una conexión entre su propia vida y el suceso que acaba de presenciar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MzQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49343:1"
+}
+]
+}
+}

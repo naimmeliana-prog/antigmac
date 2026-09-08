@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-04",
+"episode_count": 1,
+"id": 191605845,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j268Cps3P6P58eOxdRB8wFOttIt.jpg"
+}
+],
+"info": {
+"name": "ES - El camorrista (2025) (IT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j268Cps3P6P58eOxdRB8wFOttIt.jpg",
+"plot": "",
+"cast": "",
+"director": "Giuseppe Tornatore",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867897",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1492203278",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-04",
+"plot": "Miniserie de TV (2025). 5 episodios. Basada en el libro de Giuseppe Marazzo, narra el ascenso y la caída de Raffaele Cutolo, uno de los capos más influyentes de la historia de la mafia italiana. Conocido como El profesor por su intelecto y pasión por la escritura, fundó y dirigió la Nuova Camorra Organizzata, una organización criminal que llegó a contar con más de 7.000 miembros, rivalizando con la Cosa Nostra siciliana y tejiendo alianzas con la ‘Ndrangheta calabresa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867897",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46169:1"
+}
+]
+}
+}

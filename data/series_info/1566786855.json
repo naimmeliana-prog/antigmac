@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-12",
+"episode_count": 1,
+"id": 244208844,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg"
+}
+],
+"info": {
+"name": "ES - American Rust (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Futterman, Philipp Meyer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868034",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1755037715",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-12",
+"plot": "En una ciudad del cinturón obrero del suroeste de Pensilvania, el jefe de policía se verá obligado a decidir hasta dónde está dispuesto a llegar en su dilema entre el deber y el corazón cuando el hijo de la mujer que ama es acusado de asesinato.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868034",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35014:1"
+}
+]
+}
+}

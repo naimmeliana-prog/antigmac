@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-17",
+"episode_count": 1,
+"id": 1117404505,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJbUYGnDNSeUvcNAT6qdMELxmsX.jpg"
+}
+],
+"info": {
+"name": "ES - Davos 1917",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJbUYGnDNSeUvcNAT6qdMELxmsX.jpg",
+"plot": "",
+"cast": "",
+"director": "Thomas Hess, Michael Sauter, Julia Penner",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867890",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "49529001",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-17",
+"plot": "Más decidida que nunca a vivir su vida de acuerdo con sus deseos más profundos, la enfermera Johanna Gabathuler se ve envuelta en una conspiración de espías con implicaciones internacionales. Hay un alto precio que pagar y es, como mínimo, arriesgado, pero ella hará todo lo necesario para encontrar a su hija y, en última instancia, asegurar su libertad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867890",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyNTM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32539:1"
+}
+]
+}
+}

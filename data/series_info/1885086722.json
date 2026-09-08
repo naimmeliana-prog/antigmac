@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-19",
+"episode_count": 2,
+"id": 294958192,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cYzs0fGLBLMg2enM6seVnf7bgO.jpg"
+}
+],
+"info": {
+"name": "ES - Arcadia (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cYzs0fGLBLMg2enM6seVnf7bgO.jpg",
+"plot": "",
+"cast": "",
+"director": "Philippe De Schepper, Bas Adriaensen, Zita Theunynck",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867880",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "257615066",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-19",
+"plot": "Tras una gran catástrofe, nace una nueva sociedad, Arcadia. Los recursos se han vuelto escasos y se introduce un sistema de puntos, conocido como Citizen Score. Determina lo que usted puede y debe hacer y a qué tiene derecho un ciudadano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867880",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzgwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43380:2"
+},
+{
+"id": "1347049884",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-19",
+"plot": "Tras una gran catástrofe, nace una nueva sociedad, Arcadia. Los recursos se han vuelto escasos y se introduce un sistema de puntos, conocido como Citizen Score. Determina lo que usted puede y debe hacer y a qué tiene derecho un ciudadano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867880",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43380:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-05",
+"episode_count": 1,
+"id": 1225681562,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MOA7bPSJNWahuyz42AGspBvtsI.jpg"
+}
+],
+"info": {
+"name": "ES - La puta ama (2025) (FI)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MOA7bPSJNWahuyz42AGspBvtsI.jpg",
+"plot": "",
+"cast": "",
+"director": "Tiina Lymi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867910",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "194649106",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-05",
+"plot": "Linda, una exitosa agente inmobiliaria, descubre que su marido la ha dejado con millones en deudas. Decidida a mantener su estilo de vida, se adentra en el submundo criminal de Helsinki mientras intenta seguir vendiendo propiedades de lujo. Entre fraudes, blanqueo y dilemas morales, su ambición la llevará a reinventarse por completo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867910",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45633:1"
+}
+]
+}
+}

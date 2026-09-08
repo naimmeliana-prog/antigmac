@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-17",
+"episode_count": 2,
+"id": 305544958,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53ln09teIq310jq9VIaOparHz1V.jpg"
+}
+],
+"info": {
+"name": "ES - El primer matrimonio de Georgie y Mandy (2024) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53ln09teIq310jq9VIaOparHz1V.jpg",
+"plot": "",
+"cast": "",
+"director": "Chuck Lorre, Steve Holland, Steven Molaro",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867898",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "152144512",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-17",
+"plot": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867898",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTcxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46171:2"
+},
+{
+"id": "1642903069",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-17",
+"plot": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867898",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46171:1"
+}
+]
+}
+}

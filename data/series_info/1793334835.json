@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-28",
+"episode_count": 1,
+"id": 641445284,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9wRdLzrThgh3hpu6rKfGqHpoFbr.jpg"
+}
+],
+"info": {
+"name": "ES - Una vida menos en Canarias",
+"cover": "https://image.tmdb.org/t/p/w154/9wRdLzrThgh3hpu6rKfGqHpoFbr.jpg",
+"plot": "",
+"cast": "",
+"director": "Curro Royo, Fran Carballal, Enrique Lojo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867964",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1002657098",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-28",
+"plot": "Luis Lacasa, veterano inspector, debe aceptar un traslado forzoso a las Islas Canarias y adaptarse a todo lo que detesta: el calor, la arena y los turistas. Junto a la inspectora Naira, formará un buen equipo a pesar de sus diferencias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867964",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30241:1"
+}
+]
+}
+}

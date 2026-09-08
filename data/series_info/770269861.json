@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "1986-02-26",
+"episode_count": 6,
+"id": 1478493118,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ovQcVS08N0Sv164p8BPSe9PJpP.jpg"
+}
+],
+"info": {
+"name": "ES - Dragon Ball",
+"cover": "https://image.tmdb.org/t/p/w154/ovQcVS08N0Sv164p8BPSe9PJpP.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867894",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1870457544",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1986-02-26",
+"plot": "Hace mucho tiempo, en las montañas, el maestro de artes marciales Gohan descubrió a un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa, al que llamó Goku. Sin saber nada de su pasado, Gohan le crió como su nieto hasta los ocho años y le entrenó en artes marciales. Después de morir su abuelo, un buen día conoce a Bulma, una muchacha obsesionada con las misteriosas Bolas de Dragón. Juntos emprenderán la búsqueda de las siete bolas, una aventura que cambiará la vida de Goku para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkxLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29591:6"
+},
+{
+"id": "1854974345",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1986-02-26",
+"plot": "Hace mucho tiempo, en las montañas, el maestro de artes marciales Gohan descubrió a un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa, al que llamó Goku. Sin saber nada de su pasado, Gohan le crió como su nieto hasta los ocho años y le entrenó en artes marciales. Después de morir su abuelo, un buen día conoce a Bulma, una muchacha obsesionada con las misteriosas Bolas de Dragón. Juntos emprenderán la búsqueda de las siete bolas, una aventura que cambiará la vida de Goku para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkxLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29591:5"
+},
+{
+"id": "1404016390",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1986-02-26",
+"plot": "Hace mucho tiempo, en las montañas, el maestro de artes marciales Gohan descubrió a un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa, al que llamó Goku. Sin saber nada de su pasado, Gohan le crió como su nieto hasta los ocho años y le entrenó en artes marciales. Después de morir su abuelo, un buen día conoce a Bulma, una muchacha obsesionada con las misteriosas Bolas de Dragón. Juntos emprenderán la búsqueda de las siete bolas, una aventura que cambiará la vida de Goku para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkxLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29591:4"
+},
+{
+"id": "313774054",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1986-02-26",
+"plot": "Hace mucho tiempo, en las montañas, el maestro de artes marciales Gohan descubrió a un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa, al que llamó Goku. Sin saber nada de su pasado, Gohan le crió como su nieto hasta los ocho años y le entrenó en artes marciales. Después de morir su abuelo, un buen día conoce a Bulma, una muchacha obsesionada con las misteriosas Bolas de Dragón. Juntos emprenderán la búsqueda de las siete bolas, una aventura que cambiará la vida de Goku para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29591:3"
+},
+{
+"id": "1260789329",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1986-02-26",
+"plot": "Hace mucho tiempo, en las montañas, el maestro de artes marciales Gohan descubrió a un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa, al que llamó Goku. Sin saber nada de su pasado, Gohan le crió como su nieto hasta los ocho años y le entrenó en artes marciales. Después de morir su abuelo, un buen día conoce a Bulma, una muchacha obsesionada con las misteriosas Bolas de Dragón. Juntos emprenderán la búsqueda de las siete bolas, una aventura que cambiará la vida de Goku para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29591:2"
+},
+{
+"id": "1279292703",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1986-02-26",
+"plot": "Hace mucho tiempo, en las montañas, el maestro de artes marciales Gohan descubrió a un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa, al que llamó Goku. Sin saber nada de su pasado, Gohan le crió como su nieto hasta los ocho años y le entrenó en artes marciales. Después de morir su abuelo, un buen día conoce a Bulma, una muchacha obsesionada con las misteriosas Bolas de Dragón. Juntos emprenderán la búsqueda de las siete bolas, una aventura que cambiará la vida de Goku para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29591:1"
+}
+]
+}
+}

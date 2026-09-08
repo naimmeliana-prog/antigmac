@@ -1,0 +1,231 @@
+{
+"seasons": [
+{
+"air_date": "1989-04-26",
+"episode_count": 9,
+"id": 1871589616,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/u9CBMpKcvwIPQBKdBMntMqsuGHE.jpg"
+}
+],
+"info": {
+"name": "ES - Dragon Ball Z",
+"cover": "https://image.tmdb.org/t/p/w154/u9CBMpKcvwIPQBKdBMntMqsuGHE.jpg",
+"plot": "",
+"cast": "",
+"director": "Akira Toriyama",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867894",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1013460161",
+"episode_num": 1,
+"title": "Season 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjo5LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:9"
+},
+{
+"id": "245250076",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjo4LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:8"
+},
+{
+"id": "9121481",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:7"
+},
+{
+"id": "431165335",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:6"
+},
+{
+"id": "3977870",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:5"
+},
+{
+"id": "397538205",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:4"
+},
+{
+"id": "891228471",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:3"
+},
+{
+"id": "1021305024",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:2"
+},
+{
+"id": "228131964",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-26",
+"plot": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867894",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29590:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-08",
+"episode_count": 2,
+"id": 255824787,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwJ91wfllDsXF3yi9Cvf57uQTNM.jpg"
+}
+],
+"info": {
+"name": "ES - Alert: Unidad de Personas Desaparecidas",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwJ91wfllDsXF3yi9Cvf57uQTNM.jpg",
+"plot": "",
+"cast": "",
+"director": "Jamie Foxx, John Eisendrath",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867975",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1625806088",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-08",
+"plot": "Cuando el hijo de la oficial de policía Nikki Parker desaparece, ella se une a la Unidad de Personas Desaparecidas (LAMPU) de LAPD para ayudar a otras personas a encontrar a sus seres queridos, incluso mientras busca a los suyos. Seis años más tarde, su mundo se pone patas arriba cuando su exmarido, Devon Zoellner, aparece con una foto de prueba de vida de su hijo desaparecido. ¿O es eso?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867975",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Mjk3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34297:2"
+},
+{
+"id": "1778517419",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-08",
+"plot": "Cuando el hijo de la oficial de policía Nikki Parker desaparece, ella se une a la Unidad de Personas Desaparecidas (LAMPU) de LAPD para ayudar a otras personas a encontrar a sus seres queridos, incluso mientras busca a los suyos. Seis años más tarde, su mundo se pone patas arriba cuando su exmarido, Devon Zoellner, aparece con una foto de prueba de vida de su hijo desaparecido. ¿O es eso?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867975",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Mjk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34297:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-07",
+"episode_count": 1,
+"id": 1238097273,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xytXKYBrNW9z3kOfkxoRWqRwzkL.jpg"
+}
+],
+"info": {
+"name": "ES - ARA San Juan: El submarino que desapareció (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xytXKYBrNW9z3kOfkxoRWqRwzkL.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868037",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1733033628",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-07",
+"plot": "En esta docuserie de investigación se entrevista a especialistas y familiares sobre la trágica desaparición en 2017 de un submarino militar que conmocionó al mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868037",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35749:1"
+}
+]
+}
+}

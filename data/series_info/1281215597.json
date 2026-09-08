@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-28",
+"episode_count": 1,
+"id": 1261258229,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6RVP0PEycwjP63J0AgOKKIyrTp.jpg"
+}
+],
+"info": {
+"name": "ES - Without Sin: Libre de culpa",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6RVP0PEycwjP63J0AgOKKIyrTp.jpg",
+"plot": "",
+"cast": "",
+"director": "Frances Poletti",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867974",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "243917330",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-28",
+"plot": "Miniserie de cuatro episodios. Una madre rehén de su profundo dolor, al ser contactada por el programa de Justicia Restaurativa, se reúne con el hombre encarcelado por el asesinato de su hija. Pero a medida que la conexión entre ellos avanza, ella empieza a sospechar que alguien más pudo haber cometido el crimen y que han vuelto a atentar contra una joven vulnerable.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867974",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33108:1"
+}
+]
+}
+}

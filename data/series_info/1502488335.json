@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-27",
+"episode_count": 1,
+"id": 1698745523,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nsJ17VZn3pl90qqXXmSzDKRRvS.jpg"
+}
+],
+"info": {
+"name": "ES - Chicos de barrio (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nsJ17VZn3pl90qqXXmSzDKRRvS.jpg",
+"plot": "",
+"cast": "",
+"director": "Yekta Torun",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868042",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1289931235",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-27",
+"plot": "La vida feliz de Ali y sus amigos por su cuenta cambia de la noche a la mañana. No tienen más que una larga noche de secretos y dudas. Cuando creen que la justicia no les llegará, ocurre un milagro. Un milagro que se les ofrece desde la fuente de la duda. De hecho, nada es lo que parece. Emprendieron sin miedo su nueva vida para encontrar la verdad. Cuando su coraje se sume a su fuerza, solo les quedará abrir las puertas de esa noche secreta una a una. Encontrar las llaves no será fácil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868042",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35536:1"
+}
+]
+}
+}

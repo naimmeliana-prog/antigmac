@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-14",
+"episode_count": 2,
+"id": 576482144,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRmXmIilJgiNeSIwahT3HALxbYG.jpg"
+}
+],
+"info": {
+"name": "ES - 10 Libras y Un Sueño (2023) (AU)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRmXmIilJgiNeSIwahT3HALxbYG.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Brocklehurst",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867876",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1856567616",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-14",
+"plot": "Un grupo de británicos deja la triste Gran Bretaña de la posguerra en 1956 para embarcarse en una aventura que les cambiará la vida al otro lado del mundo. Por solo diez libras, se les prometió una mejor calidad de vida junto al mar en la soleada Australia, pero la vida allá abajo no es exactamente idílica. Luchando con su nueva identidad como inmigrantes, seguimos sus triunfos y dificultades mientras se adaptan a una nueva vida en un nuevo país, lejos de Gran Bretaña y la familiaridad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867876",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0OTI4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44928:2"
+},
+{
+"id": "62029062",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-14",
+"plot": "Un grupo de británicos deja la triste Gran Bretaña de la posguerra en 1956 para embarcarse en una aventura que les cambiará la vida al otro lado del mundo. Por solo diez libras, se les prometió una mejor calidad de vida junto al mar en la soleada Australia, pero la vida allá abajo no es exactamente idílica. Luchando con su nueva identidad como inmigrantes, seguimos sus triunfos y dificultades mientras se adaptan a una nueva vida en un nuevo país, lejos de Gran Bretaña y la familiaridad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867876",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0OTI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44928:1"
+}
+]
+}
+}

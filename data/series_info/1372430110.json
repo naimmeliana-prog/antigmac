@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-07",
+"episode_count": 1,
+"id": 188616333,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kniQ2yUCQtbfm7yMMwZ8mmK6ahT.jpg"
+}
+],
+"info": {
+"name": "ES - (AR) La mente del poder (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kniQ2yUCQtbfm7yMMwZ8mmK6ahT.jpg",
+"plot": "",
+"cast": "",
+"director": "Pablo Flores, Nicolás Mellino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867876",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1864574675",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-07",
+"plot": "El psicólogo del presidente electo es extorsionado por una organización misteriosa para que consiga la renuncia del mandatario.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867876",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37185:1"
+}
+]
+}
+}

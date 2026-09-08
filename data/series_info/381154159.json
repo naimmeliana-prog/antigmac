@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-17",
+"episode_count": 1,
+"id": 41804105,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2qEUE5dj3brA99H0kkLkH6RfnM.jpg"
+}
+],
+"info": {
+"name": "ES - El caso de Ruth Ellis (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2qEUE5dj3brA99H0kkLkH6RfnM.jpg",
+"plot": "",
+"cast": "",
+"director": "Kelly Jones",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867897",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "563542812",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-17",
+"plot": "Basada en la increíble y dolorosa historia real de Ruth Ellis, una mujer adelantada a su tiempo que, tras matar a su pareja, se convirtió en la última víctima de la horca en Reino Unido.\r\n\r\nEn 1955, en el glamuroso y embriagador mundo de los clubes londinenses, Ruth Ellis alcanzó la fama a los 28 años como la gerente de club más joven de la capital. Su éxito pronto se desvanece al verse envuelta en una relación abusiva con el piloto de carreras David Blakely. Enjuiciada por su asesinato, Ruth fue condenada a muerte por un sistema que la juzgó por mucho más que su crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867897",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44707:1"
+}
+]
+}
+}

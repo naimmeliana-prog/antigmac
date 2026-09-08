@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-02",
+"episode_count": 1,
+"id": 1594869097,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3teWChNzKJdbfen46IdeKTygdZa.jpg"
+}
+],
+"info": {
+"name": "ES - Robin Hood (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonathan English, John Glenn",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867932",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1483544371",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-02",
+"plot": "Serie que reimagina la leyenda de Robin Hood, con un enfoque moderno del forajido que roba a los ricos para dárselo a los pobres y la historia de amor entre él y Marian. Tras la invasión normanda de Inglaterra, Rob, hijo de un guardabosques sajón, y Marian, hija de un lord normando, se enamoran y luchan juntos por la justicia y la libertad. Mientras Rob se convierte en el líder de una banda de forajidos rebeldes, Marian se infiltra en el poder de la corte, y ambos trabajan juntos para frustrar la corrupción real y traer la paz a la tierra.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867932",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NDI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46429:1"
+}
+]
+}
+}

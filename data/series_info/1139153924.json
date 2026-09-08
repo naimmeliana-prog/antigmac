@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-16",
+"episode_count": 1,
+"id": 126835498,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/lquI0LEvQ3EL5Xw0hwIS8VLnbtb.jpg"
+}
+],
+"info": {
+"name": "ES - Manual de la vida salvaje (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/lquI0LEvQ3EL5Xw0hwIS8VLnbtb.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867916",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1444254972",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-16",
+"plot": "Un millennial brillante y ambicioso funda con dos amigos una startup que desarrolla una aplicación que le permite dialogar con los difuntos a través de sus huellas digitales. El camino hacia el éxito no será fácil y la rápida expansión de la empresa tendrá consecuencias desafortunadas que obligarán a su fundador a tomar decisiones éticas cuestionables.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867916",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28185:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-11",
+"episode_count": 2,
+"id": 362473405,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cs2XiUFB0qX7BlJm9AuYtkSWag.jpg"
+}
+],
+"info": {
+"name": "ES - Bellas artes",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cs2XiUFB0qX7BlJm9AuYtkSWag.jpg",
+"plot": "",
+"cast": "",
+"director": "Gastón Duprat, Mariano Cohn, Andrés Duprat",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867985",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "440923093",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-11",
+"plot": "Antonio Dumas, un prestigioso historiador de arte y gestor cultural. Culto y sofisticado, aunque bastante cínico y engreído, es nombrado director de un importante museo de arte contemporáneo en Madrid al salir victorioso en un concurso para ese cargo. Una vez asumida su nueva posición deberá afrontar, en medio de la fauna insólita del mundo del arte, un abanico de circunstancias y conflictos dispares: desde problemas gremiales y presiones políticas, hasta situaciones disparatadas en relación a las exposiciones y a los artistas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867985",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31716:2"
+},
+{
+"id": "1406998839",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-11",
+"plot": "Antonio Dumas, un prestigioso historiador de arte y gestor cultural. Culto y sofisticado, aunque bastante cínico y engreído, es nombrado director de un importante museo de arte contemporáneo en Madrid al salir victorioso en un concurso para ese cargo. Una vez asumida su nueva posición deberá afrontar, en medio de la fauna insólita del mundo del arte, un abanico de circunstancias y conflictos dispares: desde problemas gremiales y presiones políticas, hasta situaciones disparatadas en relación a las exposiciones y a los artistas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867985",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31716:1"
+}
+]
+}
+}

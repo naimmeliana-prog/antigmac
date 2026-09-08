@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-12",
+"episode_count": 1,
+"id": 127808794,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf2u02mLodDN2ujMSfLFDkPVFac.jpg"
+}
+],
+"info": {
+"name": "ES - Revival (2025) (CA)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf2u02mLodDN2ujMSfLFDkPVFac.jpg",
+"plot": "",
+"cast": "",
+"director": "Aaron B. Koontz, Luke Boyce",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867931",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "28049066",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-12",
+"plot": "En un día milagroso en la zona rural de Wisconsin, los recién fallecidos se levantan repentinamente de sus tumbas. Pero esta no es una historia de zombis, ya que los «resucitados» aparecen y actúan tal y como lo hacían antes. Cuando Dana Cypress, agente local y madre soltera, se ve inesperadamente envuelta en un brutal misterio de asesinato, se ve obligada a dar sentido al caos en medio de una ciudad sumida en el miedo y la confusión, donde todos, vivos o muertos, son sospechosos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867931",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46536:1"
+}
+]
+}
+}

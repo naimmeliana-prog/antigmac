@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-09-02",
+"episode_count": 1,
+"id": 546309166,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MdnyrdYJkLPcJNDize2rN1k3bt.jpg"
+}
+],
+"info": {
+"name": "ES - Alex Hugo (2015) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MdnyrdYJkLPcJNDize2rN1k3bt.jpg",
+"plot": "",
+"cast": "",
+"director": "Franck Thilliez, Nicolas Tackian",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867878",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "699288318",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-02",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867878",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47952:1"
+}
+]
+}
+}

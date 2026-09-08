@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-08",
+"episode_count": 1,
+"id": 176247382,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AllSaYnmS6kUF6YyScgAMh9lEoT.jpg"
+}
+],
+"info": {
+"name": "ES - Return to Paradise (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AllSaYnmS6kUF6YyScgAMh9lEoT.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Mattessi, James Hall, Robert Thorogood",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867930",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "897381681",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-08",
+"plot": "La inspectora Mackenzie Clarke se ve obligada a abandonar Londres bajo una nube de sospecha y regresar al último lugar en el que siempre quiso estar, su ciudad natal de Dolphin Cove, Australia, donde su tenacidad y ética de trabajo la ayudan a resolver misterios de asesinatos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867930",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43315:1"
+}
+]
+}
+}

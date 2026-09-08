@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-04",
+"episode_count": 1,
+"id": 1207433295,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dEFR1LTGGRkYNAgLKCJ7V7Drea.jpg"
+}
+],
+"info": {
+"name": "ES - En segundos (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dEFR1LTGGRkYNAgLKCJ7V7Drea.jpg",
+"plot": "",
+"cast": "",
+"director": "Roope Lehtinen, Mikko Pöllä, Laura Suhonen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867900",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1324110211",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-04",
+"plot": "Una pequeña localidad ubicada en Finlandia se convierte en el epicentro de la tragedia cuando un tren descarrila en la estación y provoca una explosión que acaba con la vida de más de 60 personas. Mientras una nube de productos químicos tóxicos se extiende por la zona, la causa del accidente se convierte en todo un misterio. La investigadora de accidentes Marita Kaila llega al lugar y lidera un equipo de expertos cuyo trabajo es averiguar qué sucedió y por qué.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867900",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42723:1"
+}
+]
+}
+}

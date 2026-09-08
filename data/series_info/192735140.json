@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2008-09-04",
+"episode_count": 1,
+"id": 1131656151,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GUjsVc1xFukLeauqvkjfllmnsW.jpg"
+}
+],
+"info": {
+"name": "ES - Amor Prohibido (2008)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GUjsVc1xFukLeauqvkjfllmnsW.jpg",
+"plot": "",
+"cast": "",
+"director": "Halid Ziya Uşaklıgil",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868041",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1654286695",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2008-09-04",
+"plot": "Bihter Yöreoğlu es una joven hermosa que lleva una vida de lujos. Odia a su madre, la codiciosa Fatma Yöreoglu, por haberle causado la muerte a su querido padre. En sus visitas al cementerio, Bihter nota el interés del viudo millonario Adnan Ziyagil en ella. Fatma intentará conquistar a Adnan para su beneficio, pero Bihter no desea que su madre se salga con la suya, así que acepta la propuesta de matrimonio que le hizo Adnan y así poder arruinar los planes de su madre. Cuando todo iba bien en la familia Ziyagil, el sobrino de Adnan a quien ama como a un hijo, Behlül, un joven atractivo e inmaduro, mujeriego y sin agallas, se enamora de Bihter, la esposa de su tío. Al darse cuenta que no puede controlar sus sentimientos, Behlul le confiesa a Bihter que está enamorado de ella, y la besa a la fuerza, pero ella lo rechaza. A Bihter no le agrada él. Tras la insistencia de Behlül, Bihter empieza a sentirse atraída hacia él, y termina por corresponderle al conocerlo más. Ambos se dan cuenta que no pueden controlar sus sentimientos, y comienzan a vivir su amor prohibido, al tiempo que se desatan grandes consecuencias para el clan familiar dado que además, la hija de Adnan, Nihal, está enamorada de su primo Behlül, pero este solo la quiere como una hermana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868041",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35533:1"
+}
+]
+}
+}

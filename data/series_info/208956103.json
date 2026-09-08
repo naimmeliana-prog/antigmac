@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-19",
+"episode_count": 2,
+"id": 1221786035,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGS0pROr3fqayLhwLr8kKRuBQOO.jpg"
+}
+],
+"info": {
+"name": "ES - Sullivan's Crossing (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGS0pROr3fqayLhwLr8kKRuBQOO.jpg",
+"plot": "",
+"cast": "",
+"director": "Roma Roth",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867939",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "143951533",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-19",
+"plot": "La neurocirujana Maggie Sullivan se reencuentra con su pasado después de que un escándalo la obligue a dejar atrás su vida profesional y personal en la ciudad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867939",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NzIwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38720:2"
+},
+{
+"id": "45445475",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-19",
+"plot": "La neurocirujana Maggie Sullivan se reencuentra con su pasado después de que un escándalo la obligue a dejar atrás su vida profesional y personal en la ciudad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867939",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NzIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38720:1"
+}
+]
+}
+}

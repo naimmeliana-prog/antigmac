@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-26",
+"episode_count": 1,
+"id": 452144016,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6qiYYYI4Oy1JFMOo7Y5wxHCehm.jpg"
+}
+],
+"info": {
+"name": "ES - Soviet Jeans (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6qiYYYI4Oy1JFMOo7Y5wxHCehm.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867937",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "376961627",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-26",
+"plot": "Renars (Kārlis Arnolds Avots) es un joven letón que, doce años antes de la independencia de su país, sueña con la libertad, el rock y los pantalones vaqueros en Riga. Trabaja como diseñador de vestuario en un teatro público, pero también se gana la vida trapicheando con productos occidentales prohibidos. No correría ningún riesgo si no fuera por Maris (Igors Selegovkis), un joven y ambicioso agente del KGB que amenaza con destapar el pequeño negocio encubierto de Renars si este no empieza a colaborar como informador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867937",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMTYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42161:1"
+}
+]
+}
+}

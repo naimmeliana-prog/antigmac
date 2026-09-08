@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-24",
+"episode_count": 4,
+"id": 196490071,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz4y6d2dDIKlyenkxzrX4yL9Kwh.jpg"
+}
+],
+"info": {
+"name": "ES - Atasco (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz4y6d2dDIKlyenkxzrX4yL9Kwh.jpg",
+"plot": "",
+"cast": "",
+"director": "Rodrigo Sopeña",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868023",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1353719892",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-24",
+"plot": "Un atasco nocturno interrumpe los planes de miles de ciudadanos: unos ladrones no llegarán a tiempo a la joyería que pretenden atracar, los operarios de una grúa renunciarán a su escarceo amoroso, un conductor de ambulancia buscará desesperadamente un WC, un food truck no llegará a su destino...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODY1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34865:4"
+},
+{
+"id": "1558832022",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-24",
+"plot": "Un atasco nocturno interrumpe los planes de miles de ciudadanos: unos ladrones no llegarán a tiempo a la joyería que pretenden atracar, los operarios de una grúa renunciarán a su escarceo amoroso, un conductor de ambulancia buscará desesperadamente un WC, un food truck no llegará a su destino...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODY1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34865:3"
+},
+{
+"id": "927569784",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-24",
+"plot": "Un atasco nocturno interrumpe los planes de miles de ciudadanos: unos ladrones no llegarán a tiempo a la joyería que pretenden atracar, los operarios de una grúa renunciarán a su escarceo amoroso, un conductor de ambulancia buscará desesperadamente un WC, un food truck no llegará a su destino...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODY1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34865:2"
+},
+{
+"id": "1904209213",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-24",
+"plot": "Un atasco nocturno interrumpe los planes de miles de ciudadanos: unos ladrones no llegarán a tiempo a la joyería que pretenden atracar, los operarios de una grúa renunciarán a su escarceo amoroso, un conductor de ambulancia buscará desesperadamente un WC, un food truck no llegará a su destino...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34865:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-01-03",
+"episode_count": 3,
+"id": 1871992529,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/eEwTV4Z397UgMlbJN3FQDdTOMpO.jpg"
+}
+],
+"info": {
+"name": "ES - Call Me Kat - (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/eEwTV4Z397UgMlbJN3FQDdTOMpO.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868032",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "523779117",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-03",
+"plot": "Todos los días Kat intenta demostrar a su madre y a la sociedad que se puede tener una vida feliz y plena, pese a estar soltera a los 39. Por eso decide invertir sus ahorros en abrir un café de gatos en Louisville (Kentucky).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODg1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22885:3"
+},
+{
+"id": "230614253",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-03",
+"plot": "Todos los días Kat intenta demostrar a su madre y a la sociedad que se puede tener una vida feliz y plena, pese a estar soltera a los 39. Por eso decide invertir sus ahorros en abrir un café de gatos en Louisville (Kentucky).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODg1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22885:2"
+},
+{
+"id": "400126421",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-03",
+"plot": "Todos los días Kat intenta demostrar a su madre y a la sociedad que se puede tener una vida feliz y plena, pese a estar soltera a los 39. Por eso decide invertir sus ahorros en abrir un café de gatos en Louisville (Kentucky).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22885:1"
+}
+]
+}
+}

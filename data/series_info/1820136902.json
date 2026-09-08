@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-05",
+"episode_count": 1,
+"id": 1026675770,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTJgfbSQ4UczxMOgscHPsoVuL5X.jpg"
+}
+],
+"info": {
+"name": "ES - Fiebre de primavera (2026) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTJgfbSQ4UczxMOgscHPsoVuL5X.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867902",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1597389798",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-05",
+"plot": "Yun Bom, después de sufrir un desengaño sentimental en Seúl, se traslada a la pequeña ciudad de Sinsu para empezar de nuevo como profesora. Aunque al principio se muestra distante y fría, poco a poco vuelve a descubrir la alegría tras conocer a Sun Jae-gyu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867902",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NDE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47418:1"
+}
+]
+}
+}

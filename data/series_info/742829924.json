@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-13",
+"episode_count": 2,
+"id": 1443571081,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxjrfxGVzLNqvi4GSi7wuAGcJWg.jpg"
+}
+],
+"info": {
+"name": "ES - Sherwood (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxjrfxGVzLNqvi4GSi7wuAGcJWg.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867935",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1743518993",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-13",
+"plot": "Dos asesinatos destrozan una comunidad ya fracturada que conduce a una de las mayores persecuciones en la historia británica y amenazan con inflamar las divisiones históricas provocadas durante la huelga de mineros tres décadas antes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38562:1"
+},
+{
+"id": "238848980",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-13",
+"plot": "Dos asesinatos destrozan una comunidad ya fracturada que conduce a una de las mayores persecuciones en la historia británica y amenazan con inflamar las divisiones históricas provocadas durante la huelga de mineros tres décadas antes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867935",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38562:2"
+}
+]
+}
+}

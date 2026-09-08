@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-01",
+"episode_count": 1,
+"id": 1633449180,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/erOlvUGY8PbxEYEyJPlvkS9tPBK.jpg"
+}
+],
+"info": {
+"name": "ES - Batman: El cruzado enmascarado (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/erOlvUGY8PbxEYEyJPlvkS9tPBK.jpg",
+"plot": "",
+"cast": "",
+"director": "Bruce Timm",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868025",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1120328436",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-01",
+"plot": "Forjado en el fuego de la tragedia, el multimillonario Bruce Wayne se transforma en Batman, un personaje a la vez más y menos que humano. Noche a noche, contra viento y marea, libra su incesante batalla solo contra el crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868025",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35418:1"
+}
+]
+}
+}

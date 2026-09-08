@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-22",
+"episode_count": 4,
+"id": 1134594069,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jFEJILvlSFHI7kw9yevCcZnHsl.jpg"
+}
+],
+"info": {
+"name": "ES - Crimen en el trópico (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jFEJILvlSFHI7kw9yevCcZnHsl.jpg",
+"plot": "",
+"cast": "",
+"director": "Eric Eider, Ivan Piettre, Thierry Sorel",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867889",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1895911636",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-22",
+"plot": "Deadly Tropics sigue a la nueva detective Melissa Sainte-Rose (Sonia Rolland), quien debe formar equipo con la detective Gaelle Crivelli (Beatrice de la Boulaye) para investigar un asesinato. La pregunta es si las dos policías podrán dejar de lado sus ideas muy diferentes de la ley y el orden y sus diferencias para localizar al perpetrador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDg0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35084:5"
+},
+{
+"id": "1224811023",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-22",
+"plot": "Deadly Tropics sigue a la nueva detective Melissa Sainte-Rose (Sonia Rolland), quien debe formar equipo con la detective Gaelle Crivelli (Beatrice de la Boulaye) para investigar un asesinato. La pregunta es si las dos policías podrán dejar de lado sus ideas muy diferentes de la ley y el orden y sus diferencias para localizar al perpetrador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDg0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35084:3"
+},
+{
+"id": "169385429",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-22",
+"plot": "Deadly Tropics sigue a la nueva detective Melissa Sainte-Rose (Sonia Rolland), quien debe formar equipo con la detective Gaelle Crivelli (Beatrice de la Boulaye) para investigar un asesinato. La pregunta es si las dos policías podrán dejar de lado sus ideas muy diferentes de la ley y el orden y sus diferencias para localizar al perpetrador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDg0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35084:2"
+},
+{
+"id": "1702139600",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-22",
+"plot": "Deadly Tropics sigue a la nueva detective Melissa Sainte-Rose (Sonia Rolland), quien debe formar equipo con la detective Gaelle Crivelli (Beatrice de la Boulaye) para investigar un asesinato. La pregunta es si las dos policías podrán dejar de lado sus ideas muy diferentes de la ley y el orden y sus diferencias para localizar al perpetrador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867889",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35084:1"
+}
+]
+}
+}

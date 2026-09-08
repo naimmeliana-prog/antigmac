@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-06",
+"episode_count": 1,
+"id": 1856714917,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVNNZFiC4FwNOfV8O6SMWff2Bb.jpg"
+}
+],
+"info": {
+"name": "ES - Tal vez mañana (2025) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVNNZFiC4FwNOfV8O6SMWff2Bb.jpg",
+"plot": "",
+"cast": "",
+"director": "Im Hyeon-wook",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867940",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "990465203",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-06",
+"plot": "Con veinte años, Lee Kyeong-do y Seo Ji-woo se separan tras dos apasionados romances. Una década más tarde, se reencuentran como periodista que cubre un escándalo de adulterio y la mujer del protagonista de dicho escándalo. Al volver a verse, ya en la treintena, su amor sigue vivo a pesar de que han pasado los años. Ahora, Kyeong-do se esfuerza por demostrarle a ella y a sí mismo que aún la ama.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867940",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2OTk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46997:1"
+}
+]
+}
+}

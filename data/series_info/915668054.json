@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-29",
+"episode_count": 1,
+"id": 369918216,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg"
+}
+],
+"info": {
+"name": "ES - Abandonados (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+"plot": "",
+"cast": "",
+"director": "Carles Porta",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868037",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1888418014",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-29",
+"plot": "4 episodios. Serie documental sobre uno de los episodios más desconcertantes de la crónica española: el 22 de abril de 1984, tres niños aparecieron abandonados en una estación de tren de la ciudad de Barcelona. No sabían explicar quiénes eran, quiénes eran sus padres, ni por qué estaban allí. Nadie los reclamó jamás. Fueron adoptados por dos pedagogos barceloneses, quienes los criaron con cariño y les dieron estabilidad. Pero 40 años después, aquellos niños convertidos en adultos quieren saber quiénes son sus padres y por qué fueron abandonados. Abandonados está protagonizada por los tres hermanos cuyos testimonios impulsan la investigación: Elvira Moral, Ramón Moral y Ricard Moral.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868037",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49957:1"
+}
+]
+}
+}

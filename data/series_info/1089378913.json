@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-10-25",
+"episode_count": 1,
+"id": 1962283538,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPJgbaxEWUOsZpfJlnBtDNOH6uX.jpg"
+}
+],
+"info": {
+"name": "ES - Atlantic Crossing",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPJgbaxEWUOsZpfJlnBtDNOH6uX.jpg",
+"plot": "",
+"cast": "",
+"director": "Alexander Eik",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867881",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "641011188",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-10-25",
+"plot": "1940. Noruega es ocupada por la Alemania nazi. La princesa heredera Märtha y sus hijos encuentran refugio como refugiados políticos en la Casa Blanca. Su presencia en Washington pronto influye en las opiniones del presidente Roosevelt sobre los trágicos eventos que se desarrollan en Europa y, finalmente, cambia significativamente la dinámica de la política estadounidense. Lo que comienza como una aventura se convierte en amor y confusión cuando Märtha habla públicamente contra la tiranía nazi. En un intento de luchar por su país, pone en riesgo su matrimonio y convence al presidente de que apoye a Noruega, un primer paso en la lucha que llevará a Estados Unidos a unirse a la guerra. Sin embargo, las acciones de Märtha hacen que se haga muchos enemigos, algunos de ellos aún más cercanos de lo que piensa: dentro de los muros de la Casa Blanca.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867881",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15134:1"
+}
+]
+}
+}

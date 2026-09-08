@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-10",
+"episode_count": 1,
+"id": 1914872320,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qesaCGS7NnNpxY4hGoLw9Uo2vM3.jpg"
+}
+],
+"info": {
+"name": "ES - Operación Barrio Inglés",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qesaCGS7NnNpxY4hGoLw9Uo2vM3.jpg",
+"plot": "",
+"cast": "",
+"director": "Manuel Ríos San Martín, José F. Ortuño, Virginia Yagüe",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867924",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1580801909",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-10",
+"plot": "La II Guerra Mundial acaba de estallar. Aunque España es neutral, Huelva es un enclave estratégico para controlar los barcos de ambos bandos que atraviesan el estrecho. Además, cuenta con una importante colonia británica. Por ello, los alemanes envían miembros del Servicio Secreto para controlar lo que ocurre en la ciudad, sobre todo en las minas de la provincia de Huelva, propiedad de los ingleses, y que proveen a Gran Bretaña de mineral para armas y artillería.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867924",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31640:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-02",
+"episode_count": 1,
+"id": 1725798792,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg"
+}
+],
+"info": {
+"name": "ES - El Turco (2025) (TR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867896",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "970111264",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-02",
+"plot": "Balaban Aga es un soldado turco que resulta gravemente herido durante el segundo asedio de Viena en 1683. Tras ser traicionado por quien él considera su hermano, Marco, es condenado a muerte. Pero logra escapar y es curado por Gloria, una joven del pintoresco pueblo italiano de Moena, un idílico lugar en los Alpes que está a punto de ser sometido por su nuevo señor, el mismísimo Marco. A medida que se recupera, Balaban, al que apodan 'El Turco', se convierte en protector del pueblo. Con la ayuda de un pequeño grupo de fieles amigos jenízaros, liderará la resistencia y deberá enfrentarse a su peor enemigo para salvar a los que más ama.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867896",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47546:1"
+}
+]
+}
+}

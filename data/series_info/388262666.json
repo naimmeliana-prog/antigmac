@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-03",
+"episode_count": 1,
+"id": 324364752,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/g8OWK8aWedaKIKkLm0qdZ7ulM7D.jpg"
+}
+],
+"info": {
+"name": "ES - No deseados – Rehenes del mar",
+"cover": "https://image.tmdb.org/t/p/w154/g8OWK8aWedaKIKkLm0qdZ7ulM7D.jpg",
+"plot": "",
+"cast": "",
+"director": "Stefano Bises",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867922",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "861362558",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-03",
+"plot": "Un crucero rescata a 28 refugiados del Mediterráneo. Cuando el capitán recibe la orden de dirigirse a Libia, la situación se intensifica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30145:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-07",
+"episode_count": 1,
+"id": 1200948730,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/seloDhYO9PXAshpSwVzyC4spGy9.jpg"
+}
+],
+"info": {
+"name": "ES - 33 días (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/seloDhYO9PXAshpSwVzyC4spGy9.jpg",
+"plot": "",
+"cast": "",
+"director": "Carles Porta",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867986",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "177421371",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-07",
+"plot": "14 de octubre del 2001. Dos delincuentes se escapan del Centro Penitenciario de Lleida. Van armados y son peligrosos. En una fuga de película, no han dudado en disparar a dos policías a bocajarro. Todas las alarmas se encienden y un dispositivo espectacular sale a la búsqueda de los fugitivos… Pero pronto comprobarán que no va a ser fácil atraparlos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867986",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49901:1"
+}
+]
+}
+}

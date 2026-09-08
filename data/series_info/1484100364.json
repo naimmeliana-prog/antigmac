@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-15",
+"episode_count": 1,
+"id": 1639953091,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg"
+}
+],
+"info": {
+"name": "ES - The Creep Tapes (2024) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Duplass, Patrick Brice",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867943",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1993618058",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-15",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867943",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47959:1"
+}
+]
+}
+}

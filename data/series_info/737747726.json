@@ -1,0 +1,275 @@
+{
+"seasons": [
+{
+"air_date": "2009-09-22",
+"episode_count": 11,
+"id": 79697075,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/TIIgcznwNfNr3KOZvxn26eKV99.jpg"
+}
+],
+"info": {
+"name": "ES - NCIS: Los Ángeles",
+"cover": "https://image.tmdb.org/t/p/w154/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+"plot": "",
+"cast": "",
+"director": "Shane Brennan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867922",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "123498827",
+"episode_num": 1,
+"title": "Season 14",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjoxNCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "30147:14"
+},
+{
+"id": "1679185851",
+"episode_num": 1,
+"title": "Season 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjo5LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:9"
+},
+{
+"id": "1567673706",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjo4LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:8"
+},
+{
+"id": "1497404035",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:7"
+},
+{
+"id": "798607770",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:6"
+},
+{
+"id": "1310194565",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:4"
+},
+{
+"id": "1817797726",
+"episode_num": 1,
+"title": "Season 10",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjoxMCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "30147:10"
+},
+{
+"id": "1374253981",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:3"
+},
+{
+"id": "1585090682",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:5"
+},
+{
+"id": "442579001",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:2"
+},
+{
+"id": "1132115097",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "La ficción relata la extraordinaria labor que lleva a cabo el Servicio de Investigación Criminal Naval (NCIS), que investiga y combate las actividades de asociaciones criminales, grupos terroristas y a las agencias de inteligencia extranjeras que constituyen una grave amenaza para la Marina norteamericana. Dentro de este servicio se enmarca la Oficina de Proyectos Especiales, una división especializada en la captura y localización de los criminales más peligrosos que ponen en jaque la seguridad nacional. La utilización de identidades falsas y de la más avanzada tecnología permite a este grupo de agentes encubiertos cumplir los objetivos asignados. Desplegados en distintos puntos del mundo cuando la ocasión lo requiere a través de los portaviones o de las fuerzas anfibias de la Marina, los agentes del NCIS están entrenados para identificar y frenar los peligros externos mientras trabajan en estrecha colaboración con las fuerzas de seguridad estatales, federales o locales.\r\n\r\nUn camaleónico agente capaz de infiltrase en cualquier organización criminal y un experto en sistemas de vigilancia que combatió en Afganistán son los principales protagonistas de 'NCIS: Los Ángeles'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30147:1"
+}
+]
+}
+}

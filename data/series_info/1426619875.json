@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-05",
+"episode_count": 1,
+"id": 1748368990,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYd6COrRD4bZF5vwR80siLaelb9.jpg"
+}
+],
+"info": {
+"name": "ES - Amor sin wifi (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYd6COrRD4bZF5vwR80siLaelb9.jpg",
+"plot": "",
+"cast": "",
+"director": "Jakob Rørvik",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867976",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1958136273",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-05",
+"plot": "Ida pasa la mayor parte de su vida en línea. Cuando su novio Marvin, a quien nunca conoció en persona, le anuncia que está saliendo con otra mujer en la vida real, su mundo se derrumba. Ida emprende una búsqueda para encontrar a su propia pareja física.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867976",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41411:1"
+}
+]
+}
+}

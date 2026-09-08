@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-07-09",
+"episode_count": 1,
+"id": 1971218583,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZFMpAqCzvdJ0h9aEhaiizaXsRS.jpg"
+}
+],
+"info": {
+"name": "ES - Aliento: Entre Sombras",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZFMpAqCzvdJ0h9aEhaiizaXsRS.jpg",
+"plot": "",
+"cast": "",
+"director": "Mayank Sharma",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868023",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1662083330",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-07-09",
+"plot": "Una niña de 6 años es secuestrada por un misterio enmascarado, que exige un rescate inusual. ¡Para salvar a su hija, el Dr. Avinash Sabharwal debe matar a alguien! Kabir Sawant vive el ambiente hostil de la Brigada Criminal de Delhi. Mentiras, engaños y juegos mentales se suceden cuando Kabir se encarga de la investigación y conoce a  Avinash. ¿Hasta dónde llegará Avinash para salvar a su hija?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868023",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjczMzgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7338:1"
+}
+]
+}
+}

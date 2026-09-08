@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2016-11-09",
+"episode_count": 3,
+"id": 1330538993,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/u55EcblJ0g7ErETphE6nEocDWxn.jpg"
+}
+],
+"info": {
+"name": "ES - Rocco (2016)",
+"cover": "https://image.tmdb.org/t/p/w154/u55EcblJ0g7ErETphE6nEocDWxn.jpg",
+"plot": "",
+"cast": "",
+"director": "Antonio Manzini",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867932",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1130877127",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-09",
+"plot": "Rocco Schiavone es un subcomisario de la policía estatal; romano hasta la médula, se encuentra destinado en la fría ciudad de Aosta, en el norte de Italia. Rocco es pedante, sarcástico, maleducado, cínico y sus métodos rozan lo ilegal. Deberá enfrentarse a sus demonios en soledad, mientras investiga las peores desgracias humanas que han amenazado la localidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867932",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28235:4"
+},
+{
+"id": "348951930",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-09",
+"plot": "Rocco Schiavone es un subcomisario de la policía estatal; romano hasta la médula, se encuentra destinado en la fría ciudad de Aosta, en el norte de Italia. Rocco es pedante, sarcástico, maleducado, cínico y sus métodos rozan lo ilegal. Deberá enfrentarse a sus demonios en soledad, mientras investiga las peores desgracias humanas que han amenazado la localidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867932",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28235:3"
+},
+{
+"id": "1785325369",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-09",
+"plot": "Rocco Schiavone es un subcomisario de la policía estatal; romano hasta la médula, se encuentra destinado en la fría ciudad de Aosta, en el norte de Italia. Rocco es pedante, sarcástico, maleducado, cínico y sus métodos rozan lo ilegal. Deberá enfrentarse a sus demonios en soledad, mientras investiga las peores desgracias humanas que han amenazado la localidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867932",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28235:1"
+}
+]
+}
+}

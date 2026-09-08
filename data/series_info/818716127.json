@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-05-20",
+"episode_count": 2,
+"id": 1630654154,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpXtCSzRqXY4yg26ocb9gnKcGxH.jpg"
+}
+],
+"info": {
+"name": "ES - We Are Lady Parts (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpXtCSzRqXY4yg26ocb9gnKcGxH.jpg",
+"plot": "",
+"cast": "",
+"director": "Nida Manzoor",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867966",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1942582048",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-20",
+"plot": "Amina Hussain, 26 años. Ha terminado un doctorado en microbiología. Propensa a la sudoración excesiva, a tocar la guitarra en secreto y a buscar desesperadamente un buen chico musulmán al que poder aferrarse… ¡Pues no! Lo que quiere es unirse a una banda de post-punk musulmana, exclusivamente femenina, llamada Lady Parts.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867966",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODU1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37855:2"
+},
+{
+"id": "1745714276",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-20",
+"plot": "Amina Hussain, 26 años. Ha terminado un doctorado en microbiología. Propensa a la sudoración excesiva, a tocar la guitarra en secreto y a buscar desesperadamente un buen chico musulmán al que poder aferrarse… ¡Pues no! Lo que quiere es unirse a una banda de post-punk musulmana, exclusivamente femenina, llamada Lady Parts.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867966",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37855:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-10",
+"episode_count": 1,
+"id": 593022703,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBKSnIeKcSmtYBNqwL72I2AZQ8a.jpg"
+}
+],
+"info": {
+"name": "ES - Las Pelotaris 1926",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBKSnIeKcSmtYBNqwL72I2AZQ8a.jpg",
+"plot": "",
+"cast": "",
+"director": "Marc Cistaré",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867911",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1769083338",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-10",
+"plot": "A punto de convertirse en campeona de México, Chelo descubre que está embarazada. Itziar acaba de casarse cuando se reencuentra con un amor del pasado. En España, Idoia recibe una oferta para ser la estrella de un frontón mexicano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867911",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30770:1"
+}
+]
+}
+}

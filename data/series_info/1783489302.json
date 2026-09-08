@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-29",
+"episode_count": 1,
+"id": 155251710,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMBf90OnEgW9tD97O2JmzcDZSJ2.jpg"
+}
+],
+"info": {
+"name": "ES - Los centinelas (2025) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMBf90OnEgW9tD97O2JmzcDZSJ2.jpg",
+"plot": "",
+"cast": "",
+"director": "Guillaume Lemans, Xabi Molia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867914",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "148263161",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-29",
+"plot": "Una historia alternativa ambientada en la Primera Guerra Mundial que imagina un ejército francés capaz de crear “sentinelas”: soldados mejorados con ingenios mecánicos. En medio del conflicto, estos guerreros transformados cambian el rumbo de la guerra y muestran un mundo donde la tecnología altera el destino de quienes luchan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867914",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47089:1"
+}
+]
+}
+}

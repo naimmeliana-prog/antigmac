@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-16",
+"episode_count": 1,
+"id": 332110851,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rrPCr2Z4jbkZ6tvyeBEOFqVRFr.jpg"
+}
+],
+"info": {
+"name": "ES - Express",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rrPCr2Z4jbkZ6tvyeBEOFqVRFr.jpg",
+"plot": "",
+"cast": "",
+"director": "Iván Escobar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867901",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1224907624",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-16",
+"plot": "Bárbara Vázquez, brillante psicóloga criminal, presenta su renuncia en la Policía y comienza a trabajar en Zentral Risk, una aseguradora cuyo producto estrella es una póliza con cobertura anti-secuestros. Su meta es erradicar este tipo de delitos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867901",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15136:1"
+}
+]
+}
+}

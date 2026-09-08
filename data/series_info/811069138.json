@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-05",
+"episode_count": 1,
+"id": 223221192,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8p9tZOjg7v5zwH7ReSKcgbJcBr.jpg"
+}
+],
+"info": {
+"name": "ES - Mary & George (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8p9tZOjg7v5zwH7ReSKcgbJcBr.jpg",
+"plot": "",
+"cast": "",
+"director": "D.C. Moore",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867916",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1751493663",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-05",
+"plot": "Inglaterra, siglo XVI. Con una inteligencia por encima de la media, Mary nunca pudo desarrollar todo su potencial, hasta que ve su oportunidad: aprovecharse del voraz apetito del rey Jacobo por el vino, la compañía y los hombres. Mary decide así educar a su atractivo y carismático hijo George para convertirle en el centro de atención y seducir al monarca, para que se convierta en su poderoso amante.\r\n\r\nMediante audaces intrigas, Mary y George consiguen ascender en la Corte, hasta convertirse en la familia más poderosa de Inglaterra. Pero, a medida que George va adquiriendo más poder, la relación con su madre llegará al límite, y necesitará demostrarse a sí mismo que es mucho más que una cara bonita. George está empeñado en hacer historia, sin importar las consecuencias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867916",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36006:1"
+}
+]
+}
+}

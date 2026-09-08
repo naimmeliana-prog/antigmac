@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-07",
+"episode_count": 1,
+"id": 855603537,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKfVlfNHrII09JzjrvFR8k2F13r.jpg"
+}
+],
+"info": {
+"name": "ES - Reunion (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKfVlfNHrII09JzjrvFR8k2F13r.jpg",
+"plot": "",
+"cast": "",
+"director": "William Mager",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867930",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1483759612",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-07",
+"plot": "Daniel Brennan (Matthew Gurney) es un hombre sordo recién salido de prisión tras cometer un crimen atroz. Nadie sabe por qué lo hizo ni cómo un hombre aparentemente convencional se convirtió en asesino. Atormentado por el pasado y en busca de redención, Brennan intenta reconectar con su familia y encontrar su lugar en el mundo, rechazado tanto por la comunidad oyente como por la sorda. Su única relación significativa es con su hija Carly (Lara Peake), a la que no ve desde hace más de una década.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867930",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47218:1"
+}
+]
+}
+}

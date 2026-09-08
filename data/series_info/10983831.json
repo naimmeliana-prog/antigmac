@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-15",
+"episode_count": 1,
+"id": 1892774882,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqXQL8XGvL2tn2NfXKirBHQKo2d.jpg"
+}
+],
+"info": {
+"name": "ES - Carol y el fin del mundo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqXQL8XGvL2tn2NfXKirBHQKo2d.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Guterman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868016",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "361148141",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-15",
+"plot": "Con un apocalipsis planetario inminente, una mujer a la que le cuesta asumir el fin de los días intenta buscarle sentido a la vida durante sus últimos meses en la Tierra.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868016",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32278:1"
+}
+]
+}
+}

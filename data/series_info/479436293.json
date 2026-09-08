@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-12",
+"episode_count": 1,
+"id": 247928182,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/hWcAtsCv8cETLzh7wHDZ4qKtzRP.jpg"
+}
+],
+"info": {
+"name": "ES - A todos les gustan los diamantes",
+"cover": "https://image.tmdb.org/t/p/w154/hWcAtsCv8cETLzh7wHDZ4qKtzRP.jpg",
+"plot": "",
+"cast": "",
+"director": "Gianluca Maria Tavarelli",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868022",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "243393033",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-12",
+"plot": "Inspirada en la historia real del robo en el Diamond Center, la serie sigue las peripecias de Leonardo Notarbartolo y su insólita banda de ladrones mientras intentan dar el golpe del siglo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868022",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28236:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-25",
+"episode_count": 1,
+"id": 360464994,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okPERzZxAiVWbd3B9qFepxa2Vfq.jpg"
+}
+],
+"info": {
+"name": "ES - Ludwig (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okPERzZxAiVWbd3B9qFepxa2Vfq.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Brotherhood",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867916",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1014890134",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-25",
+"plot": "John Taylor, un agorafóbico y solitario creador de pasatiempos bajo el seudónimo de Ludwig, ve interrumpida su rutina cuando su cuñada Lucy le pide urgentemente que viaje a Cambridge. Su hermano gemelo, James, un inspector de policía, ha desaparecido misteriosamente. Lucy necesita que John se haga pasar por James para investigar en la comisaría y encontrar pistas sobre su paradero. A pesar de su miedo y reticencia, John acepta el desafío, enfrentándose a la posibilidad de ser descubierto mientras sigue las pistas dejadas por su hermano. Lo que iba a ser una suplantación ocasional se prolonga y John tiene que resolver los casos policiales que se van presentando.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867916",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5OTIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39922:1"
+}
+]
+}
+}

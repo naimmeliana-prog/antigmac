@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-06-12",
+"episode_count": 1,
+"id": 1178693113,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfnqo6uEMAS5Keimidq1VZ5i5be.jpg"
+}
+],
+"info": {
+"name": "ES - Querida Marnie (2023) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfnqo6uEMAS5Keimidq1VZ5i5be.jpg",
+"plot": "",
+"cast": "",
+"director": "Jack Thorne",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867929",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1077184924",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-12",
+"plot": "Marnie tiene una condición potencialmente mortal. Los médicos creen que lo mejor para ella es que se le permita morir, pero su amada familia no está de acuerdo. Y así comienza una lucha que los llevará a través de cada etapa de un proceso legal, mientras luchan por contemplar esta gran decisión. ¿Quien decide? ¿Y en el mejor interés de quién será?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867929",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2OTk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46995:1"
+}
+]
+}
+}

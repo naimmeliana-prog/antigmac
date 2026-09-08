@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2016-01-17",
+"episode_count": 6,
+"id": 1789091957,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg"
+}
+],
+"info": {
+"name": "ES - Billions",
+"cover": "https://image.tmdb.org/t/p/w154/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Koppelman, David Levien, Andrew Ross Sorkin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868035",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1434850382",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868035",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg1LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29985:7"
+},
+{
+"id": "509427155",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868035",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg1LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29985:6"
+},
+{
+"id": "1841517919",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868035",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg1LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29985:5"
+},
+{
+"id": "1916593528",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868035",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29985:4"
+},
+{
+"id": "972092983",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868035",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29985:3"
+},
+{
+"id": "73746972",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868035",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29985:2"
+}
+]
+}
+}

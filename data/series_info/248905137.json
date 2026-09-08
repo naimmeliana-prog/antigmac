@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-03",
+"episode_count": 1,
+"id": 368593937,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNfxZsf1PZHFfpUkHhYweJaiZQT.jpg"
+}
+],
+"info": {
+"name": "ES - Amor",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNfxZsf1PZHFfpUkHhYweJaiZQT.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867879",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1991812169",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-03",
+"plot": "Lucia persigue su sueño de ser dramaturga mientras intenta gestionar la confusa relación con su amigo, Pol, quien entra y sale de su vida amorosa sin claridad. Una serie que captura la impulsividad y los sueños incumplidos de la generación Z, explorando los límites sutiles entre el amor romántico y la amistad en las relaciones contemporáneas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867879",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyOTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32908:1"
+}
+]
+}
+}

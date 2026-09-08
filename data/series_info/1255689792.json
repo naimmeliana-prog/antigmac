@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-01",
+"episode_count": 1,
+"id": 32907628,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/np1oeSxnifsYdSbDRKmvm77w0Rl.jpg"
+}
+],
+"info": {
+"name": "ES - La Tierra Permanece (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/np1oeSxnifsYdSbDRKmvm77w0Rl.jpg",
+"plot": "",
+"cast": "",
+"director": "Todd Komarnicki",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867908",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1626538819",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-01",
+"plot": "Cuando una plaga de una virulencia sin precedentes arrasa el planeta, la raza humana queda prácticamente aniquilada. Después, a medida que la gran maquinaria de la civilización se desmorona lenta e inexorablemente, sólo quedan unos pocos supervivientes destrozados que luchan contra la extinción.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867908",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNzQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41744:1"
+}
+]
+}
+}

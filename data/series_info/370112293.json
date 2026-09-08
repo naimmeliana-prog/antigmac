@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2019-04-11",
+"episode_count": 4,
+"id": 1151876610,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68AjP1mVBFl3lUUypShCafc9mTF.jpg"
+}
+],
+"info": {
+"name": "ES - Wisting (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68AjP1mVBFl3lUUypShCafc9mTF.jpg",
+"plot": "",
+"cast": "",
+"director": "Kathrine Valen Zeiner, Trygve Allister Diesen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867973",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "312638530",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "El detective de homicidios William Wisting (Sven Nordin) investiga el caso más desafiante de su carrera: el de un asesino en serie estadounidense que acaba de matar por primera vez en suelo noruego. En el proceso, Wisting tendrá que colaborar con la agente del FBI Maggie Griffin (Carrie-Anne Moss). Mientras tanto, la intrépida hija periodista de Wisting (Thea Green Lundberg) perseguirá titulares que le llevarán directamente a cruzarse en el camino del asesino en serie. Wisting deberá lidiar con heridas del pasado al reabrir un antiguo caso y afrontar una terrible acusación que empezará a pesar sobre él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867973",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzM4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35738:2"
+},
+{
+"id": "1764789176",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "El detective de homicidios William Wisting (Sven Nordin) investiga el caso más desafiante de su carrera: el de un asesino en serie estadounidense que acaba de matar por primera vez en suelo noruego. En el proceso, Wisting tendrá que colaborar con la agente del FBI Maggie Griffin (Carrie-Anne Moss). Mientras tanto, la intrépida hija periodista de Wisting (Thea Green Lundberg) perseguirá titulares que le llevarán directamente a cruzarse en el camino del asesino en serie. Wisting deberá lidiar con heridas del pasado al reabrir un antiguo caso y afrontar una terrible acusación que empezará a pesar sobre él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867973",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzM4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35738:3"
+},
+{
+"id": "571695201",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "El detective de homicidios William Wisting (Sven Nordin) investiga el caso más desafiante de su carrera: el de un asesino en serie estadounidense que acaba de matar por primera vez en suelo noruego. En el proceso, Wisting tendrá que colaborar con la agente del FBI Maggie Griffin (Carrie-Anne Moss). Mientras tanto, la intrépida hija periodista de Wisting (Thea Green Lundberg) perseguirá titulares que le llevarán directamente a cruzarse en el camino del asesino en serie. Wisting deberá lidiar con heridas del pasado al reabrir un antiguo caso y afrontar una terrible acusación que empezará a pesar sobre él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867973",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzM4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35738:4"
+},
+{
+"id": "148783794",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "El detective de homicidios William Wisting (Sven Nordin) investiga el caso más desafiante de su carrera: el de un asesino en serie estadounidense que acaba de matar por primera vez en suelo noruego. En el proceso, Wisting tendrá que colaborar con la agente del FBI Maggie Griffin (Carrie-Anne Moss). Mientras tanto, la intrépida hija periodista de Wisting (Thea Green Lundberg) perseguirá titulares que le llevarán directamente a cruzarse en el camino del asesino en serie. Wisting deberá lidiar con heridas del pasado al reabrir un antiguo caso y afrontar una terrible acusación que empezará a pesar sobre él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867973",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35738:1"
+}
+]
+}
+}

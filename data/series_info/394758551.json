@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-06-18",
+"episode_count": 3,
+"id": 120399345,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+}
+],
+"info": {
+"name": "ES - The Walking Dead: Dead City (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+"plot": "",
+"cast": "",
+"director": "Eli Jorné",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867948",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1841567833",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-18",
+"plot": "\"Dead City\" amplía la narración de \"The Walking Dead\" en torno a dos personajes inolvidables que los fanáticos han llegado a amar, odiar y luego amar en Maggie y Negan. También explora un rincón de este universo ubicado en la isla de Manhattan, con un horizonte icónico que adquiere un significado muy diferente cuando se ve a través de la lente de un apocalipsis zombie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867948",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDEwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38010:3"
+},
+{
+"id": "115921151",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-18",
+"plot": "\"Dead City\" amplía la narración de \"The Walking Dead\" en torno a dos personajes inolvidables que los fanáticos han llegado a amar, odiar y luego amar en Maggie y Negan. También explora un rincón de este universo ubicado en la isla de Manhattan, con un horizonte icónico que adquiere un significado muy diferente cuando se ve a través de la lente de un apocalipsis zombie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867948",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38010:2"
+},
+{
+"id": "100941709",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-18",
+"plot": "\"Dead City\" amplía la narración de \"The Walking Dead\" en torno a dos personajes inolvidables que los fanáticos han llegado a amar, odiar y luego amar en Maggie y Negan. También explora un rincón de este universo ubicado en la isla de Manhattan, con un horizonte icónico que adquiere un significado muy diferente cuando se ve a través de la lente de un apocalipsis zombie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867948",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38010:1"
+}
+]
+}
+}

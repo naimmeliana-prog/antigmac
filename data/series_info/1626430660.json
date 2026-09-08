@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-19",
+"episode_count": 1,
+"id": 1826805457,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvrilFOV7nyi3M4Nh2ol2AFLmRg.jpg"
+}
+],
+"info": {
+"name": "ES - Putain (2024) (BE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvrilFOV7nyi3M4Nh2ol2AFLmRg.jpg",
+"plot": "",
+"cast": "",
+"director": "Deben Van Dam",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867928",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1764358144",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-19",
+"plot": "Cuando Gigi descubre que su madre Anaïs está saliendo de nuevo con su ex, con quien compartió no solo una historia de amor sino también una adicción a las drogas en el pasado, le plantea un ultimátum: su hijo o su amante. Cuando Anaïs se niega a elegir, Gigi decide irse de casa. Recurriendo a sus amigos, Gigi intenta abrirse camino en las frías calles de Bruselas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867928",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47735:1"
+}
+]
+}
+}

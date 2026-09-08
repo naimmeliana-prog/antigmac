@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-19",
+"episode_count": 1,
+"id": 527156501,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg"
+}
+],
+"info": {
+"name": "ES - 1883 (HQ) (2021) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868033",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "431024007",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-19",
+"plot": "Precuela de la serie 'Yellowstone', que sigue la historia de la familia Dutton en un viaje hacia el oeste a través de las Grandes Llanuras, para ir hacia el último bastión de la indómita América, durante el año 1883.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868033",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NDMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49432:1"
+}
+]
+}
+}

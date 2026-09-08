@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2010-09-19",
+"episode_count": 4,
+"id": 1606550793,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg"
+}
+],
+"info": {
+"name": "ES - Boardwalk Empire",
+"cover": "https://image.tmdb.org/t/p/w154/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Terence Winter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868032",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "263712748",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-19",
+"plot": "La Primera Guerra Mundial (1914-1918) ha terminado y Wall Street está a punto de explotar. Es una época de cambios: las mujeres obtienen el derecho al voto, la radio llega a los hogares y los jóvenes gobiernan el mundo. Atlantic City (Nueva Jersey) es un espectacular lugar de vacaciones en el que sólo se respetan las reglas impuestas por Enoch \"Nucky\" Thompson (Steve Buscemi). Basada en hechos reales, se inspira en la obra homónima de Nelson Johnson.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Nzg2LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29786:4"
+},
+{
+"id": "1894177748",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-19",
+"plot": "La Primera Guerra Mundial (1914-1918) ha terminado y Wall Street está a punto de explotar. Es una época de cambios: las mujeres obtienen el derecho al voto, la radio llega a los hogares y los jóvenes gobiernan el mundo. Atlantic City (Nueva Jersey) es un espectacular lugar de vacaciones en el que sólo se respetan las reglas impuestas por Enoch \"Nucky\" Thompson (Steve Buscemi). Basada en hechos reales, se inspira en la obra homónima de Nelson Johnson.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Nzg2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29786:3"
+},
+{
+"id": "316939718",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-19",
+"plot": "La Primera Guerra Mundial (1914-1918) ha terminado y Wall Street está a punto de explotar. Es una época de cambios: las mujeres obtienen el derecho al voto, la radio llega a los hogares y los jóvenes gobiernan el mundo. Atlantic City (Nueva Jersey) es un espectacular lugar de vacaciones en el que sólo se respetan las reglas impuestas por Enoch \"Nucky\" Thompson (Steve Buscemi). Basada en hechos reales, se inspira en la obra homónima de Nelson Johnson.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Nzg2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29786:2"
+},
+{
+"id": "1311745748",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-19",
+"plot": "La Primera Guerra Mundial (1914-1918) ha terminado y Wall Street está a punto de explotar. Es una época de cambios: las mujeres obtienen el derecho al voto, la radio llega a los hogares y los jóvenes gobiernan el mundo. Atlantic City (Nueva Jersey) es un espectacular lugar de vacaciones en el que sólo se respetan las reglas impuestas por Enoch \"Nucky\" Thompson (Steve Buscemi). Basada en hechos reales, se inspira en la obra homónima de Nelson Johnson.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868032",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Nzg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29786:1"
+}
+]
+}
+}

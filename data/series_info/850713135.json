@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "1993-03-08",
+"episode_count": 1,
+"id": 1202696017,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BwmD9hMsfUHTAAsVephjJS8pIF.jpg"
+}
+],
+"info": {
+"name": "ES - Beavis y Butt-Head",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BwmD9hMsfUHTAAsVephjJS8pIF.jpg",
+"plot": "",
+"cast": "",
+"director": "Mike Judge",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867978",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1509500595",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1993-03-08",
+"plot": "Serie de animación de culto emitida en la MTV sobre dos jóvenes amantes del heavy metal que, ocasionalmente, realizaban estupideces por el simple hecho de estar aburridos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867978",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33305:1"
+}
+]
+}
+}

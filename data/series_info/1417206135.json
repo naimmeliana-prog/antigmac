@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-06",
+"episode_count": 2,
+"id": 186103111,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtQMokxZekVMLNgtSdltU2OCbke.jpg"
+}
+],
+"info": {
+"name": "ES - Deli Boys (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtQMokxZekVMLNgtSdltU2OCbke.jpg",
+"plot": "",
+"cast": "",
+"director": "Abdullah Saeed",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867890",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1842791991",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-06",
+"plot": "Cuando su padre, magnate de tiendas de conveniencia, muere repentinamente, un par de hermanos paquistaníes-estadounidenses mimados lo pierden todo y se ven obligados a enfrentarse a la vida criminal secreta de su Baba mientras intentan tomar su manto en el inframundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867890",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTExLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42911:2"
+},
+{
+"id": "211002557",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-06",
+"plot": "Cuando su padre, magnate de tiendas de conveniencia, muere repentinamente, un par de hermanos paquistaníes-estadounidenses mimados lo pierden todo y se ven obligados a enfrentarse a la vida criminal secreta de su Baba mientras intentan tomar su manto en el inframundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867890",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42911:1"
+}
+]
+}
+}

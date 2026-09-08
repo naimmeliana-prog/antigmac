@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-11-27",
+"episode_count": 1,
+"id": 553685262,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvF3WStSLXh7ibT1OpU6XmCxtbN.jpg"
+}
+],
+"info": {
+"name": "ES - South of Hell (2015)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvF3WStSLXh7ibT1OpU6XmCxtbN.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Lambert",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867937",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1046446341",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-11-27",
+"plot": "María Abascal es una cazadora de demonios que se desplaza por Charleston, en busca de personas demonizadas que puede exorcizar. No sólo lucha contra el mal en otros, lucha con su propia fuerza sobrenatural, Abigail, que reside dentro de ella.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867937",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2OTMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36933:1"
+}
+]
+}
+}

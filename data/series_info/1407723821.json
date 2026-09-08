@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-30",
+"episode_count": 1,
+"id": 517022641,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxsNExqmQhCpwoQWXhNCnBP9AK.jpg"
+}
+],
+"info": {
+"name": "ES - Sobrevivir al cartel (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxsNExqmQhCpwoQWXhNCnBP9AK.jpg",
+"plot": "",
+"cast": "",
+"director": "Ely Bams",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867936",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1913962320",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-30",
+"plot": "Una historia de supervivencia desde la perspectiva de tres personajes diferentes: un ejecutivo de Silicon Valley que regresa a México, un ex marino mexicano que está decidido a ingresar a los Estados Unidos y un detective de El-Paso que lucha contra sus demonios.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867936",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5OTI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39929:1"
+}
+]
+}
+}

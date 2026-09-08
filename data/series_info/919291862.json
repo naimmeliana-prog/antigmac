@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-09-25",
+"episode_count": 3,
+"id": 173932711,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jMwp7l9gtXvCHKmmtyGz2nuWva.jpg"
+}
+],
+"info": {
+"name": "ES - Absentia",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jMwp7l9gtXvCHKmmtyGz2nuWva.jpg",
+"plot": "",
+"cast": "",
+"director": "Matthew Cirulnick, Gaia Violo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867877",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "115716767",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Mientras persigue a un asesino en serie, una agente del FBI desaparece y es dada por muerta, dejando solos a su marido, también agente, y a su hijo de 3 años. Pero 6 años después reaparece para sorpresa de todos. Sin recordar nada de lo sucedido desde su secuestro, tiene que adaptarse a una nueva realidad en la que su marido ha rehecho su vida con otra mujer y su hijo no la conoce. Además, una nueva serie de asesinatos hacen pensar a algunos de sus compañeros que ella podría ser la autora.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867877",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDIwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34420:3"
+},
+{
+"id": "290913549",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Mientras persigue a un asesino en serie, una agente del FBI desaparece y es dada por muerta, dejando solos a su marido, también agente, y a su hijo de 3 años. Pero 6 años después reaparece para sorpresa de todos. Sin recordar nada de lo sucedido desde su secuestro, tiene que adaptarse a una nueva realidad en la que su marido ha rehecho su vida con otra mujer y su hijo no la conoce. Además, una nueva serie de asesinatos hacen pensar a algunos de sus compañeros que ella podría ser la autora.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867877",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDIwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34420:2"
+},
+{
+"id": "1848822386",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Mientras persigue a un asesino en serie, una agente del FBI desaparece y es dada por muerta, dejando solos a su marido, también agente, y a su hijo de 3 años. Pero 6 años después reaparece para sorpresa de todos. Sin recordar nada de lo sucedido desde su secuestro, tiene que adaptarse a una nueva realidad en la que su marido ha rehecho su vida con otra mujer y su hijo no la conoce. Además, una nueva serie de asesinatos hacen pensar a algunos de sus compañeros que ella podría ser la autora.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867877",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34420:1"
+}
+]
+}
+}

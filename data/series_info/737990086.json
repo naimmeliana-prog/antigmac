@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-24",
+"episode_count": 1,
+"id": 323056086,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Grs7UEHIX6Bffr33V8NiWIsGhi.jpg"
+}
+],
+"info": {
+"name": "ES - Déjate Ver",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Grs7UEHIX6Bffr33V8NiWIsGhi.jpg",
+"plot": "",
+"cast": "",
+"director": "Álvaro Carmona",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867989",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "129984646",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-24",
+"plot": "Ana, la ayudante de Bassil, uno de los artistas más famosos del planeta, ha empezado a desaparecer. Si no quiere acabar volviéndose totalmente invisible, tendrá que cambiar de vida y dejar atrás a la persona en que se ha convertido. Ana los últimos años ha estado distanciada de la vida trabajando como ayudante de Bassil, uno de los artistas más famosos del planeta y cuya identidad es un misterio para el gran público, pero ahora que ha comenzado a desaparecer deberá enfrentarse con el resto del mundo con el que siente que no acaba de conectar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867989",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34438:1"
+}
+]
+}
+}

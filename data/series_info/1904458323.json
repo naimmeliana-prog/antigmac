@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-05-02",
+"episode_count": 1,
+"id": 1017973015,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQCTUWNojkN14WWTbk8UmHLTuf9.jpg"
+}
+],
+"info": {
+"name": "ES - Perni",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQCTUWNojkN14WWTbk8UmHLTuf9.jpg",
+"plot": "",
+"cast": "",
+"director": "Henriette Steenstrup",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867927",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "34991508",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-02",
+"plot": "Henriette Steenstrup escribe y protagoniza esta acogedora comedia dramática sobre una trabajadora social que debe lidiar con diversos problemas personales: su hermana ha muerto y su sobrino vive ahora con ella; su padre acaba de salir del armario; su ex es un impresentable y ella hace cinco años que no tiene sexo, algo que habría que ir remediando lo antes posible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867927",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33110:1"
+}
+]
+}
+}

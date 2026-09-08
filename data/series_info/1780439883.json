@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-18",
+"episode_count": 1,
+"id": 168073851,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiqLMUe5N89PzWYC3Z0KmY7WFZq.jpg"
+}
+],
+"info": {
+"name": "ES - Ella, maldita alma (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiqLMUe5N89PzWYC3Z0KmY7WFZq.jpg",
+"plot": "",
+"cast": "",
+"director": "Aurora Guerra",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867900",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "98242196",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-18",
+"plot": "La vida de Fermín, un joven y atractivo sacerdote del pueblo de La Isleta, se complica cuando se trasladan a vivir allí su primo Isaac y su esposa, Ana, por quien casi inmediatamente empieza a sentirse atraído. Cuando descubre que ella alberga los mismos sentimientos, se desencadena en su interior una lucha férrea. Por su parte, Ana considera que tiene una deuda impagable con Isaac por haberla alejado de su difícil y trágico pasado, teniendo que enfrentar también la pesadilla de tener que renunciar a su felicidad por lealtad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867900",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMjkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50292:1"
+}
+]
+}
+}

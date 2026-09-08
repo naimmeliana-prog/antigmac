@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-11-29",
+"episode_count": 1,
+"id": 1936348867,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHnRqCNztlfnNXQHvqKpX6jnAKV.jpg"
+}
+],
+"info": {
+"name": "ES - 30 Monedas",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHnRqCNztlfnNXQHvqKpX6jnAKV.jpg",
+"plot": "",
+"cast": "",
+"director": "Álex de la Iglesia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868030",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "630801902",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-29",
+"plot": "En un mundo donde nada es lo que parece, Vergara, Paco y Elena librarán una batalla por el control de las treinta monedas por las que Judas traicionó a Jesús.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyNDgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7248:1"
+}
+]
+}
+}

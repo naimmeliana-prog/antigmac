@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-15",
+"episode_count": 1,
+"id": 951198747,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgXhnZfbl21N6uGsBHaqPXoIfMI.jpg"
+}
+],
+"info": {
+"name": "ES - Batwheels (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgXhnZfbl21N6uGsBHaqPXoIfMI.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael G. Stern",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868031",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "584048599",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-15",
+"plot": "Cuando un tortuoso plan aleja a Batman, Robin y Batgirl de la Batcueva, Batordenador instala copias de su placa base en los Batvehículos para darles vida. A los recién llamados Batwheels se les asigna la tarea monumental de defender la Batcueva y enfrentarse a sus contrapartes malvadas, la Legión de Zoom, dirigida por el cobarde supervillano Badordenador, ¡todo sin la ayuda de Batman!387",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868031",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46661:1"
+}
+]
+}
+}

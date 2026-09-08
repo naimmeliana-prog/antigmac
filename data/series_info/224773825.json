@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-07-20",
+"episode_count": 1,
+"id": 27838277,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg"
+}
+],
+"info": {
+"name": "ES - Negociador (2023) (BR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg",
+"plot": "",
+"cast": "",
+"director": "Gustavo Mello, Thomas Stavros, Thiago Faelli",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867922",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "281684496",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-20",
+"plot": "Relata la historia del capitán Gabriel Menck (Malvino Salvador), jefe de negociaciones del G.A.T.E, una unidad especial de la policía encargada de resolver situaciones de crisis en todo São Paulo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867922",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48323:1"
+}
+]
+}
+}

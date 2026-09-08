@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-31",
+"episode_count": 1,
+"id": 1561433457,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYkXEs6uMUUJmf8DT6cmKyoJnt0.jpg"
+}
+],
+"info": {
+"name": "ES - Crónicas de una actriz superviviente (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYkXEs6uMUUJmf8DT6cmKyoJnt0.jpg",
+"plot": "",
+"cast": "",
+"director": "Leixandre Froufe",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867890",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "814725666",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-31",
+"plot": "Aventuras y desventuras de una actriz veinteañera luchando por ser alguien en la profesión. Sofía es actriz, ha hecho cine y teatro; sin embargo, no es conocida. Se enfrenta cada día a la difícil tarea de ser actor y vivir de ello. Acude a castings, eventos y citas con representantes. Ensaya, acepta trabajos cuestionablemente relacionados. Disfruta, pero también sufre. Las crónicas de esta actriz superviviente son divertidas a la vez que patéticas. Intensas, pero llenas de humor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867890",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47415:1"
+}
+]
+}
+}

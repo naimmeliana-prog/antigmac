@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-07",
+"episode_count": 1,
+"id": 1617800704,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFF27f2wER4thhWwiKge1oRsgWF.jpg"
+}
+],
+"info": {
+"name": "ES - Una Perra Andaluza",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFF27f2wER4thhWwiKge1oRsgWF.jpg",
+"plot": "",
+"cast": "",
+"director": "Pablo Tocino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867964",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "358032039",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-07",
+"plot": "Sofía, Samu, Tamara, Marcos, Sylvia y Judit son, cada uno a su manera, una perra andaluza. Como muchos chavales de su edad, se sienten bastante perdidos, y tratan de buscar su camino, un camino muy influido por la relación (reprimida, liberada o hiperestimulada) que tienen con el sexo, y que desde luego solo puede definirse como \"dramarracha\". El lema de estas perras andaluzas es claro: como dijo su compatriota Machado, “caminante no hay camino, se hace camino al cagarla”.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867964",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MTYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34163:1"
+}
+]
+}
+}

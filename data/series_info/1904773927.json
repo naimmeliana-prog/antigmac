@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-27",
+"episode_count": 1,
+"id": 1442520504,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwCa7cWVRACkfqHcNnQlkEsGHF0.jpg"
+}
+],
+"info": {
+"name": "Ana de las tejas verdes (2022) (LV)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwCa7cWVRACkfqHcNnQlkEsGHF0.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868033",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1450812895",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-27",
+"plot": "Anna es una valiente, imaginativa y apasionada huérfana que encuentra un hogar inesperado. Con la ayuda de esta niña pelirroja, Maria conseguirá conectar con la niña que lleva dentro, aquella a la que hasta ahora ha temido más que a nada en el mundo. Pronto la burbujeante Anna se ganará el amor de su nueva familia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868033",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NTA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49504:1"
+}
+]
+}
+}

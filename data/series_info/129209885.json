@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-12",
+"episode_count": 1,
+"id": 210503878,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaovc65Em3383rGHYUelOFE5u8p.jpg"
+}
+],
+"info": {
+"name": "ES - Mix Tape (2025) (AU)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaovc65Em3383rGHYUelOFE5u8p.jpg",
+"plot": "",
+"cast": "",
+"director": "Lucy Gaffy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867918",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "68677221",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-12",
+"plot": "Daniel y Alison se conocen en Sheffield en 1989 y se enamoran en la adolescencia antes de que la vida les lleve en direcciones diferentes. Se reencuentran años después a través de recuerdos musicales compartidos, preguntándose si están destinados a estar juntos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867918",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46164:1"
+}
+]
+}
+}

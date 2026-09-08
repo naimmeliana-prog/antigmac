@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-02",
+"episode_count": 1,
+"id": 100461879,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Z3AMek6tN320pGZfmPwIwaOFKu.jpg"
+}
+],
+"info": {
+"name": "ES - Nueve cuerpos (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Z3AMek6tN320pGZfmPwIwaOFKu.jpg",
+"plot": "",
+"cast": "",
+"director": "Anthony Horowitz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867923",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1199038762",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-02",
+"plot": "Nueve desconocidos se encuentran perdidos en una remota selva mexicana tras estrellarse su avioneta. La trama se complica a medida que los miembros son asesinados uno a uno y los supervivientes restantes deben resolver el misterio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867923",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43599:1"
+}
+]
+}
+}

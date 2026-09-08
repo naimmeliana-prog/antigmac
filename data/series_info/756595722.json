@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-08-22",
+"episode_count": 1,
+"id": 1092867031,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg"
+}
+],
+"info": {
+"name": "ES - Ahsoka",
+"cover": "https://image.tmdb.org/t/p/w154/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg",
+"plot": "",
+"cast": "",
+"director": "Dave Filoni",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868020",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1666360973",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-22",
+"plot": "Ambientada después de la caída del Imperio, la serie sigue al antiguo caballero Jedi mientras investiga una amenaza que se cierne sobre la galaxia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868020",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29918:1"
+}
+]
+}
+}

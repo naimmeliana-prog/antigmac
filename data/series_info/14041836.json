@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-12",
+"episode_count": 1,
+"id": 1437630833,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQ2jgWYYp8t7dFZiTlPCF3rSDPE.jpg"
+}
+],
+"info": {
+"name": "ES - Cocina con química",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQ2jgWYYp8t7dFZiTlPCF3rSDPE.jpg",
+"plot": "",
+"cast": "",
+"director": "Lee Eisenberg",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868029",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "737525921",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-12",
+"plot": "En los años 50, el sueño de Elizabeth Zott de ser científica se ve en peligro porque la sociedad dicta que las mujeres solo pertenecen al ámbito doméstico. Acepta un trabajo en un programa de cocina de televisión y se propone enseñar a las amas de casa olvidadas del país algo más que recetas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868029",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32006:1"
+}
+]
+}
+}

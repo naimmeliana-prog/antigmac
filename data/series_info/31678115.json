@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-02-07",
+"episode_count": 3,
+"id": 1835008967,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/gAgShytJMWSYkjxa7ZDjSZhsnlc.jpg"
+}
+],
+"info": {
+"name": "ES - The Equalizer - (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/gAgShytJMWSYkjxa7ZDjSZhsnlc.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrew W. Marlowe, Terri Edda Miller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867944",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "805954532",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-07",
+"plot": "Robyn McCall, una enigmática ex operativa de la CIA con antecedentes misteriosos, usa sus extensas habilidades para ayudar a quienes no tienen a dónde acudir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867944",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1OTkxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25991:3"
+},
+{
+"id": "229897077",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-07",
+"plot": "Robyn McCall, una enigmática ex operativa de la CIA con antecedentes misteriosos, usa sus extensas habilidades para ayudar a quienes no tienen a dónde acudir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867944",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1OTkxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25991:2"
+},
+{
+"id": "440616272",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-07",
+"plot": "Robyn McCall, una enigmática ex operativa de la CIA con antecedentes misteriosos, usa sus extensas habilidades para ayudar a quienes no tienen a dónde acudir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867944",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1OTkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25991:1"
+}
+]
+}
+}

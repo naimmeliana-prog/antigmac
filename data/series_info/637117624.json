@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-28",
+"episode_count": 1,
+"id": 452993020,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eIdiX55bH9ITGtrZzUnEIydjpH.jpg"
+}
+],
+"info": {
+"name": "ES - El accidente (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eIdiX55bH9ITGtrZzUnEIydjpH.jpg",
+"plot": "",
+"cast": "",
+"director": "Inés París, Daniel Écija",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867896",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1256308288",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-28",
+"plot": "José un modélico padre y esposo al frente de una pequeña empresa familiar, se embarca supuestamente en un avión que sufre un accidente del que no han salido supervivientes. Sin embargo, nadie parece saber nada de él, no le encuentran entre los fallecidos ni figura en la lista de los malogrados pasajeros. A partir de ese momento, su mujer Lucía se zambulle en una frenética búsqueda de José, desencadenando una peligrosa vorágine de acontecimientos que la obligan a dejar de ser la mujer corriente que era para convertirse en una mujer que no sabía que podía llegar a ser.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867896",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37849:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-25",
+"episode_count": 1,
+"id": 116808222,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIPRSlbvKyVbDR8S3M2vbTyl2jF.jpg"
+}
+],
+"info": {
+"name": "ES - Los crímenes de Haparanda (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIPRSlbvKyVbDR8S3M2vbTyl2jF.jpg",
+"plot": "",
+"cast": "",
+"director": "Jesper Ganslandt, Oskar Söderlund",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867914",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "1309522768",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-25",
+"plot": "Un pequeño pueblo fronterizo se convierte en el escenario de una cadena de acontecimientos brutales cuando los restos humanos de un traficante de drogas aparecen en el estómago de un lobo muerto",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867914",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43520:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-06-15",
+"episode_count": 1,
+"id": 41686801,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wddLRva7PQFjgMIrEaJUpZuswIZ.jpg"
+}
+],
+"info": {
+"name": "ES - Ada Masalı, El Cuento de la Isla (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wddLRva7PQFjgMIrEaJUpZuswIZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Ali Bilgin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868040",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "552398001",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-06-15",
+"plot": "Haziran es una mujer urbanita y trabajadora que vive en Estambul. Enamorada de su estilo de vida, tiene las ideas claras y la suficiente ambición como para conseguir todo lo que se propone. Hasta que, por motivos de trabajo, es trasladada a una isla alejada de las grandes aglomeraciones. Allí conocerá a Poyraz, un joven isleño con un concepto de la vida muy diferente que quedará unido para siempre a ella de manera inesperada y con algún que otro secreto de por medio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868040",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35672:1"
+}
+]
+}
+}

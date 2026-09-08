@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-09",
+"episode_count": 3,
+"id": 91734985,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnZSQ20bhyaSJ83y0qaw61lv8Ef.jpg"
+}
+],
+"info": {
+"name": "ES - And Just Like That… (2021) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnZSQ20bhyaSJ83y0qaw61lv8Ef.jpg",
+"plot": "",
+"cast": "",
+"director": "Darren Star",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868030",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "904276251",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Esta nueva entrega de \"Sexo en Nueva York\" sigue a Carrie, Miranda y Charlotte en su viaje desde la complicada realidad de la vida y la amistad a los 30 años, hasta la aún más complicada realidad de la vida y la amistad a los 50 años.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzEzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44713:3"
+},
+{
+"id": "1182968477",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Esta nueva entrega de \"Sexo en Nueva York\" sigue a Carrie, Miranda y Charlotte en su viaje desde la complicada realidad de la vida y la amistad a los 30 años, hasta la aún más complicada realidad de la vida y la amistad a los 50 años.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzEzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44713:2"
+},
+{
+"id": "179510090",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Esta nueva entrega de \"Sexo en Nueva York\" sigue a Carrie, Miranda y Charlotte en su viaje desde la complicada realidad de la vida y la amistad a los 30 años, hasta la aún más complicada realidad de la vida y la amistad a los 50 años.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868030",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44713:1"
+}
+]
+}
+}

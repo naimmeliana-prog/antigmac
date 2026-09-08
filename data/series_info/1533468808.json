@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-07-12",
+"episode_count": 1,
+"id": 991035358,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXCd9FUT7ZjoB390cGioVhEiXOB.jpg"
+}
+],
+"info": {
+"name": "ES - Salvation",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXCd9FUT7ZjoB390cGioVhEiXOB.jpg",
+"plot": "",
+"cast": "",
+"director": "Craig Shapiro, Elizabeth Kruger, Matt JL Wheeler",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867933",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "351119346",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-12",
+"plot": "El estudiante graduado del MIT, Liam Cole y el multimillonario técnologo, Darius Tanzs descubren que un asteroide está a solo seis meses de colisionar en la tierra. Con toda la delicadeza y sin crear un escándalo público comienza a trabajar juntos en un plan para salvar a la humanidad. Para ello, reclutan a una aspirante a escritora, Jillian, para dar el enfoque teórico al planteamiento. Pero dentro de la dificultad, la cosa se complica con la entrada del gobierno. Ambos se ponen en contacto con Grace Barrows, oficial del Pentagono, que se verá envuelta en un tira y afloja desde ambos lados. Ya que el gobierno le da otro enfoque y Harris Edwards, Secretario Adjunto de Defensa, es el encargado de ejecutar un plan secreto de ataque para desviar el asteroide.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867933",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc2MzgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7638:2"
+}
+]
+}
+}

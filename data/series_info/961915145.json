@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-10",
+"episode_count": 3,
+"id": 686005627,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg"
+}
+],
+"info": {
+"name": "ES - Alice in Borderland (2020) (JP)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867998",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1848457072",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-10",
+"plot": "Un aficionado a los videojuegos y sus dos amigos se ven atrapados en una versión paralela de Tokio, donde deben competir en sádicos juegos para sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867998",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjMwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45630:3"
+},
+{
+"id": "357663525",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-10",
+"plot": "Un aficionado a los videojuegos y sus dos amigos se ven atrapados en una versión paralela de Tokio, donde deben competir en sádicos juegos para sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867998",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjMwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45630:2"
+},
+{
+"id": "180335759",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-10",
+"plot": "Un aficionado a los videojuegos y sus dos amigos se ven atrapados en una versión paralela de Tokio, donde deben competir en sádicos juegos para sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867998",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45630:1"
+}
+]
+}
+}

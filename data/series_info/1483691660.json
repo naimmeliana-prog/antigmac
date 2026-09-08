@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2018-10-22",
+"episode_count": 4,
+"id": 1066245882,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg"
+}
+],
+"info": {
+"name": "ES - Legacies (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+"plot": "",
+"cast": "",
+"director": "Julie Plec",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867912",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "327748694",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-22",
+"plot": "En un lugar donde jóvenes brujas, vampiros y hombres lobo son educados para ser lo mejor de sí mismos a pesar de sus peores impulsos, la hija de Klaus Mikaelson, Hope Mikaelson de 17 años, las gemelas de Alaric Saltzman, Lizzie y Josie Saltzman, entre otros de edad en héroes y villanos en la Escuela Salvatore para Jóvenes y Dotados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867912",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3Mzc1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37375:4"
+},
+{
+"id": "1019572610",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-22",
+"plot": "En un lugar donde jóvenes brujas, vampiros y hombres lobo son educados para ser lo mejor de sí mismos a pesar de sus peores impulsos, la hija de Klaus Mikaelson, Hope Mikaelson de 17 años, las gemelas de Alaric Saltzman, Lizzie y Josie Saltzman, entre otros de edad en héroes y villanos en la Escuela Salvatore para Jóvenes y Dotados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867912",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3Mzc1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37375:2"
+},
+{
+"id": "620972463",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-22",
+"plot": "En un lugar donde jóvenes brujas, vampiros y hombres lobo son educados para ser lo mejor de sí mismos a pesar de sus peores impulsos, la hija de Klaus Mikaelson, Hope Mikaelson de 17 años, las gemelas de Alaric Saltzman, Lizzie y Josie Saltzman, entre otros de edad en héroes y villanos en la Escuela Salvatore para Jóvenes y Dotados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867912",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3Mzc1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37375:3"
+},
+{
+"id": "177554765",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-22",
+"plot": "En un lugar donde jóvenes brujas, vampiros y hombres lobo son educados para ser lo mejor de sí mismos a pesar de sus peores impulsos, la hija de Klaus Mikaelson, Hope Mikaelson de 17 años, las gemelas de Alaric Saltzman, Lizzie y Josie Saltzman, entre otros de edad en héroes y villanos en la Escuela Salvatore para Jóvenes y Dotados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867912",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3Mzc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37375:1"
+}
+]
+}
+}

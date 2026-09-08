@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-02-14",
+"episode_count": 3,
+"id": 1185164147,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eC7RVaa4DVtbRRbX04smp9HMG2r.jpg"
+}
+],
+"info": {
+"name": "ES - #Luimelia",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eC7RVaa4DVtbRRbX04smp9HMG2r.jpg",
+"plot": "",
+"cast": "",
+"director": "Diana Rojo Martín, Camino Sánchez, Borja González Santaolalla",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867985",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "331177988",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-02-14",
+"plot": "Un spin-off de 'Amar es para siempre' que se centra en la relación entre Luisita y Amelia en el presente, 43 años después de su historia original.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867985",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTE5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34519:3"
+},
+{
+"id": "1766873292",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-02-14",
+"plot": "Un spin-off de 'Amar es para siempre' que se centra en la relación entre Luisita y Amelia en el presente, 43 años después de su historia original.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867985",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTE5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34519:2"
+},
+{
+"id": "170109274",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-02-14",
+"plot": "Un spin-off de 'Amar es para siempre' que se centra en la relación entre Luisita y Amelia en el presente, 43 años después de su historia original.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867985",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34519:1"
+}
+]
+}
+}

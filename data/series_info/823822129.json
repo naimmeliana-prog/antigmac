@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-30",
+"episode_count": 1,
+"id": 792020604,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBDmNWD8HH8Jl8P8MNV90QHGkq4.jpg"
+}
+],
+"info": {
+"name": "ES - Carême, chef de reyes (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBDmNWD8HH8Jl8P8MNV90QHGkq4.jpg",
+"plot": "",
+"cast": "",
+"director": "Ian Kelly, Davide Serino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868028",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "415289564",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-30",
+"plot": "Un joven y ambicioso chef utiliza su encanto seductor para trabajar como espía y así salvar a su padre y forjarse una reputación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868028",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43309:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-24",
+"episode_count": 2,
+"id": 1191239696,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hiry8mBkdxQ6brutxxqAivZvpW.jpg"
+}
+],
+"info": {
+"name": "ES - The Responder (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hiry8mBkdxQ6brutxxqAivZvpW.jpg",
+"plot": "",
+"cast": "",
+"director": "Tony Schumacher",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867947",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "261389690"
+},
+"episodes": {
+"1": [
+{
+"id": "504206180",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-24",
+"plot": "Chris es un comprometido agente de policía de emergencias que afronta turnos de noche en las calles más peligrosas de Liverpool. Noche tras noche se enfrenta a la delincuencia, la violencia y la adicción, mientras lucha contra los demonios personales que amenazan con desestabilizar su trabajo, su matrimonio y su salud mental. Mientras intenta mantenerse a flote tanto personal como profesionalmente, Chris se ve obligado a trabajar con una nueva compañera novata, Rachel. Ambos pronto descubren que la supervivencia en este implacable mundo nocturno dependerá de que se ayuden o se destruyan mutuamente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867947",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35687:1"
+},
+{
+"id": "1621216015",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-24",
+"plot": "Chris es un comprometido agente de policía de emergencias que afronta turnos de noche en las calles más peligrosas de Liverpool. Noche tras noche se enfrenta a la delincuencia, la violencia y la adicción, mientras lucha contra los demonios personales que amenazan con desestabilizar su trabajo, su matrimonio y su salud mental. Mientras intenta mantenerse a flote tanto personal como profesionalmente, Chris se ve obligado a trabajar con una nueva compañera novata, Rachel. Ambos pronto descubren que la supervivencia en este implacable mundo nocturno dependerá de que se ayuden o se destruyan mutuamente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867947",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njg3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35687:2"
+}
+]
+}
+}

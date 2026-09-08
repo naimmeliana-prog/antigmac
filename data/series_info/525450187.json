@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-03-08",
+"episode_count": 3,
+"id": 1349733276,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg"
+}
+],
+"info": {
+"name": "ES - After Life",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg",
+"plot": "",
+"cast": "",
+"director": "Ricky Gervais",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788867997",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "97787488",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-03-08",
+"plot": "Un escritor de diario que intenta asimilar la muerte de su esposa adopta una personalidad arisca para alejar a cualquier persona que quiera ayudarlo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867997",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTMyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15132:3"
+},
+{
+"id": "891557677",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-03-08",
+"plot": "Un escritor de diario que intenta asimilar la muerte de su esposa adopta una personalidad arisca para alejar a cualquier persona que quiera ayudarlo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867997",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTMyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15132:2"
+},
+{
+"id": "1996900181",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-03-08",
+"plot": "Un escritor de diario que intenta asimilar la muerte de su esposa adopta una personalidad arisca para alejar a cualquier persona que quiera ayudarlo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788867997",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15132:1"
+}
+]
+}
+}

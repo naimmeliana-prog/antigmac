@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-08",
+"episode_count": 1,
+"id": 1211932532,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPou8wNiTz1uleLKllclrqanXXf.jpg"
+}
+],
+"info": {
+"name": "ES - Alice y Steve (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+"plot": "",
+"cast": "",
+"director": "Sophie Goodhart",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788868021",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "669734181",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-08",
+"plot": "Alice se queda hundida cuando su mejor amigo Steve empieza a salir con su hija de 26 años, Izzy, y los dos anuncian que quieren intentar una relación. Alice lo intenta todo para acabar con la relación. Por desgracia para ella, Steve está más que preparado para el ataque y lo que empieza siendo una perfecta amistad se convierte en una guerra a muerte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788868021",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49954:1"
+}
+]
+}
+}
