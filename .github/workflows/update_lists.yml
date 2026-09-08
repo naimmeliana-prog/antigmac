@@ -147,24 +147,17 @@ jobs:
 
           # Solo hacer commit si hay cambios
           if git diff --staged --quiet; then
-            echo "ℹ️  No hay cambios en los datos. Nada que commitear."
+            echo "No hay cambios en los datos. Nada que commitear."
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             LIVE_COUNT=$(cat data/live_streams.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "?")
             VOD_COUNT=$(cat data/vod_streams.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "?")
             SERIES_COUNT=$(cat data/series.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "?")
-
-            git commit -m "🔄 Auto-update listas IPTV [${TIMESTAMP}]
-
-  📺 Live: ${LIVE_COUNT} canales
-  🎬 Películas: ${VOD_COUNT}
-  📦 Series: ${SERIES_COUNT}
-
-  [skip ci]"
-            # Pull --rebase para evitar conflictos si hay otro workflow ejecutándose en paralelo
+            COMMIT_MSG="Auto-update listas IPTV [${TIMESTAMP}] - Live:${LIVE_COUNT} VOD:${VOD_COUNT} Series:${SERIES_COUNT} [skip ci]"
+            git commit -m "$COMMIT_MSG"
             git pull --rebase origin main || true
             git push
-            echo "✅ Datos actualizados y pusheados correctamente"
+            echo "Datos actualizados correctamente"
           fi
 
       # ── 9. Notificación de éxito/fallo ────────────────────────────────────
