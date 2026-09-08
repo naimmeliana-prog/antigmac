@@ -1,0 +1,13 @@
+portal_url: "http://mag.greatott.me:80/c/"
+mac: "00:1A:79:74:B1:B9"
+filters:
+  languages:
+    allow_all: false
+    es_es: true
+    fr_fr: true
+    en_gb: true
+categories:
+  live: true
+  movies: true
+  series: true
+
