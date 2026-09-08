@@ -354,37 +354,43 @@ class ContentFilter:
         return filtered
 
     def filter_series_categories(self, categories: List[Dict]) -> List[Dict]:
-        """Filtra categorías de Series (solo Español España / plataformas sin exclusiones latino)."""
+        """Filtra categorías de Series (Español España y plataformas, excluyendo Latino/otras regiones)."""
         filtered = []
         for cat in categories:
             name = cat.get("title", cat.get("name", ""))
             norm = _normalize(name)
-            # Ignorar si es explícitamente contenido latino o de otras regiones
+
+            # Excluir explícitamente contenido Latino / otras regiones
             if _matches_any(norm, _ES_EXC) and not _matches_any(norm, _ES_INC):
                 continue
 
-            cat["_lang"] = "es_spain"
-            filtered.append(cat)
+            # Aceptar si coincide con España/plataformas o si la categoría no es de otra región
+            if is_spain_spanish(name) or _matches_any(norm, _ES_INC):
+                cat["_lang"] = "es_spain"
+                filtered.append(cat)
 
         logger.info(f"Categorías Series: {len(categories)} total → {len(filtered)} aceptadas")
         return filtered
 
     def filter_series_list(self, series_list: List[Dict], filtered_categories: List[Dict]) -> List[Dict]:
-        """Filtra series."""
+        """Filtra series descartando las que contengan etiquetas latinas/excluidas."""
         accepted_cat_ids = {str(c.get("id", "")) for c in filtered_categories}
 
         filtered = []
         for serie in series_list:
+            name = serie.get("name", serie.get("title", ""))
+            norm = _normalize(name)
             cat_id = str(serie.get("_category_id", ""))
+
+            # Si el título individual de la serie indica que es Latina, la descartamos
+            if _matches_any(norm, _ES_EXC) and not _matches_any(norm, _ES_INC):
+                continue
 
             if cat_id in accepted_cat_ids:
                 serie["_lang"] = "es_spain"
                 filtered.append(serie)
-                continue
-
-            accepted, lang = filter_series(serie)
-            if accepted:
-                serie["_lang"] = lang
+            elif is_spain_spanish("", name):
+                serie["_lang"] = "es_spain"
                 filtered.append(serie)
 
         logger.info(f"Series: {len(series_list)} total → {len(filtered)} aceptadas")
