@@ -46,6 +46,19 @@ def _lang_to_flag(lang: str) -> str:
     return flags.get(lang, "")
 
 
+def _clean_cmd(cmd: str) -> str:
+    """
+    Limpia el prefijo Stalker del cmd para obtener una URL directamente reproducible.
+    Stalker almacena los streams como: 'ffrt http://...' o 'ffrt1 http://...'
+    Este prefijo debe eliminarse para obtener la URL real del stream.
+    """
+    import re
+    if not cmd:
+        return ""
+    # Eliminar prefijos: ffrt, ffrt1, ffrt2, ffrt3, auto, etc.
+    return re.sub(r'^(ffrt\d*|auto)\s+', '', cmd.strip())
+
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # BUILDER PRINCIPAL
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -181,7 +194,7 @@ class XtreamBuilder:
                 "tv_archive": 0,
                 "direct_source": "",
                 "tv_archive_duration": 0,
-                "_stalker_cmd": cmd,
+                "_stalker_cmd": _clean_cmd(cmd),
                 "_stalker_id": str(ch.get("id", "")),
                 "_lang": ch.get("_lang", ""),
             })
@@ -257,7 +270,7 @@ class XtreamBuilder:
                 "container_extension": ext,
                 "custom_sid": "",
                 "direct_source": "",
-                "_stalker_cmd": cmd,
+                "_stalker_cmd": _clean_cmd(cmd),
                 "_stalker_id": str(movie.get("id", "")),
                 "_lang": movie.get("_lang", ""),
             })
@@ -427,7 +440,7 @@ class XtreamBuilder:
                     "custom_sid": "",
                     "added": str(int(time.time())),
                     "season": season_num,
-                    "_stalker_cmd": cmd,
+                    "_stalker_cmd": _clean_cmd(cmd),
                     "_stalker_id": str(item.get("id", "")),
                 })
 
