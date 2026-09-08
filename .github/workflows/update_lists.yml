@@ -1,12 +1,13 @@
-name: "Actualizar listas IPTV"
+name: "🔄 Actualizar listas IPTV"
 
 on:
   schedule:
+    # Ejecutar cada 2 días a las 06:00 am 
     - cron: "0 6 */2 * *"
   workflow_dispatch:
     inputs:
       portal_id:
-        description: "ID del portal a procesar (vacio = todos)"
+        description: "ID del portal a procesar (vacío = todos)"
         required: false
         default: ""
       verbose:
@@ -25,55 +26,71 @@ jobs:
     timeout-minutes: 60
 
     steps:
-      - name: "Checkout repositorio"
+      # ── 1. Checkout del repositorio ────────────────────────────────────────
+      - name: "📥 Checkout repositorio"
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 1
 
-      - name: "Configurar Python 3.11"
+      # ── 2. Setup Python ───────────────────────────────────────────────────
+      - name: "🐍 Configurar Python 3.11"
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
-      - name: "Instalar dependencias"
+      # ── 3. Instalar dependencias ──────────────────────────────────────────
+      - name: "📦 Instalar dependencias"
         run: pip install -r requirements.txt
 
-      - name: "Preparar directorios"
+      # ── 4. Crear directorio de datos ──────────────────────────────────────
+      - name: "📁 Preparar directorios"
         run: |
           mkdir -p data/series_info
           mkdir -p logs
 
-      - name: "Aplicar configuracion de secrets"
+      # ── 5. Actualizar configuración con secrets ───────────────────────────
+      # Esto permite sobrescribir la MAC o el portal desde un secret si se desea
+      - name: "🔐 Aplicar configuración de secrets"
         env:
           PORTAL_URL: ${{ secrets.PORTAL_URL }}
           PORTAL_MAC: ${{ secrets.PORTAL_MAC }}
           WORKER_URL: ${{ secrets.WORKER_URL }}
         run: |
+          # Si hay secrets configurados, actualizar portals.json
           if [ -n "$PORTAL_URL" ] && [ -n "$PORTAL_MAC" ]; then
-            python3 - <<'PYEOF'
+            python3 - <<'EOF'
           import json, os
+
           config_path = "config/portals.json"
           with open(config_path, "r") as f:
               config = json.load(f)
+
           portal_url = os.environ.get("PORTAL_URL", "")
           portal_mac = os.environ.get("PORTAL_MAC", "")
           worker_url = os.environ.get("WORKER_URL", "https://antigmac.workers.dev")
+
           if portal_url and portal_mac:
               config["portals"][0]["url"] = portal_url
               config["portals"][0]["mac"] = portal_mac
+              print(f"✅ Portal configurado desde secrets: {portal_url}")
+
           with open(config_path, "w") as f:
               json.dump(config, f, indent=2, ensure_ascii=False)
+
+          # Guardar worker_url para el extractor
           with open(".worker_url", "w") as f:
               f.write(worker_url)
-          PYEOF
+          EOF
           else
+            echo "ℹ️  Usando configuración del portals.json del repositorio"
             WORKER_URL="${WORKER_URL:-https://antigmac.workers.dev}"
             echo "$WORKER_URL" > .worker_url
           fi
 
-      - name: "Ejecutar MacToXtream extractor"
+      # ── 6. Ejecutar extractor ─────────────────────────────────────────────
+      - name: "🚀 Ejecutar MacToXtream extractor"
         env:
           PYTHONPATH: ${{ github.workspace }}
           WORKER_URL: ${{ secrets.WORKER_URL }}
@@ -81,40 +98,88 @@ jobs:
           WORKER_URL=$(cat .worker_url 2>/dev/null || echo "https://antigmac.workers.dev")
           PORTAL_ARG=""
           VERBOSE_ARG=""
+
           if [ -n "${{ github.event.inputs.portal_id }}" ]; then
             PORTAL_ARG="--portal ${{ github.event.inputs.portal_id }}"
           fi
+
           if [ "${{ github.event.inputs.verbose }}" = "true" ]; then
             VERBOSE_ARG="-v"
           fi
+
           python extractor/main.py \
             --config config/portals.json \
             --data-dir data \
             --worker-url "$WORKER_URL" \
             $PORTAL_ARG \
-            $VERBOSE_ARG
+            $VERBOSE_ARG \
+            2>&1 | tee logs/extractor_$(date +%Y%m%d_%H%M%S).log
 
-      - name: "Verificar archivos generados"
+          echo "EXIT_CODE=${PIPESTATUS[0]}" >> $GITHUB_ENV
+
+      # ── 7. Verificar resultados ───────────────────────────────────────────
+      - name: "✅ Verificar archivos generados"
         run: |
-          echo "Archivos generados:"
-          ls -la data/ 2>/dev/null || echo "No hay datos aun"
+          echo "📊 Archivos generados:"
+          echo ""
+          echo "=== Live TV ==="
+          [ -f data/live_categories.json ] && echo "  Categories: $(cat data/live_categories.json | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d), "categorías")')" || echo "  ⚠️  live_categories.json no encontrado"
+          [ -f data/live_streams.json ] && echo "  Streams: $(cat data/live_streams.json | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d), "canales")')" || echo "  ⚠️  live_streams.json no encontrado"
+          echo ""
+          echo "=== Películas ==="
+          [ -f data/vod_categories.json ] && echo "  Categories: $(cat data/vod_categories.json | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d), "categorías")')" || echo "  ⚠️  vod_categories.json no encontrado"
+          [ -f data/vod_streams.json ] && echo "  Streams: $(cat data/vod_streams.json | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d), "películas")')" || echo "  ⚠️  vod_streams.json no encontrado"
+          echo ""
+          echo "=== Series ==="
+          [ -f data/series_categories.json ] && echo "  Categories: $(cat data/series_categories.json | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d), "categorías")')" || echo "  ⚠️  series_categories.json no encontrado"
+          [ -f data/series.json ] && echo "  Series: $(cat data/series.json | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d), "series")')" || echo "  ⚠️  series.json no encontrado"
+          SERIES_INFO_COUNT=$(find data/series_info -name "*.json" 2>/dev/null | wc -l)
+          echo "  Series info: $SERIES_INFO_COUNT archivos de temporadas/episodios"
 
-      - name: "Commit y push de datos"
+      # ── 8. Commit y push de los datos actualizados ─────────────────────────
+      - name: "💾 Commit y push de datos"
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data/
+          git add logs/ 2>/dev/null || true
+
+          # Solo hacer commit si hay cambios
           if git diff --staged --quiet; then
-            echo "No hay cambios en los datos."
+            echo "ℹ️  No hay cambios en los datos. Nada que commitear."
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
-            git commit -m "Auto-update listas IPTV [${TIMESTAMP}] [skip ci]"
+            LIVE_COUNT=$(cat data/live_streams.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "?")
+            VOD_COUNT=$(cat data/vod_streams.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "?")
+            SERIES_COUNT=$(cat data/series.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "?")
+
+            git commit -m "🔄 Auto-update listas IPTV [${TIMESTAMP}]
+
+  📺 Live: ${LIVE_COUNT} canales
+  🎬 Películas: ${VOD_COUNT}
+  📦 Series: ${SERIES_COUNT}
+
+  [skip ci]"
+            # Pull --rebase para evitar conflictos si hay otro workflow ejecutándose en paralelo
+            git pull --rebase origin main || true
             git push
-            echo "Datos actualizados correctamente"
+            echo "✅ Datos actualizados y pusheados correctamente"
           fi
 
-      - name: "Resumen del job"
+      # ── 9. Notificación de éxito/fallo ────────────────────────────────────
+      - name: "📊 Resumen del job"
         if: always()
         run: |
-          echo "### Resumen MacToXtream" >> $GITHUB_STEP_SUMMARY
-          echo "Ejecutado: $(date -u)" >> $GITHUB_STEP_SUMMARY
+          echo "### 📊 Resumen MacToXtream" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Tipo | Cantidad |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|----------|" >> $GITHUB_STEP_SUMMARY
+          LIVE=$(cat data/live_streams.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "N/A")
+          VOD=$(cat data/vod_streams.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "N/A")
+          SERIES=$(cat data/series.json 2>/dev/null | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo "N/A")
+          echo "| 📺 Canales Live | $LIVE |" >> $GITHUB_STEP_SUMMARY
+          echo "| 🎬 Películas | $VOD |" >> $GITHUB_STEP_SUMMARY
+          echo "| 📦 Series | $SERIES |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "⏰ Ejecutado: $(date -u)" >> $GITHUB_STEP_SUMMARY
