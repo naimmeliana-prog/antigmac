@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-03",
+"episode_count": 1,
+"id": 4465248,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzBSOFKqayEEIUwZJyWcg3Fb1th.jpg"
+}
+],
+"info": {
+"name": "ES - Encantado de no conocerte (2025) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzBSOFKqayEEIUwZJyWcg3Fb1th.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Ga Ram",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900414",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "668572095",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-03",
+"plot": "Wi Jeong-sin, una respetada periodista política, se ve obligada a cubrir el mundo del espectáculo. Allí conoce a Lim Hyeon-jun, un actor en decadencia. Entre el caos de los bastidores, los nuevos comienzos y las sorpresas, surge un romance improbable, divertido y lleno de química.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900414",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NDI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46425:1"
+}
+]
+}
+}

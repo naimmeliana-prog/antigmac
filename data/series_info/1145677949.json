@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-04",
+"episode_count": 5,
+"id": 43550829,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/510A0upV9WRAynEgs1E2B3eBxi5.jpg"
+}
+],
+"info": {
+"name": "ES - Mayans M.C. (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/510A0upV9WRAynEgs1E2B3eBxi5.jpg",
+"plot": "",
+"cast": "",
+"director": "Kurt Sutter, Elgin James",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900503",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "262748711",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-04",
+"plot": "Ambientada después de Sons of Anarchy, Mayans MC se enfoca en las luchas de Ezekiel \"EZ\" Reyes, un prospecto en la carta de MC Maya en la frontera de California / México. EZ es el hijo dotado de una orgullosa familia latina, cuyo sueño americano fue sofocado por la violencia del cártel. Ahora, su necesidad de venganza lo conduce hacia una vida que nunca tuvo la intención y de la que nunca podrá escapar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900503",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Njk5LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38699:5"
+},
+{
+"id": "1237078977",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-04",
+"plot": "Ambientada después de Sons of Anarchy, Mayans MC se enfoca en las luchas de Ezekiel \"EZ\" Reyes, un prospecto en la carta de MC Maya en la frontera de California / México. EZ es el hijo dotado de una orgullosa familia latina, cuyo sueño americano fue sofocado por la violencia del cártel. Ahora, su necesidad de venganza lo conduce hacia una vida que nunca tuvo la intención y de la que nunca podrá escapar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900503",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Njk5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38699:4"
+},
+{
+"id": "1114596780",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-04",
+"plot": "Ambientada después de Sons of Anarchy, Mayans MC se enfoca en las luchas de Ezekiel \"EZ\" Reyes, un prospecto en la carta de MC Maya en la frontera de California / México. EZ es el hijo dotado de una orgullosa familia latina, cuyo sueño americano fue sofocado por la violencia del cártel. Ahora, su necesidad de venganza lo conduce hacia una vida que nunca tuvo la intención y de la que nunca podrá escapar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900503",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Njk5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38699:3"
+},
+{
+"id": "1536229637",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-04",
+"plot": "Ambientada después de Sons of Anarchy, Mayans MC se enfoca en las luchas de Ezekiel \"EZ\" Reyes, un prospecto en la carta de MC Maya en la frontera de California / México. EZ es el hijo dotado de una orgullosa familia latina, cuyo sueño americano fue sofocado por la violencia del cártel. Ahora, su necesidad de venganza lo conduce hacia una vida que nunca tuvo la intención y de la que nunca podrá escapar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900503",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Njk5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38699:2"
+},
+{
+"id": "47585293",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-04",
+"plot": "Ambientada después de Sons of Anarchy, Mayans MC se enfoca en las luchas de Ezekiel \"EZ\" Reyes, un prospecto en la carta de MC Maya en la frontera de California / México. EZ es el hijo dotado de una orgullosa familia latina, cuyo sueño americano fue sofocado por la violencia del cártel. Ahora, su necesidad de venganza lo conduce hacia una vida que nunca tuvo la intención y de la que nunca podrá escapar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900503",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Njk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38699:1"
+}
+]
+}
+}

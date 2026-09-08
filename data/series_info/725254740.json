@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-09",
+"episode_count": 1,
+"id": 1561910401,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGyhajnjrKYU66t7zb22s5SIJvN.jpg"
+}
+],
+"info": {
+"name": "ES - Sunny (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGyhajnjrKYU66t7zb22s5SIJvN.jpg",
+"plot": "",
+"cast": "",
+"director": "Katie Robbins",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900468",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1954177266",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-09",
+"plot": "La vida de una mujer estadounidense que vive en Kioto, Japón, se ve alterada cuando su marido y su hijo desaparecen en un misterioso accidente de avión. Como consuelo, le entregan a Sunny, uno de los nuevos robots domésticos fabricados por la empresa de electrónica de su marido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34955:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-24",
+"episode_count": 1,
+"id": 980826724,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/93aDXCBlXfXFTeHiERzIbkhozr.jpg"
+}
+],
+"info": {
+"name": "ES - Ojo de Halcón",
+"cover": "https://image.tmdb.org/t/p/w154/93aDXCBlXfXFTeHiERzIbkhozr.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonathan Igla",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900392",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "64732457",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-24",
+"plot": "Después del Lapso en Nueva York, el exvengador Clint Burton (alias Ojo de Halcón) debe cumplir una misión aparentemente sencilla: volver con su familia por Navidad. Pero una amenaza del pasado le obligará a aliarse a regañadientes con Kate Bishop, una hábil arquera de 22 años (y su mayor admiradora), para destapar una conspiración criminal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900392",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29928:1"
+}
+]
+}
+}

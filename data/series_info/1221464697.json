@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2011-12-04",
+"episode_count": 1,
+"id": 1980989221,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nDRo824oyBwg1prOZHc8UtonVB.jpg"
+}
+],
+"info": {
+"name": "ES - Black Mirror (2025) T7",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+"plot": "",
+"cast": "",
+"director": "Charlie Brooker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900278",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1824473583",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-12-04",
+"plot": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900278",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzIwLCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43320:7"
+}
+]
+}
+}

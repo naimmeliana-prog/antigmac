@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-19",
+"episode_count": 1,
+"id": 1974111602,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4arTlVw8oceZDOhGv9GFrgGztUq.jpg"
+}
+],
+"info": {
+"name": "ES - El hotel embrujado (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Roller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900291",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1940736989",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-19",
+"plot": "Una madre soltera hereda el hotel de su difunto hermano y se muda a vivir allí con su amable fantasma y unos huéspedes muy exigentes que no van a marcharse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900291",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45644:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-15",
+"episode_count": 1,
+"id": 691185261,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VsehAVZEZkF60rwpDSYjoObTEX.jpg"
+}
+],
+"info": {
+"name": "ES - Rafaela y su loco mundo (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VsehAVZEZkF60rwpDSYjoObTEX.jpg",
+"plot": "",
+"cast": "",
+"director": "Aníbal Gómez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900266",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "180287593",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-15",
+"plot": "Rafaela vive con su madre, ama de casa, su padre, inventor, y su abuela. Junto a sus amigas Corpus, Chelo y Debo, y su caniche, navegarán por diferentes peligros para salvar el mundo antes de que se les acabe la adolescencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48324:1"
+}
+]
+}
+}

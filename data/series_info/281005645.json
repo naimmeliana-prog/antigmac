@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-24",
+"episode_count": 1,
+"id": 1265550077,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngIV04Va4cotMFegh7xrV8kwEUR.jpg"
+}
+],
+"info": {
+"name": "ES - Defender a Jacob",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngIV04Va4cotMFegh7xrV8kwEUR.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Bomback",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900440",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "873520758",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-24",
+"plot": "La vida de una familia cambia drásticamente cuando el hijo es acusado de asesinar a un compañero de clase. Chris Evans, Michelle Dockery y Jaeden Martell protagonizan este dramático thriller judicial, basado en el bestseller de William Landay.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900440",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34232:1"
+}
+]
+}
+}

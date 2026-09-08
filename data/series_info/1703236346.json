@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-17",
+"episode_count": 3,
+"id": 228508931,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/74qMRUy0lwkBBi39vsQVerIDkHj.jpg"
+}
+],
+"info": {
+"name": "ES - El Juego del Calamar",
+"cover": "https://image.tmdb.org/t/p/w154/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+"plot": "",
+"cast": "",
+"director": "Hwang Dong-hyuk",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900287",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "561060961",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-17",
+"plot": "Cientos de jugadores con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro les esperan un tentador premio y desafíos letales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODg5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29889:3"
+},
+{
+"id": "469022839",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-17",
+"plot": "Cientos de jugadores con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro les esperan un tentador premio y desafíos letales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODg5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29889:2"
+},
+{
+"id": "213707778",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-17",
+"plot": "Cientos de jugadores con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro les esperan un tentador premio y desafíos letales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29889:1"
+}
+]
+}
+}

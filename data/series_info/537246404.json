@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-15",
+"episode_count": 1,
+"id": 344003332,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg"
+}
+],
+"info": {
+"name": "ES - The Other Bennet Sister (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+"plot": "",
+"cast": "",
+"director": "Janice Hadlow",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900549",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "142368332",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-15",
+"plot": "Sigue los acontecimientos de \"Orgullo y prejuicio\" desde el punto de vista de Mary Bennet, antes de que la historia parta para seguir a Mary en su viaje a Londres y al Distrito de los Lagos. La hermana olvidada de la gran familia Bennet vive una aventura romántica en la Inglaterra de la época de la Regencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900549",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMTY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50167:1"
+}
+]
+}
+}

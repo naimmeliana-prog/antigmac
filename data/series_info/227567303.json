@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-15",
+"episode_count": 1,
+"id": 206612267,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntZB7o2CONuXtjPctRVRsiIZvxj.jpg"
+}
+],
+"info": {
+"name": "ES - Matabot (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntZB7o2CONuXtjPctRVRsiIZvxj.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Weitz, Paul Weitz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900461",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "201988453",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-15",
+"plot": "En un futuro tecnológico, un robot de seguridad rebelde consigue en secreto voluntad propia. Para no llamar la atención, se une a regañadientes a una nueva misión. Debe proteger a unos científicos en un planeta peligroso... aunque solo quiere ver culebrones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900461",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43852:1"
+}
+]
+}
+}

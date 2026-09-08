@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-29",
+"episode_count": 1,
+"id": 800293691,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OfxVGXGz8xwdbd7WIh3ZdRz86e.jpg"
+}
+],
+"info": {
+"name": "ES - La vida que querías",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OfxVGXGz8xwdbd7WIh3ZdRz86e.jpg",
+"plot": "",
+"cast": "",
+"director": "Ivan Cotroneo, Monica Rametta",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900314",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "483345690",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-29",
+"plot": "Gloria por fin es feliz después de la transición y de estabilizarse... pero una vieja amiga reaparece con una impactante noticia y pone su vida patas arriba.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900314",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34239:1"
+}
+]
+}
+}

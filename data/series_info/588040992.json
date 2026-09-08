@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-04",
+"episode_count": 2,
+"id": 1150197067,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9b6XFApT34dkGrmOZnTk7noyNx8.jpg"
+}
+],
+"info": {
+"name": "ES - Daredevil: Born Again (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9b6XFApT34dkGrmOZnTk7noyNx8.jpg",
+"plot": "",
+"cast": "",
+"director": "Dario Scardapane, Chris Ord, Matt Corman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900374",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1628530778",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-04",
+"plot": "Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900374",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMTYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42163:2"
+},
+{
+"id": "544509695",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-04",
+"plot": "Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900374",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMTYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42163:1"
+}
+]
+}
+}

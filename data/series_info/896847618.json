@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-03",
+"episode_count": 1,
+"id": 688014284,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/qIoGE9kSuBE5NiaLclNDfHTpwhu.jpg"
+}
+],
+"info": {
+"name": "ES - James May: Nuestro hombre en…",
+"cover": "https://image.tmdb.org/t/p/w154/qIoGE9kSuBE5NiaLclNDfHTpwhu.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Whitter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900591",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1551947823",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-03",
+"plot": "James May inicia un viaje extraordinario a través de Japón, desde el helado norte hasta el templado sur. Verá los lugares de interés, conocerá a los locales y comerá fideos en un intento por entender de verdad la Tierra del Sol Naciente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900591",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30430:1"
+}
+]
+}
+}

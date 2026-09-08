@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-12",
+"episode_count": 1,
+"id": 9071430,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/43hwLNmerP3DqPrpVNCzZ4S693w.jpg"
+}
+],
+"info": {
+"name": "ES - Serrines, madera de actor",
+"cover": "https://image.tmdb.org/t/p/w154/43hwLNmerP3DqPrpVNCzZ4S693w.jpg",
+"plot": "",
+"cast": "",
+"director": "David Cavanilles, Ángel Cañas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900428",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1125134827",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-12",
+"plot": "Aborda la historia de Serrines (Antonio Resines), un intérprete veterano que ha gozado de popularidad en su carrera gracias a su participación en una serie que fue muy famosa hace unos años, pero que no ha logrado su principal aspiración: gozar del respaldo de la crítica y del prestigio en la industria del entretenimiento y entre sus compañeros de profesión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29936:1"
+}
+]
+}
+}

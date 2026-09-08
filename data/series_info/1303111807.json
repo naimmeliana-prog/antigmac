@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2016-09-30",
+"episode_count": 2,
+"id": 1243666251,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/quTfV803fGaSADzTeEqCbIZnt9d.jpg"
+}
+],
+"info": {
+"name": "ES - Marvel - Luke Cage",
+"cover": "https://image.tmdb.org/t/p/w154/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
+"plot": "",
+"cast": "",
+"director": "Cheo Hodari Coker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900388",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "44268812",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-30",
+"plot": "Un expresidiario encapuchado y de piel impenetrable lucha por limpiar su nombre y salvar su barrio. Él no buscaba pelea, pero la gente necesita un héroe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900388",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29988:2"
+},
+{
+"id": "145620438",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-30",
+"plot": "Un expresidiario encapuchado y de piel impenetrable lucha por limpiar su nombre y salvar su barrio. Él no buscaba pelea, pero la gente necesita un héroe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900388",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29988:1"
+}
+]
+}
+}

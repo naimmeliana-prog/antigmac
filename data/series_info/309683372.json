@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-21",
+"episode_count": 1,
+"id": 46893013,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0Rczr0vuNZ1Jru4bPPwM6YlsVT.jpg"
+}
+],
+"info": {
+"name": "ES - Se tiene que morir mucha gente (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0Rczr0vuNZ1Jru4bPPwM6YlsVT.jpg",
+"plot": "",
+"cast": "",
+"director": "Victoria Martín",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900249",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1634226515",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-21",
+"plot": "Bárbara, Maca y Elena fueron juntas al colegio y 20 años después siguen siendo amigas, más o menos. Bárbara es una bomba de relojería: vive frustrada por su trabajo y está enganchada a las benzodiacepinas. Maca, con la que comparte piso, intenta salir adelante como actriz, aunque es camarera. Y Elena está embarazada tras casarse con un señor de 60 años que dirige hoteles. La crisis personal de Bárbara hará que todo explote.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900249",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NTQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49549:1"
+}
+]
+}
+}

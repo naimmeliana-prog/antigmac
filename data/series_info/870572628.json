@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-22",
+"episode_count": 1,
+"id": 764958580,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/xuAx93DvOOFAuNZ6VfzAdc8CcS6.jpg"
+}
+],
+"info": {
+"name": "ES - Esta ambición desmedida",
+"cover": "https://image.tmdb.org/t/p/w154/xuAx93DvOOFAuNZ6VfzAdc8CcS6.jpg",
+"plot": "",
+"cast": "",
+"director": "Santos Bacana",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900581",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "660574820",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-22",
+"plot": "Después del éxito del disco de \"El Madrileño\", C. Tangana se enfrenta al reto de crear la gira más ambiciosa de su carrera y revolucionar el concepto del directo. \"Esta ambición desmedida\" es un viaje que sigue al artista durante más de cuatro años, desde la génesis del disco en Cuba hasta la conceptualización del show, pasando por la hostilidad de las negociaciones, los ensayos, las conversaciones incómodas, las celebraciones más íntimas y la vorágine de conciertos por toda España y Latinoamérica. Y al final, el inicio: la certeza de que hay un nuevo despertar para esta ambición desmedida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900581",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30271:1"
+}
+]
+}
+}

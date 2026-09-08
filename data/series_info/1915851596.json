@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-05-14",
+"episode_count": 1,
+"id": 1657406926,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/5pOmIKpaUfOrhpB572KXJgJ0fz0.jpg"
+}
+],
+"info": {
+"name": "ES - Reyes de la noche (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/5pOmIKpaUfOrhpB572KXJgJ0fz0.jpg",
+"plot": "",
+"cast": "",
+"director": "Cristóbal Garrido, Adolfo Valor",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900248",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "447048134",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-14",
+"plot": "Francisco Javier Maldonado, alias Paco el Cóndor, es el periodista deportivo más importante de la radio española en los 80. Los oyentes le admiran, los jugadores le temen, los presidentes de clubes (y el gobierno) le odian. Cada medianoche reúne a millones de oyentes junto al transistor. Desde hace años, el Cóndor no tiene rival. Hasta ahora.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900248",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22904:1"
+}
+]
+}
+}

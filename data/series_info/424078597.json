@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-22",
+"episode_count": 1,
+"id": 882176385,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZrE4IjKVxsSJonfbVkcHnFpnct.jpg"
+}
+],
+"info": {
+"name": "ES - Planeta Tierra III",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZrE4IjKVxsSJonfbVkcHnFpnct.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900625",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "679277097",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-22",
+"plot": "Completando la trilogía ganadora de seis premios Emmy, Planeta Tierra III explora los grandes hábitats de nuestro planeta y los extraordinarios seres que los habitan. Una vez más, Sir David Attenborough será el introductor y presentador de esta superproducción de BBC Earth.\r\n\r\nLlena de imágenes asombrosas, esta serie documental de ocho episodios celebra la grandiosidad de la naturaleza mostrando lugares y animales más allá de nuestra imaginación. Desde las profundidades del océano hasta la selva más remota, esta gran serie revela los últimos lugares salvajes del planeta y las asombrosas estrategias que los animales han desarrollado para sobrevivir.\r\n\r\nCada episodio se centra en un hábitat distinto y deslumbrante, que incluye pastizales y desiertos, bosques, hábitats de agua dulce y costas. Esta nueva entrega de Planeta Tierra revela también los nuevos desafíos que enfrenta la vida salvaje en un mundo colonizado y explotado por los seres humanos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900625",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31630:1"
+}
+]
+}
+}

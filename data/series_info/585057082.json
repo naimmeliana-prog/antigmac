@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2020-05-19",
+"episode_count": 5,
+"id": 101499147,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MiYK1QKDQKbJhVL9XcUYsVzF4s.jpg"
+}
+],
+"info": {
+"name": "ES - Dulces magnolias (2020) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MiYK1QKDQKbJhVL9XcUYsVzF4s.jpg",
+"plot": "",
+"cast": "",
+"director": "Sheryl J. Anderson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900286",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "124913057",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Desde hace años, Maddie, Helen y Dana Sue se apoyan en su amistad para sobrellevar los altibajos en sus relaciones, familias y carreras en el pequeño pueblo de Serenity.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900286",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDAyLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46002:5"
+},
+{
+"id": "118032829",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Desde hace años, Maddie, Helen y Dana Sue se apoyan en su amistad para sobrellevar los altibajos en sus relaciones, familias y carreras en el pequeño pueblo de Serenity.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900286",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDAyLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46002:4"
+},
+{
+"id": "510929068",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Desde hace años, Maddie, Helen y Dana Sue se apoyan en su amistad para sobrellevar los altibajos en sus relaciones, familias y carreras en el pequeño pueblo de Serenity.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900286",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDAyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46002:3"
+},
+{
+"id": "193289447",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Desde hace años, Maddie, Helen y Dana Sue se apoyan en su amistad para sobrellevar los altibajos en sus relaciones, familias y carreras en el pequeño pueblo de Serenity.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900286",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDAyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46002:2"
+},
+{
+"id": "1625257854",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Desde hace años, Maddie, Helen y Dana Sue se apoyan en su amistad para sobrellevar los altibajos en sus relaciones, familias y carreras en el pequeño pueblo de Serenity.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900286",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46002:1"
+}
+]
+}
+}

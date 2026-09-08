@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-10",
+"episode_count": 1,
+"id": 1943416252,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL8FEkut0o8nj2YmSP5IXKGKcjr.jpg"
+}
+],
+"info": {
+"name": "ES - Un Nuevo Amanecer (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL8FEkut0o8nj2YmSP5IXKGKcjr.jpg",
+"plot": "",
+"cast": "",
+"director": "José Corbacho",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900268",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "255375377",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-10",
+"plot": "Candela, reconocida actriz y humorista, se ha convertido en una adicta. No sabe muy bien cómo (o eso dice ella), pero esas dosis de alcohol y drogas a las que no daba demasiada importancia se han acabado desmadrando. “Tranquilos, yo controlo” eran las palabras que últimamente más repetía en su círculo personal y laboral, pero no controla nada de nada. Ni su vida personal (separada y con una hija que pasa más tiempo con su padre y su abuela que con ella), ni profesional, que cada vez es más desastrosa. Después de desplomarse en directo en el talent show en el que trabaja, Candela debe internarse en un centro de desintoxicación para tratar sus adicciones. Ella quiere hacerlo en uno para ricos y famosos, pero debido a sus problemas económicos, acaba en el centro público ‘Un nuevo amanecer’.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900268",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36019:1"
+}
+]
+}
+}

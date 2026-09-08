@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-04",
+"episode_count": 1,
+"id": 1395028987,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w62IHw1uF90d9VrK6pvgGHNZhPj.jpg"
+}
+],
+"info": {
+"name": "ES - Wanderlust",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w62IHw1uF90d9VrK6pvgGHNZhPj.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Payne",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900358",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1158261293",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-04",
+"plot": "Un terapeuta trata de salvar su matrimonio después de que un accidente de ciclismo hace que vuelvan a evaluar su relación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyNTksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8259:1"
+}
+]
+}
+}

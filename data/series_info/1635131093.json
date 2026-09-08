@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-10",
+"episode_count": 1,
+"id": 1996245837,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV2GkAJmODK0CYglhsL4uzElO2V.jpg"
+}
+],
+"info": {
+"name": "ES - Perejil (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV2GkAJmODK0CYglhsL4uzElO2V.jpg",
+"plot": "",
+"cast": "",
+"director": "Tian Riba",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900623",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1836966322",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-10",
+"plot": "El 11 de julio de 2002, un grupo de gendarmes marroquíes desembarcó e izaron la bandera de su país en Perejil, un islote hasta entonces desconocido y deshabitado, con una superficie apenas mayor que la de un campo de fútbol, y cuya soberanía compartían España y Marruecos. Unos días después, el presidente del Gobierno de España, José María Aznar, envió a sus tres ejércitos para expulsar a los soldados que ocupaban la isla. En el imaginario popular, la crisis de Perejil ha quedado como una anécdota cómica, una sobreactuación militar española ante la ocupación de un peñasco deshabitado. Pero esa anécdota era en realidad la punta de un iceberg: bajo el islote de Perejil se ocultaba una crisis internacional de primera magnitud en la que se vieron involucradas la Unión Europea, la ONU, la Liga Árabe, Francia, la OTAN y Estados Unidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0Mzg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44389:1"
+}
+]
+}
+}

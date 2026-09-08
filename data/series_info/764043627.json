@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2020-08-14",
+"episode_count": 4,
+"id": 157873028,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+}
+],
+"info": {
+"name": "ES - Ted Lasso",
+"cover": "https://image.tmdb.org/t/p/w154/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Sudeikis, Brendan Hunt, Bill Lawrence",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900468",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1262415816",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-08-14",
+"plot": "Un ingenuo entrenador de fútbol americano (Jason Sudeikis) decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzk0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30394:4"
+},
+{
+"id": "166041425",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-08-14",
+"plot": "Un ingenuo entrenador de fútbol americano (Jason Sudeikis) decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30394:2"
+},
+{
+"id": "187489615",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-08-14",
+"plot": "Un ingenuo entrenador de fútbol americano (Jason Sudeikis) decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzk0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30394:3"
+},
+{
+"id": "339528402",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-08-14",
+"plot": "Un ingenuo entrenador de fútbol americano (Jason Sudeikis) decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30394:1"
+}
+]
+}
+}

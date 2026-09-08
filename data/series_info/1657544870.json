@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2013-08-11",
+"episode_count": 2,
+"id": 1562490650,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/sPe9KTADqXFoAfSruep8Dfg4uDS.jpg"
+}
+],
+"info": {
+"name": "ES - Hulk Y Los Agentes De S.M.A.S.H",
+"cover": "https://image.tmdb.org/t/p/w154/sPe9KTADqXFoAfSruep8Dfg4uDS.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900380",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "385007073",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-08-11",
+"plot": "Rick Jones decide ayudar a Hulk, quien es considerado por las personas como un monstruo, a ser reconocido como un superhéroe, para ello crea un sitio web donde publica videos de sus aventuras resaltando el lado humano y sensible de Hulk. En una misión complicada Hulk es ayudado por She-Hulk, Skaar y Red Hulk, tras la cual Rick termina convirtiéndose en A-Bomb. Tras otra misión los cinco superhéroes deciden crear su propio equipo, llamado Los agentes de S.M.A.S.H., sin darle ningún significado real a las siglas. dibujos animados \" Comic -Con: Hulk smashes nueva historieta Team\" ] . IGN.com . 23 de julio 2011 . Antes de que salió al aire, los escritores Paul Dini y Henry Gilroy fueron confirmados para ser escritores en la serie.1El productor Cort Carril describe la serie como «una gran historia sobre un gran grupo de personajes que tienen un muy interesante de estilo familiar dinámico. Es muy divertido, con solo el reparto de voces más increíble».",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900380",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTMzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29933:2"
+},
+{
+"id": "1481595040",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-08-11",
+"plot": "Rick Jones decide ayudar a Hulk, quien es considerado por las personas como un monstruo, a ser reconocido como un superhéroe, para ello crea un sitio web donde publica videos de sus aventuras resaltando el lado humano y sensible de Hulk. En una misión complicada Hulk es ayudado por She-Hulk, Skaar y Red Hulk, tras la cual Rick termina convirtiéndose en A-Bomb. Tras otra misión los cinco superhéroes deciden crear su propio equipo, llamado Los agentes de S.M.A.S.H., sin darle ningún significado real a las siglas. dibujos animados \" Comic -Con: Hulk smashes nueva historieta Team\" ] . IGN.com . 23 de julio 2011 . Antes de que salió al aire, los escritores Paul Dini y Henry Gilroy fueron confirmados para ser escritores en la serie.1El productor Cort Carril describe la serie como «una gran historia sobre un gran grupo de personajes que tienen un muy interesante de estilo familiar dinámico. Es muy divertido, con solo el reparto de voces más increíble».",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900380",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29933:1"
+}
+]
+}
+}

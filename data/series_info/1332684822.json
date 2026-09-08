@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-05-04",
+"episode_count": 2,
+"id": 1650841451,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/dmF2LqFb1Aj8jRktPdYapP7fWyx.jpg"
+}
+],
+"info": {
+"name": "ES - Star Wars: La remesa mala",
+"cover": "https://image.tmdb.org/t/p/w154/dmF2LqFb1Aj8jRktPdYapP7fWyx.jpg",
+"plot": "",
+"cast": "",
+"director": "Dave Filoni",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900397",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1997524533",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-04",
+"plot": "Sigue a los Clones experimentales y de élite de Bad Batch mientras encuentran su camino en una galaxia que cambia rápidamente después de las Guerras Clon.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900397",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDQ5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30049:2"
+},
+{
+"id": "47878143",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-04",
+"plot": "Sigue a los Clones experimentales y de élite de Bad Batch mientras encuentran su camino en una galaxia que cambia rápidamente después de las Guerras Clon.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900397",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30049:1"
+}
+]
+}
+}

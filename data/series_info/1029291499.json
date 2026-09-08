@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-23",
+"episode_count": 1,
+"id": 717702816,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ZlwCUHENfjsphzwSCOE9RK4hd.jpg"
+}
+],
+"info": {
+"name": "ES - El otro lado",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ZlwCUHENfjsphzwSCOE9RK4hd.jpg",
+"plot": "",
+"cast": "",
+"director": "Berto Romero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900236",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "845935903",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-23",
+"plot": "Nacho Nieto, periodista especializado en lo paranormal, pasa por su peor momento profesional y personal. Tras un intento fallido de suicidio, vuelve a la vida acompañado por el fantasma de su mentor, el doctor Estrada, mítico comunicador del misterio, fallecido hace más de 20 años. En ese momento se cruza en su vida un virulento caso poltergeist en un piso del extrarradio de Barcelona, en la calle Cardenal Cardona, quizás el caso paranormal más importante de los últimos años. Nacho acude al piso de los fenómenos, donde viven Eva y Rubén, acompañado por el espíritu de su mentor, y ayudado por Juana, su mano derecha en su antiguo programa de radio. Mientras Nacho desenreda el misterio de esa casa, se enfrentará a un oscuro secreto de su pasado. Un secreto que le relaciona directamente con Gorka Romero, quien fue su compañero de investigaciones, y que ahora es el referente del periodismo del misterio en España.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900236",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32008:1"
+}
+]
+}
+}

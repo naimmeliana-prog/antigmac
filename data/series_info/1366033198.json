@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-25",
+"episode_count": 1,
+"id": 394040105,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUcQIROJeEp5qKBqZFgxT3Kd5JC.jpg"
+}
+],
+"info": {
+"name": "ES - One South Retrato de una unidad psiquiatrica (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUcQIROJeEp5qKBqZFgxT3Kd5JC.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900622",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1835408741",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-25",
+"plot": "One South es una unidad psiquiátrica para pacientes hospitalizados en el Hospital Zucker Hillside en Queens, Nueva York, que se especializa en el tratamiento de adultos jóvenes. Puede que parezca más una residencia universitaria que un hospital psiquiátrico, pero los pacientes llegan todos los días en crisis agudas. Están lidiando con una variedad de problemas de salud mental, que incluyen depresión, ansiedad, trastornos de la personalidad y psicosis, y muchos han contemplado o intentado suicidarse. Un equipo de médicos, trabajadores sociales y enfermeras trabajan juntos para estabilizar a los pacientes y prepararlos para regresar al mundo exterior.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900622",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Njg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34688:1"
+}
+]
+}
+}

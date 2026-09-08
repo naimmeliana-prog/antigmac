@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-04",
+"episode_count": 3,
+"id": 1312346110,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1uyNQa0RR2AveZKvKypKjeqAWmD.jpg"
+}
+],
+"info": {
+"name": "ES - Star Wars: Las aventuras de los jóvenes Jedi - (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/1uyNQa0RR2AveZKvKypKjeqAWmD.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Olson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900397",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "244495295",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-04",
+"plot": "Kai, Lys y Nubs aprenden a dominar la Fuerza con el maestro Yoda en el planeta Tenoo y recorren la galaxia con la increíble Nash y RJ en el Halcón de Fuego Carmesí.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900397",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0OTcyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24972:3"
+},
+{
+"id": "771490055",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-04",
+"plot": "Kai, Lys y Nubs aprenden a dominar la Fuerza con el maestro Yoda en el planeta Tenoo y recorren la galaxia con la increíble Nash y RJ en el Halcón de Fuego Carmesí.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900397",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0OTcyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24972:2"
+},
+{
+"id": "1731880173",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-04",
+"plot": "Kai, Lys y Nubs aprenden a dominar la Fuerza con el maestro Yoda en el planeta Tenoo y recorren la galaxia con la increíble Nash y RJ en el Halcón de Fuego Carmesí.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900397",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0OTcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24972:1"
+}
+]
+}
+}

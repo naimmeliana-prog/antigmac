@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-27",
+"episode_count": 1,
+"id": 1134268869,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5s6OHwM0Z3VTquTaEmpCBd4G3X4.jpg"
+}
+],
+"info": {
+"name": "ES - La Casa de David (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5s6OHwM0Z3VTquTaEmpCBd4G3X4.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Erwin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900418",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1704574766",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-27",
+"plot": "Narra el desarollo del personaje bíblico David, que acaba convirtiéndose en el rey más célebre de Israel. El una vez poderoso rey Saúl cae víctima de su propio orgullo. Por orden de Dios, el profeta Samuel unge a un adolescente marginado como nuevo rey. Cuando un líder cae, otro debe surgir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900418",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMTcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42170:1"
+}
+]
+}
+}

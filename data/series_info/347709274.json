@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-29",
+"episode_count": 1,
+"id": 1186341389,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJeO6iTAx9GuyJ67gKqOi67cXW6.jpg"
+}
+],
+"info": {
+"name": "ES - La coleccionista (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJeO6iTAx9GuyJ67gKqOi67cXW6.jpg",
+"plot": "",
+"cast": "",
+"director": "Joaquín Llamas, Manuel Sanabria",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900419",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "39060346",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-29",
+"plot": "En el pueblo fronterizo de Reino del Duero, Fátima, conocida como \"La coleccionista\", obsequia a algunos forasteros que visitan el pueblo con un objeto aparentemente mundano. Lo que los visitantes no sospechan es que los regalos de Fátima desencadenarán una serie de inquietantes y dramáticos sucesos paranormales que cambiarán para siempre sus vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900419",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MjgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46282:1"
+}
+]
+}
+}

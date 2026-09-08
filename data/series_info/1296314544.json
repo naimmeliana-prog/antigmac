@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-30",
+"episode_count": 1,
+"id": 1027479697,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWMCScVRF1YJ0ofNl3CqZy9Z2hM.jpg"
+}
+],
+"info": {
+"name": "ES - Fiasco",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWMCScVRF1YJ0ofNl3CqZy9Z2hM.jpg",
+"plot": "",
+"cast": "",
+"director": "Pierre Niney, Igor Gotesman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900300",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1874267965",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-30",
+"plot": "Raphaël Valande rueda su primer largometraje para rendir homenaje a la heroica vida de su abuela. El rodaje se convierte poco a poco en una pesadilla, ya que un miembro del equipo hace todo lo posible por sabotearlo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900300",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyNTM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32537:1"
+}
+]
+}
+}

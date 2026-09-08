@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-01",
+"episode_count": 1,
+"id": 822100970,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwW1INRuPjVJ1u34wRaXjYdRVB4.jpg"
+}
+],
+"info": {
+"name": "ES - Trío (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwW1INRuPjVJ1u34wRaXjYdRVB4.jpg",
+"plot": "",
+"cast": "",
+"director": "Veronica Zacco, Ina Sohlberg, Tina Bergström",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900551",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "844925649",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-01",
+"plot": "Cuando Hugo, de mediana edad, es abordado por la hija de sus dos amores de la infancia, retrocede veinte años en el tiempo hasta el momento en que, a punto de comenzar su primer año en la universidad, se traslada a Estocolmo para vivir con la familia Stiller. Allí conoce a Thora Stiller y a su constante compañero y ocasional amante, August, y se ve inmerso en una compleja y apasionada dinámica que altera el curso de su vida para siempre. Dos décadas después, Hugo sigue atormentado por el pasado. ¿Se atreverá por fin a recuperar todo lo que perdió?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900551",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49807:1"
+}
+]
+}
+}

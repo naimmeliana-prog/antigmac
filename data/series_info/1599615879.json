@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-30",
+"episode_count": 1,
+"id": 482322320,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VNj3FF45yw2iUwEF0XRCeWpia2.jpg"
+}
+],
+"info": {
+"name": "ES - El fuego de la venganza (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VNj3FF45yw2iUwEF0XRCeWpia2.jpg",
+"plot": "",
+"cast": "",
+"director": "Kyle Killen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900291",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "406541198",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-30",
+"plot": "Atormentado por su pasado y perseguido por sus enemigos, un veterano de las Fuerzas Especiales lucha por salvar a una joven en las peligrosas calles de Río de Janeiro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900291",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MjM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49234:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-07-04",
+"episode_count": 1,
+"id": 1347405531,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdxjI5iuTN6Kkps2g9tMhejDQDn.jpg"
+}
+],
+"info": {
+"name": "ES - Dolunay Luna llena (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdxjI5iuTN6Kkps2g9tMhejDQDn.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900647",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1130256953",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-04",
+"plot": "Ferit Aslan (Can Yaman) es un empresario muy exitoso, y está obsesionado con el orden. Quiere la misma forma de organización tanto en su vida privada como profesional. Nazli (Ozge Gurel), que estudia gastronomía, necesita encontrar un trabajo de inmediato ya que es responsable de cubrir los gastos del hogar que comparte con su amiga y hermana. Ella es obstinada y firme, por lo que tiene dificultades para mantener un trabajo. Ambos completamente opuestos, se encuentran y dan inicio a una divertida historia de amor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35670:1"
+}
+]
+}
+}

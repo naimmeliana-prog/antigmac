@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-05",
+"episode_count": 1,
+"id": 962795541,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg"
+}
+],
+"info": {
+"name": "ES - Sterling Point (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+"plot": "",
+"cast": "",
+"director": "Megan Park",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900430",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1007812944",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-05",
+"plot": "Tras descubrir que ha heredado una isla remota en Canadá de un abuelo con el que no tenía relación y al que nunca le permitieron conocer, Annie Jacobson, de 17 años, decide investigar, lo que la sumerge en un mundo de secretos ocultos, una hermandad inesperada y la complicada historia familiar que nunca debería haber descubierto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900430",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMjM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51238:1"
+}
+]
+}
+}

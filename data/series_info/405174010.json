@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-17",
+"episode_count": 2,
+"id": 10277246,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAduH6ZG3EetGgl8cdpMmDkoi5B.jpg"
+}
+],
+"info": {
+"name": "ES - Una tienda para asesinos (2024) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAduH6ZG3EetGgl8cdpMmDkoi5B.jpg",
+"plot": "",
+"cast": "",
+"director": "이언희, Lee Kwon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900402",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1771638658",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-17",
+"plot": "El único adulto que cuida de Jian es su tío. Tras su repentina muerte, Jian se entera de que ha dejado un sospechoso centro comercial. ¿Quién era su tío y qué clase de comercio dirigía? Antes de que Jian pueda siquiera intuir lo que pasa, es atacada por unos desconocidos que quieren la mercancía de su tío. Ahora que está sola, ¿podrá Jian sobrevivir?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900402",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0OTMwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44930:2"
+},
+{
+"id": "788406406",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-17",
+"plot": "El único adulto que cuida de Jian es su tío. Tras su repentina muerte, Jian se entera de que ha dejado un sospechoso centro comercial. ¿Quién era su tío y qué clase de comercio dirigía? Antes de que Jian pueda siquiera intuir lo que pasa, es atacada por unos desconocidos que quieren la mercancía de su tío. Ahora que está sola, ¿podrá Jian sobrevivir?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900402",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0OTMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44930:1"
+}
+]
+}
+}

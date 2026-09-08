@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-27",
+"episode_count": 1,
+"id": 1680968022,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtS7sqjBFCJSLvPtINgTmy3zjjB.jpg"
+}
+],
+"info": {
+"name": "ES - Iraníes contra el régimen (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtS7sqjBFCJSLvPtINgTmy3zjjB.jpg",
+"plot": "",
+"cast": "",
+"director": "James Newton",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900590",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "768665996",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-27",
+"plot": "A través del testimonio de varios activistas, esta serie documental de BBC revela la verdad sobre las protestas contra el gobierno de Irán que se han ido produciendo los últimos quince años, desde las controvertidas elecciones de 2009 hasta la lucha por los derechos de las mujeres.\r\n\r\nLa Revolución de 1979 supuso la instauración de la ultraconservadora república islámica en Irán. ¿Cómo es la vida en uno de los países más misteriosos del mundo? El documental muestra el testimonio de una joven activista que enseña a las niñas a colarse en los partidos de fútbol disfrazadas de niños porque tienen prohibida la entrada. También habla con un trabajador en huelga que sobrevivió a una terrible tortura solo para liderar otra protesta al día siguiente. Mientras el país alcanza un momento de máxima tensión, esta producción de BBC revela las historias de aquellos dispuestos a enfrentarse al régimen y a su brutal dictadura.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900590",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42721:1"
+}
+]
+}
+}

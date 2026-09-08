@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-14",
+"episode_count": 1,
+"id": 742775471,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MhzH93izyEvVO15qgM8UJNvY4z.jpg"
+}
+],
+"info": {
+"name": "ES - LEGO Marvel Avengers: Historias extrañas (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MhzH93izyEvVO15qgM8UJNvY4z.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900382",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "969384627",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-14",
+"plot": "Ojo de Halcón y Los Vengadores han hecho que salvar el mundo parezca fácil. Pero ahora se enfrentan a su amenaza más salvaje: las redes sociales. Para salvar el mundo, un nuevo equipo debe ser reclutado para ayudar a nuestros héroes a enfrentarse a un influencer empeñado en la destrucción cataclísmica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900382",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46664:1"
+}
+]
+}
+}

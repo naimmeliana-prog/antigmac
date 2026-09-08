@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-10",
+"episode_count": 1,
+"id": 1806122419,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJhLe1XSlIhetCsArAzgubg2aD5.jpg"
+}
+],
+"info": {
+"name": "ES - Motorvalley (2026) (IT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJhLe1XSlIhetCsArAzgubg2aD5.jpg",
+"plot": "",
+"cast": "",
+"director": "Matteo Rovere, Gianluca Bernardini, Francesca Manieri",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900331",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "203755583",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-10",
+"plot": "Decidida a controlar el imperio de carreras de su familia, una joven reúne a una conductora audaz y a un entrenador en crisis para competir en el Gran Turismo de Italia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900331",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47956:1"
+}
+]
+}
+}

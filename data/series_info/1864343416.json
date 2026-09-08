@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-10",
+"episode_count": 1,
+"id": 349613501,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oubNAKlbYhKaRfl8SVYSOhxSkc.jpg"
+}
+],
+"info": {
+"name": "ES - La historia del tiempo (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oubNAKlbYhKaRfl8SVYSOhxSkc.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900600",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "874156456",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-10",
+"plot": "El tiempo y su medición es un constructo social. Este documental revisa nuestra manera de relacionarnos con el tiempo a lo largo de la historia y cómo los cambios sociales han influido en nuestra forma de medirlo.\r\n\r\nAl explorar el significado del tiempo, intervienen varios factores: la civilización humana, el estilo de vida y nuestra comprensión de la vida. En la antigüedad, nuestra forma de medir el tiempo estaba muy ligada a la naturaleza. Los humanos seguían las estaciones, las precipitaciones y la luz del sol para, por ejemplo, cultivar los productos necesarios para sobrevivir. Sin embargo, desde la Revolución Industrial, nuestra vida se ha acelerado, y empezamos a ver el tiempo como algo que se puede manipular y monetizar dividiéndolo en fragmentos cada vez más pequeños para incorporarlo a los cálculos de pérdidas y ganancias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900600",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNDA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42406:1"
+}
+]
+}
+}

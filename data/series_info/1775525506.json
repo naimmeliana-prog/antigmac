@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-23",
+"episode_count": 2,
+"id": 797751280,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2HhbbskGM4ty4u13o7gV1JVQQu.jpg"
+}
+],
+"info": {
+"name": "ES - Que ardan todos",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2HhbbskGM4ty4u13o7gV1JVQQu.jpg",
+"plot": "",
+"cast": "",
+"director": "Oliver Taylor, Dillon Mapletoft",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900247",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "305602801",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-23",
+"plot": "Una comunidad profundamente religiosa se enfrenta a la cuestión de cómo una familia con características únicas y que se desenvuelve en la modernidad puede salvaguardarse del castigo del fuego eterno del infierno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900247",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31548:1"
+},
+{
+"id": "411174854",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-23",
+"plot": "Una comunidad profundamente religiosa se enfrenta a la cuestión de cómo una familia con características únicas y que se desenvuelve en la modernidad puede salvaguardarse del castigo del fuego eterno del infierno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900247",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTQ4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31548:2"
+}
+]
+}
+}

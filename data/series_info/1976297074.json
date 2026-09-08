@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-13",
+"episode_count": 1,
+"id": 1178205237,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YzDtyY1lFDPHul33rl2sfn3pNf.jpg"
+}
+],
+"info": {
+"name": "ES - En fin (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YzDtyY1lFDPHul33rl2sfn3pNf.jpg",
+"plot": "",
+"cast": "",
+"director": "David Sainz, Enrique Lojo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900414",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "264270812",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-13",
+"plot": "El día en el que debería llegar el apocalipsis, Tomás se levanta resacoso en mitad de una orgía en un conocido centro comercial. Hace meses, ante la noticia del fin del mundo, abandonó a su mujer Julia y a su hija Noa sin mirar atrás. Pero cuando el planeta errante que iba a chocar contra la Tierra pasa de largo y el mundo sigue girando, Tomás comprende la magnitud de su error. Ahora tratará de recuperar su vida pasada y obtener el perdón de su familia, buscando reconstruir tras el no-apocalipsis un mundo que ya nunca volverá a ser el de antes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900414",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MjQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36245:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-17",
+"episode_count": 1,
+"id": 1150892028,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBDNXO1kv7ztbxWXglU1Slevs64.jpg"
+}
+],
+"info": {
+"name": "ES - Heridas (LQ) (2022) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBDNXO1kv7ztbxWXglU1Slevs64.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900260",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "760774816",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-17",
+"plot": "Manuela es una joven que vive sola en una cabaña donde estudia los humedales andaluces. A los 28 años, su vida gira en torno a las aves, las que viven allí y las que están de paso como ella. A pocos kilómetros vive Alba, una niña de siete años que nunca tiene quién le haga el desayuno. Su madre, Yolanda, trabaja de noche como pole dancer y duerme de día. El novio de ella, Lucho, no está por la labor de cuidar a una niña que no es suya. La casa es un desorden de objetos y horarios. Alba, como puede, asiste al colegio, muchas veces sin nada en el estómago. El día en el que Manuela encuentra a la pequeña Alba, comenzarán un viaje que obligará a Manuela a enfrentarse a los demonios de su pasado y a cuestionarse los pilares de su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900260",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49021:1"
+}
+]
+}
+}

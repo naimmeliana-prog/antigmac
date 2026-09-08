@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-11",
+"episode_count": 1,
+"id": 1171721989,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ed6T2KGtuIkn1eHOvjQRchU75b.jpg"
+}
+],
+"info": {
+"name": "ES - Doctor Who",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ed6T2KGtuIkn1eHOvjQRchU75b.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900375",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "205253774",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-11",
+"plot": "El Doctor y su compañera Ruby Sunday viajan a través del tiempo y el espacio, viviendo aventuras desde la época de la Regencia en Inglaterra hasta mundos futuros asolados por la guerra. A través de sus aventuras en la Tardis... una nave que viaja por el tiempo con forma de cabina telefónica de la policía, encuentran amigos increíbles y peligrosos enemigos, incluido un aterrador coco y el enemigo más poderoso del Doctor hasta la fecha.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900375",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33106:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-16",
+"episode_count": 1,
+"id": 231674304,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/814wqppJW0E4vmJMvhiYkEEdK2G.jpg"
+}
+],
+"info": {
+"name": "ES - Un Amore (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/814wqppJW0E4vmJMvhiYkEEdK2G.jpg",
+"plot": "",
+"cast": "",
+"director": "Stefano Accorsi, Enrico Audenino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900552",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "191903702",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-16",
+"plot": "Durante un viaje de verano en tren, los adolescentes Alessandro y Anna se conocen y tienen un flechazo. Aunque la vida pronto los separa, tras veinte años se reencuentran en Bolonia y prueban que el amor puede sobrevivir al tiempo y la distancia",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900552",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36751:1"
+}
+]
+}
+}

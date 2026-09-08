@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-13",
+"episode_count": 1,
+"id": 229268759,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VsG0NxlS4GKus408c91dO0f7EE.jpg"
+}
+],
+"info": {
+"name": "ES - El Museo de la Inocencia (2026) (TR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VsG0NxlS4GKus408c91dO0f7EE.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900288",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1598598297",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-13",
+"plot": "En la Estambul de los años 70, el amor prohibido de un hombre por una dependienta se convierte en una espiral de obsesión y anhelo. Basada en la famosa novela de Orhan Pamuk.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900288",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48329:1"
+}
+]
+}
+}

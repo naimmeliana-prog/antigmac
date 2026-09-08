@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-19",
+"episode_count": 1,
+"id": 9340071,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/AkuHxbu2ygLZlS6GYJbnwyZPWOV.jpg"
+}
+],
+"info": {
+"name": "ES - La liga de los hombres extraordinarios",
+"cover": "https://image.tmdb.org/t/p/w154/AkuHxbu2ygLZlS6GYJbnwyZPWOV.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900600",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "170841417",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-19",
+"plot": "En la España de los 90, despreocupada y con ansias de modernidad y enriquecimiento, una serie de empresarios se apoderan de los principales clubes de fútbol del país. Aunque cada uno tiene su singularidad, les une la búsqueda de popularidad y de dinero rápido. Durante una década alucinante, los Lendoiro, Gaspart, Lopera, Caneda y Del Nido están en boca de todos. La televisión los quiere casi tanto como sus aficionados, que los veneran como dioses al conseguir éxitos deportivos impensables. Con un estilo que rebosa testosterona, se enfrentarán y harán cualquier cosa por ganar. Hasta que los resultados no acompañan y sus leyendas terminan diluyéndose mientras dejan un rastro de deudas insalvables. ¿Qué es de sus vidas ahora? Todos recordamos sus nombres, pero pocos conocen su verdadera historia. Ha llegado el momento de contarla.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900600",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NjM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29639:1"
+}
+]
+}
+}

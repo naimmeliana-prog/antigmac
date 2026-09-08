@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-03-19",
+"episode_count": 1,
+"id": 24130946,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/bthJ4RYhyvaf5kg4t8Fc8zKkMF0.jpg"
+}
+],
+"info": {
+"name": "ES - Falcon y el Soldado de Invierno",
+"cover": "https://image.tmdb.org/t/p/w154/bthJ4RYhyvaf5kg4t8Fc8zKkMF0.jpg",
+"plot": "",
+"cast": "",
+"director": "Malcolm Spellman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900378",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1135542879",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-19",
+"plot": "Siguiendo los eventos de 'Vengadores: Endgame', Sam Wilson/Falcon y Bucky Barnes/Soldado de Invierno se unen en una aventura global que pondrá a prueba sus habilidades... y su paciencia",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900378",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30057:1"
+}
+]
+}
+}

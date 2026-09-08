@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-07-25",
+"episode_count": 1,
+"id": 561396714,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXKnPNs49y8GZEpVMusGnGOR005.jpg"
+}
+],
+"info": {
+"name": "ES - Reyka (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXKnPNs49y8GZEpVMusGnGOR005.jpg",
+"plot": "",
+"cast": "",
+"director": "Rohan Dickson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900508",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "140766715",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-25",
+"plot": "1994, Sudáfrica. Reyka Gama, una detective imperfecta pero brillante, vive atormentada por su pasado. Con tan solo 12 años fue secuestrada por un granjero llamado Angus Speelman, una experiencia traumática que con el tiempo le sirvió para saber entrar en las mentes de los criminales más peligrosos y calculadores, y diseccionarlas. Años más tarde, ya como detective profesional, Reyka vuelve a su pueblo natal y sigue los pasos de un asesino en serie que está atemorizando la provincia cañaveral de KwaZulu-Natal, en el extremo este de Sudáfrica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900508",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3NDc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37474:1"
+}
+]
+}
+}

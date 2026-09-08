@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-02",
+"episode_count": 1,
+"id": 394952954,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5erzJrE8lpoK7YMDSpqCcUv5FJv.jpg"
+}
+],
+"info": {
+"name": "ES - Malditos (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5erzJrE8lpoK7YMDSpqCcUv5FJv.jpg",
+"plot": "",
+"cast": "",
+"director": "Jean-Charles Hue",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900502",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "547802971",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-02",
+"plot": "Ante una expulsión inminente, una matriarca gitana y sus hijos luchan por salvar su clan, mientras ocultan un oscuro secreto que podría destruirlos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900502",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNjM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43638:1"
+}
+]
+}
+}

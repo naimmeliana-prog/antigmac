@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-17",
+"episode_count": 2,
+"id": 552896571,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg"
+}
+],
+"info": {
+"name": "ES - Marvel - The Punisher",
+"cover": "https://image.tmdb.org/t/p/w154/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg",
+"plot": "",
+"cast": "",
+"director": "Steve Lightfoot",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900389",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1756718115",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-17",
+"plot": "Un antiguo marine decidido a castigar a los asesinos de su familia termina atrapado en una conspiración militar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900389",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MjQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29244:2"
+},
+{
+"id": "244987886",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-17",
+"plot": "Un antiguo marine decidido a castigar a los asesinos de su familia termina atrapado en una conspiración militar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900389",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MjQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29244:1"
+}
+]
+}
+}

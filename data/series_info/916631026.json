@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "N/A",
+"episode_count": 1,
+"id": 1166353364,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4193604"
+}
+],
+"info": {
+"name": "ES - Arqueologia de la muerte",
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4193604",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900561",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1293148589",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "Misterios milenarios quedarán al descubierto con las nuevas técnicas a la vanguardia de la arqueología. Los mejores expertos del mundo se reúnen para descifrar enigmas milenarios en los que la causa de la muerte puede ser un accidente, un asesinato, un suicidio e incluso un sacrificio ritual. Cuerpos prehistóricos perfectamente conservados, con pelo, piel, y ropa emergen de glaciares y turberas como congelados en el tiempo. A medida que estos cadáveres revelan sus secretos, el misterio se va desvelando. Con una dramática trama que incluye un rey irlandés asesinado por sus súbditos, la momia de hielo más antigua jamás encontrada y un grupo de niños descubiertos \"durmiendo\" en la cima de una montaña argentina, cada episodio abarca una única investigación en profundidad y presenta teorías contrapuestas, recreaciones dramáticas y una mirada inolvidable a la vida cotidiana anterior a la historia registrada.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900561",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33302:1"
+}
+]
+}
+}

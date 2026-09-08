@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-09",
+"episode_count": 1,
+"id": 155842779,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg"
+}
+],
+"info": {
+"name": "ES - Errores épicos (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Levy, Rachel Sennott",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900298",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "19601898",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-09",
+"plot": "Dos hermanos muy incompetentes se ven obligados a trabajar para gente muy peligrosa... y acaban convirtiéndose en el dúo más desorganizado del crimen organizado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900298",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48967:1"
+}
+]
+}
+}

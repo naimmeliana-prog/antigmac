@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-04",
+"episode_count": 1,
+"id": 1172587530,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1EJqwLN2dIpHWdqyBJLk4aVRKJB.jpg"
+}
+],
+"info": {
+"name": "ES - The Good Fight Club",
+"cover": "https://image.tmdb.org/t/p/w154/1EJqwLN2dIpHWdqyBJLk4aVRKJB.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900634",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "185982592",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-04",
+"plot": "Un grupo de jóvenes de artes marciales mixtas luchan para triunfar, de su gimnasio del sur de Londres al espectacular centro mundial de MMA: Las Vegas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900634",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNDQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30444:1"
+}
+]
+}
+}

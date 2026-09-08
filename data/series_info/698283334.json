@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-05",
+"episode_count": 1,
+"id": 596003104,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3yDEwMHQQfd8OO0IQiZxMN7VHx.jpg"
+}
+],
+"info": {
+"name": "ES - El programa: Sumisión, sectas y secuestros",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3yDEwMHQQfd8OO0IQiZxMN7VHx.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900579",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "933937097",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-05",
+"plot": "Años después de vivir en un internado para jóvenes problemáticos, una mujer atormentada por su experiencia destapa varios casos de corrupción y maltrato en ese negocio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900579",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30969:1"
+}
+]
+}
+}

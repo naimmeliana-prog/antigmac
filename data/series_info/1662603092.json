@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-15",
+"episode_count": 1,
+"id": 236715550,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg"
+}
+],
+"info": {
+"name": "ES - Star Trek: Academia de la Flota Estelar (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+"plot": "",
+"cast": "",
+"director": "Gaia Violo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900540",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "560509959",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-15",
+"plot": "Una nueva promoción de cadetes se entrenan bajo la atenta y exigente mirada de los mejores de la Flota Estelar. Juntos, se enfrentarán a los altibajos de la vida en la Academia: forjarán amistades inquebrantables, chocarán en explosivas rivalidades, experimentarán sus primeros amores y se adentrarán en su destino como la próxima generación de oficiales de la Flota Estelar. Cuando un nuevo y misterioso enemigo amenace tanto a la Academia como a la propia Federación, estos cadetes deberán estar a la altura del desafío o arriesgarse a perder todo por lo que acaban de empezar a luchar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900540",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47924:1"
+}
+]
+}
+}

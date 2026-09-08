@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-07-25",
+"episode_count": 2,
+"id": 1277051696,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9DfnxpUOwu6uxYwrcX8DwOmrrKU.jpg"
+}
+],
+"info": {
+"name": "ES - Otra vida - (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/9DfnxpUOwu6uxYwrcX8DwOmrrKU.jpg",
+"plot": "",
+"cast": "",
+"director": "Aaron Martin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900335",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "348862655",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "La astronauta Niko Breckinridge y su tripulación siguen el rastro de un objeto alienígena impenetrable. Nadie imagina lo que esconde la cinta de Moebius.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900335",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNjMyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23632:2"
+},
+{
+"id": "680635211",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "La astronauta Niko Breckinridge y su tripulación siguen el rastro de un objeto alienígena impenetrable. Nadie imagina lo que esconde la cinta de Moebius.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900335",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNjMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23632:1"
+}
+]
+}
+}

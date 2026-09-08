@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-22",
+"episode_count": 1,
+"id": 471449350,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/sDasxXov8BvqWCSA0BJvvMmQNdr.jpg"
+}
+],
+"info": {
+"name": "ES - The Continental: Del universo de John Wick",
+"cover": "https://image.tmdb.org/t/p/w154/sDasxXov8BvqWCSA0BJvvMmQNdr.jpg",
+"plot": "",
+"cast": "",
+"director": "Greg Coolidge, Kirk Ward, Shawn Simmons",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900431",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1529209101",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-22",
+"plot": "Winston Scott es arrastrado al paisaje infernal de una ciudad de Nueva York de 1975 para enfrentar un pasado que creía haber dejado atrás. Emprenderá un rumbo mortal a través del misterioso submundo neoyorquino en un angustioso intento de apoderarse del emblemático hotel de El Continental, que sirve de punto de encuentro para los criminales más peligrosos del planeta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900431",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29448:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-22",
+"episode_count": 3,
+"id": 1114258470,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V3gZjEQQXScsHXrMPK3fsoVTVa.jpg"
+}
+],
+"info": {
+"name": "ES - Veronika",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V3gZjEQQXScsHXrMPK3fsoVTVa.jpg",
+"plot": "",
+"cast": "",
+"director": "Katja Juras, Jonas Alexander Arnby, Anne Lindblom",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900253",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1451577972",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-22",
+"plot": "La policía Veronika Gren (Alexandra Rapaport), madre de dos hijos, lucha con su complicada vida familiar y una adicción oculta. Cuando empiezan a suceder cosas extrañas y un niño fallecido (Sam Herrgård) aparece frente a ella, Veronika cree que ha perdido la cabeza. De mala gana, Veronika se ve obligada a aceptar que el niño puede no ser una ilusión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQ4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31648:3"
+},
+{
+"id": "1266673052",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-22",
+"plot": "La policía Veronika Gren (Alexandra Rapaport), madre de dos hijos, lucha con su complicada vida familiar y una adicción oculta. Cuando empiezan a suceder cosas extrañas y un niño fallecido (Sam Herrgård) aparece frente a ella, Veronika cree que ha perdido la cabeza. De mala gana, Veronika se ve obligada a aceptar que el niño puede no ser una ilusión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQ4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31648:2"
+},
+{
+"id": "124201105",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-22",
+"plot": "La policía Veronika Gren (Alexandra Rapaport), madre de dos hijos, lucha con su complicada vida familiar y una adicción oculta. Cuando empiezan a suceder cosas extrañas y un niño fallecido (Sam Herrgård) aparece frente a ella, Veronika cree que ha perdido la cabeza. De mala gana, Veronika se ve obligada a aceptar que el niño puede no ser una ilusión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31648:1"
+}
+]
+}
+}

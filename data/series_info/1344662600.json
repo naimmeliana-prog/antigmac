@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-02",
+"episode_count": 1,
+"id": 1776863173,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg"
+}
+],
+"info": {
+"name": "ES - Sean Combs: Ajuste de cuentas (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900630",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "486372798",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-02",
+"plot": "Esta serie documental desentraña las impactantes acusaciones que se ciernen sobre Sean «Diddy» Combs y su imperio Bad Boy, a lo largo de décadas de su vida y su carrera.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46890:1"
+}
+]
+}
+}

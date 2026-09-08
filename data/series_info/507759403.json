@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-17",
+"episode_count": 1,
+"id": 924914460,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/WagKs9ZPf5PiSU5qjhCr3LbDjN.jpg"
+}
+],
+"info": {
+"name": "ES - Hasta el cielo: La serie",
+"cover": "https://image.tmdb.org/t/p/w154/WagKs9ZPf5PiSU5qjhCr3LbDjN.jpg",
+"plot": "",
+"cast": "",
+"director": "Jorge Guerricaechevarría, Daniel Calparsoro",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900303",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "269882977",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-17",
+"plot": "Una llamada en medio de la noche va a cambiar el destino de Sole (Asia Ortega): Ángel, su marido y líder de una banda de aluniceros ha muerto; convertida de la noche a la mañana en una joven viuda con un hijo al cargo y muchos negocios con problemas que sacar a delante, Sole no está dispuesta a volver bajo la tutela de su padre Rogelio (Luis Tosar), uno de los mayores traficantes de objetos robados de Madrid. Decidida a buscarse la vida por sí misma, Sole encontrará en su camino nuevos aliados que la ayudarán a desentrañar el misterio de las muertes que han marcado su destino al tiempo que retoma el contacto con la banda de aluniceros y logra ganarse su confianza para llevar a cabo, de nuevo, robos tan ambiciosos como los de los viejos tiempos. Pero ni la policía ni las distintas mafias con las que tendrá que competir estarán dispuestas a ponerle fácil su camino para llegar hasta el cielo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900303",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29892:1"
+}
+]
+}
+}

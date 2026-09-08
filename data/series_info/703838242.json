@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-15",
+"episode_count": 1,
+"id": 925421851,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxL2aK45yoH3ExagJZ3yO9bq5p4.jpg"
+}
+],
+"info": {
+"name": "ES - LALIGA: Más allá del gol (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxL2aK45yoH3ExagJZ3yO9bq5p4.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900594",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1498313090",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-15",
+"plot": "Desde las gloriosas victorias hasta las derrotas más devastadoras, esta apasionante docuserie sobre LaLiga ofrece acceso exclusivo a los entresijos del fútbol español.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900594",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35064:1"
+}
+]
+}
+}

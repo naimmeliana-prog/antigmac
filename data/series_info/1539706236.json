@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-24",
+"episode_count": 1,
+"id": 674353787,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVXszcnJTFcJ2ZWLPr7KGopVZDI.jpg"
+}
+],
+"info": {
+"name": "ES - La sombra de la tierra (2024) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVXszcnJTFcJ2ZWLPr7KGopVZDI.jpg",
+"plot": "",
+"cast": "",
+"director": "Elvira Mínguez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900262",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1936140078",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-24",
+"plot": "En 1896, Villaveza del Agua es un pueblo de la provincia de Zamora dominado por la pobreza. Las miserables tierras de cultivo y las montañas conforman un paisaje fronterizo e inaccesible donde Garibalda, una mujer viuda y enferma, gobierna con mano de hierro la comunidad. Enfrente se encuentra Atilana, su eterna rival, que aspira sin tregua a alcanzar el poder que ostenta la tirana. Enemistadas desde hace muchos años, el odio es el motor de sus actos. La lucha de estas dos mujeres egoístas y manipuladoras arrastrará a todo aquel que esté a su lado, aunque serán sus hijos las principales víctimas de esta herencia maldita. Ninguna será capaz de ver las consecuencias de sus hechos hasta que sea demasiado tarde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900262",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47087:1"
+}
+]
+}
+}

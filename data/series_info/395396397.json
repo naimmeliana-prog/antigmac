@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-06",
+"episode_count": 1,
+"id": 285109919,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JiQhOdJruN3nPYLBTuWlPvzT33.jpg"
+}
+],
+"info": {
+"name": "ES - Los Galindos, toda la verdad",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JiQhOdJruN3nPYLBTuWlPvzT33.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900609",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1618333006",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-06",
+"plot": "22 de Julio de 1975, día del fatídico crimen en el Cortijo de \"Los Galindos\" ubicado en Paradas. Cinco trabajadores de la finca resultaron brutalmente asesinadas sin motivo aparente. Desde la visión de familiares, vecinos e investigadores conocemos toda la verdad oculta tras esta tragedia que, casi 50 años después, sigue sin resolverse y sin conocerse la identidad de los culpables",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900609",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MDU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34059:1"
+}
+]
+}
+}

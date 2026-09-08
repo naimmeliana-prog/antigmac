@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-09",
+"episode_count": 2,
+"id": 545678094,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zArO7fP5P7y1NTz7J4gnwoiaHH.jpg"
+}
+],
+"info": {
+"name": "ES - Maxton Hall Un mundo entre nosotros",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zArO7fP5P7y1NTz7J4gnwoiaHH.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900424",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "417710671",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-09",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyOTExLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32911:2"
+},
+{
+"id": "210206468",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-09",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyOTExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32911:1"
+}
+]
+}
+}

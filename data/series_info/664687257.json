@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-28",
+"episode_count": 1,
+"id": 902406076,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifVxTR3V7GHbvx50zvXQDt7n9wn.jpg"
+}
+],
+"info": {
+"name": "ES - Chef's Table: La flor y nata (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifVxTR3V7GHbvx50zvXQDt7n9wn.jpg",
+"plot": "",
+"cast": "",
+"director": "David Gelb",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900280",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1839217042",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-28",
+"plot": "La serie nominada a los Emmy homenajea a cuatro gigantes de la cocina: Jamie Oliver, José Andrés, Alice Waters y Thomas Keller, que cambiaron el panorama culinario.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900280",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43310:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-23",
+"episode_count": 1,
+"id": 1503309484,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btKs7EF6T9zJhOLLw80Wmh7sU3z.jpg"
+}
+],
+"info": {
+"name": "ES - Gremlins: Los secretos de los Mogwai",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btKs7EF6T9zJhOLLw80Wmh7sU3z.jpg",
+"plot": "",
+"cast": "",
+"director": "Tze Chun",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900492",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "755674891",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-23",
+"plot": "Sam Wing, el dueño de la vieja tienda que aparece en las dos entregas originales, se topó con el entrañable Gizmo cuando tenía 10 años y vivía en la Shanghai de 1920. Junto con un joven ladrón callejero llamado Elle, Sam y Gizmo hacen un peligroso viaje por la China rural, encontrando y a veces luchando con coloridos monstruos y espíritus del folclore chino. En su búsqueda por devolver a Gizmo a su familia y descubrir un tesoro legendario, son perseguidos por un industrial hambriento de poder y su creciente ejército de malvados Gremlins.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNDgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33483:1"
+}
+]
+}
+}

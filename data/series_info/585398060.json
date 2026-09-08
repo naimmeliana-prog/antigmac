@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-08",
+"episode_count": 1,
+"id": 57699861,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5f0Apc2aENV2IMegrPHIhQMice.jpg"
+}
+],
+"info": {
+"name": "ES - Los testamentos (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5f0Apc2aENV2IMegrPHIhQMice.jpg",
+"plot": "",
+"cast": "",
+"director": "Bruce Miller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900387",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1548077773",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-08",
+"plot": "\"Los testamentos\", la continuación de \"El cuento de la criada\", es un drama sobre el paso a la adultez ambientado en Gilead. La historia sigue a dos adolescentes: la devota y obediente Agnes Mackenzie y Daisy, una conversa recién llegada de fuera de las fronteras de Gilead.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900387",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49081:1"
+}
+]
+}
+}

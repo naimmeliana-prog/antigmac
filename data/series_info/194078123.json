@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-28",
+"episode_count": 2,
+"id": 1336914067,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiIHiqCwVu5SGa7Fkg0AVZkRGSR.jpg"
+}
+],
+"info": {
+"name": "ES - Star Trek: Prodigy - (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiIHiqCwVu5SGa7Fkg0AVZkRGSR.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Hageman, Kevin Hageman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900545",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1879978214",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-28",
+"plot": "Exiliados en una colonia minera fuera del espacio de la Federación, un grupo de adolescentes sin ley descubre una nave de la Flota Estelar abandonada. Dal debe reunir una tripulación poco probable para su nueva nave si van a escapar de Tars Lamora, pero The Diviner y su hija Gwyn tienen otros planes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900545",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4Mjc3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18277:2"
+},
+{
+"id": "1290177723",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-28",
+"plot": "Exiliados en una colonia minera fuera del espacio de la Federación, un grupo de adolescentes sin ley descubre una nave de la Flota Estelar abandonada. Dal debe reunir una tripulación poco probable para su nueva nave si van a escapar de Tars Lamora, pero The Diviner y su hija Gwyn tienen otros planes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900545",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4Mjc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18277:1"
+}
+]
+}
+}

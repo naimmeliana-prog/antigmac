@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-27",
+"episode_count": 1,
+"id": 892319284,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/dl7xc4XA1IvOlEhsX2BbgCB5Vnk.jpg"
+}
+],
+"info": {
+"name": "ES - Tesoros perdidos de Roma (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/dl7xc4XA1IvOlEhsX2BbgCB5Vnk.jpg",
+"plot": "",
+"cast": "",
+"director": "Julian Barratt",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900634",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "39983707",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-27",
+"plot": "Un equipo internacional de arqueólogos intenta descubrir los secretos perdidos del Imperio Romano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900634",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29068:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-11-27",
+"episode_count": 1,
+"id": 305990771,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOw6JXznaOF6JI2q1NpZKkU7y2W.jpg"
+}
+],
+"info": {
+"name": "ES - Colgar las alas",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOw6JXznaOF6JI2q1NpZKkU7y2W.jpg",
+"plot": "",
+"cast": "",
+"director": "Luis Fermoso",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "768811061",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-27",
+"plot": "Iker Casillas no ha sido solo un portero, es una leyenda para todos los aficionados al fútbol, para todos los amantes del deporte. Hoy, Iker Casillas no cuelga los guantes, Iker Casillas cuelga las alas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc3MDksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7709:1"
+}
+]
+}
+}

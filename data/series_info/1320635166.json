@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-03-06",
+"episode_count": 1,
+"id": 68473718,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8op0JAFm1BU7OxwERTmQKs1UhN9.jpg"
+}
+],
+"info": {
+"name": "ES - Cuentos asombrosos - (2020)",
+"cover": "https://image.tmdb.org/t/p/w154/8op0JAFm1BU7OxwERTmQKs1UhN9.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Spielberg, Edward Kitsis, Adam Horowitz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900440",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "195067016",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-06",
+"plot": "Steven Spielberg revive la antología que nació en los años ochenta esta vez bajo los mandos de Eddy Kitsis y Adam Horowitz, creadores de 'Érase una vez'. Cada capítulo cuenta una historia de ciencia ficción y/o fantasía.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900440",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyNTQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22545:1"
+}
+]
+}
+}

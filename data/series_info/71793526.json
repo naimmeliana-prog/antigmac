@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-06-22",
+"episode_count": 3,
+"id": 1749045093,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/daeA95EXBB7AZP3JJWKpmMUAP1X.jpg"
+}
+],
+"info": {
+"name": "ES - Teherán",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/daeA95EXBB7AZP3JJWKpmMUAP1X.jpg",
+"plot": "",
+"cast": "",
+"director": "Moshe Zonder, Dana Eden, Maor Kohn",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900468",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "882112032",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-22",
+"plot": "Tamar es una hacker del Mosad que se infiltra en Teherán bajo una identidad falsa para ayudar a destruir el reactor nuclear de Irán. Pero, tras fracasar en su misión, Tamar deberá trazar un plan que pondrá en riesgo a todos sus seres queridos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDMyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32032:3"
+},
+{
+"id": "184674835",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-22",
+"plot": "Tamar es una hacker del Mosad que se infiltra en Teherán bajo una identidad falsa para ayudar a destruir el reactor nuclear de Irán. Pero, tras fracasar en su misión, Tamar deberá trazar un plan que pondrá en riesgo a todos sus seres queridos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDMyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32032:2"
+},
+{
+"id": "1275715423",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-22",
+"plot": "Tamar es una hacker del Mosad que se infiltra en Teherán bajo una identidad falsa para ayudar a destruir el reactor nuclear de Irán. Pero, tras fracasar en su misión, Tamar deberá trazar un plan que pondrá en riesgo a todos sus seres queridos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32032:1"
+}
+]
+}
+}

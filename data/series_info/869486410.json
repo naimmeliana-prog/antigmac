@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-24",
+"episode_count": 2,
+"id": 1942514501,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg"
+}
+],
+"info": {
+"name": "ES - Pachinko",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Soo Hugh",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900463",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "790771797",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-24",
+"plot": "Narra la historia épica e íntima que comienza con un amor prohibido y va creciendo hasta convertirse en una saga que viaja entre Corea, Japón y los Estados Unidos para contar un relato de guerra y paz, amor y pérdida, triunfo y ajuste de cuentas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32019:2"
+},
+{
+"id": "1133727771",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-24",
+"plot": "Narra la historia épica e íntima que comienza con un amor prohibido y va creciendo hasta convertirse en una saga que viaja entre Corea, Japón y los Estados Unidos para contar un relato de guerra y paz, amor y pérdida, triunfo y ajuste de cuentas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32019:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-13",
+"episode_count": 1,
+"id": 910170522,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y33EGMHsn4CXJDbMJRpFLx5WI6.jpg"
+}
+],
+"info": {
+"name": "ES - Ladrones: La tiara de santa Águeda (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y33EGMHsn4CXJDbMJRpFLx5WI6.jpg",
+"plot": "",
+"cast": "",
+"director": "Verónica Marzá, Pablo Roa, Fernando Sancristóbal",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900383",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1606687431",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-13",
+"plot": "Amber, una brillante ladrona, llega a Isla Esperanza con el objetivo de robar la valiosa Tiara de Santa Águeda, pero su plan se complica con la inesperada reaparición de Rui, su antiguo compañero que no dudó en traicionarla en el pasado. Ahora, lo más difícil será confiar el uno en el otro y aceptar que el amor puede ser el mayor golpe de sus vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900383",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44361:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-18",
+"episode_count": 1,
+"id": 415235443,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/7wnJ3YpbgVm4v33Sz9q9fgN9LdQ.jpg"
+}
+],
+"info": {
+"name": "ES - Cómo conocí a tu padre",
+"cover": "https://image.tmdb.org/t/p/w154/7wnJ3YpbgVm4v33Sz9q9fgN9LdQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Isaac Aptaker, Elizabeth Berger",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900373",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "255150021",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-18",
+"plot": "En un futuro no muy lejano, Sophie le cuenta a su hijo la historia de cómo conoció a su padre. Una narración que nos trae al presente, donde Sophie y su inseparable grupo de amigos se encuentran en un momento de sus vidas en el que tienen que averiguar quiénes son, qué quieren hacer y cómo pueden llegar a enamorarse en una época en la que hay tantas opciones y tantas aplicaciones de citas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900373",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29177:1"
+}
+]
+}
+}

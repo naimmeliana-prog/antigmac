@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-27",
+"episode_count": 3,
+"id": 76510424,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YEzbwrPkxlvzosfcR9ZZevl7ay.jpg"
+}
+],
+"info": {
+"name": "ES - WondLa (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YEzbwrPkxlvzosfcR9ZZevl7ay.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900472",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "205298944",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-27",
+"plot": "Obligada a salir de su santuario subterráneo a la superficie terrestre, Eva descubre un mundo que no se parece en nada a lo que esperaba. Mientras viaja por terrenos peligrosos y civilizaciones desconocidas, Eva busca la respuesta a la pregunta más crucial de todas... ¿Es ella la última humana?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODU2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34856:3"
+},
+{
+"id": "640902814",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-27",
+"plot": "Obligada a salir de su santuario subterráneo a la superficie terrestre, Eva descubre un mundo que no se parece en nada a lo que esperaba. Mientras viaja por terrenos peligrosos y civilizaciones desconocidas, Eva busca la respuesta a la pregunta más crucial de todas... ¿Es ella la última humana?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODU2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34856:2"
+},
+{
+"id": "1816778672",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-27",
+"plot": "Obligada a salir de su santuario subterráneo a la superficie terrestre, Eva descubre un mundo que no se parece en nada a lo que esperaba. Mientras viaja por terrenos peligrosos y civilizaciones desconocidas, Eva busca la respuesta a la pregunta más crucial de todas... ¿Es ella la última humana?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34856:1"
+}
+]
+}
+}

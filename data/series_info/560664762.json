@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-19",
+"episode_count": 1,
+"id": 151253604,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/wAoei8KMQ5SXpmABw43hbfQKS8q.jpg"
+}
+],
+"info": {
+"name": "ES - Quantum Leap (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/wAoei8KMQ5SXpmABw43hbfQKS8q.jpg",
+"plot": "",
+"cast": "",
+"director": "Donald P. Bellisario",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900247",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "771901356",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-19",
+"plot": "Han pasado 30 años desde que el Dr. Sam Beckett pisó el acelerador Quantum Leap y desapareció. Ahora se ha reunido un nuevo equipo para reiniciar el proyecto con la esperanza de comprender los misterios detrás de la máquina y el hombre que la creó.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900247",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28222:1"
+}
+]
+}
+}

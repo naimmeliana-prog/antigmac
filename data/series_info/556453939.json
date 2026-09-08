@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-12",
+"episode_count": 1,
+"id": 1999880911,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg"
+}
+],
+"info": {
+"name": "ES - La maldición",
+"cover": "https://image.tmdb.org/t/p/w154/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+"plot": "",
+"cast": "",
+"director": "Benny Safdie, Nathan Fielder",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900312",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "660749972",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-12",
+"plot": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900312",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29739:1"
+}
+]
+}
+}

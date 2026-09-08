@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-26",
+"episode_count": 1,
+"id": 1653857281,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vubyYw0ZDfI1epKUvf0HxFGNScr.jpg"
+}
+],
+"info": {
+"name": "ES - Los sin nombre (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vubyYw0ZDfI1epKUvf0HxFGNScr.jpg",
+"plot": "",
+"cast": "",
+"director": "Pau Freixas, Pol Cortecans",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900242",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1777930391",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-26",
+"plot": "Claudia, una mujer que pierde a su hija Ángela de forma traumática para descubrir, años después, justo cuando empieza a recuperarse, que puede que su hija aún siga con vida. \"Mamá, soy yo, Ángela. ¡Por favor, ven a buscarme!\". Esta es la frase estremecedora que Claudia escucha por teléfono y que le dará esperanzas.\r\n\r\nClaudia recurrirá entonces a Salazar, el inspector que llevó el caso tras la desaparición, y a Laura, la joven a la que Ángela, una niña especial con un extraño don, salvó la vida tras un grave accidente de tráfico. Juntos seguirán la pista de la pequeña a través de misteriosos lugares que esconden una verdad aterradora.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900242",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44391:1"
+}
+]
+}
+}

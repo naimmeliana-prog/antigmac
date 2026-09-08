@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-15",
+"episode_count": 2,
+"id": 421778770,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY6ebATpiVBOeJ48uBPN3QFYm0b.jpg"
+}
+],
+"info": {
+"name": "ES - Siempre fui yo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY6ebATpiVBOeJ48uBPN3QFYm0b.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900396",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "376736074",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-15",
+"plot": "Lupe tiene 22 años cuando su vida cambia de repente al enterarse de que su padre, un famoso cantautor colombiano, ha muerto. Al llegar a Colombia, Lupe conoce a Noah, un personaje misterioso que resulta ser el ayudante de su padre. En vez de volver a México, Lupe decide quedarse, ya que sospecha que la muerte del músico no ha sido accidental. Junto a Noah, se embarca en una aventura musical llena de peligro, misterio y amor en la región caribeña de Colombia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900396",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzE4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34318:2"
+},
+{
+"id": "924424223",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-15",
+"plot": "Lupe tiene 22 años cuando su vida cambia de repente al enterarse de que su padre, un famoso cantautor colombiano, ha muerto. Al llegar a Colombia, Lupe conoce a Noah, un personaje misterioso que resulta ser el ayudante de su padre. En vez de volver a México, Lupe decide quedarse, ya que sospecha que la muerte del músico no ha sido accidental. Junto a Noah, se embarca en una aventura musical llena de peligro, misterio y amor en la región caribeña de Colombia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900396",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34318:1"
+}
+]
+}
+}

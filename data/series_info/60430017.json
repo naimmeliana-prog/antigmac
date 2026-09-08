@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-12",
+"episode_count": 1,
+"id": 731965832,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg"
+}
+],
+"info": {
+"name": "ES - Proud (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900507",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1164826946",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-12",
+"plot": "The story of Filip, a young and irresponsible gay man who lives with the conviction that the world belongs to him and that this will never change. He is brazen, unpunished, thoughtless, impatient, beautiful, and young. He compensates for his inner lack of self-confidence with arrogance, admiration in others' eyes, and a job as a model. When a family tragedy strikes, his entire world is turned upside down.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900507",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMTEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50112:1"
+}
+]
+}
+}

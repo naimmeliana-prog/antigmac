@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-04-30",
+"episode_count": 1,
+"id": 1690929677,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMUxuvYo8iWsZRoIOuaIfZVncjG.jpg"
+}
+],
+"info": {
+"name": "ES - El inocente",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMUxuvYo8iWsZRoIOuaIfZVncjG.jpg",
+"plot": "",
+"cast": "",
+"director": "Oriol Paulo, Jordi Vallejo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900292",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "697217479",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-30",
+"plot": "Una noche, hace nueve años, Mateo intercedió inocentemente en una pelea y terminó convirtiéndose en un asesino. Ahora es un ex convicto que no da nada por sentado. Su mujer, Olivia, está embarazada, y los dos están a punto de conseguir la casa de sus sueños. Pero una llamada impactante e inexplicable desde el móvil de Olivia vuelve a destrozar la vida de Mateo por segunda vez.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNTQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33542:1"
+}
+]
+}
+}

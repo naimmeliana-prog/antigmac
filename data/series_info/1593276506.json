@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-19",
+"episode_count": 1,
+"id": 237668705,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mW2qLgX1Z336obi5rWKQFaKw98n.jpg"
+}
+],
+"info": {
+"name": "ES - El Pingüino (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mW2qLgX1Z336obi5rWKQFaKw98n.jpg",
+"plot": "",
+"cast": "",
+"director": "Lauren LeFranc",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900482",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "715317207",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-19",
+"plot": "Sigue la lucha de Oswald “Oz” Cobb por hacerse con el control de Gotham. Con la ciudad destrozada después del colapso de los diques, Oz busca llenar el vacío de poder que dejó la muerte de Carmine Falcone y darle a su madre Francis la vida que siempre le prometió. Pero antes Oz tendrá que enfrentarse a sus enemigos, incluidos los hijos de Falcone: Sofia y Alberto; la familia Maroni, dirigida por su patriarca encarcelado, Salvatore Maroni; y la propia reputación desmoralizadora de Oz como El Pingüino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900482",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MzA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37304:1"
+}
+]
+}
+}

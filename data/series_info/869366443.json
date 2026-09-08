@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-12",
+"episode_count": 1,
+"id": 86041615,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0dOqOT7XlHcPEoZ99lYz1D235D.jpg"
+}
+],
+"info": {
+"name": "ES - La nena (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0dOqOT7XlHcPEoZ99lYz1D235D.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900261",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "315762028",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-12",
+"plot": "Meses después de los sucesos de La Red Púrpura, la cacería no ha terminado. Tras la muerte de Lucas, Elena Blanco ha desaparecido. Solo Mariajo conoce su paradero, manteniéndolo en secreto incluso para el resto del equipo. La lucha contra La Red le arrebató demasiado y en un intento desesperado por recuperar el control de su vida dejó atrás la BAC.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900261",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTMwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48930:3"
+}
+]
+}
+}

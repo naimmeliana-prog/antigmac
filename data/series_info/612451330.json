@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-29",
+"episode_count": 2,
+"id": 1705218658,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
+}
+],
+"info": {
+"name": "ES - El mundo en llamas (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Bowker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900236",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "540926748",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-29",
+"plot": "En pleno estallido de la II Guerra Mundial, un joven traductor, un músico de jazz, una camarera, un médico americano y una corresponsal de guerra son algunos de los rostros anónimos que tratan de sobrevivir a las consecuencias del conflicto.\r\n\r\nHarry es un joven inglés de clase alta que trabaja como traductor de la Embajada Británica en Varsovia, donde conoce a una risueña camarera llamada Kasia. Mientras tanto, Lois, su prometida, lo espera en Manchester, trabajando en una fábrica. En París, Albert se gana la vida como saxofonista en un club de jazz. Allí conoce a Webster, un atractivo médico americano que trabaja en un hospital de la capital francesa. Nancy, una experimentada corresponsal de guerra norteamericana, es incapaz de encontrar la paz a menos que su vida esté en peligro constante. En Berlín, la familia Rossler sigue angustiada por su hijo, en el frente, y se muestra dispuesta a hacer cualquier cosa por proteger de la mirada del régimen nazi a su hija discapacitada.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900236",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28234:2"
+},
+{
+"id": "1640050969",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-29",
+"plot": "En pleno estallido de la II Guerra Mundial, un joven traductor, un músico de jazz, una camarera, un médico americano y una corresponsal de guerra son algunos de los rostros anónimos que tratan de sobrevivir a las consecuencias del conflicto.\r\n\r\nHarry es un joven inglés de clase alta que trabaja como traductor de la Embajada Británica en Varsovia, donde conoce a una risueña camarera llamada Kasia. Mientras tanto, Lois, su prometida, lo espera en Manchester, trabajando en una fábrica. En París, Albert se gana la vida como saxofonista en un club de jazz. Allí conoce a Webster, un atractivo médico americano que trabaja en un hospital de la capital francesa. Nancy, una experimentada corresponsal de guerra norteamericana, es incapaz de encontrar la paz a menos que su vida esté en peligro constante. En Berlín, la familia Rossler sigue angustiada por su hijo, en el frente, y se muestra dispuesta a hacer cualquier cosa por proteger de la mirada del régimen nazi a su hija discapacitada.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900236",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28234:1"
+}
+]
+}
+}

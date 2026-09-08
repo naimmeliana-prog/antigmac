@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-21",
+"episode_count": 2,
+"id": 185573729,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciC9rTPekPqzDyXwnITDU9xk46A.jpg"
+}
+],
+"info": {
+"name": "ES - Mil golpes (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Knight",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900390",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1344122101",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-21",
+"plot": "Hezekiah y Alec, dos amigos de Jamaica, se ven inmersos en los bajos fondos del East End de Londres. Allí, conocen a Mary Carr, reina de una banda criminal formada íntegramente por mujeres conocida como las Cuarenta Elefantas, y se topan con Sugar Goodson, capo criminal y famoso boxeador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900390",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODMzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41833:2"
+},
+{
+"id": "193326236",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-21",
+"plot": "Hezekiah y Alec, dos amigos de Jamaica, se ven inmersos en los bajos fondos del East End de Londres. Allí, conocen a Mary Carr, reina de una banda criminal formada íntegramente por mujeres conocida como las Cuarenta Elefantas, y se topan con Sugar Goodson, capo criminal y famoso boxeador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900390",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41833:1"
+}
+]
+}
+}

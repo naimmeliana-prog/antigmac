@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-30",
+"episode_count": 1,
+"id": 232276510,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvYndp4ARcTpbsQNHvdbAeeazbE.jpg"
+}
+],
+"info": {
+"name": "ES - Las hijas de la criada (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvYndp4ARcTpbsQNHvdbAeeazbE.jpg",
+"plot": "",
+"cast": "",
+"director": "Irene Rodríguez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900262",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1906384098",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-30",
+"plot": "Galicia, 1900. En el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina. La primera pertenece a la criada, Renata, mientras que la segunda es hija de los Valdés, don Gustavo y doña Inés. Una venganza inesperada sacudirá la vida de esas niñas y de todos ellos, y hará que doña Inés tenga que sobrevivir al desamor y al dolor del abandono. Y también a las luchas de poder para convertir a su verdadera hija en la heredera de un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900262",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47088:1"
+}
+]
+}
+}

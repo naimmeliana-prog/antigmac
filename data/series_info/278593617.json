@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-10",
+"episode_count": 1,
+"id": 266544197,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dApPiEzYEfbVSiZyzFWtsZDYloA.jpg"
+}
+],
+"info": {
+"name": "ES - La caza del solitario (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dApPiEzYEfbVSiZyzFWtsZDYloA.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900597",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1311820760",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-10",
+"plot": "El asesinato de dos guardias civiles en Castejón, Navarra, en 2004, es el punto de partida de una de las investigaciones policiales más emblemáticas de la crónica negra española. Las balas recogidas en la escena del crimen apuntan a un atracador que lleva diez años saqueando bancos impunemente. Es un personaje misterioso que se oculta tras un disfraz, le llaman ‘El solitario’. Conseguir ponerle nombre y dar con él se convertirá en una obsesión para la Guardia Civil y la Policía Nacional. Un thriller policial con multitud de giros de guion en el que la tensión nunca cae.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900597",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyODI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42827:1"
+}
+]
+}
+}

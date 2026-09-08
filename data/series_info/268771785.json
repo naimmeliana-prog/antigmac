@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-04",
+"episode_count": 1,
+"id": 1835124331,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZScARSgDCrGuqXTqHQvKBgz2Lt.jpg"
+}
+],
+"info": {
+"name": "ES - Los abandonados (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZScARSgDCrGuqXTqHQvKBgz2Lt.jpg",
+"plot": "",
+"cast": "",
+"director": "Kurt Sutter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900324",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1448169013",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-04",
+"plot": "En los Estados Unidos de 1850, dos familias de distinta clase social encabezadas por sus valerosas matriarcas luchan por la supremacía en una tierra sin ley.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900324",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46889:1"
+}
+]
+}
+}

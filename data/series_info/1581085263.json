@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-16",
+"episode_count": 1,
+"id": 675115200,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/hxFgzWZIywz8grcjF8skJvi1xSQ.jpg"
+}
+],
+"info": {
+"name": "ES - La guerra del hachís",
+"cover": "https://image.tmdb.org/t/p/w154/hxFgzWZIywz8grcjF8skJvi1xSQ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900599",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "25973049",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-16",
+"plot": "Por tierra, mar y aire, el hachís llega a Europa todos los días del año a través de España. El documental narra con el máximo detalle y desde dentro de la acción un negocio dominado por el crimen organizado que genera una espiral de violencia y que mueve millones de euros manchados de sangre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900599",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30007:1"
+}
+]
+}
+}

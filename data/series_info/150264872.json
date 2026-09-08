@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-05-15",
+"episode_count": 2,
+"id": 1048338432,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/gCcR7YiIiBab2HP5lC5ZH6q4eDh.jpg"
+}
+],
+"info": {
+"name": "ES - La unidad (2020)",
+"cover": "https://image.tmdb.org/t/p/w154/gCcR7YiIiBab2HP5lC5ZH6q4eDh.jpg",
+"plot": "",
+"cast": "",
+"director": "Alberto Marini, Dani de la Torre",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900241",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1671894446",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-15",
+"plot": "Carla, jefa de la Unidad de Investigación Policial contra el terrorismo yihadista, detiene en una operación al líder más buscado del mundo, Salah Al Garheeb. Pero este éxito provoca que España se ponga en el punto de mira de sus seguidores, encabezados por su hijo y que se suman por miles. Muchos, dispuestos a atentar con su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900241",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTcwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22970:2"
+},
+{
+"id": "521868740",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-15",
+"plot": "Carla, jefa de la Unidad de Investigación Policial contra el terrorismo yihadista, detiene en una operación al líder más buscado del mundo, Salah Al Garheeb. Pero este éxito provoca que España se ponga en el punto de mira de sus seguidores, encabezados por su hijo y que se suman por miles. Muchos, dispuestos a atentar con su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900241",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22970:1"
+}
+]
+}
+}

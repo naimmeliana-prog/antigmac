@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-12",
+"episode_count": 1,
+"id": 1014123401,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/buUugQAiF7MlI6102i6w2OWY29O.jpg"
+}
+],
+"info": {
+"name": "ES - Una vida Bárbara",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/buUugQAiF7MlI6102i6w2OWY29O.jpg",
+"plot": "",
+"cast": "",
+"director": "Atresmedia TV",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900638",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1942598370",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-12",
+"plot": "A través de su propio relato nos adentraremos en su traumática infancia, su pasado artístico, los amores y decepciones de su vida, su soledad, sus miedos y, por fin, conoceremos la verdad sobre su relación clandestina con el Rey. Carles Rexach, Alain Delon, Paquirri, Juan Carlos I, Ángel Cristo… Muchos hombres quisieron poseerla, pero ninguno supo quererla. Y, bajo esa aparente capa de mujer dura se esconde María García, un mujer sensible y frágil que, en varias ocasiones, ha estado a punto de precipitarse al abismo: maltratada por su madre; acosada en el trabajo; violada, golpeada y amenazada de muerte por su marido; desahuciada y arruinada; objetivo de las cloacas del Estado… Aun así, y a pesar de la mala prensa, siempre ha conseguido salir adelante. María García es la superviviente de “Una vida Bárbara” y un icono de referencia con el que repasar la historia reciente de España.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900638",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34525:1"
+}
+]
+}
+}

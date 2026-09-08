@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-15",
+"episode_count": 4,
+"id": 281174758,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNIyXnqSwkjVv2SmkgzTtaCsVBV.jpg"
+}
+],
+"info": {
+"name": "ES - Outer Banks (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNIyXnqSwkjVv2SmkgzTtaCsVBV.jpg",
+"plot": "",
+"cast": "",
+"director": "Josh Pate, Jonas Pate, Shannon Burke",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900336",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "889233118",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-15",
+"plot": "En una isla de ricos y pobres, un grupo de adolescentes formado por John B, JJ, Pope y Kiara, encuentran un misterioso barco hundido tras un huracán, y se adentran en una peligrosa aventura para buscar un legendario tesoro vinculado a la desaparición del padre de John B.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTg4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37188:4"
+},
+{
+"id": "1397855417",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-15",
+"plot": "En una isla de ricos y pobres, un grupo de adolescentes formado por John B, JJ, Pope y Kiara, encuentran un misterioso barco hundido tras un huracán, y se adentran en una peligrosa aventura para buscar un legendario tesoro vinculado a la desaparición del padre de John B.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTg4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37188:3"
+},
+{
+"id": "305261117",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-15",
+"plot": "En una isla de ricos y pobres, un grupo de adolescentes formado por John B, JJ, Pope y Kiara, encuentran un misterioso barco hundido tras un huracán, y se adentran en una peligrosa aventura para buscar un legendario tesoro vinculado a la desaparición del padre de John B.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37188:2"
+},
+{
+"id": "948881542",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-15",
+"plot": "En una isla de ricos y pobres, un grupo de adolescentes formado por John B, JJ, Pope y Kiara, encuentran un misterioso barco hundido tras un huracán, y se adentran en una peligrosa aventura para buscar un legendario tesoro vinculado a la desaparición del padre de John B.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37188:1"
+}
+]
+}
+}

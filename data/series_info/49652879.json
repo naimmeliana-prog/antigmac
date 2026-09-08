@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2021-02-23",
+"episode_count": 4,
+"id": 110986997,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg"
+}
+],
+"info": {
+"name": "ES - Superman y Lois",
+"cover": "https://image.tmdb.org/t/p/w154/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
+"plot": "",
+"cast": "",
+"director": "Greg Berlanti, Todd Helbing",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900511",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1983892973",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-23",
+"plot": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900511",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29175:4"
+},
+{
+"id": "1063979287",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-23",
+"plot": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900511",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29175:3"
+},
+{
+"id": "1898648117",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-23",
+"plot": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900511",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29175:2"
+},
+{
+"id": "1511174720",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-23",
+"plot": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900511",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29175:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-03",
+"episode_count": 1,
+"id": 1319843853,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/waFEdFOfIjcb0xLhzQk0WJTp8U1.jpg"
+}
+],
+"info": {
+"name": "ES - Zoomers (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/waFEdFOfIjcb0xLhzQk0WJTp8U1.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900436",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1089701103",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-03",
+"plot": "Un joven de 18 años se enfrenta a su llegada a la Universidad tras haber vivido una tragedia personal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900436",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45647:1"
+}
+]
+}
+}

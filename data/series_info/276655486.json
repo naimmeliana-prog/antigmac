@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-06-24",
+"episode_count": 1,
+"id": 282044279,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QuacCcH6w07iOQPCh3Sqz5rldo.jpg"
+}
+],
+"info": {
+"name": "ES - Con Olor a Fresas (2015)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QuacCcH6w07iOQPCh3Sqz5rldo.jpg",
+"plot": "",
+"cast": "",
+"director": "Filiz Gülmez Pakman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900646",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "952403547",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-24",
+"plot": "Asli es una joven que trabaja en una pastelería y hace tartas deliciosas. Para el cumpleaños de un cliente, hace una tarta de fresas y en el envío, tiene un accidente de coche en el cual la tarta se echa a perder. La persona conduciendo el otro coche implicado en el accidente es Burak, un mujeriego procedente de una familia rica. En este encuentro, acaban discutiendo sin querer verse nunca más.\r\n\r\nLa pastelera es despedida por no haber entregado el pedido, quedando desesperada por encontrar un trabajo. Su amiga Gonca, que también trabaja en la pastelería, se muda a Bodrum con una oferta de trabajo en un gran hotel, convenciendo a Asli de que haga lo mismo para poder ganar dinero. Cuando llegan al hotel, descubren que está cerrado y buscan un nuevo trabajo en otro hotel perteneciente a Burak, cruzando sus caminos otra vez.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900646",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35538:1"
+}
+]
+}
+}

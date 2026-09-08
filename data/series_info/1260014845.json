@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-27",
+"episode_count": 1,
+"id": 57864415,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svp5rLNIoe9XUewf2O2ZG6A6Fue.jpg"
+}
+],
+"info": {
+"name": "ES - Oro y codicia: En busca del tesoro de Fenn (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svp5rLNIoe9XUewf2O2ZG6A6Fue.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900622",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "184030480",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-27",
+"plot": "Un excéntrico llamado Forrest Fenn desencadena una auténtica búsqueda del tesoro tras esconder un cofre de oro en las Montañas Rocosas y ocultar pistas en un enigmático poema.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900622",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42748:1"
+}
+]
+}
+}

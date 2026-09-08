@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-13",
+"episode_count": 1,
+"id": 1149391698,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/r5wkUeGKsd3QdOHeePCpPUKCpq2.jpg"
+}
+],
+"info": {
+"name": "ES - La tercera persona",
+"cover": "https://image.tmdb.org/t/p/w154/r5wkUeGKsd3QdOHeePCpPUKCpq2.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900422",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1234381556",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-13",
+"plot": "Ido y Elie son una pareja que lleva varios años intentando ser padres. Después de numerosos intentos de reproducción asistida y varios abortos, es el momento de aceptar que el cuerpo de Elie no está preparado para la maternidad y deciden recurrir a la gestación subrogada. Otra mujer de la misma ciudad, desesperada por solucionar sus problemas económicos, se ofrece a gestar a su futuro hijo. A raíz de esta decisión se expone una montaña rusa emocional donde los tres experimentarán una pérdida de control en sus vidas y donde se retratan no solo el amor y la generosidad, sino los celos y el deseo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900422",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30053:1"
+}
+]
+}
+}

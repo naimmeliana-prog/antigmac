@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2015-06-24",
+"episode_count": 4,
+"id": 1742092420,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
+}
+],
+"info": {
+"name": "ES - Mr. Robot",
+"cover": "https://image.tmdb.org/t/p/w154/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg",
+"plot": "",
+"cast": "",
+"director": "Sam Esmail",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900424",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "123231099",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-24",
+"plot": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjk5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30299:4"
+},
+{
+"id": "1561274288",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-24",
+"plot": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjk5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30299:3"
+},
+{
+"id": "582664100",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-24",
+"plot": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjk5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30299:2"
+},
+{
+"id": "1136761098",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-24",
+"plot": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30299:1"
+}
+]
+}
+}

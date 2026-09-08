@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-25",
+"episode_count": 4,
+"id": 102667356,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR7f51NSYoIWJFnkdEG1pzIRI2Y.jpg"
+}
+],
+"info": {
+"name": "ES - Los Bridgerton",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR7f51NSYoIWJFnkdEG1pzIRI2Y.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Van Dusen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900323",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1315249764",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-25",
+"plot": "La serie narra las vidas de los ocho hermanos Bridgerton mientras buscan amor y felicidad en la alta sociedad londinense.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzU5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33359:4"
+},
+{
+"id": "1127692363",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-25",
+"plot": "La serie narra las vidas de los ocho hermanos Bridgerton mientras buscan amor y felicidad en la alta sociedad londinense.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzU5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33359:3"
+},
+{
+"id": "1281811200",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-25",
+"plot": "La serie narra las vidas de los ocho hermanos Bridgerton mientras buscan amor y felicidad en la alta sociedad londinense.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzU5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33359:2"
+},
+{
+"id": "42456754",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-25",
+"plot": "La serie narra las vidas de los ocho hermanos Bridgerton mientras buscan amor y felicidad en la alta sociedad londinense.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33359:1"
+}
+]
+}
+}

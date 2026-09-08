@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-28",
+"episode_count": 1,
+"id": 425740271,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slXl79RPrePpCR6CphtwLqBz86N.jpg"
+}
+],
+"info": {
+"name": "ES - No se lo digas a nadie",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slXl79RPrePpCR6CphtwLqBz86N.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900265",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "908444766",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-28",
+"plot": "En agosto de 2016, el hallazgo de los cuerpos sin vida de Marcos Campos, Janaina Santos y sus hijos, María Carolina y David, de tres y un año, enfrenta a los investigadores a un caso sin precedentes: el primer crimen compartido por WhatsApp. Muy pronto, las pesquisas de la Policía apuntan a Patrick, un joven de 19 años, sobrino y primo de las víctimas. Un estudiante de derecho, de familia acomodada, que había llegado a España para cumplir su sueño de ser futbolista. Para cuando los investigadores reúnen todas las pruebas que le incriminan, el joven ha huido a Brasil. Traerlo de nuevo a España será un desafío. Pero este drama familiar da un giro inesperado. Se hacen públicas unas conversaciones de WhatsApp. Patrick, el principal sospechoso, mantuvo durante siete horas una conversación a través de esta red social con su mejor amigo, Marvin, que vive a 6.000 kilómetros de distancia, en la ciudad brasileña de Joao Pessoa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900265",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34450:1"
+}
+]
+}
+}

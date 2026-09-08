@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-28",
+"episode_count": 1,
+"id": 4391683,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nh2Zk9YYMKbYpdXWcEmhpt42CWB.jpg"
+}
+],
+"info": {
+"name": "ES - Proyecto Ourika",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nh2Zk9YYMKbYpdXWcEmhpt42CWB.jpg",
+"plot": "",
+"cast": "",
+"director": "Booba, Clément Godart",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900427",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1774037128",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-28",
+"plot": "La historia se sitúa en 2005, en un suburbio de París asolado por los disturbios. La familia Jebli, a la cabeza de una red de tráfico de cannabis, ve cómo su imperio se desmorona tras una importante operación policial. Driss, el miembro más joven de la familia, se ve obligado a tomar las riendas de la empresa criminal, abandonando sus ambiciones de hacer carrera en las finanzas. Su adversario, William, un joven y ambicioso policía, está decidido a acabar con él. Este enfrentamiento pondrá patas arriba sus vidas y las de quienes les rodean.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900427",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31430:1"
+}
+]
+}
+}

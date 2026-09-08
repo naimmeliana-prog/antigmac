@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-13",
+"episode_count": 1,
+"id": 1322834382,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDVHKWy6mQuOlYYtRdUDqnEIuY.jpg"
+}
+],
+"info": {
+"name": "ES - El arte de parecer Sarah (2026) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDVHKWy6mQuOlYYtRdUDqnEIuY.jpg",
+"plot": "",
+"cast": "",
+"director": "김진민, 추송연",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900289",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "297974138",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-13",
+"plot": "Un cadáver aparece en pleno centro. Una firma de lujo está en auge. Un inspector pone a prueba la historia cambiante de una mujer. ¿Qué ocurrió en realidad?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900289",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48327:1"
+}
+]
+}
+}

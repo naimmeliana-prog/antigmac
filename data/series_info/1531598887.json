@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-23",
+"episode_count": 1,
+"id": 207524175,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFatvMvG3svwTZ1WH9shKRpFhEH.jpg"
+}
+],
+"info": {
+"name": "ES - Stuart no consigue salvar el Universo (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFatvMvG3svwTZ1WH9shKRpFhEH.jpg",
+"plot": "",
+"cast": "",
+"director": "Chuck Lorre, Zak Penn, Bill Prady",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900511",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "309608062",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-23",
+"plot": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de The Big Bang Theory. Como indica el título, las cosas no salen bien.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900511",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwOTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50940:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-16",
+"episode_count": 1,
+"id": 232950926,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kapSJwIzMBJ81HQxCbAvHRUdn3h.jpg"
+}
+],
+"info": {
+"name": "ES - The Stolen Girl (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kapSJwIzMBJ81HQxCbAvHRUdn3h.jpg",
+"plot": "",
+"cast": "",
+"director": "Catherine Moulton",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900400",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1851637352",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-16",
+"plot": "Elisa, madre de dos niños, le da permiso a su hija, Lucía, para dormir en casa de su nueva mejor amiga, Josephine, después de que la madre, Rebecca, la reciba en una casa preciosa y se conozcan. Sin embargo, cuando Elisa va a recoger a Lucía al día siguiente, la casa resulta ser una mansión de alquiler y han secuestrado a Lucía.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MjMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49231:1"
+}
+]
+}
+}

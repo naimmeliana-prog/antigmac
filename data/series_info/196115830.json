@@ -1,0 +1,209 @@
+{
+"seasons": [
+{
+"air_date": "2010-09-20",
+"episode_count": 8,
+"id": 1424723274,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg"
+}
+],
+"info": {
+"name": "ES - Hawaii Five-0 (2010)",
+"cover": "https://image.tmdb.org/t/p/w154/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+"plot": "",
+"cast": "",
+"director": "Alex Kurtzman, Roberto Orci, Peter M. Lenkov",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900238",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "297456538",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjo4LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:8"
+},
+{
+"id": "602350212",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:7"
+},
+{
+"id": "1835588484",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:6"
+},
+{
+"id": "1718893494",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:5"
+},
+{
+"id": "1025854437",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:4"
+},
+{
+"id": "1719974603",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:3"
+},
+{
+"id": "1037553499",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:2"
+},
+{
+"id": "1270673887",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-20",
+"plot": "Hawái 5.0 es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía, que llega a Oahu para investigar el asesinato de su padre y es convencido a quedarse en Hawaii al liderar su propio equipo especial. Junto a McGarrett encontramos al detective Danny “Danno” Williams (Scott Caan), un ex-policía de New Jersey que prefiere la ciudad pero esta decidido a mantener la seguridad en la isla por su pequeña hija; y a Chin Ho Kelly (Daniel Dae Kim), un ex-detective de Honolulu acusado erróneamente de corrupción. El ultimo miembro del equipo es la prima de Chin, Kono (Grace Park), una bella local, recién salida de la academia y deseosa de establecerse en el equipo de elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28724:1"
+}
+]
+}
+}

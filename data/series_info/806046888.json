@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-21",
+"episode_count": 1,
+"id": 16963307,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y6eEQ2UMaSJzH2L99qwR6AdMiW.jpg"
+}
+],
+"info": {
+"name": "ES - Milf De Noruega",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y6eEQ2UMaSJzH2L99qwR6AdMiW.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900503",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "157091208",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-21",
+"plot": "La chispa del matrimonio de Lene hace tiempo que desapareció, y cuando de repente pierde su trabajo en una prestigiosa agencia de publicidad, se siente perdida y humillada, preguntándose qué hacer a continuación. Una noche de borrachera, publica en el sitio web InsideFans una foto suya con poca ropa y vestida con un traje popular tradicional, más que nada como broma.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900503",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MTcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34170:1"
+}
+]
+}
+}

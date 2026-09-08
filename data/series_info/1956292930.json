@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-13",
+"episode_count": 1,
+"id": 763294008,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVnBasWGcPbOrwW8Rhc2WHtXasx.jpg"
+}
+],
+"info": {
+"name": "ES - La frontera (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVnBasWGcPbOrwW8Rhc2WHtXasx.jpg",
+"plot": "",
+"cast": "",
+"director": "David Zurdo, Luis Marías",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900420",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "726751016",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-13",
+"plot": "Año 1987. Francia empieza a colaborar con España en la lucha contra la banda terrorista ETA mientras un grupo disidente de la organización planea cometer un atentado en París.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900420",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44360:1"
+}
+]
+}
+}

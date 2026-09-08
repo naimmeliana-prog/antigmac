@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-28",
+"episode_count": 1,
+"id": 569050426,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4RsxyfjWHH9l62fFB891H8fWed.jpg"
+}
+],
+"info": {
+"name": "ES - Si lo hubiera sabido (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4RsxyfjWHH9l62fFB891H8fWed.jpg",
+"plot": "",
+"cast": "",
+"director": "Irma Correa",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900345",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "271074645",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-28",
+"plot": "Emma es una mujer de 30 años decepcionada con su matrimonio de una década con Nando y su vida familiar, y que siente que su vida ha perdido su brillo. Atrapada en una rutina sin romance ni emoción, se da cuenta de que si pudiera retroceder en el tiempo, no aceptaría la propuesta de matrimonio de Nando y decide que debería divorciarse de él. Un par de días más tarde, mientras se dirige a ver un eclipse lunar poco común con sus amigos, una falla en el tiempo la envía 10 años atrás, al 2008. Su mente de 30 años está atrapada en su cuerpo de 20 años. La vida le da una oportunidad de reevaluar quién era y en quién quiere convertirse, con la clara ventaja de saber ya lo que le espera al mundo en la próxima década.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900345",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35388:1"
+}
+]
+}
+}

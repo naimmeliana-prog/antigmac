@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-21",
+"episode_count": 1,
+"id": 1444183378,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txcrTTjG5hCo7oYl4J8hsIyBFxu.jpg"
+}
+],
+"info": {
+"name": "ES - El robo (2026) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txcrTTjG5hCo7oYl4J8hsIyBFxu.jpg",
+"plot": "",
+"cast": "",
+"director": "Sotiris Nikias",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900414",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "167994721",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-21",
+"plot": "Un día normal en Lochmill Capital se ve alterado cuando unos ladrones irrumpen y obligan a punta de pistola a Zara y a su mejor amigo Luke a cumplir sus exigencias. El detective Rhys se enfrenta a una carrera contrarreloj para descubrir quién ha robafo los 4000 millones de libras y por qué.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900414",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47624:1"
+}
+]
+}
+}

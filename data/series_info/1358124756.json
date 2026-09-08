@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-28",
+"episode_count": 2,
+"id": 294486389,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlpWn4myksmqq5wolzHmdlKgUjI.jpg"
+}
+],
+"info": {
+"name": "ES - La hora del diablo (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlpWn4myksmqq5wolzHmdlKgUjI.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Moran",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900421",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "467679781",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-28",
+"plot": "Lucy se despierta todas las noches con visiones aterradoras exactamente a las 3:33 am: la hora del diablo. Cuando el nombre de Lucy se relaciona inexplicablemente con una serie de brutales asesinatos en el área, las respuestas que la han eludido todos estos años finalmente se enfocarán.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900421",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MzgyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37382:2"
+},
+{
+"id": "1840271311",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-28",
+"plot": "Lucy se despierta todas las noches con visiones aterradoras exactamente a las 3:33 am: la hora del diablo. Cuando el nombre de Lucy se relaciona inexplicablemente con una serie de brutales asesinatos en el área, las respuestas que la han eludido todos estos años finalmente se enfocarán.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900421",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MzgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37382:1"
+}
+]
+}
+}

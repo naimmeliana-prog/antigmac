@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-08",
+"episode_count": 1,
+"id": 1093413696,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LeTXbaoeBvdjA4tGiU7CImGZXE.jpg"
+}
+],
+"info": {
+"name": "ES - Muros",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LeTXbaoeBvdjA4tGiU7CImGZXE.jpg",
+"plot": "",
+"cast": "",
+"director": "David Miralles",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900618",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "698349705",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-08",
+"plot": "A un lado de los muros está la libertad. Al otro, los protagonistas de esta serie: Cata, Diego, Culopato, Mehdi, Mari, Eugenio, Feli, Isidoro, Bárbara y Yago. Sus relatos hablan de todo lo que la vida puede dar y quitar a una persona, de las consecuencias de cada pequeña decisión, de la culpa y del miedo.\r\n\r\nRodada durante varios meses en cuatro centros penitenciarios - Acebuche (Almería), Madrid I Mujeres (Alcalá de Henares), Madrid V (Soto del Real) y Teixeiro (A Coruña) - \"Muros\" se adentra donde ya solo están ellos, un microcosmos con sus rutinas y sus reglas propias que empieza con un recuento al amanecer y acaba cuando se cierran las celdas a última hora de la tarde. Diez historias que se entrecruzan con otras muchas para conformar entre todas un retrato nunca antes visto de una realidad que permanece aislada del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900618",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32273:1"
+}
+]
+}
+}

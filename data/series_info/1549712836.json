@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-24",
+"episode_count": 1,
+"id": 1530391157,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg"
+}
+],
+"info": {
+"name": "ES - Made in Korea (2025) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg",
+"plot": "",
+"cast": "",
+"director": "우민호",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900387",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "807809838",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-24",
+"plot": "Un hombre movido por la ambición de riqueza y poder, y un fiscal que lo sacrifica todo para detenerlo: una historia que se desarrolla en el torbellino de una época turbulenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900387",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47269:1"
+}
+]
+}
+}

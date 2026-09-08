@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-20",
+"episode_count": 1,
+"id": 1140575301,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1fKsga4dTxTRNFp1ktUWUa7P1Ib.jpg"
+}
+],
+"info": {
+"name": "ES - Shahmaran - (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/1fKsga4dTxTRNFp1ktUWUa7P1Ib.jpg",
+"plot": "",
+"cast": "",
+"director": "Pınar Bulut",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900345",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "373791164",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-20",
+"plot": "Sahsu está decidida a enfrentarse a su abuelo, que dejó a su madre hace años en Adana, adonde fue como profesor. En este viaje, se encuentra en medio de una comunidad inusual y misteriosa llamada Mar, descendientes de Sahmaran. Creyendo en la leyenda de Shahmaran, uno de los mayores símbolos de amor y sabiduría, la raza Mar espera que se complete la profecía histórica con la llegada de Sahsu. Nada volverá a ser igual cuando se crucen los caminos de Sahsu y Maran, quien se dispone a pedirle cuentas al abuelo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900345",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22889:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-02-25",
+"episode_count": 1,
+"id": 4478770,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg"
+}
+],
+"info": {
+"name": "ES - London Kills",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul Marquess",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900423",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1736210563",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-02-25",
+"plot": "Con una entrega de estilo documental, este drama cuenta la historia de un equipo de los mejores detectives de asesinatos con cada episodio que presenta un asesinato diferente al mismo tiempo que sigue una historia serializada que involucra a la esposa desaparecida del detective líder.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15140:1"
+}
+]
+}
+}

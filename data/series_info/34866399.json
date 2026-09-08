@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-22",
+"episode_count": 1,
+"id": 1592835893,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg"
+}
+],
+"info": {
+"name": "ES - Jaguar",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlos Sedes, Ramón Campos, Gema R. Neira",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900306",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1565061300",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-22",
+"plot": "Ambientada en los años 60, donde España albergaba a cientos de nazis refugiados tras la Segunda Guerra Mundial, Isabel Garrido, una joven española que logró sobrevivir al campo de exterminio de Mauthausen, está tras la pista de Skorzeny, conocido como el hombre más peligroso de Europa. En ese viaje, descubrirá que no está sola en su misión y se unirá a un grupo de agentes en busca de justicia. Su nombre en clave: Jaguar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900306",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34315:1"
+}
+]
+}
+}

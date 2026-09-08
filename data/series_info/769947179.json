@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-08-26",
+"episode_count": 1,
+"id": 523424925,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DUJTrHTRLHLCKWriPhdusQogAv.jpg"
+}
+],
+"info": {
+"name": "ES - Bodyguard",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DUJTrHTRLHLCKWriPhdusQogAv.jpg",
+"plot": "",
+"cast": "",
+"director": "Jed Mercurio",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900279",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "196858637",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-26",
+"plot": "Bodyguard gira en torno a David Budd, un hombre heroico y veterano de la guerra que ahora trabaja en temas de seguridad nacional, concretamente como agente especial de protección de la Realeza así como en un cuerpo especial de protección del Servicio de la Policía Metropolitana de Londres.\r\n\r\nNo obstante, su tarea y su moral se ven puestas en la balanza cuando se le asigna proteger a la ambiciosa Julia Montague, cuya política choca de manera dramática con los principios de Budd. De esta manera, se pone entredicho el deber de este hombre, quien podría bien protegerla o bien convertirse en su mayor amenaza.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkwOTcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9097:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-12",
+"episode_count": 1,
+"id": 762693493,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4jMaK7u5S4p5sEW76GmBNQfE90.jpg"
+}
+],
+"info": {
+"name": "ES - Mulligan",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4jMaK7u5S4p5sEW76GmBNQfE90.jpg",
+"plot": "",
+"cast": "",
+"director": "Robert Carlock, Sam Means",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900364",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "1417647122",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-12",
+"plot": "En esta comedia satírica, los alienígenas han destruido casi toda la Tierra. ¿Podrá un puñado de supervivientes reconstruir Estados Unidos y crear un país más perfecto?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900364",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Nzg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29789:1"
+}
+]
+}
+}

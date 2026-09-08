@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-06",
+"episode_count": 1,
+"id": 1634370780,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsWrvrXcWOgLtcQqoeKnC8D44h5.jpg"
+}
+],
+"info": {
+"name": "ES - Narco Circo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsWrvrXcWOgLtcQqoeKnC8D44h5.jpg",
+"plot": "",
+"cast": "",
+"director": "Romain Bolzinger",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900619",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1833505187",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-06",
+"plot": "El periodista Romain Bolzinger se infiltra en el cartel de Sinaloa, el más peligroso de México, y captura laboratorios ocultos, secuestros, sicarios y corrupción. Pronto descubre que la guerra contra las drogas es una farsa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31748:1"
+}
+]
+}
+}

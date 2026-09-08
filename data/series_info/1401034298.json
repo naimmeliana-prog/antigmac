@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2015-11-16",
+"episode_count": 3,
+"id": 1449930927,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VG9wrd8LzwYO7JZObbEmvfqu7x.jpg"
+}
+],
+"info": {
+"name": "ES - Versailles (2015)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VG9wrd8LzwYO7JZObbEmvfqu7x.jpg",
+"plot": "",
+"cast": "",
+"director": "David Wolstencroft, Simon Mirren",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900357",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "449798909",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-11-16",
+"plot": "Esta ambiciosa superproducción franco-canadiense gira en torno a la historia del palacio de Versalles desde su construcción en 1667. Tras pasar por una infancia conflictiva y humillante, el monarca Luis XIV (George Blagden) se revela a sus 28 años como un estratega político fuera de lo común. Con el fin de someter a la nobleza e imponer definitivamente su poder absoluto, el déspota rey ordena la construcción de Versalles y lo concibe como una jaula de oro para mantener a los nobles bajo su control, distanciándose de ellos al tiempo que les entretiene con caprichos y distracciones. Mientras tanto, mantiene una relación con su cuñada Ana (Dominic Blanc), esposa de su hermano Felipe I (Alexander Vlahos).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900357",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODY2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37866:3"
+},
+{
+"id": "29249837",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-11-16",
+"plot": "Esta ambiciosa superproducción franco-canadiense gira en torno a la historia del palacio de Versalles desde su construcción en 1667. Tras pasar por una infancia conflictiva y humillante, el monarca Luis XIV (George Blagden) se revela a sus 28 años como un estratega político fuera de lo común. Con el fin de someter a la nobleza e imponer definitivamente su poder absoluto, el déspota rey ordena la construcción de Versalles y lo concibe como una jaula de oro para mantener a los nobles bajo su control, distanciándose de ellos al tiempo que les entretiene con caprichos y distracciones. Mientras tanto, mantiene una relación con su cuñada Ana (Dominic Blanc), esposa de su hermano Felipe I (Alexander Vlahos).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900357",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODY2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37866:2"
+},
+{
+"id": "587715096",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-11-16",
+"plot": "Esta ambiciosa superproducción franco-canadiense gira en torno a la historia del palacio de Versalles desde su construcción en 1667. Tras pasar por una infancia conflictiva y humillante, el monarca Luis XIV (George Blagden) se revela a sus 28 años como un estratega político fuera de lo común. Con el fin de someter a la nobleza e imponer definitivamente su poder absoluto, el déspota rey ordena la construcción de Versalles y lo concibe como una jaula de oro para mantener a los nobles bajo su control, distanciándose de ellos al tiempo que les entretiene con caprichos y distracciones. Mientras tanto, mantiene una relación con su cuñada Ana (Dominic Blanc), esposa de su hermano Felipe I (Alexander Vlahos).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900357",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODY2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37866:1"
+}
+]
+}
+}

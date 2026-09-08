@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-26",
+"episode_count": 1,
+"id": 1706573749,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkQLwEgRVreY5QfN65aOnBY3ivA.jpg"
+}
+],
+"info": {
+"name": "ES - Infiel (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkQLwEgRVreY5QfN65aOnBY3ivA.jpg",
+"plot": "",
+"cast": "",
+"director": "Tomas Alfredson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900493",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1672220788",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-26",
+"plot": "Cuando el célebre director David Howard, de 73 años, se reencuentra con su antiguo gran amor, la actriz Marianne Vogler, de 75, se enfrentan a las dolorosas consecuencias de su anterior aventura, no sólo para ellos, sino también para sus familias. Cuarenta años antes, se enamoraron en secreto, ya que Marianne está casada con Markus, el mejor amigo de David.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900493",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49125:1"
+}
+]
+}
+}

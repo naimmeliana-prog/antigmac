@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-24",
+"episode_count": 3,
+"id": 1144850304,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/su4QTAepsLW7te11x5SZPmO6z9W.jpg"
+}
+],
+"info": {
+"name": "ES - Vergüenza (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/su4QTAepsLW7te11x5SZPmO6z9W.jpg",
+"plot": "",
+"cast": "",
+"director": "Juan Cavestany, Álvaro Fernández Armero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900253",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "97150389",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-24",
+"plot": "'Vergüenza' narra la historia de Jesús y Nuria, una pareja en crisis permanente y con un gran problema: en cualquier situación están abocados a hacer siempre el ridículo delante de sus amigos y familiares quedando en una posición muy incómoda.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTkxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40591:3"
+},
+{
+"id": "334510616",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-24",
+"plot": "'Vergüenza' narra la historia de Jesús y Nuria, una pareja en crisis permanente y con un gran problema: en cualquier situación están abocados a hacer siempre el ridículo delante de sus amigos y familiares quedando en una posición muy incómoda.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTkxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40591:2"
+},
+{
+"id": "1930332774",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-24",
+"plot": "'Vergüenza' narra la historia de Jesús y Nuria, una pareja en crisis permanente y con un gran problema: en cualquier situación están abocados a hacer siempre el ridículo delante de sus amigos y familiares quedando en una posición muy incómoda.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40591:1"
+}
+]
+}
+}

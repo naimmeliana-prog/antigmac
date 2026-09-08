@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-22",
+"episode_count": 1,
+"id": 1008656334,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRweua2yHpZWoO836Dlf1G7B9Mw.jpg"
+}
+],
+"info": {
+"name": "ES - Pauline",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRweua2yHpZWoO836Dlf1G7B9Mw.jpg",
+"plot": "",
+"cast": "",
+"director": "Sebastian Colley, Elena Lyubarskaya, Philipp Kässbohrer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900393",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "930898436",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-22",
+"plot": "Pauline se queda embarazada después de un rollo de una noche con Lukas. Algo va muy mal con ese embarazo. Cuando Lukas le confiesa que es el hijo del diablo encarnado y el heredero del infierno, nada vuelve a ser lo mismo. En plena lucha entre demonios y ángeles, el embarazo de Pauline también le da habilidades sobrenaturales y la convierte en una fuerza decisiva en la batalla épica entre el bien y el mal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33536:1"
+}
+]
+}
+}

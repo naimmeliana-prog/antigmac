@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-25",
+"episode_count": 1,
+"id": 764491706,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJPLsVp0DHJSda0hmDof4i1p1x9.jpg"
+}
+],
+"info": {
+"name": "ES - Eyes on the Prize III: We Who Believe in Freedom Cannot Rest 1977-2015 (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJPLsVp0DHJSda0hmDof4i1p1x9.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900584",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1046933942",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-25",
+"plot": "Esta nueva entrega de la histórica serie documental de 1987 Eyes on the Prize ilumina las audaces historias de personas y comunidades que continúan trabajando por la equidad y la justicia racial en los años posteriores al nacimiento del Movimiento de Derechos Civiles estadounidenses.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42724:1"
+}
+]
+}
+}

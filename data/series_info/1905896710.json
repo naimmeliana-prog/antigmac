@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-12",
+"episode_count": 1,
+"id": 636343515,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/wwQ3CzGIhR2V2YfiSZTjOYK1EcN.jpg"
+}
+],
+"info": {
+"name": "ES - El caballero negro (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/wwQ3CzGIhR2V2YfiSZTjOYK1EcN.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900289",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "544242",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-12",
+"plot": "Ambientada en el año 2071, el mundo ha sido diezmado por la contaminación tóxica del aire. Sólo un 1% de la población ha sobrevivido y ahora existe una estricta clase social. La gente rara vez sale de casa y, cuando lo hace, lleva máscaras de gas debido a la contaminación atmosférica. Los ciudadanos dependen en gran medida del servicio de reparto de paquetes para cubrir sus necesidades. Los repartidores, conocidos como caballeros, entregan los paquetes y también los protegen de los ladrones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900289",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25136:1"
+}
+]
+}
+}

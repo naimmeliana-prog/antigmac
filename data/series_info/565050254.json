@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-19",
+"episode_count": 1,
+"id": 1743068566,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfH0q8RSAZVI31aysVLXImljdXt.jpg"
+}
+],
+"info": {
+"name": "ES - La historia de mi familia (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfH0q8RSAZVI31aysVLXImljdXt.jpg",
+"plot": "",
+"cast": "",
+"director": "Filippo Gravino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900310",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1756087887",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-19",
+"plot": "Un padre gravemente enfermo prepara a su caótica familia para que cuiden de sus dos hijos pequeños y afronten la vida sin él, pero deben resolver sus antiguos conflictos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900310",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41817:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-19",
+"episode_count": 1,
+"id": 273597253,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfhszbx7X7icJGD1XT80pLSC6D1.jpg"
+}
+],
+"info": {
+"name": "ES - Perverso",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfhszbx7X7icJGD1XT80pLSC6D1.jpg",
+"plot": "",
+"cast": "",
+"director": "Alonso Laporta",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900426",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1796875035",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-19",
+"plot": "Haro es un refinado y retorcido aristócrata que cumple condena por violación y asesinato. Empieza a recibir amenazas de muerte por parte de un secuestrador que se está dedicando a actuar contra la élite empresarial española. Usando su afilado ingenio, Haro aprovecha esa situación adversa para negociar beneficios penitenciarios a cambio de colaborar en la investigación de los secuestros, aunque su verdadero objetivo pasa por vengarse de la jueza que le metió entre rejas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900426",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxODQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31843:1"
+}
+]
+}
+}

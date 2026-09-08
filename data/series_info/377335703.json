@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-02",
+"episode_count": 2,
+"id": 1205660309,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2w6pfPNaK6OxICsrtS6MVLOjpV.jpg"
+}
+],
+"info": {
+"name": "ES - Marbella",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2w6pfPNaK6OxICsrtS6MVLOjpV.jpg",
+"plot": "",
+"cast": "",
+"director": "Alberto Marini, Dani de la Torre",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900243",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "885206426",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-02",
+"plot": "César es un abogado de éxito afincado en Marbella, la capital mundial de la mafia. Guapo, rico, hedonista, egoísta, ambicioso, obsesionado con las redes sociales… sabe que para mantener su estatus tiene que ser el mejor en los tribunales y el hombre que todos conozcan en las salvajes fiestas marbellíes, donde hacen negocios los numerosos grupos criminales que operan en la Costa del Sol. César tiene muy claro que, para no tener problemas en la vida, hay que ser amigos de todos y no cruzar nunca ciertas líneas. Pero cuando menos se lo espera, descubre que está en ojo del huracán y quién necesita a un abogado que le salve es precisamente él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900243",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyNTU2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32556:2"
+},
+{
+"id": "417788111",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-02",
+"plot": "César es un abogado de éxito afincado en Marbella, la capital mundial de la mafia. Guapo, rico, hedonista, egoísta, ambicioso, obsesionado con las redes sociales… sabe que para mantener su estatus tiene que ser el mejor en los tribunales y el hombre que todos conozcan en las salvajes fiestas marbellíes, donde hacen negocios los numerosos grupos criminales que operan en la Costa del Sol. César tiene muy claro que, para no tener problemas en la vida, hay que ser amigos de todos y no cruzar nunca ciertas líneas. Pero cuando menos se lo espera, descubre que está en ojo del huracán y quién necesita a un abogado que le salve es precisamente él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900243",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyNTU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32556:1"
+}
+]
+}
+}

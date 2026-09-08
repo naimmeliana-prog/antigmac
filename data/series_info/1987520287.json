@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2017-07-21",
+"episode_count": 4,
+"id": 730833605,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8Q87HCPhj98Afc0XAHOuaLgTTpO.jpg"
+}
+],
+"info": {
+"name": "ES - Ozark",
+"cover": "https://image.tmdb.org/t/p/w154/8Q87HCPhj98Afc0XAHOuaLgTTpO.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Williams, Bill Dubuque",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900336",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1526102431",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-21",
+"plot": "Un asesor financiero arrastra a su familia de Chicago hasta Misuri con la misión de lavar 500 millones de dólares en cinco años para apaciguar a un capo de la droga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzkwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29790:4"
+},
+{
+"id": "269816304",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-21",
+"plot": "Un asesor financiero arrastra a su familia de Chicago hasta Misuri con la misión de lavar 500 millones de dólares en cinco años para apaciguar a un capo de la droga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzkwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29790:3"
+},
+{
+"id": "1337900880",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-21",
+"plot": "Un asesor financiero arrastra a su familia de Chicago hasta Misuri con la misión de lavar 500 millones de dólares en cinco años para apaciguar a un capo de la droga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzkwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29790:2"
+},
+{
+"id": "269747583",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-21",
+"plot": "Un asesor financiero arrastra a su familia de Chicago hasta Misuri con la misión de lavar 500 millones de dólares en cinco años para apaciguar a un capo de la droga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29790:1"
+}
+]
+}
+}

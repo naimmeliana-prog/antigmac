@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-10-24",
+"episode_count": 3,
+"id": 1212509589,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUkcOnjp8oHO1MoA0ivw8E45ygF.jpg"
+}
+],
+"info": {
+"name": "ES - Mujer (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUkcOnjp8oHO1MoA0ivw8E45ygF.jpg",
+"plot": "",
+"cast": "",
+"director": "Hande Altaylı",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1433796173",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-24",
+"plot": "Bahar es una joven viuda con dos hijos que vive en un barrio muy pobre. Abandonada por su madre cuando era niña, y tras la muerte accidental de su marido Sarp, tiene que sacar adelante sola a su hija de 8 años, Nisan, y a Doruk, de 3. Y en esta tarea le ayudan su joven vecina, una madre soltera de mala reputación, y su compañera de trabajo, una mujer que ha sido repudiada por su marido. Bahar cae gravemente enferma y, tras veinte años, vuelve a contactar con su madre Hatice, a la que culpa de abandono. Bahar tendrá que hacer frente a los fantasmas del pasado y a su hermana, Sirin, una joven sin escrúpulos a la que no conocía y quien mantenía una relación amorosa con su difunto marido. Cuando Bahar se entera de esta traición, el dolor de la pérdida se transforma en ira y su mundo se derrumba. Pero, hay muchos interrogantes en el camino… ¿realmente falleció su marido?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njg4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35688:3"
+},
+{
+"id": "1140770401",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-24",
+"plot": "Bahar es una joven viuda con dos hijos que vive en un barrio muy pobre. Abandonada por su madre cuando era niña, y tras la muerte accidental de su marido Sarp, tiene que sacar adelante sola a su hija de 8 años, Nisan, y a Doruk, de 3. Y en esta tarea le ayudan su joven vecina, una madre soltera de mala reputación, y su compañera de trabajo, una mujer que ha sido repudiada por su marido. Bahar cae gravemente enferma y, tras veinte años, vuelve a contactar con su madre Hatice, a la que culpa de abandono. Bahar tendrá que hacer frente a los fantasmas del pasado y a su hermana, Sirin, una joven sin escrúpulos a la que no conocía y quien mantenía una relación amorosa con su difunto marido. Cuando Bahar se entera de esta traición, el dolor de la pérdida se transforma en ira y su mundo se derrumba. Pero, hay muchos interrogantes en el camino… ¿realmente falleció su marido?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35688:2"
+},
+{
+"id": "1025361022",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-24",
+"plot": "Bahar es una joven viuda con dos hijos que vive en un barrio muy pobre. Abandonada por su madre cuando era niña, y tras la muerte accidental de su marido Sarp, tiene que sacar adelante sola a su hija de 8 años, Nisan, y a Doruk, de 3. Y en esta tarea le ayudan su joven vecina, una madre soltera de mala reputación, y su compañera de trabajo, una mujer que ha sido repudiada por su marido. Bahar cae gravemente enferma y, tras veinte años, vuelve a contactar con su madre Hatice, a la que culpa de abandono. Bahar tendrá que hacer frente a los fantasmas del pasado y a su hermana, Sirin, una joven sin escrúpulos a la que no conocía y quien mantenía una relación amorosa con su difunto marido. Cuando Bahar se entera de esta traición, el dolor de la pérdida se transforma en ira y su mundo se derrumba. Pero, hay muchos interrogantes en el camino… ¿realmente falleció su marido?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35688:1"
+}
+]
+}
+}

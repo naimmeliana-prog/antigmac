@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-30",
+"episode_count": 1,
+"id": 1487276258,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/911nRtPGapDydZNQuOW4Ok39dCR.jpg"
+}
+],
+"info": {
+"name": "ES - Kingdom of Dreams",
+"cover": "https://image.tmdb.org/t/p/w154/911nRtPGapDydZNQuOW4Ok39dCR.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Green, Camilla Hall",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900593",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1314210588",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-30",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900593",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NjU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29659:1"
+}
+]
+}
+}

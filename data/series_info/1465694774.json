@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-27",
+"episode_count": 3,
+"id": 957990255,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLI7E3f2esXgLN9GjcoPJp4fpSB.jpg"
+}
+],
+"info": {
+"name": "ES - Soy Georgina",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLI7E3f2esXgLN9GjcoPJp4fpSB.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900348",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "885817425",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-27",
+"plot": "Esta es Georgina Rodríguez: madre, influencer, empresaria y pareja de Cristiano Ronaldo. Un retrato emotivo y exhaustivo de su vida cotidiana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900348",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTY4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30968:2"
+},
+{
+"id": "1892031022",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-27",
+"plot": "Esta es Georgina Rodríguez: madre, influencer, empresaria y pareja de Cristiano Ronaldo. Un retrato emotivo y exhaustivo de su vida cotidiana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900348",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTY4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30968:3"
+},
+{
+"id": "936998390",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-27",
+"plot": "Esta es Georgina Rodríguez: madre, influencer, empresaria y pareja de Cristiano Ronaldo. Un retrato emotivo y exhaustivo de su vida cotidiana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900348",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30968:1"
+}
+]
+}
+}

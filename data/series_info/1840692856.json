@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-07-16",
+"episode_count": 1,
+"id": 1990945326,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQXrIVJ8ojWmD0TK937bNS0w8jO.jpg"
+}
+],
+"info": {
+"name": "ES - Zorras",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQXrIVJ8ojWmD0TK937bNS0w8jO.jpg",
+"plot": "",
+"cast": "",
+"director": "Flora González Villanueva, Estíbaliz Burgaleta",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900268",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1204988451",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-16",
+"plot": "‘Zorras’ es una historia que moderniza las historias chick-lit y busca retratar a mujeres reales, con sus inseguridades, pero con ganas de comerse el mundo. Con una clara ambición divulgativa sobre el sexo, ‘Zorras’ no solo es una serie sobre sexo, es ante todo una historia de amistad y sororidad, de la familia que se elige. Sus protagonistas, Alicia, Diana y Emily, no tienen nada que ver. Cada una es de un estrato social distinto, con unas experiencias previas y una personalidad muy diferente. Pero sí tienen algo en común: las mismas ganas de divertirse, de arriesgarse, de liberarse, de empoderarse y probarlo todo. Para ello fundan \"el club de las zorras\" con un objetivo muy claro: cumplir todas sus fantasías sexuales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900268",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34527:1"
+}
+]
+}
+}

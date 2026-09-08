@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-30",
+"episode_count": 1,
+"id": 1148206372,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/5AHnvXfW0mtsm047OP54n4pnV0R.jpg"
+}
+],
+"info": {
+"name": "ES - Caballero Luna",
+"cover": "https://image.tmdb.org/t/p/w154/5AHnvXfW0mtsm047OP54n4pnV0R.jpg",
+"plot": "",
+"cast": "",
+"director": "Jeremy Slater",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900371",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1183343957",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-30",
+"plot": "Steven Grant, un amable empleado de una tienda de regalos, sufre pérdidas de memoria y experimenta recuerdos de otra vida. Steven descubre que tiene un trastorno de identidad disociativo y que comparte cuerpo con el mercenario Marc Spector. A medida que los enemigos de Steven/Marc van convergiendo, debe lidiar con la complejidad de sus identidades mientras se sumerge en un misterio letal que habita entre los poderosos dioses de Egipto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900371",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29919:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-28",
+"episode_count": 2,
+"id": 641915775,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg"
+}
+],
+"info": {
+"name": "ES - La Brea - (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+"plot": "",
+"cast": "",
+"director": "David Appelbaum",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900495",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "686918085",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-28",
+"plot": "An epic adventure begins when a massive sinkhole opens in the middle of Los Angeles, pulling hundreds of people and buildings into its depths. Those who fell in find themselves in a mysterious and dangerous primeval land, where they have no choice but to band together to survive. Meanwhile, the rest of the world desperately seeks to understand what happened. In the search for answers, one family torn apart by this disaster will have to unlock the secrets of this inexplicable event to find a way back to each other.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900495",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0OTUxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24951:2"
+},
+{
+"id": "1442098452",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-28",
+"plot": "An epic adventure begins when a massive sinkhole opens in the middle of Los Angeles, pulling hundreds of people and buildings into its depths. Those who fell in find themselves in a mysterious and dangerous primeval land, where they have no choice but to band together to survive. Meanwhile, the rest of the world desperately seeks to understand what happened. In the search for answers, one family torn apart by this disaster will have to unlock the secrets of this inexplicable event to find a way back to each other.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900495",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0OTUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24951:1"
+}
+]
+}
+}

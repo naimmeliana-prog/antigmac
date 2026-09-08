@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-18",
+"episode_count": 1,
+"id": 386794762,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14N9PkiP1nfInAInbDW5GArk3Po.jpg"
+}
+],
+"info": {
+"name": "ES - WeCrashed",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14N9PkiP1nfInAInbDW5GArk3Po.jpg",
+"plot": "",
+"cast": "",
+"director": "Lee Eisenberg, Drew Crevello",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900472",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1165998432",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-18",
+"plot": "Inspirada en hechos reales, se desarrolla en torno a la historia de amor de sus protagonistas. En menos de una década, WeWork pasó de ser una empresa de coworking a convertirse en una marca global valorada en 47 000 millones de dólares. Solo un año después, su valoración descendió en 40 000 millones. ¿Qué pasó?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32040:1"
+}
+]
+}
+}

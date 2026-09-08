@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2016-01-21",
+"episode_count": 7,
+"id": 1363444921,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/RChURu0ZBfHQ5f5t3aDJiq0M4s.jpg"
+}
+],
+"info": {
+"name": "ES - DC's Legends of Tomorrow",
+"cover": "https://image.tmdb.org/t/p/w154/RChURu0ZBfHQ5f5t3aDJiq0M4s.jpg",
+"plot": "",
+"cast": "",
+"director": "Greg Berlanti, Marc Guggenheim, Phil Klemmer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900477",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1467923353",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-21",
+"plot": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no solo la seguridad del planeta está en juego sino el tiempo mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ4LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30148:7"
+},
+{
+"id": "191286471",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-21",
+"plot": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no solo la seguridad del planeta está en juego sino el tiempo mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ4LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30148:6"
+},
+{
+"id": "743674778",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-21",
+"plot": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no solo la seguridad del planeta está en juego sino el tiempo mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30148:4"
+},
+{
+"id": "731965885",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-21",
+"plot": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no solo la seguridad del planeta está en juego sino el tiempo mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ4LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30148:5"
+},
+{
+"id": "1321050079",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-21",
+"plot": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no solo la seguridad del planeta está en juego sino el tiempo mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30148:3"
+},
+{
+"id": "122672749",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-21",
+"plot": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no solo la seguridad del planeta está en juego sino el tiempo mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30148:2"
+},
+{
+"id": "665675146",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-21",
+"plot": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no solo la seguridad del planeta está en juego sino el tiempo mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30148:1"
+}
+]
+}
+}

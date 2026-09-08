@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-16",
+"episode_count": 1,
+"id": 985390326,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg"
+}
+],
+"info": {
+"name": "ES - Linternas (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+"plot": "",
+"cast": "",
+"director": "Damon Lindelof, Tom King, Chris Mundy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900499",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1493500870",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-16",
+"plot": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900499",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNDUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51450:1"
+}
+]
+}
+}

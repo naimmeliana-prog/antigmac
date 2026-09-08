@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-10",
+"episode_count": 1,
+"id": 497751171,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp1136OQ2mEp2KsEJrZDlXPMk8j.jpg"
+}
+],
+"info": {
+"name": "ES - Secret Level (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp1136OQ2mEp2KsEJrZDlXPMk8j.jpg",
+"plot": "",
+"cast": "",
+"director": "Tim Miller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900428",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "347071570",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-10",
+"plot": "Serie de antología de los creadores de \"Love, Death + Robots\" que adaptará o re-imaginará numerosas propiedades intelectuales de videojuegos en forma de cortos independientes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NzI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38724:1"
+}
+]
+}
+}

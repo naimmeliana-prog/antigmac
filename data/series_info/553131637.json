@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-17",
+"episode_count": 1,
+"id": 969182608,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/urEXILppthZzXnDMu14OPH8N5XJ.jpg"
+}
+],
+"info": {
+"name": "ES - Silencio en plató: El lado oscuro de la televisión infantil",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/urEXILppthZzXnDMu14OPH8N5XJ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900631",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "709935940",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-17",
+"plot": "Descubra la historia no contada del ambiente tóxico y abusivo dentro de la televisión infantil de los 90. Escucha relatos desgarradores de exestrellas infantiles y miembros del equipo que investigan el equilibrio de poder en la industria y revelan una era que infligió heridas duraderas que aún se sienten hoy.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900631",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32275:1"
+}
+]
+}
+}

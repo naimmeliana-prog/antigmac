@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-15",
+"episode_count": 1,
+"id": 1811107744,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZafMspChFB3hESlA5spAAEYmxl.jpg"
+}
+],
+"info": {
+"name": "ES - Todo va bien (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZafMspChFB3hESlA5spAAEYmxl.jpg",
+"plot": "",
+"cast": "",
+"director": "Camille de Castelnau",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900402",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1231829308",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-15",
+"plot": "Una familia corriente se enfrenta a una catástrofe: la grave enfermedad de una de sus hijas. Cada miembro de la familia ve su vida personal impactada por esta prueba. Las catástrofes hacen a las personas más humanas, aunque no necesariamente mejores.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900402",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36018:1"
+}
+]
+}
+}

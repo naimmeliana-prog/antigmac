@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-10-02",
+"episode_count": 2,
+"id": 1290638288,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/nshCqszjTNuqhrB53vrSqWO18sE.jpg"
+}
+],
+"info": {
+"name": "ES - The Gifted: Los elegidos - (2017)",
+"cover": "https://image.tmdb.org/t/p/w154/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Nix",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900399",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1172434960",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-02",
+"plot": "En un mundo en el que los humanos con mutaciones son tratados con miedo y falta de confianza, un instituto de mutantes nace para combatir esta situación y lograr la coexistencia pacífica con la humanidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNjYwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23660:2"
+},
+{
+"id": "1897731990",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-02",
+"plot": "En un mundo en el que los humanos con mutaciones son tratados con miedo y falta de confianza, un instituto de mutantes nace para combatir esta situación y lograr la coexistencia pacífica con la humanidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNjYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23660:1"
+}
+]
+}
+}

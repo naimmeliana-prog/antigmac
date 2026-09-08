@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-08",
+"episode_count": 1,
+"id": 196478336,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udJt7pEBhJ76MiLnt8sI4SxHc3.jpg"
+}
+],
+"info": {
+"name": "ES - The Buccaneers: aristócratas por amor (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udJt7pEBhJ76MiLnt8sI4SxHc3.jpg",
+"plot": "",
+"cast": "",
+"director": "Katherine Jakeways",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900470",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "184370741",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-08",
+"plot": "Un grupo de chicas estadounidenses marchosas irrumpen en la escena del encorsetado Londres de 1870, lo que da lugar a un choque cultural angloamericano. Enviadas a hacerse con maridos y estatus, los corazones de las chicas buscan mucho más que eso.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900470",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5MTIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39120:1"
+}
+]
+}
+}

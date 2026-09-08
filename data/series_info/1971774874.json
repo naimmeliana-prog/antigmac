@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-28",
+"episode_count": 1,
+"id": 867637048,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg"
+}
+],
+"info": {
+"name": "ES - El peor ex imaginable (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900578",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "162353035",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-28",
+"plot": "Desde escalofriantes traiciones hasta tramas de asesinato, esta docuserie de casos reales disecciona el lado oscuro del amor a través del testimonio de testigos presenciales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900578",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1ODg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35888:1"
+}
+]
+}
+}

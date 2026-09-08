@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-30",
+"episode_count": 1,
+"id": 306853399,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://pics.filmaffinity.com/vaka-312983986-mmed.jpg"
+}
+],
+"info": {
+"name": "ES - Wake (2026) (IS)",
+"cover": "https://pics.filmaffinity.com/vaka-312983986-mmed.jpg",
+"plot": "",
+"cast": "",
+"director": "Brynja Björk",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900435",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "69374278",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-30",
+"plot": "Una epidemia de insomnio sume a Estocolmo en el caos. Un primer ministro gestiona la crisis mientras protege a su hijo, una enfermera lucha por salvar a su pareja infectada y una adolescente protege a su vecino en medio de la propagación de la enfermedad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900435",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47743:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2015-11-08",
+"episode_count": 3,
+"id": 975692346,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/rIRxx5L5dVzsGQVtyyWe7OQLSp6.jpg"
+}
+],
+"info": {
+"name": "ES - Blood and Water - (2015)",
+"cover": "https://image.tmdb.org/t/p/w154/rIRxx5L5dVzsGQVtyyWe7OQLSp6.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900278",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1727938568",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-11-08",
+"plot": "Localizada en Vancouver, Columbia Británica, la serie se centra en la detective de homicidios Josephine Bradley. Que tiene que investigar el asesinato de Charlie Xie, el hijo del promotor inmobiliario multimillonario Li-Rong Xie, tras ser diagnosticada de cáncer.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900278",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTkzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22993:3"
+},
+{
+"id": "680167879",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-11-08",
+"plot": "Localizada en Vancouver, Columbia Británica, la serie se centra en la detective de homicidios Josephine Bradley. Que tiene que investigar el asesinato de Charlie Xie, el hijo del promotor inmobiliario multimillonario Li-Rong Xie, tras ser diagnosticada de cáncer.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900278",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTkzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22993:2"
+},
+{
+"id": "141143953",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-11-08",
+"plot": "Localizada en Vancouver, Columbia Británica, la serie se centra en la detective de homicidios Josephine Bradley. Que tiene que investigar el asesinato de Charlie Xie, el hijo del promotor inmobiliario multimillonario Li-Rong Xie, tras ser diagnosticada de cáncer.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900278",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22993:1"
+}
+]
+}
+}

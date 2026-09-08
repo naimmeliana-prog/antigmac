@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-19",
+"episode_count": 3,
+"id": 743111703,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/cy49qWBbivYsP8WbFtaPra90JFw.jpg"
+}
+],
+"info": {
+"name": "ES - Rapa (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/cy49qWBbivYsP8WbFtaPra90JFw.jpg",
+"plot": "",
+"cast": "",
+"director": "Pepe Coira, Fran Araújo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900248",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "105927831",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-19",
+"plot": "Amparo Seoane, la alcaldesa de Cedeira y la mujer con más poder de la zona, es asesinada. Investigar el crimen va a convertirse en una obsesión para Maite, sargento de la guardia civil, y para Tomás, único testigo del asesinato. Para Maite, buscar al asesino es una obligación, es su oficio. Para Tomás, que es profesor de Literatura en el instituto y a quien nadie ha dado vela en este entierro, es la oportunidad –posiblemente la última– de vivir una historia como las que le apasiona leer, y quizá así poder contarla. Ambos abrirán una investigación que afectará al conjunto del pueblo. Todos, de un modo u otro, estaban relacionados con Amparo. Todos tenían algo que ganar o que perder con su muerte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900248",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22968:3"
+},
+{
+"id": "29482792",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-19",
+"plot": "Amparo Seoane, la alcaldesa de Cedeira y la mujer con más poder de la zona, es asesinada. Investigar el crimen va a convertirse en una obsesión para Maite, sargento de la guardia civil, y para Tomás, único testigo del asesinato. Para Maite, buscar al asesino es una obligación, es su oficio. Para Tomás, que es profesor de Literatura en el instituto y a quien nadie ha dado vela en este entierro, es la oportunidad –posiblemente la última– de vivir una historia como las que le apasiona leer, y quizá así poder contarla. Ambos abrirán una investigación que afectará al conjunto del pueblo. Todos, de un modo u otro, estaban relacionados con Amparo. Todos tenían algo que ganar o que perder con su muerte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900248",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22968:2"
+},
+{
+"id": "613346431",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-19",
+"plot": "Amparo Seoane, la alcaldesa de Cedeira y la mujer con más poder de la zona, es asesinada. Investigar el crimen va a convertirse en una obsesión para Maite, sargento de la guardia civil, y para Tomás, único testigo del asesinato. Para Maite, buscar al asesino es una obligación, es su oficio. Para Tomás, que es profesor de Literatura en el instituto y a quien nadie ha dado vela en este entierro, es la oportunidad –posiblemente la última– de vivir una historia como las que le apasiona leer, y quizá así poder contarla. Ambos abrirán una investigación que afectará al conjunto del pueblo. Todos, de un modo u otro, estaban relacionados con Amparo. Todos tenían algo que ganar o que perder con su muerte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900248",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22968:1"
+}
+]
+}
+}

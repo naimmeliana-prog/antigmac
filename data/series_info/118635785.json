@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-01",
+"episode_count": 2,
+"id": 1399193512,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66FijMY6ztvf4p0kwaQnjWqmgZn.jpg"
+}
+],
+"info": {
+"name": "ES - Las cuatro estaciones (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66FijMY6ztvf4p0kwaQnjWqmgZn.jpg",
+"plot": "",
+"cast": "",
+"director": "Tina Fey, Tracey Wigfield, Lang Fisher",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900321",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1173832385",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-01",
+"plot": "La amistad entre tres parejas casadas se pone a prueba cuando una de ellas se divorcia, lo que complica su tradición de hacer escapadas de fin de semana cada tres meses.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzExLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43311:2"
+},
+{
+"id": "1902498656",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-01",
+"plot": "La amistad entre tres parejas casadas se pone a prueba cuando una de ellas se divorcia, lo que complica su tradición de hacer escapadas de fin de semana cada tres meses.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43311:1"
+}
+]
+}
+}

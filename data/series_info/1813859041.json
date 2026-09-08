@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-13",
+"episode_count": 1,
+"id": 1335535858,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/zsF3iHQbG22nMYdsvHnKyoTtEd9.jpg"
+}
+],
+"info": {
+"name": "ES - En el corredor de la muerte (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/zsF3iHQbG22nMYdsvHnKyoTtEd9.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos, Gema R. Neira, Diego Sotelo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900237",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "747592822",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-13",
+"plot": "27 de enero de 1994. Los cuerpos de un hombre y dos modelos de 25 años, aparecen acribillados a tiros en casa del dueño de un club nocturno. La policía encuentra una cámara instalada en el salón de la víctima que ha grabado el asesinato. Esas imágenes son la pista principal de la policía… Por eso, se decide distribuir lo más valiosos que hay en ellas: el rostro borroso de uno de los asaltantes. Tres semanas más tarde, en una comisaría de otro distrito, un agente cree reconocer a uno de los asesinos: es Pablo Ibar, un hombre de nacionalidad española al que acababan de detener junto a unos amigos por un robo menor. Pablo asegura que es inocente. Ninguna de las pruebas halladas en el lugar del crimen lo inculpan… Pero de nada sirve. Pablo es condenado y enviado al corredor de la muerte. Esta es la historia de lucha de un hombre por demostrar su inocencia. La historia de una familia que nunca se ha rendido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900237",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22903:1"
+}
+]
+}
+}

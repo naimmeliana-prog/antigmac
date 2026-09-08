@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-05",
+"episode_count": 1,
+"id": 1154361301,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxntXFQ6SqY4celQejnUC9y6TQ3.jpg"
+}
+],
+"info": {
+"name": "ES - Terrazza Sentimento: Del esplendor al horror (2025) (IT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxntXFQ6SqY4celQejnUC9y6TQ3.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900634",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1256062737",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-05",
+"plot": "Una de las fiestas más exclusivas de Milán da un giro cuando una mujer denuncia una agresión sexual. Este documental narra la investigación posterior.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900634",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46550:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-27",
+"episode_count": 1,
+"id": 213983680,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/38GJwxPbhtJQ71FPJBZUkfBnmpd.jpg"
+}
+],
+"info": {
+"name": "ES - Mi Lady Jane (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/38GJwxPbhtJQ71FPJBZUkfBnmpd.jpg",
+"plot": "",
+"cast": "",
+"director": "Gemma Burgess",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900424",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "501682622",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-27",
+"plot": "\"My Lady Jane\" es una reinterpretación histórica donde Eduardo VI no muere de tuberculosis, Jane Grey no es decapitada, y su esposo Guildford tampoco sufre ese destino. En esta nueva versión, Jane, una mujer brillante y decidida, se convierte en reina de la noche a la mañana y se ve acechada por infames villanos que ansían su corona y su vida. Esta epopeya de amor y aventuras narra cómo una damisela en apuros lucha por salvarse a sí misma, su amor y, en última instancia, su reino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Njg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34686:1"
+}
+]
+}
+}

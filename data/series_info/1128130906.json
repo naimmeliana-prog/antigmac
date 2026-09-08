@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-26",
+"episode_count": 1,
+"id": 797363975,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg"
+}
+],
+"info": {
+"name": "ES - Love Me",
+"cover": "https://image.tmdb.org/t/p/w154/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+"plot": "",
+"cast": "",
+"director": "Josephine Bornebusch",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900423",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "381130988",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-26",
+"plot": "Los Mathieson, Clara (30), Glen (60) y Aaron (20), se encuentran en una encrucijada emocional luego de un evento inesperado que cambia sus vidas para siempre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28471:1"
+}
+]
+}
+}

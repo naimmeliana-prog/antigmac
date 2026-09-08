@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-31",
+"episode_count": 1,
+"id": 1052776637,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aenXNoToZ1WMmAuHMD3ASa7iajz.jpg"
+}
+],
+"info": {
+"name": "ES - Chicas desaparecidas: El asesino en serie de Long Island (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aenXNoToZ1WMmAuHMD3ASa7iajz.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900281",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1994706518",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-31",
+"plot": "Esta tensa serie de crímenes reales narra la búsqueda del asesino en serie de Long Island a través de la perspectiva de sus víctimas, los allegados y la policía.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900281",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42740:1"
+}
+]
+}
+}

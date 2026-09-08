@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-09",
+"episode_count": 1,
+"id": 1903244254,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/evKsJmlC4fRhARcnVbngygV40sE.jpg"
+}
+],
+"info": {
+"name": "ES - Vuelve a mí",
+"cover": "https://image.tmdb.org/t/p/w154/evKsJmlC4fRhARcnVbngygV40sE.jpg",
+"plot": "",
+"cast": "",
+"director": "Sergio Mendoza",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900358",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1378572423",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-09",
+"plot": "Nuria, una mujer de escasos recursos, emprende una corta relación con Braulio sin saber que es uno de los dueños de la empresa donde trabaja para poder mantener a su hijo y hermana. Las vidas de los personajes principales se empiezan a entrelazar tras el trágico secuestro de Andrés, el hijo de Nuria. En este drama lleno de vínculos amorosos, el amor incondicional de una madre por su hijo se convertirá en el hilo conductor de la historia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30379:1"
+}
+]
+}
+}

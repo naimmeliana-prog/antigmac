@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2015-09-14",
+"episode_count": 3,
+"id": 682167483,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg"
+}
+],
+"info": {
+"name": "ES - Merlí",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg",
+"plot": "",
+"cast": "",
+"director": "Héctor Lozano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900265",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "844854312",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-14",
+"plot": "Merlí es un profesor de una materia denostada y apreciada a partes iguales, filosofía. Un tipo contradictorio, y con virtudes y defectos a la par. La producción se centra en la relación del maestro con sus alumnos y, sobre todo, en «los conflictos entre padres e hijos, estudiantes y profesores...»",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900265",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTIyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34522:3"
+},
+{
+"id": "123743355",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-14",
+"plot": "Merlí es un profesor de una materia denostada y apreciada a partes iguales, filosofía. Un tipo contradictorio, y con virtudes y defectos a la par. La producción se centra en la relación del maestro con sus alumnos y, sobre todo, en «los conflictos entre padres e hijos, estudiantes y profesores...»",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900265",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTIyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34522:2"
+},
+{
+"id": "1904678284",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-14",
+"plot": "Merlí es un profesor de una materia denostada y apreciada a partes iguales, filosofía. Un tipo contradictorio, y con virtudes y defectos a la par. La producción se centra en la relación del maestro con sus alumnos y, sobre todo, en «los conflictos entre padres e hijos, estudiantes y profesores...»",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900265",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34522:1"
+}
+]
+}
+}

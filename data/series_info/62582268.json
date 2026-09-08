@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-13",
+"episode_count": 1,
+"id": 53009038,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fORqf1CdugrD5oHnGYL24VZktFQ.jpg"
+}
+],
+"info": {
+"name": "ES - Dexter: Resurrección (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fORqf1CdugrD5oHnGYL24VZktFQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Clyde Phillips",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900524",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "325682309",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-13",
+"plot": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900524",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1MDk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45098:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-11",
+"episode_count": 1,
+"id": 879985140,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/13mzHeYbpIRMZFdgK7qcED0CVvQ.jpg"
+}
+],
+"info": {
+"name": "ES - La confidente (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/13mzHeYbpIRMZFdgK7qcED0CVvQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Samuel Doux, Jean-Baptiste Delafon, Fanny Burdino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900497",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1127328789",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-11",
+"plot": "Inspirado en hechos reales, este thriller psicológico sigue a Christelle «Chris» Blandin, una parisina obsesionada con la música rock que, tras ser testigo de los desgarradores atentados terroristas del 13 de noviembre de 2015, se une rápidamente a una comunidad de supervivientes. Afirmando que su mejor amigo Vincent fue uno de las docenas de heridos graves en el Teatro Bataclan, Chris se convierte en un recurso indispensable para el grupo, abriéndose camino hasta un papel destacado en una asociación de supervivientes. Aunque su compromiso parece implacable, las discrepancias empiezan a salpicar su historia, lo que suscita serias dudas entre las verdaderas víctimas de la tragedia. El confidente, una miniserie de cuatro capítulos que invita a la reflexión, cuestiona la naturaleza misma de la verdad... y la red de mentiras que deja tras de sí una mujer.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900497",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37850:1"
+}
+]
+}
+}

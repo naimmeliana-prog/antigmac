@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-12",
+"episode_count": 1,
+"id": 372147931,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2khl08Y9ZCsapnRQsfNJzwurmxk.jpg"
+}
+],
+"info": {
+"name": "ES - Ángel Di María: Romper la pared (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2khl08Y9ZCsapnRQsfNJzwurmxk.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900641",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "288178779",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-12",
+"plot": "Esta serie documental narra la vida y la carrera del mítico futbolista argentino, desde sus humildes orígenes hasta que se convirtió en campeón del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900641",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37010:1"
+}
+]
+}
+}

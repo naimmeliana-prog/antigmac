@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "N/A",
+"episode_count": 1,
+"id": 810571737,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAK_WlNjpLP9-MaYTsjBdXiCOt3ERSc4PgUg&s"
+}
+],
+"info": {
+"name": "ES - Mucha mierda (2024)",
+"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAK_WlNjpLP9-MaYTsjBdXiCOt3ERSc4PgUg&s",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900618",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "91003682",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "4 de febrero de 1975. Es el primer día de una huelga histórica de actrices y actores que paralizará la actividad teatral del país durante nueve días. Exigen librar un día, menor número de representaciones a la semana y mejores condiciones salariales. Lo que comienza siendo una reivindicación sectorial se convierte en un desafío político. Concha Velasco, Juan Diego, Tina Sainz, Rocío Dúrcal, Ana Belén, Alicia Sánchez o José Sacristán son solo algunos de los artistas que estuvieron arriesgando su carrera y su libertad. Esta es la historia, narrada por sus protagonistas, como nunca antes se ha contado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900618",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42747:1"
+}
+]
+}
+}

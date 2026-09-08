@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-12",
+"episode_count": 1,
+"id": 1100513804,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/6MbwSMCuaBnwwpNZssGUP8mDGi1.jpg"
+}
+],
+"info": {
+"name": "ES - La maldición del Windsor",
+"cover": "https://image.tmdb.org/t/p/w154/6MbwSMCuaBnwwpNZssGUP8mDGi1.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900601",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1831179852",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-12",
+"plot": "En 2005 uno de los rascacielos más icónicos de España, la torre Windsor, ardió por completo en directo por televisión. Las llamas abrieron la puerta a todo tipo de hipótesis. ¿Fue un accidente o un sabotaje?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30270:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-14",
+"episode_count": 1,
+"id": 1393623719,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/znq1gVSpGj9pmuhmkRoLbQgLr9A.jpg"
+}
+],
+"info": {
+"name": "ES - Los Protegidos: Un nuevo poder (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/znq1gVSpGj9pmuhmkRoLbQgLr9A.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900263",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "389943478",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-14",
+"plot": "La familia Castillo Rey se enfrenta a un enemigo que pone en peligro su estabilidad: Max, un joven con un poder desconocido que utiliza un muñeco encantado para sembrar el caos por toda la ciudad. A la vez, tendrán que lidiar con retos personales y familiares que pondrán a prueba su unidad y su vínculo como grupo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900263",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47090:1"
+}
+]
+}
+}

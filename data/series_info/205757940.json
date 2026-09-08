@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024",
+"episode_count": 1,
+"id": 1766877558,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://m.media-amazon.com/images/M/MV5BNWY2NDBhYTUtZTI3ZS00Zjg4LTlhM2UtZDI1M2Q1NWJkYTM2XkEyXkFqcGc@._V1_.jpg"
+}
+],
+"info": {
+"name": "ES - El Legado (2024)",
+"cover": "https://m.media-amazon.com/images/M/MV5BNWY2NDBhYTUtZTI3ZS00Zjg4LTlhM2UtZDI1M2Q1NWJkYTM2XkEyXkFqcGc@._V1_.jpg",
+"plot": "",
+"cast": "",
+"director": "Yeon Sang-ho (Creador), Min Hong-nam (Creador), Hwang Eun-young (Creador), Min Hong-nam",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900288",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1469061917",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024",
+"plot": "Miniserie de TV (2024). 6 episodios. Una mujer se ve involucrada en una serie de asesinatos y secretos oscuros tras heredar un cementerio de un tío que no conocía.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900288",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36003:1"
+}
+]
+}
+}

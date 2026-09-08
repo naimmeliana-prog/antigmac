@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-09",
+"episode_count": 1,
+"id": 1752625905,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqaR0eFaccPNKwwF7UsfoxszcUm.jpg"
+}
+],
+"info": {
+"name": "ES - Crímenes: Bellvitge (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqaR0eFaccPNKwwF7UsfoxszcUm.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900570",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "261969244",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-09",
+"plot": "El 5 de octubre de 2004, los Bomberos reciben la alerta de un incendio en un piso del barrio de Bellvitge, en L'Hospitalet de Llobregat. En descubrir los cuerpos de dos mujeres, no tardan en alertar a los Mossos d'Esquadra, que encuentran a las víctimas atadas, amordazadas y con múltiples heridas de arma blanca. Pronto averiguan que se trata de dos agentes en prácticas del Cuerpo Nacional de Policía que han sido asesinadas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900570",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47954:1"
+}
+]
+}
+}

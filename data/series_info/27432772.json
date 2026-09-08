@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-03",
+"episode_count": 1,
+"id": 1602050853,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
+}
+],
+"info": {
+"name": "ES - Samurái de ojos azules (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Green, Amber Noizumi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900343",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "844029011",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-03",
+"plot": "La convirtieron en una paria en el Japón del periodo Edo. Ahora, una joven espadachina sedienta de venganza recorre un camino sangriento hacia su destino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900343",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37039:1"
+}
+]
+}
+}

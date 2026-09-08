@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-12-05",
+"episode_count": 2,
+"id": 1514601302,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnL7Y7P0jzLIGNsSi2K0AhFU2WB.jpg"
+}
+],
+"info": {
+"name": "ES - Merlí. Sapere Aude (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnL7Y7P0jzLIGNsSi2K0AhFU2WB.jpg",
+"plot": "",
+"cast": "",
+"director": "Héctor Lozano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900244",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1071745772",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-05",
+"plot": "Sigue la historia de Pol Rubio, el alumno preferido de Merlín Bergeron, de la serie \"Merlín\". Pol sigue los pasos de su antiguo profesor y comienza la carrera de Filosofía en la Universidad de Barcelona. Pol se encontrará con nuevos amigos, nuevos colegas y nuevos maestros, nuevos conflictos, su complicada familia y su nueva relación con Bruno. En esta nueva etapa será clave el encuentro con María Bolaño, una ácida profesora que verá el gran potencial de Pol y lo marcará de manera definitiva. Bolaño presiona constantemente a Pol, y lo obliga a desprenderse de su actitud pijo y encarar su nueva vida de manera adulta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900244",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDM3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37037:2"
+},
+{
+"id": "1597866571",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-05",
+"plot": "Sigue la historia de Pol Rubio, el alumno preferido de Merlín Bergeron, de la serie \"Merlín\". Pol sigue los pasos de su antiguo profesor y comienza la carrera de Filosofía en la Universidad de Barcelona. Pol se encontrará con nuevos amigos, nuevos colegas y nuevos maestros, nuevos conflictos, su complicada familia y su nueva relación con Bruno. En esta nueva etapa será clave el encuentro con María Bolaño, una ácida profesora que verá el gran potencial de Pol y lo marcará de manera definitiva. Bolaño presiona constantemente a Pol, y lo obliga a desprenderse de su actitud pijo y encarar su nueva vida de manera adulta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900244",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37037:1"
+}
+]
+}
+}

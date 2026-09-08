@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-01-18",
+"episode_count": 1,
+"id": 1629368936,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuuz7ny7XRWQSEm4bp5QPRG7ApV.jpg"
+}
+],
+"info": {
+"name": "ES - OVNI(s) (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuuz7ny7XRWQSEm4bp5QPRG7ApV.jpg",
+"plot": "",
+"cast": "",
+"director": "Marie Eynard, Julien Anscutter, Clémence Madeleine-Perdrillat",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900245",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "842475063",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-18",
+"plot": "Cuando los sueños de Didier Mathure, un brillante ingeniero espacial, literalmente se esfuman cuando su cohete explota al despegar, lo transfieren a dirigir GEPAN, una unidad especializada en ovnis. Tiene la tarea de encontrar explicaciones científicas para los avistamientos de ovnis que actualmente dominan los titulares. Este es un trabajo de pesadilla para un racionalista acérrimo como él, y está decidido a encontrar una salida tan pronto como pueda.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900245",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37038:1"
+}
+]
+}
+}

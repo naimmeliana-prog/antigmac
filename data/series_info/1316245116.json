@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-19",
+"episode_count": 1,
+"id": 551086010,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TI24Sh00N6V7lyra0gilWNVOEL.jpg"
+}
+],
+"info": {
+"name": "ES - Chernóbil: En el corazón del desastre (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TI24Sh00N6V7lyra0gilWNVOEL.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "152393753",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-19",
+"plot": "Con motivo del 40º aniversario del peor desastre nuclear de la historia, una explosión que liberó 400 veces más material radiactivo que Hiroshima y Nagasaki juntas, y gracias a un acceso sin precedentes, las cámaras de National Geographic se adentran en la zona de exclusión, desde la planta nuclear de Chernóbil hasta la ciudad fantasma de Prípiat. Acompañamos a testigos clave en su regreso al lugar que marcó sus vidas para siempre… y revelamos por qué la historia de Chernóbil está lejos de haber terminado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49042:1"
+}
+]
+}
+}

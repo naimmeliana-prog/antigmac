@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-09",
+"episode_count": 2,
+"id": 775598432,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS7HrhzRpFKCTaaPP58lw39yPSl.jpg"
+}
+],
+"info": {
+"name": "ES - You",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS7HrhzRpFKCTaaPP58lw39yPSl.jpg",
+"plot": "",
+"cast": "",
+"director": "Greg Berlanti, Sera Gamble",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900359",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "12881173",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-09",
+"plot": "Cuando un brillante administrador de librería se cruza con un aspirante a escritor, utiliza Internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo rápidamente se convierte en obsesión mientras quita silenciosamente y estratégicamente cada obstáculo, y persona, en su camino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900359",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTQwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30940:2"
+},
+{
+"id": "571412699",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-09",
+"plot": "Cuando un brillante administrador de librería se cruza con un aspirante a escritor, utiliza Internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo rápidamente se convierte en obsesión mientras quita silenciosamente y estratégicamente cada obstáculo, y persona, en su camino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900359",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30940:1"
+}
+]
+}
+}

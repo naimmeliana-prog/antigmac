@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-04-13",
+"episode_count": 3,
+"id": 476254076,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/qv2PvsVjLttp4FmUUJ1G9d11qTe.jpg"
+}
+],
+"info": {
+"name": "ES - Lost in Space",
+"cover": "https://image.tmdb.org/t/p/w154/qv2PvsVjLttp4FmUUJ1G9d11qTe.jpg",
+"plot": "",
+"cast": "",
+"director": "Irwin Allen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900326",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1743800331",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-13",
+"plot": "Tras un aterrizaje forzoso en un planeta desconocido, la familia Robinson lucha desesperadamente por sobrevivir y escapar, pero está rodeada de peligros ocultos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900326",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTAxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30101:3"
+},
+{
+"id": "1360812231",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-13",
+"plot": "Tras un aterrizaje forzoso en un planeta desconocido, la familia Robinson lucha desesperadamente por sobrevivir y escapar, pero está rodeada de peligros ocultos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900326",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30101:1"
+},
+{
+"id": "3758257",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-13",
+"plot": "Tras un aterrizaje forzoso en un planeta desconocido, la familia Robinson lucha desesperadamente por sobrevivir y escapar, pero está rodeada de peligros ocultos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900326",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTAxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30101:2"
+}
+]
+}
+}

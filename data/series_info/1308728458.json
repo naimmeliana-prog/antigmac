@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-14",
+"episode_count": 1,
+"id": 1424910707,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqUvfOQtaffnkQL0ZVKPD7Z1KIR.jpg"
+}
+],
+"info": {
+"name": "ES - Margo tiene problemas de dinero (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqUvfOQtaffnkQL0ZVKPD7Z1KIR.jpg",
+"plot": "",
+"cast": "",
+"director": "David E. Kelley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900461",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "14058470",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-14",
+"plot": "La escritora en ciernes Margo Millet se queda embarazada, lo que la obliga a dejar la universidad y la lleva a la ruina. Pero cuando aparece su padre, un ex luchador profesional con el que no tenía relación, Margo halla una forma inesperada de rentabilizar su talento para contar historias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900461",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49079:1"
+}
+]
+}
+}

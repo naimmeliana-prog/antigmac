@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-20",
+"episode_count": 2,
+"id": 126446234,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NePcLwHWeDgx2rpE4Vro9gk0CZ.jpg"
+}
+],
+"info": {
+"name": "ES - Homicidio (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NePcLwHWeDgx2rpE4Vro9gk0CZ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900587",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "5543416",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-20",
+"plot": "En esta escalofriante docuserie sobre crímenes reales del creador de ‘Ley y orden’, policías y fiscales rememoran los casos de homicidio más complicados de sus carreras.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900587",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDc1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35075:2"
+},
+{
+"id": "357692795",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-20",
+"plot": "En esta escalofriante docuserie sobre crímenes reales del creador de ‘Ley y orden’, policías y fiscales rememoran los casos de homicidio más complicados de sus carreras.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900587",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35075:1"
+}
+]
+}
+}

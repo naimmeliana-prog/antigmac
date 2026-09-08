@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-05",
+"episode_count": 1,
+"id": 1546226378,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/z8jFZLTxDkjnw9BY1ewVERQEKVw.jpg"
+}
+],
+"info": {
+"name": "ES - Matar al Presidente (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/z8jFZLTxDkjnw9BY1ewVERQEKVw.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900614",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1170220625",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-05",
+"plot": "La mañana del 20 de diciembre de 1973, un atentado de la organización terrorista ETA acabó con la vida del Almirante Luis Carrero Blanco, en ese momento el Presidente del Gobierno de España y uno de los colaboradores más cercanos al dictador Francisco Franco. En el mismo, perdieron también la vida el chófer (José Luis Pérez Mogena) y el escolta (Juan Antonio Bueno) de Carrero Blanco.\r\n\r\nEl magnicidio tuvo consecuencias decisivas en la deriva del régimen y en los hechos inmediatamente posteriores que marcaron el rumbo hacia la Transición democrática. Sin embargo, nunca se dictó una sentencia y el caso ha sido fuente de todo tipo de interpretaciones, generadas por errores inexplicables en la investigación, fallos en los cuerpos de seguridad del Estado, desaparición y manipulación de documentos e incluso dudas sobre la autoría en solitario de ETA.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900614",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29043:1"
+}
+]
+}
+}

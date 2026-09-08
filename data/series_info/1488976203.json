@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-06",
+"episode_count": 1,
+"id": 1373575088,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7viRN1PhYEuNdIaVCUcnnxv5l7.jpg"
+}
+],
+"info": {
+"name": "ES - La franquicia (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7viRN1PhYEuNdIaVCUcnnxv5l7.jpg",
+"plot": "",
+"cast": "",
+"director": "Sam Mendes, Armando Iannucci",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900498",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "432362695",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-06",
+"plot": "El equipo de una franquicia de películas poco querida lucha por su lugar en un universo cinematográfico salvaje y rebelde. La serie arroja luz sobre el caos secreto dentro del mundo del cine de superhéroes y plantea la pregunta: ¿cómo se hace exactamente la salchicha cinematográfica? Porque cada cagada tiene una historia de origen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900498",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37256:1"
+}
+]
+}
+}

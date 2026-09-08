@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-12",
+"episode_count": 1,
+"id": 1063288960,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/graJnuQ6HrYIjMbEBROassoWzeh.jpg"
+}
+],
+"info": {
+"name": "ES - La tragedia del Columbia (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/graJnuQ6HrYIjMbEBROassoWzeh.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900601",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "455902454",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-12",
+"plot": "En 2003, el transbordador espacial Columbia se desintegra en el cielo de Estados Unidos. Las familias de los astronautas y el personal de la NASA comparten historias personales sobre el lanzamiento, el desastre que se desarrolló y sus consecuencias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35627:1"
+}
+]
+}
+}

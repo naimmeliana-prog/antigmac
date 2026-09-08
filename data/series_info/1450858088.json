@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-19",
+"episode_count": 2,
+"id": 990397951,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1bDdGKw4VBZLv31mUYoxuy4rKx.jpg"
+}
+],
+"info": {
+"name": "ES - Los protegidos: El regreso",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1bDdGKw4VBZLv31mUYoxuy4rKx.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900264",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "271124287",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-19",
+"plot": "Han pasado diez años desde que la familia Castillo Rey tuvo un final feliz. Pero la vida continúa y el paso del tiempo, el destino y un suceso desconocido que descubriremos durante esta nueva etapa, fueron separándoles. Ahora, una grave amenaza se cierne sobre ellos, lo que les enfrentará a una nueva misión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900264",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34453:1"
+},
+{
+"id": "329983253",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-19",
+"plot": "Han pasado diez años desde que la familia Castillo Rey tuvo un final feliz. Pero la vida continúa y el paso del tiempo, el destino y un suceso desconocido que descubriremos durante esta nueva etapa, fueron separándoles. Ahora, una grave amenaza se cierne sobre ellos, lo que les enfrentará a una nueva misión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900264",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDUzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34453:2"
+}
+]
+}
+}

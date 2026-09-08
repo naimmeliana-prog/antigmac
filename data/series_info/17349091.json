@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-08",
+"episode_count": 1,
+"id": 156463453,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg"
+}
+],
+"info": {
+"name": "ES - La red púrpura",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900262",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1842378719",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-08",
+"plot": "La inspectora Elena Blanco descubre que su hijo Lucas está vivo y pertenece a Red Púrpura. La inspectora lo oculta a su equipo; solo Mariajo conoce la verdad. La BAC ha sido penalizada por el desenlace del caso Macaya, siendo trasladados a otra nave y lo único que pueden hacer es tirar de ese hilo que les dejó Vistas, una red que se oculta en las profundidades de internes. Niños secuestrados, menores sin futuro, tratas de mujeres… la mercancía se negocia, los espectadores pagan y hasta se puja por los desenlaces de las víctimas. La BAC sufrirá las consecuencias de hurgar donde no debe. El equipo no volverá a ser el mismo, todos arriesgarán, pero pueden perder demasiado por meterse en la profunda red.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900262",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34445:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-30",
+"episode_count": 1,
+"id": 1468205406,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcq1FEFSO8Xwkv6kAttMDZZv5DJ.jpg"
+}
+],
+"info": {
+"name": "ES - Millennial Mal (LQ) (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcq1FEFSO8Xwkv6kAttMDZZv5DJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Lorena Iglesias",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900536",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "896963674",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-30",
+"plot": "Judith, una bibliotecaria en paro de 42 años, tiene que volver a la universidad para cobrar una beca que le conceden por un error burocrático. Atrapada en los códigos del mundo universitario, y con el fin de ocultar su edad, se somete a un cambio de imagen ideado por dos veinteañeras, lo que hará que acabe creyéndose su propio personaje.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900536",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNDk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50496:1"
+}
+]
+}
+}

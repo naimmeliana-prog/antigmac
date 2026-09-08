@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-14",
+"episode_count": 1,
+"id": 662959756,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrNdOifgpKsLeUWgljARXGHCG5x.jpg"
+}
+],
+"info": {
+"name": "ES - The Tyrant (2024) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrNdOifgpKsLeUWgljARXGHCG5x.jpg",
+"plot": "",
+"cast": "",
+"director": "박훈정",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900401",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1299608414",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-14",
+"plot": "EE. UU. descubre un proyecto secreto de Corea, por lo que este se desmantela. Un accidente impide la entrega del último ejemplar del proyecto. Mientras Paul lo busca, el director Choe intenta ocultarlo, pero acaban en el mismo sitio que Jagyeong y Lim Sang. ¿Quién se apoderará del ejemplar?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900401",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NDgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44480:1"
+}
+]
+}
+}

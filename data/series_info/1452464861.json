@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-11",
+"episode_count": 1,
+"id": 1675716134,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYtbH9Q5DaCDqzkB483dmYjfkA3.jpg"
+}
+],
+"info": {
+"name": "ES - Cien años de soledad (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYtbH9Q5DaCDqzkB483dmYjfkA3.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900281",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1616644479",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-11",
+"plot": "En el atemporal pueblo de Macondo, siete generaciones de la familia Buendía transitan entre el amor, el olvido, un pasado ineludible... y el destino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900281",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38897:1"
+}
+]
+}
+}

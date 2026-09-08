@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-29",
+"episode_count": 4,
+"id": 1527862205,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/VhACYfMldohwyMo0XzmCs1xYgU.jpg"
+}
+],
+"info": {
+"name": "ES - El padrino de Harlem",
+"cover": "https://image.tmdb.org/t/p/w154/VhACYfMldohwyMo0XzmCs1xYgU.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Brancato, Paul Eckstein",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900486",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "314790770",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-29",
+"plot": "Cuenta la historia del infame jefe del crimen Bumpy Johnson, quien a principios de la década de 1960 regresó de cumplir una condena de diez años de prisión, para encontrar el vecindario que una vez gobernó en ruinas. Con las calles controladas por la mafia italiana, Bumpy debe enfrentarse a la familia criminal Genovese para recuperar el control.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900486",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29854:4"
+},
+{
+"id": "840323682",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-29",
+"plot": "Cuenta la historia del infame jefe del crimen Bumpy Johnson, quien a principios de la década de 1960 regresó de cumplir una condena de diez años de prisión, para encontrar el vecindario que una vez gobernó en ruinas. Con las calles controladas por la mafia italiana, Bumpy debe enfrentarse a la familia criminal Genovese para recuperar el control.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900486",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29854:3"
+},
+{
+"id": "274637409",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-29",
+"plot": "Cuenta la historia del infame jefe del crimen Bumpy Johnson, quien a principios de la década de 1960 regresó de cumplir una condena de diez años de prisión, para encontrar el vecindario que una vez gobernó en ruinas. Con las calles controladas por la mafia italiana, Bumpy debe enfrentarse a la familia criminal Genovese para recuperar el control.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900486",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29854:2"
+},
+{
+"id": "480600512",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-29",
+"plot": "Cuenta la historia del infame jefe del crimen Bumpy Johnson, quien a principios de la década de 1960 regresó de cumplir una condena de diez años de prisión, para encontrar el vecindario que una vez gobernó en ruinas. Con las calles controladas por la mafia italiana, Bumpy debe enfrentarse a la familia criminal Genovese para recuperar el control.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900486",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29854:1"
+}
+]
+}
+}

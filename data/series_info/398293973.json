@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-29",
+"episode_count": 1,
+"id": 75752456,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVjcFke33khnnewk50c5ZCqUvGG.jpg"
+}
+],
+"info": {
+"name": "ES - Hinchas enemigos (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVjcFke33khnnewk50c5ZCqUvGG.jpg",
+"plot": "",
+"cast": "",
+"director": "Klaudiusz Kuś",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900303",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "4915349",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-29",
+"plot": "Kuba tiene solo 17 años cuando su padre sale de prisión y le cuesta no seguir con el mismo legado hincha de su padre. En el fondo, el fútbol también es familia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900303",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41329:1"
+}
+]
+}
+}

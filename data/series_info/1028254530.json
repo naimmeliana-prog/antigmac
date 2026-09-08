@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-02",
+"episode_count": 1,
+"id": 476935696,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dohnZtGyvd7bSYX9zncyzCYdC98.jpg"
+}
+],
+"info": {
+"name": "ES - El tatuador de Auschwitz (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dohnZtGyvd7bSYX9zncyzCYdC98.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900526",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1219114534",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-02",
+"plot": "Inspirada en hechos reales, cuenta la insólita historia de amor de Lali y Gita Sokolov, dos judíos eslovacos que sobrevivieron al Holocausto. En 1942, Lali llega al campo de concentración y exterminio de Auschwitz-Birkenau, donde lo ponen a trabajar con los “tätowierer”, los encargados de tatuar a cada prisionero su número de identificación al llegar. Un día conoce a Gita, una joven de la que se queda prendado a primera vista cuando le toca tatuarle su número. Sesenta años después, un recién enviudado Lali conoce a una novelista llamada Heather Morris y decide que es momento de contarle al mundo la impresionante historia de su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900526",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34956:1"
+}
+]
+}
+}

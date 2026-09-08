@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-12",
+"episode_count": 1,
+"id": 1109485885,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxI6kVyiS6nThUZwV80nhygzU6E.jpg"
+}
+],
+"info": {
+"name": "ES - Sra. Playmen (2025) (IT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxI6kVyiS6nThUZwV80nhygzU6E.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900348",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1170872687",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-12",
+"plot": "Traicionada por su marido, una mujer debe dirigir una revista erótica que en la Roma de los 70 se convierte en un símbolo de empoderamiento. Inspirada en hechos reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900348",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46542:1"
+}
+]
+}
+}

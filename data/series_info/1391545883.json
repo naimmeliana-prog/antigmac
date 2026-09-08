@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-06",
+"episode_count": 1,
+"id": 814855682,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdaRDDaFb1AhuETBM49A1FZiSdJ.jpg"
+}
+],
+"info": {
+"name": "ES - La reina de la confianza (2025) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdaRDDaFb1AhuETBM49A1FZiSdJ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900422",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "316004242",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-06",
+"plot": "En un mundo lleno de villanos y víctimas, tres estafadores luchan contra la codicia. Solo roban a los malos sin buscar venganza. ¿Qué pasaría si el crimen se convirtiera en un juego y la justicia en un truco? Bienvenido al mundo de La reina de la confianza. Yi-rang es la líder. James, el profesional, y Gu-ho, el justo. Recuerda: no confíes en lo que ves y no caigas en la trampa de un estafador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900422",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45621:1"
+}
+]
+}
+}

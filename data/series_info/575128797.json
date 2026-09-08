@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-08",
+"episode_count": 1,
+"id": 261931273,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/woZiAKaWDb3mm5JwNXcQ3MExWU0.jpg"
+}
+],
+"info": {
+"name": "ES - Ms. Marvel",
+"cover": "https://image.tmdb.org/t/p/w154/woZiAKaWDb3mm5JwNXcQ3MExWU0.jpg",
+"plot": "",
+"cast": "",
+"director": "Bisha K. Ali",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900391",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1555826662",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-08",
+"plot": "Una gran estudiante, ávida jugadora y voraz escritora de fan-fic, Kamala Khan tiene una afinidad especial por los superhéroes, en particular por la Capitana Marvel. Sin embargo, lucha por encajar en casa y en la escuela, es decir, hasta que obtiene superpoderes como los héroes que siempre ha admirado. La vida es más fácil con superpoderes, ¿verdad?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900391",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29929:1"
+}
+]
+}
+}

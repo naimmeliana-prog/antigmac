@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-03",
+"episode_count": 1,
+"id": 1727901151,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axSGysoo3CW3P1QnAxQrY1h7kWq.jpg"
+}
+],
+"info": {
+"name": "ES - La nueva brigada (2025) (SE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axSGysoo3CW3P1QnAxQrY1h7kWq.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900312",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "860469145",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-03",
+"plot": "Año 1958: se gradúan las primeras mujeres policía de Suecia. Un pequeño grupo de pioneras dan un gran paso por la igualdad de género, pero también lidian con otros cambios más pequeños, ya que las faldas que se ven obligadas a llevar rozan como papel de lija contra sus muslos. La sociedad las ridiculiza, los medios las infravaloran y sus compañeros las desprecian. Las nuevas reclutas son destinadas al barrio con mayor delincuencia del país: el distrito policial de Klara en Estocolmo. Cuando empiezan a patrullar las calles de la capital, pronto se dan cuenta de que su mayor problema no son los delincuentes: la resistencia proviene de los compañeros y la sociedad en general.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900312",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45646:1"
+}
+]
+}
+}

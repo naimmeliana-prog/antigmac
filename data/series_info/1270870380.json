@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-16",
+"episode_count": 1,
+"id": 1609451561,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QzuQqYF7SN4H8IxqfMUfz5A64V.jpg"
+}
+],
+"info": {
+"name": "ES - Camaleón: El pasado no cambia (2025) (AR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QzuQqYF7SN4H8IxqfMUfz5A64V.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900372",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "996671578",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-16",
+"plot": "Sabrina, una periodista de investigación, lleva una vida estable junto a su hija y su marido. Sin embargo, su mundo colapsa con la reaparición de Salvador Carvallo, un famoso artista y amigo de su madre Iris, que reabre en Sabrina capítulos oscuros de su vida que creía olvidados y que ponen en jaque su estabilidad. Enfrentada con el pasado y con el descubrimiento de un nuevo secreto en el presente, Sabrina luchará por exponer la verdad, incluso si nadie está dispuesto a escucharla.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900372",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44705:1"
+}
+]
+}
+}

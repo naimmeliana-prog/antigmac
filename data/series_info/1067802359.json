@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-01",
+"episode_count": 3,
+"id": 644896652,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg"
+}
+],
+"info": {
+"name": "ES - See",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Knight",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900466",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "10097729",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "En un futuro lejano, la humanidad ha perdido el sentido de la vista. Jason Momoa, padre de gemelos que nacen con la mítica capacidad de ver, deberá proteger a su clan de una despiadada reina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900466",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDI3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32027:3"
+},
+{
+"id": "441533130",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "En un futuro lejano, la humanidad ha perdido el sentido de la vista. Jason Momoa, padre de gemelos que nacen con la mítica capacidad de ver, deberá proteger a su clan de una despiadada reina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900466",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDI3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32027:2"
+},
+{
+"id": "1307356507",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "En un futuro lejano, la humanidad ha perdido el sentido de la vista. Jason Momoa, padre de gemelos que nacen con la mítica capacidad de ver, deberá proteger a su clan de una despiadada reina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900466",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32027:1"
+}
+]
+}
+}

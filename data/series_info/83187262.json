@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-23",
+"episode_count": 3,
+"id": 206018928,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLjCv9SH7HFSXASdudEHfAiubt.jpg"
+}
+],
+"info": {
+"name": "ES - Star Trek: Picard -  (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLjCv9SH7HFSXASdudEHfAiubt.jpg",
+"plot": "",
+"cast": "",
+"director": "Akiva Goldsman, Alex Kurtzman, Michael Chabon, Kirsten Beyer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900544",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1884846922",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-23",
+"plot": "Serie ambientada 18 años después de la última aparición de Jean-Luc Picard en \"Star Trek: Nemesis\", y encuentra al personaje profundamente afectado por la destrucción de Romulus como se muestra en la película \"Star Trek\" (2009).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900544",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MDUxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18051:3"
+},
+{
+"id": "935258365",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-23",
+"plot": "Serie ambientada 18 años después de la última aparición de Jean-Luc Picard en \"Star Trek: Nemesis\", y encuentra al personaje profundamente afectado por la destrucción de Romulus como se muestra en la película \"Star Trek\" (2009).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900544",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MDUxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18051:2"
+},
+{
+"id": "1718884018",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-23",
+"plot": "Serie ambientada 18 años después de la última aparición de Jean-Luc Picard en \"Star Trek: Nemesis\", y encuentra al personaje profundamente afectado por la destrucción de Romulus como se muestra en la película \"Star Trek\" (2009).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900544",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MDUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18051:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-02",
+"episode_count": 1,
+"id": 1213565750,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Hb0TgRRIrwC9qRo4UkT2ZmbFj0.jpg"
+}
+],
+"info": {
+"name": "ES - La tierra del pecado (2026) (SE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Hb0TgRRIrwC9qRo4UkT2ZmbFj0.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Grönlund",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900314",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1007264090",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-02",
+"plot": "Tras la desaparición de un adolescente, una detective con vínculos personales con el caso se une a una investigación que destapa lealtades férreas y rencillas familiares.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900314",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47267:1"
+}
+]
+}
+}

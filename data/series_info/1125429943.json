@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-21",
+"episode_count": 1,
+"id": 958941312,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dvbR2dbwU6vC8zTqBU8OrCUozk.jpg"
+}
+],
+"info": {
+"name": "ES - Rehén (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dvbR2dbwU6vC8zTqBU8OrCUozk.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Charman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900342",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1012855927",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-21",
+"plot": "Cuando secuestran al marido de la primera ministra británica y la presidenta de Francia empieza a recibir amenazas, ambas gobernantes se enfrentan a una decisión imposible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900342",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0Nzk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44799:1"
+}
+]
+}
+}

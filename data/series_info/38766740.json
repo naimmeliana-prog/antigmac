@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-09",
+"episode_count": 1,
+"id": 362175771,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YPaq0e9DPLSv33SsF6JLNBEjZW.jpg"
+}
+],
+"info": {
+"name": "ES - El boom de los asteroides (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YPaq0e9DPLSv33SsF6JLNBEjZW.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900573",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "529070243",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-09",
+"plot": "Descubre la ciencia que hay detrás de la exitosa película No mires arriba. Los asteroides no solo podrían impactar en nuestro planeta, sino que además guardan secretos increíbles...\r\n\r\nHace 65 millones de años, los asteroides contribuyeron a la desaparición del 80 por ciento de los animales de la Tierra, incluidos los dinosaurios. Hoy suponen una amenaza real: cada día, una media de 230 de estas rocas podrían colisionar con nuestro planeta, y no son detectadas por los radares... ¿Estamos preparados para desastres así? ¿Cómo podemos prevenir futuras catástrofes?\r\n\r\nEn la actualidad, científicos de todo el mundo tratan de cartografiar el espacio para identificar los asteroides más peligrosos. Además, por primera vez se están tomando muestras de estos cuerpos celestes e incluso se los está desviando de su trayectoria. Pronto podremos interferir en el cosmos cambiando intencionadamente el curso de estas rocas para proteger a la Tierra.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900573",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34534:1"
+}
+]
+}
+}

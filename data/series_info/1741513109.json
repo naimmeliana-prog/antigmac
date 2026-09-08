@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-27",
+"episode_count": 1,
+"id": 1138062836,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/z1ea0WQV1iT6oziHgSVaMmKIEEJ.jpg"
+}
+],
+"info": {
+"name": "ES - La edad de la ira - (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/z1ea0WQV1iT6oziHgSVaMmKIEEJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Lucía Carballal, J. M. Ruiz Córdoba",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900420",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1862671057",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-27",
+"plot": "Arranca con el brutal asesinato de un hombre, presuntamente, a manos de su hijo Marcos, un adolescente sin problemas aparentes. El incidente cae como un jarro de agua fría en el día a día de un instituto en donde alumnos y profesores se preguntan qué ha fallado para que un chico popular, casi perfecto, haya acabado cometiendo semejante crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900420",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzMDgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23083:1"
+}
+]
+}
+}

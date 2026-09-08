@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-08",
+"episode_count": 1,
+"id": 871245530,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hzmxRkWYIXQ6I6uAYlLM7MMaqV.jpg"
+}
+],
+"info": {
+"name": "ES - Sin gluten (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hzmxRkWYIXQ6I6uAYlLM7MMaqV.jpg",
+"plot": "",
+"cast": "",
+"director": "Araceli Álvarez de Sotomayor, Javier Aguayo, Germán Aparicio",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900429",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1285754296",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-08",
+"plot": "Ricardo, socio de un prestigioso restaurante que acaba de recibir una estrella Michelin, es despedido por su crisis personal, marcada por un alcoholismo galopante. Sin otra opción, empieza a ejercer de profesor en la vieja escuela de cocina donde se formó.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1ODc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45874:1"
+}
+]
+}
+}

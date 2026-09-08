@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-27",
+"episode_count": 1,
+"id": 514706425,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9GNkPp7bZyOtOIBPkf085mno5Qm.jpg"
+}
+],
+"info": {
+"name": "ES - Tore",
+"cover": "https://image.tmdb.org/t/p/w154/9GNkPp7bZyOtOIBPkf085mno5Qm.jpg",
+"plot": "",
+"cast": "",
+"director": "William Spetz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900354",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1314464268",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-27",
+"plot": "Tras la muerte de la persona más importante de su vida, un joven de 27 años inmaduro y desnortado se adentra en un mundo desconocido de sexo, drogas y autodescubrimiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900354",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28473:1"
+}
+]
+}
+}

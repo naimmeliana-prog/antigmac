@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-18",
+"episode_count": 1,
+"id": 1613020740,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sCMxIMDL7MLi1toGpNYXhSGktA.jpg"
+}
+],
+"info": {
+"name": "ES - Calígula: El legado oculto (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sCMxIMDL7MLi1toGpNYXhSGktA.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900565",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "525567369",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-18",
+"plot": "Solo gobernó el Imperio romano durante cuatro años, pero Calígula fue uno de los líderes más controvertidos de la Historia. Su nombre se ha convertido en sinónimo de exceso y tiranía… ¿pero realmente lo fue?\r\n\r\nEste documental en dos partes redefine su legado, y va más allá de la imagen del tirano cruel para revelar a un constructor visionario. Los descubrimientos arqueológicos más recientes sacan a la luz sus proyectos más audaces: desde la transformación del templo de Cástor y Pólux y la construcción de acueductos como el Aqua Claudia, hasta la creación de dos palacios flotantes y el traslado de un colosal obelisco egipcio a Roma. Gracias al análisis experto y a un espectacular uso del modelado en 3D, la serie devuelve a la vida estas maravillas olvidadas y reescribe la historia de uno de los emperadores más controvertidos de Roma.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900565",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48341:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-01",
+"episode_count": 1,
+"id": 817121399,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zouTjOU5olZSaPbnfaXZCM9AyOX.jpg"
+}
+],
+"info": {
+"name": "ES - Las aventuras (completamente inventadas) de Dick Turpin (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zouTjOU5olZSaPbnfaXZCM9AyOX.jpg",
+"plot": "",
+"cast": "",
+"director": "Claire Downes, Ian Jarvis, Stuart Lane",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900458",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "663229635",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-01",
+"plot": "El legendario bandolero Dick Turpin se embarca en una serie de absurdas aventuras cuando lo nombran, a regañadientes, líder de su banda de delincuentes, y le encargan deshacerse del agente corrupto Jonathan Wilde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900458",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35998:1"
+}
+]
+}
+}

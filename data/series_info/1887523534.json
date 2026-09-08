@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-15",
+"episode_count": 1,
+"id": 1675046033,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikwh4gjY8CCLNYcuFXdi4Yp0NoQ.jpg"
+}
+],
+"info": {
+"name": "ES - Government Cheese (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikwh4gjY8CCLNYcuFXdi4Yp0NoQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Aeysha Carr, Paul Hunter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900449",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1840203948",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-15",
+"plot": "Hampton sale de la cárcel, pero su esperadísima reunión familiar no va como esperaba. En su ausencia, su mujer y sus hijos han creado un especial vínculo familiar, así que su llegada pone su mundo patas arriba.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900449",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42913:1"
+}
+]
+}
+}

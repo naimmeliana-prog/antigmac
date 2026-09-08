@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-14",
+"episode_count": 1,
+"id": 480232222,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqiAUaCQrhoaWifZyF5zkNGTZcg.jpg"
+}
+],
+"info": {
+"name": "ES - No digas nada (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqiAUaCQrhoaWifZyF5zkNGTZcg.jpg",
+"plot": "",
+"cast": "",
+"director": "Joshua Zetumer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900391",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "500194270",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-14",
+"plot": "Una serie sobre asesinatos y recuerdos en Irlanda del Norte durante The Trobules que abarca cuatro décadas, comenzando con la alarmante desaparición de Jean McConville, una madre soltera con diez hijos a quien secuestraron en su casa en 1972 y no se la volvió a ver con vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900391",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4OTAwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38900:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-09",
+"episode_count": 1,
+"id": 1110544930,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s596vM9OIz1k6tvid7s3LxfaNfu.jpg"
+}
+],
+"info": {
+"name": "ES - Kingdom Movistar (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s596vM9OIz1k6tvid7s3LxfaNfu.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900593",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "59681866",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-09",
+"plot": "En el corazón de Zambia, leopardos, hienas, perros salvajes y leones compiten por dominar un paraíso natural conocido como Nsefu. Rodada durante cinco años en una única y espectacular localización, esta serie narra la lucha por el poder y la supervivencia de cuatro familias rivales cuyos destinos están entrelazados. El ascenso de Storm, la reina de los perros salvajes, desata el caos en el reino, mientras la pugna por la supremacía entre la manada de leones de Rita y el clan de hienas de Tenta contrasta con su ternura como madres. Al mismo tiempo, la solitaria leoparda Olimba intenta sacar adelante a sus crías en medio del conflicto. ¿Quién logrará gobernar este precioso reino?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900593",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47077:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-01",
+"episode_count": 1,
+"id": 1728683140,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg"
+}
+],
+"info": {
+"name": "ES - Dear Killer Nannies: Criado por sicarios (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+"plot": "",
+"cast": "",
+"director": "Sebastian Marroquin, Pablo Farina, Sebastián Ortega",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900374",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1991328773",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-01",
+"plot": "Una inspiración en la niñez y la adolescencia de Juan Pablo Escobar, hijo del narcoterrorista colombiano Pablo Escobar Gaviria.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900374",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMzMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50330:1"
+}
+]
+}
+}

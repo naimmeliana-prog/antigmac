@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-22",
+"episode_count": 1,
+"id": 889365387,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvsx2mBNQCDybhYXAERuO0HUNhK.jpg"
+}
+],
+"info": {
+"name": "ES - Escort Boys",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvsx2mBNQCDybhYXAERuO0HUNhK.jpg",
+"plot": "",
+"cast": "",
+"director": "Ruben Alves",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900415",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "93068794",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-22",
+"plot": "En la Camarga, cuatro chicos en mala situación acaban ofreciendo servicios de compañía para salvar la granja apícola de su infancia. Asesorados por su hermana pequeña, quien gestiona este peculiar “negocio” en la zona, tendrán que atender a mujeres y, al satisfacerlas... aprenderán a modernizarse como hombres.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29472:1"
+}
+]
+}
+}

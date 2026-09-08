@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-07",
+"episode_count": 1,
+"id": 1167984117,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0WBEAuVV54Frz1MJ73mnhUNb5A.jpg"
+}
+],
+"info": {
+"name": "ES - El código que valía millones (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0WBEAuVV54Frz1MJ73mnhUNb5A.jpg",
+"plot": "",
+"cast": "",
+"director": "Robert Thalheim, Oliver Ziegenbalg",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900290",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1095873088",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-07",
+"plot": "Un artista y un hacker de Berlín inventaron una nueva forma de mirar el mundo en los 90. Años más tarde, se reúnen para demandar a Google por la infracción de su patente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900290",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13125:1"
+}
+]
+}
+}

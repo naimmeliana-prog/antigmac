@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2013-02-01",
+"episode_count": 6,
+"id": 1165503111,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg"
+}
+],
+"info": {
+"name": "ES - House of Cards",
+"cover": "https://image.tmdb.org/t/p/w154/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+"plot": "",
+"cast": "",
+"director": "Beau Willimon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900304",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "381806509",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-01",
+"plot": "El implacable y manipulador congresista Francis Underwood (Kevin Spacey), con la complicidad de su calculadora mujer (Robin Wright), maneja con gran destreza los hilos de poder en Washington. Su intención es ocupar la Secretaría de Estado del nuevo gobierno. Sabe muy bien que los medios de comunicación son vitales para conseguir su propósito, por lo que decide convertirse en la \"garganta profunda\" de la joven y ambiciosa periodista Zoe Barnes (Kate Mara), a la que ofrece exclusivas para desestabilizar y hundir a sus adversarios políticos. Nueva adaptación de la novela homónima de Michael Dobbs, en la que se basó una miniserie británica de 1990.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900304",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQzLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29443:6"
+},
+{
+"id": "1134944427",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-01",
+"plot": "El implacable y manipulador congresista Francis Underwood (Kevin Spacey), con la complicidad de su calculadora mujer (Robin Wright), maneja con gran destreza los hilos de poder en Washington. Su intención es ocupar la Secretaría de Estado del nuevo gobierno. Sabe muy bien que los medios de comunicación son vitales para conseguir su propósito, por lo que decide convertirse en la \"garganta profunda\" de la joven y ambiciosa periodista Zoe Barnes (Kate Mara), a la que ofrece exclusivas para desestabilizar y hundir a sus adversarios políticos. Nueva adaptación de la novela homónima de Michael Dobbs, en la que se basó una miniserie británica de 1990.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900304",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQzLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29443:5"
+},
+{
+"id": "387531008",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-01",
+"plot": "El implacable y manipulador congresista Francis Underwood (Kevin Spacey), con la complicidad de su calculadora mujer (Robin Wright), maneja con gran destreza los hilos de poder en Washington. Su intención es ocupar la Secretaría de Estado del nuevo gobierno. Sabe muy bien que los medios de comunicación son vitales para conseguir su propósito, por lo que decide convertirse en la \"garganta profunda\" de la joven y ambiciosa periodista Zoe Barnes (Kate Mara), a la que ofrece exclusivas para desestabilizar y hundir a sus adversarios políticos. Nueva adaptación de la novela homónima de Michael Dobbs, en la que se basó una miniserie británica de 1990.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900304",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQzLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29443:4"
+},
+{
+"id": "193707669",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-01",
+"plot": "El implacable y manipulador congresista Francis Underwood (Kevin Spacey), con la complicidad de su calculadora mujer (Robin Wright), maneja con gran destreza los hilos de poder en Washington. Su intención es ocupar la Secretaría de Estado del nuevo gobierno. Sabe muy bien que los medios de comunicación son vitales para conseguir su propósito, por lo que decide convertirse en la \"garganta profunda\" de la joven y ambiciosa periodista Zoe Barnes (Kate Mara), a la que ofrece exclusivas para desestabilizar y hundir a sus adversarios políticos. Nueva adaptación de la novela homónima de Michael Dobbs, en la que se basó una miniserie británica de 1990.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900304",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29443:3"
+},
+{
+"id": "1068750914",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-01",
+"plot": "El implacable y manipulador congresista Francis Underwood (Kevin Spacey), con la complicidad de su calculadora mujer (Robin Wright), maneja con gran destreza los hilos de poder en Washington. Su intención es ocupar la Secretaría de Estado del nuevo gobierno. Sabe muy bien que los medios de comunicación son vitales para conseguir su propósito, por lo que decide convertirse en la \"garganta profunda\" de la joven y ambiciosa periodista Zoe Barnes (Kate Mara), a la que ofrece exclusivas para desestabilizar y hundir a sus adversarios políticos. Nueva adaptación de la novela homónima de Michael Dobbs, en la que se basó una miniserie británica de 1990.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900304",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29443:2"
+},
+{
+"id": "221530634",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-01",
+"plot": "El implacable y manipulador congresista Francis Underwood (Kevin Spacey), con la complicidad de su calculadora mujer (Robin Wright), maneja con gran destreza los hilos de poder en Washington. Su intención es ocupar la Secretaría de Estado del nuevo gobierno. Sabe muy bien que los medios de comunicación son vitales para conseguir su propósito, por lo que decide convertirse en la \"garganta profunda\" de la joven y ambiciosa periodista Zoe Barnes (Kate Mara), a la que ofrece exclusivas para desestabilizar y hundir a sus adversarios políticos. Nueva adaptación de la novela homónima de Michael Dobbs, en la que se basó una miniserie británica de 1990.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900304",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29443:1"
+}
+]
+}
+}

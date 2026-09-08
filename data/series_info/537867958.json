@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2008-05-11",
+"episode_count": 1,
+"id": 1644885090,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YP8fFb0GI4j1QxuYHxLpyGmQUY.jpg"
+}
+],
+"info": {
+"name": "ES - China Salvaje (2008) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YP8fFb0GI4j1QxuYHxLpyGmQUY.jpg",
+"plot": "",
+"cast": "",
+"director": "Gavin Maxwell",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "743394353",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2008-05-11",
+"plot": "Serie documental de la BBC, de seis episodios, que muestra el país profundizando en su hábitat para revelar una tierra de increíble complejidad natural. Un viaje a través de China desde los picos brillantes del Himalaya hasta la estepa árida, desde el subártico hasta las islas tropicales, para ver, en imágenes pioneras, una deslumbrante variedad de criaturas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48326:1"
+}
+]
+}
+}

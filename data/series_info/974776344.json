@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-27",
+"episode_count": 1,
+"id": 1121299263,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEqrlMGdtiyzx3Jyljltc5uQjCP.jpg"
+}
+],
+"info": {
+"name": "ES - Mariliendre (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEqrlMGdtiyzx3Jyljltc5uQjCP.jpg",
+"plot": "",
+"cast": "",
+"director": "Javier Ferreiro",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900264",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "250405055",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-27",
+"plot": "Meri Román era una reina de la noche gay de Madrid, pero de eso han pasado ya más de 10 años. Ahora, a sus 35, es una diva destronada que vive atormentada por su pasado y aburrida en su mediocre presente. Tras la muerte de su padre, Meri reconecta con su séquito de amigos gays, rememorando su pasado y los temazos musicales que marcaron aquella época, mientras intenta definir su caótica vida y su identidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900264",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43313:1"
+}
+]
+}
+}

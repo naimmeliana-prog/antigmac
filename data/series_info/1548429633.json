@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-27",
+"episode_count": 1,
+"id": 953898186,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTaQPmANiRRQ7ezkzKCiLvwrp7u.jpg"
+}
+],
+"info": {
+"name": "Incondicional (2026) (IL)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTaQPmANiRRQ7ezkzKCiLvwrp7u.jpg",
+"plot": "",
+"cast": "",
+"director": "דנה אידיסיס, Adam Bizanski",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900473",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "893056471",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-27",
+"plot": "Las vacaciones de una madre y su hija en el extranjero dan un trágico giro cuando detienen a Gali por posesión de drogas. La madre, Orna, se niega a aceptar los cargos y lo arriesga todo para liberar a su hija, pero acaba envuelta en toda una red de secretos de Gali.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900473",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MzMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49333:1"
+}
+]
+}
+}

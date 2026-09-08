@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-01",
+"episode_count": 1,
+"id": 132277530,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkMPhwoj0W5Db8EnMnoj1CbmY1W.jpg"
+}
+],
+"info": {
+"name": "ES - Los ojos de Wakanda (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkMPhwoj0W5Db8EnMnoj1CbmY1W.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900386",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "941757340",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-01",
+"plot": "A lo largo de la historia de Wakanda, valientes guerreros han recibido la misión de viajar por el mundo para recuperar peligrosos artefactos de vibranium. La serie explorará diferentes épocas en el tiempo y representará la historia de aquellos que hicieron que Wakanda se mantuviera en secreto durante siglos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900386",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NjM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44638:1"
+}
+]
+}
+}

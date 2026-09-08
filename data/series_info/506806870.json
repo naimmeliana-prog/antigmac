@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-03-19",
+"episode_count": 1,
+"id": 41849746,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg"
+}
+],
+"info": {
+"name": "ES - Sky Rojo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg",
+"plot": "",
+"cast": "",
+"director": "Álex Pina, Esther Martínez Lobato",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900347",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "34904414",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-19",
+"plot": "Tras un desgraciado giro del destino, tres mujeres atormentadas por el pasado huyen de un burdel y arriesgan la vida para escapar de un proxeneta y sus secuaces.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900347",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNzYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11760:1"
+}
+]
+}
+}

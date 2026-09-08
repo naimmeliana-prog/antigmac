@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-19",
+"episode_count": 1,
+"id": 1626151644,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SqKIHz3jn4TmOV13tINbTrVMEF.jpg"
+}
+],
+"info": {
+"name": "ES - La valla",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SqKIHz3jn4TmOV13tINbTrVMEF.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Écija",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900262",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "157339929",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Ambientada en un futuro próximo, en la España de 2045. Un cambio de régimen ha provocado la división de sus habitantes en dos zonas, Sector 1 (el de los privilegiados) y Sector 2 (el resto). La única forma de pasar de una a otra es cruzar la Valla que las separa. En una sociedad de retroceso tecnológico y escasez de productos básicos, la lucha por la supervivencia marcará la convivencia de sus habitantes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900262",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34517:1"
+}
+]
+}
+}

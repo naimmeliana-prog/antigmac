@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-12",
+"episode_count": 1,
+"id": 1589864453,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRNkIJ4CaHEeDN3ZtE4Ie5OhNj1.jpg"
+}
+],
+"info": {
+"name": "ES - Entre paredes",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRNkIJ4CaHEeDN3ZtE4Ie5OhNj1.jpg",
+"plot": "",
+"cast": "",
+"director": "Ariana Saiegh",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900378",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "168293493",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-12",
+"plot": "Marga y Martín se conocen y se gustan sin imaginar que se convertirán en vecinos, pared con pared.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900378",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43850:1"
+}
+]
+}
+}

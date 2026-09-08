@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2016-11-06",
+"episode_count": 1,
+"id": 201018327,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wskylKrzaFZMT4TAqv04g340me.jpg"
+}
+],
+"info": {
+"name": "ES - Planeta Tierra II",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wskylKrzaFZMT4TAqv04g340me.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900625",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1495828381",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-06",
+"plot": "La segunda parte del mítico documental \"Planeta Tierra\", nos sumerge en increíbles paisajes y nos permite experimentar el mundo a través de la perspectiva de los animales. Viajando a través de junglas, desiertos, montañas, islas, dehesas y ciudades, esta serie documental explora las características de los habitantes más icónicos de la tierra y sus extraordinarios modos de supervivencia. La nueva tecnología nos acerca a detalles sin precedentes en la vida de los animales.\r\n\r\nHace una década, \"Planeta Tierra\" redefinió la forma de hacer documentales de naturaleza, regalándonos el retrato más completo de la vida en la tierra. En esta ocasión, los revolucionarios equipos y profesionales de BBC Earth han tratado de hacernos experimentar el mundo desde el punto de vista de los propios animales. A través de junglas, desiertos, montañas, islas, llanuras y ciudades, \"Planet Eath II\" explora de una manera única los hábitats naturales más icónicos del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900625",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31629:1"
+}
+]
+}
+}

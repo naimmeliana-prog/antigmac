@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-25",
+"episode_count": 1,
+"id": 486656233,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWlZRCE9ttL99UK1aIOq8GvKL0Y.jpg"
+}
+],
+"info": {
+"name": "ES - La ciudad es nuestra",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWlZRCE9ttL99UK1aIOq8GvKL0Y.jpg",
+"plot": "",
+"cast": "",
+"director": "George Pelecanos, David Simon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900496",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1055109608",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-25",
+"plot": "Relata el auge y la caída de la Fuerza Especial de Rastreo de Armas del Departamento de Policía de Baltimore y la corrupción y el colapso moral que sufrieron en una ciudad estadounidense en la que las políticas de prohibición de las drogas y los arrestos masivos se defendieron a expensas del trabajo policial real.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MTcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34172:1"
+}
+]
+}
+}

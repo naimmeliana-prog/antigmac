@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-02",
+"episode_count": 1,
+"id": 640250840,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBv80THexr4o274WbrXL5jMEmUI.jpg"
+}
+],
+"info": {
+"name": "ES - Born Evil: The Serial Killer and the Savior (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBv80THexr4o274WbrXL5jMEmUI.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900564",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1151794888",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-02",
+"plot": "Esta nueva serie, producida por Michael Bay, explora la vida y los crímenes de Hadden Clark, un asesino en serie poco conocido. A lo largo de cinco episodios, la docuserie se adentra en los entresijos de la volátil y disfuncional familia Clark, en el camino de depravación de Hadden y en las impactantes confesiones que hizo a su compañero de celda y que lanzaron a los investigadores a la búsqueda para resolver los casos sin resolver supuestamente relacionados con él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900564",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36081:1"
+}
+]
+}
+}

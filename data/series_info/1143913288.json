@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-07",
+"episode_count": 1,
+"id": 303846076,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/15wIhM1X6oRiId0tPPTVoXLT6mx.jpg"
+}
+],
+"info": {
+"name": "ES - La II Guerra Mundial: Desde el frente",
+"cover": "https://image.tmdb.org/t/p/w154/15wIhM1X6oRiId0tPPTVoXLT6mx.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900596",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "838033276",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-07",
+"plot": "Esta docuserie muestra la II Guerra Mundial como nunca antes a través de imágenes de archivo restauradas y testimonios de personas de los dos bandos del conflicto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900596",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29045:1"
+}
+]
+}
+}

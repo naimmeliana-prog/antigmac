@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-10",
+"episode_count": 1,
+"id": 1957033351,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfen8cVt3Ev25S44WfuttkZ0pMn.jpg"
+}
+],
+"info": {
+"name": "ES - El polígrafo (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfen8cVt3Ev25S44WfuttkZ0pMn.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900578",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1848496470",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-10",
+"plot": "En esta apasionante serie sobre crímenes reales, varias personas que llevan siendo sospechosas de delitos graves durante mucho tiempo se someten a la prueba definitiva: un examen con el polígrafo a cargo del renombrado exagente del FBI George Olivo. Cada episodio sigue un caso diferente y ofrece entrevistas exclusivas, análisis de expertos y la revelación de los resultados finales, con graves implicaciones. ¿Revelará la prueba la verdad de lo ocurrido o pondrá al descubierto el engaño? El veterano periodista Tony Harris conduce en todo momento a los espectadores mientras desentraña el intrincado proceso de la posible culpabilidad, el engaño y la justicia de cada caso.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900578",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48330:1"
+}
+]
+}
+}

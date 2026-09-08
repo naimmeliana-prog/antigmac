@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-01",
+"episode_count": 1,
+"id": 1500175778,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSHh3dIbzrCc1lQZBveN8Oi6A1R.jpg"
+}
+],
+"info": {
+"name": "ES - Silencio (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSHh3dIbzrCc1lQZBveN8Oi6A1R.jpg",
+"plot": "",
+"cast": "",
+"director": "Eduardo Casanova",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900249",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "380059049",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-01",
+"plot": "En las sombras de la historia, el secreto late como un pulso. Unas hermanas vampiras sobreviven a la escasez de “sangre humana limpia” debido a la Peste Negra, pero el verdadero veneno es el silencio que las rodea. Siglos después, una de sus descendientes se enfrenta al mismo conflicto en la pandemia del SIDA en España, y descubre que la condena social sigue siendo la misma. Y que el amor entre “enfermos” y “sanos”, humanas y vampiras sigue provocando el mismo terror. ¿Qué sucede cuando la eternidad se mide en siglos de silencio?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900249",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46807:1"
+}
+]
+}
+}

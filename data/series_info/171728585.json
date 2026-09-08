@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-30",
+"episode_count": 1,
+"id": 212947293,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6En6NcVWPkucWI9NbvHzrOxA7Cw.jpg"
+}
+],
+"info": {
+"name": "ES - Yo, adicto (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6En6NcVWPkucWI9NbvHzrOxA7Cw.jpg",
+"plot": "",
+"cast": "",
+"director": "Javier Giner, Aitor Gabilondo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900404",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1987316434",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-30",
+"plot": "Javier Giner, de treinta años, decide ingresar voluntariamente en un centro de desintoxicación por consumo de alcohol y cocaína. Armado de su diario personal y la absoluta determinación de revertir su presente, Javier encara el que, sin duda, es el periodo clave de su vida. Los meses de recuperación en el centro, rodeado de naturaleza y acompañado de una galería de personajes memorables, cambian totalmente la vida de Javier Giner.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900404",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37839:1"
+}
+]
+}
+}

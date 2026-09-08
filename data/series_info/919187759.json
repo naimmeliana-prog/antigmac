@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-07",
+"episode_count": 1,
+"id": 1122521951,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1gYHnadcTJQJzIuWBdz51mI1M3.jpg"
+}
+],
+"info": {
+"name": "ES- Cuando nadie nos ve (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1gYHnadcTJQJzIuWBdz51mI1M3.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Corpas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900516",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1126423447",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-07",
+"plot": "Durante la Semana Santa de 2024, dos mujeres policías tratan de resolver una serie de crímenes en un lugar único, Morón de la Frontera: la frontera política y cultural de la llamada \"España profunda\", y también una de las mayores bases militares estadounidenses en el extranjero.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900516",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42954:1"
+}
+]
+}
+}

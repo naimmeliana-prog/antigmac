@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-07",
+"episode_count": 1,
+"id": 1412109377,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg"
+}
+],
+"info": {
+"name": "ES - Dexter: New Blood (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+"plot": "",
+"cast": "",
+"director": "Clyde Phillips",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900523",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "222024091",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-07",
+"plot": "Ambientada 10 años después de que Dexter desapareciera en el ojo del huracán Laura, la serie lo encuentra viviendo con un nombre falso en la pequeña ciudad de Iron Lake, Nueva York. Dexter puede estar abrazando su nueva vida, pero a raíz de eventos inesperados en esta comunidad unida, su Oscuro Pasajero lo llama.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900523",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35031:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-01",
+"episode_count": 1,
+"id": 18987751,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQO5JsmHi40vvUzaRO4oab8DsTy.jpg"
+}
+],
+"info": {
+"name": "ES - Mr Bates contra Correos",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQO5JsmHi40vvUzaRO4oab8DsTy.jpg",
+"plot": "",
+"cast": "",
+"director": "James Strong",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900245",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1061812190",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-01",
+"plot": "Uno de los mayores errores judiciales de la historia jurídica británica, en el que cientos de empleados de Correos inocentes fueron acusados erróneamente de robo, fraude y falsedad contable. El motivo real: un fallo técnico en el software de contabilidad implementado en todas las administraciones que falsea los datos en perjuicio de los operadores. Liderados por Alan Bates, uno de los primeros damnificados, el grupo inicia una ardua batalla legal contra la oficina postal británica, que niega rotundamente los hechos hasta límites inhumanos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900245",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNTM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33537:1"
+}
+]
+}
+}

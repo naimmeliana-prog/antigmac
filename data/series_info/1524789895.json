@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-15",
+"episode_count": 1,
+"id": 1614192122,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XHbefG9F5ES0zVhRv0VB05K2En.jpg"
+}
+],
+"info": {
+"name": "ES - La cúpula de cristal (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XHbefG9F5ES0zVhRv0VB05K2En.jpg",
+"plot": "",
+"cast": "",
+"director": "Camilla Läckberg",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900309",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1997102774",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-15",
+"plot": "Cuando la hija de una amiga desaparece, la criminóloga Lejla se une a la búsqueda… y se enfrenta al doloroso trauma de su propio secuestro durante la infancia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900309",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42914:1"
+}
+]
+}
+}

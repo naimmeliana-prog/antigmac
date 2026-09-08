@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-16",
+"episode_count": 1,
+"id": 807597958,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc2xRGXjtp1V1qVNSqAqP3fniq3.jpg"
+}
+],
+"info": {
+"name": "ES - La muerte y esas cosas",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc2xRGXjtp1V1qVNSqAqP3fniq3.jpg",
+"plot": "",
+"cast": "",
+"director": "Heidi Cole McAdams, Mike Weiss",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900383",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1235437025",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-16",
+"plot": "Imogene Scott se encuentra en el lugar equivocado en el momento equivocado y se convierte en la principal sospechosa de un asesinato. Para demostrar su inocencia, debe asociarse con un detective al que desprecia, Rufus Cotesworth.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900383",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30054:1"
+}
+]
+}
+}

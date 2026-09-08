@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-25",
+"episode_count": 1,
+"id": 650907968,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytXuD2ZP9Q82OzalMaGYoKUUPCG.jpg"
+}
+],
+"info": {
+"name": "ES - Get Millie Black (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytXuD2ZP9Q82OzalMaGYoKUUPCG.jpg",
+"plot": "",
+"cast": "",
+"director": "Marlon James",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900492",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "134753354",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-25",
+"plot": "Millie-Jean Black, ex detective de Scotland Yard, regresa a Kingston para trabajar en personas desaparecidas; Pronto se encontrará en una búsqueda para salvar a una hermana que no será salvada, para encontrar a un niño que no puede ser encontrado, para resolver un caso que destrozará su mundo y resultará casi tan difícil de resolver como Millie Black.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MzEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38313:1"
+}
+]
+}
+}

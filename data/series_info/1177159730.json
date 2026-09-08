@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-23",
+"episode_count": 1,
+"id": 1731031727,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAojnxzyCvldHOceb14t2KLabz9.jpg"
+}
+],
+"info": {
+"name": "ES - Reina (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAojnxzyCvldHOceb14t2KLabz9.jpg",
+"plot": "",
+"cast": "",
+"director": "Árni Ólafur Ásgeirsson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900342",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1567980370",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-23",
+"plot": "Tras una ausencia de varias décadas, un célebre sastre parisino y drag queen vuelve a su pueblo natal en Polonia para arreglar las cosas con su hija.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900342",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37262:1"
+}
+]
+}
+}

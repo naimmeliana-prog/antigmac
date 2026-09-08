@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-11",
+"episode_count": 3,
+"id": 998403745,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg"
+}
+],
+"info": {
+"name": "ES - Tracker (2024) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben H. Winters",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900402",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "624917834",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-11",
+"plot": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900402",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjAxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46601:3"
+},
+{
+"id": "1747014876",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-11",
+"plot": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900402",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjAxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46601:2"
+},
+{
+"id": "918729960",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-11",
+"plot": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900402",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46601:1"
+}
+]
+}
+}

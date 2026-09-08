@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-03-23",
+"episode_count": 2,
+"id": 1018513423,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZfBvOG99xqlPUDWqAdGfcdj1R.jpg"
+}
+],
+"info": {
+"name": "ES - Túnel de corrupción",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZfBvOG99xqlPUDWqAdGfcdj1R.jpg",
+"plot": "",
+"cast": "",
+"director": "Elena Soarez, José Padilha",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900354",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1935251569",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-23",
+"plot": "La investigación de una trama de corrupción gubernamental con empresas petrolíferas y de construcción descubre un escándalo en Brasil. Basada libremente en hechos reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900354",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMDU4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12058:2"
+},
+{
+"id": "1293037829",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-23",
+"plot": "La investigación de una trama de corrupción gubernamental con empresas petrolíferas y de construcción descubre un escándalo en Brasil. Basada libremente en hechos reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900354",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMDU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12058:1"
+}
+]
+}
+}

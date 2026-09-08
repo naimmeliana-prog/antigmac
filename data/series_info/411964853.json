@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-05",
+"episode_count": 1,
+"id": 1931353839,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvT0eKDjW9fs4Dmi6x9XCLGK3nA.jpg"
+}
+],
+"info": {
+"name": "ES - Matices (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvT0eKDjW9fs4Dmi6x9XCLGK3nA.jpg",
+"plot": "",
+"cast": "",
+"director": "Sergio Cánovas, Javier Naya, Álex Meriweather",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900534",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "912127271",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-05",
+"plot": "Seis pacientes psiquiátricos se reúnen en una bodega aislada para completar el tratamiento del doctor Marlow, pero cuando se produce una muerte sospechosa, todos se convierten en sospechosos de una investigación de asesinato.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900534",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MjY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44265:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-15",
+"episode_count": 1,
+"id": 1776218218,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/pUVJkvHYSNwNhlqo1obqZGCisms.jpg"
+}
+],
+"info": {
+"name": "ES - Los herederos de la tierra - (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/pUVJkvHYSNwNhlqo1obqZGCisms.jpg",
+"plot": "",
+"cast": "",
+"director": "Rodolf Sirera",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900324",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1919777079",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-15",
+"plot": "En 1387, las campanas de la iglesia de Santa María de la Mar siguen sonando para todos los habitantes del barrio de la Ribera, pero uno de ellos escucha su repique con especial atención... Hugo Llor, hijo de un marinero fallecido, a sus doce años trabaja en las atarazanas gracias a la generosidad de uno de los prohombres más apreciados de la ciudad: Arnau Estanyol. Pero sus sueños juveniles de convertirse en constructor de barcos se darán de bruces contra una realidad dura y despiadada cuando la familia Puig, enemiga acérrima de su mentor, aproveche su posición ante el nuevo rey para ejecutar una venganza que llevaba años acariciando.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900324",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzMjQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23246:1"
+}
+]
+}
+}

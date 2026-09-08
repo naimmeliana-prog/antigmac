@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-06-28",
+"episode_count": 2,
+"id": 167455394,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg"
+}
+],
+"info": {
+"name": "ES - Hijack (2023) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
+"plot": "",
+"cast": "",
+"director": "George Kay, Jim Field Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900449",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "354162866",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-28",
+"plot": "El negociador Sam Nelson va a vivir el viaje de su vida cuando un grupo de secuestradores toma el control. Sam agotará sus tácticas, pero la situación es límite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900449",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjI3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47627:2"
+},
+{
+"id": "103944278",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-28",
+"plot": "El negociador Sam Nelson va a vivir el viaje de su vida cuando un grupo de secuestradores toma el control. Sam agotará sus tácticas, pero la situación es límite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900449",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47627:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2003-10-21",
+"episode_count": 1,
+"id": 1893758450,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91UV7pNcDPhIzJl7EuK36sK5vRG.jpg"
+}
+],
+"info": {
+"name": "ES - Pasión de gavilanes (2003)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91UV7pNcDPhIzJl7EuK36sK5vRG.jpg",
+"plot": "",
+"cast": "",
+"director": "Julio Jiménez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900650",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "270341172",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-10-21",
+"plot": "Los hermanos Reyes buscan vengar la muerte de su hermana, lo que les lleva a instalarse como trabajadores en la mansión de la familia Elizondo. El profundo odio comienza a cambiar cuando los hermanos Reyes se integran en la vida de la familia. Con lo que no cuenta Juan es con que su vida y las de sus dos hermanos se cruzará con la de las tres hermanas Elizondo, corriendo el riesgo de caer presos de su propia venganza...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2OTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36936:1"
+}
+]
+}
+}

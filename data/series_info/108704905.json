@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-11",
+"episode_count": 1,
+"id": 1173287438,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cPhUVukGJW4EdaAJ3LoPMz5SNq.jpg"
+}
+],
+"info": {
+"name": "ES - El Sueño Producciones (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cPhUVukGJW4EdaAJ3LoPMz5SNq.jpg",
+"plot": "",
+"cast": "",
+"director": "Mike Jones, Jaclyn Simon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900376",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1846406248",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-11",
+"plot": "Riley se hace mayor y, cuando sus recuerdos necesitan procesamiento extra, Alegría y las demás emociones esenciales los envían a El Sueño Producciones. La aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: lograr crear el próximo sueño de éxito teniendo que trabajar con Xeni, un engreído director de ensoñaciones que busca dar el salto a las grandes ligas de los sueños nocturnos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900376",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Nzg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38785:1"
+}
+]
+}
+}

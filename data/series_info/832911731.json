@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-01",
+"episode_count": 1,
+"id": 1456396369,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hstveoYFhEibMrHxnxfLhnlj3Sx.jpg"
+}
+],
+"info": {
+"name": "ES - Te echo de menos (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hstveoYFhEibMrHxnxfLhnlj3Sx.jpg",
+"plot": "",
+"cast": "",
+"director": "Victoria Asare-Archer, Harlan Coben",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900350",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "545312555",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-01",
+"plot": "Cuando la detective Kat Donovan encuentra a su exnovio desaparecido en una aplicación de citas, descubre que algunos secretos es mejor dejarlos enterrados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900350",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5OTI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39926:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-05",
+"episode_count": 1,
+"id": 1986012237,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
+}
+],
+"info": {
+"name": "ES - The Audacity (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonathan Glatzer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900469",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1680477639",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-05",
+"plot": "Dentro de la burbuja de Silicon Valley, un director ejecutivo especializado en minería de datos se esfuerza por convertir el conocimiento y la influencia en ganancias y poder en esta mirada oscura y cómica a los sueños distorsionados, los egos desmesurados y las faltas éticas de los autoproclamados inventores del futuro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49022:1"
+}
+]
+}
+}

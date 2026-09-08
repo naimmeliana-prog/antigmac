@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2005-12-13",
+"episode_count": 3,
+"id": 1560133341,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQbPLPZaa5gcuPZCJbzT83SPoa3.jpg"
+}
+],
+"info": {
+"name": "ES - Espiral",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQbPLPZaa5gcuPZCJbzT83SPoa3.jpg",
+"plot": "",
+"cast": "",
+"director": "Guy-Patrick Sainderichin, Alexandra Clert",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900237",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "489565013",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-12-13",
+"plot": "Este descarnado drama criminal ambientado en el oscuro vientre de París sigue a agentes de policía y abogados mientras investigan y procesan delitos. Tira cualquier noción romántica de París por la ventana. El crimen es oscuro. El sistema legal es más oscuro. Esto es Espiral.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900237",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34310:1"
+},
+{
+"id": "5550820",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-12-13",
+"plot": "Este descarnado drama criminal ambientado en el oscuro vientre de París sigue a agentes de policía y abogados mientras investigan y procesan delitos. Tira cualquier noción romántica de París por la ventana. El crimen es oscuro. El sistema legal es más oscuro. Esto es Espiral.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900237",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzEwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34310:3"
+},
+{
+"id": "1918165199",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-12-13",
+"plot": "Este descarnado drama criminal ambientado en el oscuro vientre de París sigue a agentes de policía y abogados mientras investigan y procesan delitos. Tira cualquier noción romántica de París por la ventana. El crimen es oscuro. El sistema legal es más oscuro. Esto es Espiral.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900237",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34310:2"
+}
+]
+}
+}

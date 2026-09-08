@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-30",
+"episode_count": 1,
+"id": 536536760,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngz8ka1rtVnVM2rVywITHBXHzJz.jpg"
+}
+],
+"info": {
+"name": "ES - El Paciente (LQ) (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngz8ka1rtVnVM2rVywITHBXHzJz.jpg",
+"plot": "",
+"cast": "",
+"director": "Joe Weisberg, Joel Fields",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900376",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "47853737",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-30",
+"plot": "Alan Strauss es un terapeuta al que un paciente que le ha confesado que es un asesino en serie tiene prisionero. El tiempo se le acaba y Alan se esfuerza por detener a Sam antes de convertirse en cómplice de asesinato o lo que es peor, en una de sus víctimas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900376",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNDUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51451:1"
+}
+]
+}
+}

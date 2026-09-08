@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-24",
+"episode_count": 1,
+"id": 1578188708,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg"
+}
+],
+"info": {
+"name": "ES - Like a Dragon: Yakuza (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900422",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1475119659",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-24",
+"plot": "La historia tiene lugar en la ciudad ficticia de Kamurochō, y en su desarrollo se entrecruzan dos ejes temporales: 1995 y 2005. En 1995, cuatro amigos ansiosos por escapar de sus vidas coartadas en un orfanato se zambullen en el bajo mundo de la Yakuza de Kamurochō. Mientras tanto, en 2005, su amistad se ha deteriorado, y la tensión entre el clan Tojo y la Alianza Omi alcanza su punto álgido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900422",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38014:1"
+}
+]
+}
+}

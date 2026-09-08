@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-04-09",
+"episode_count": 2,
+"id": 745400312,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJCQ6Q8TgI0t89JAMgtLMnBdQJh.jpg"
+}
+],
+"info": {
+"name": "ES - Ellos",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJCQ6Q8TgI0t89JAMgtLMnBdQJh.jpg",
+"plot": "",
+"cast": "",
+"director": "Little Marvin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900414",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "597359599",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-09",
+"plot": "Una pareja de raza negra decide mudar a su familia a un vecindario blanco de Los Ángeles. La casa de la familia en una calle arbolada y aparentemente idílica se convierte en la zona cero donde fuerzas malévolas amenazan con burlarse de ellos, devastarlos y destruirlos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900414",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjY4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32268:2"
+},
+{
+"id": "1673337858",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-09",
+"plot": "Una pareja de raza negra decide mudar a su familia a un vecindario blanco de Los Ángeles. La casa de la familia en una calle arbolada y aparentemente idílica se convierte en la zona cero donde fuerzas malévolas amenazan con burlarse de ellos, devastarlos y destruirlos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900414",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32268:1"
+}
+]
+}
+}

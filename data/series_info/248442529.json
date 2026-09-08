@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-27",
+"episode_count": 1,
+"id": 926647350,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/11dh7LaMV83TLlKAIyoIQ4Csdtl.jpg"
+}
+],
+"info": {
+"name": "ES - Kraken: El Libro Negro de las Horas (LQ) (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/11dh7LaMV83TLlKAIyoIQ4Csdtl.jpg",
+"plot": "",
+"cast": "",
+"director": "Manuel Sanabria",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900418",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1378936859",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-27",
+"plot": "Serie policiaca basada en el best-seller de Eva García Sáenz de Urturi, \"El libro negro de las horas\". Kraken recibe una misteriosa llamada en la que encargan encontrar un valioso libro, y si no lo logra, matarán a su madre. El problema es que su madre lleva décadas muerta. Acompañado de su inseparable Esti tendrá que resolver un complicado caso lleno de suspense, acción y emociones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900418",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNDAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50401:1"
+}
+]
+}
+}

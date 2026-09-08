@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-10-01",
+"episode_count": 2,
+"id": 1040439631,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg"
+}
+],
+"info": {
+"name": "ES - Bluey",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+"plot": "",
+"cast": "",
+"director": "Joe Brumm",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900371",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1739698730",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-01",
+"plot": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900371",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzgyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30782:2"
+},
+{
+"id": "454004727",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-10-01",
+"plot": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900371",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30782:1"
+}
+]
+}
+}

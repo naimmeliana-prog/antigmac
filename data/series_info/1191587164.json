@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2010-07-25",
+"episode_count": 4,
+"id": 32974916,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/iyfSdeZeAqj2farduoh5bvnZC5k.jpg"
+}
+],
+"info": {
+"name": "ES - Sherlock",
+"cover": "https://image.tmdb.org/t/p/w154/iyfSdeZeAqj2farduoh5bvnZC5k.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Gatiss, Steven Moffat",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900429",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1479962951",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-07-25",
+"plot": "En esta renovada versión de las historias de misterio de Arthur Conan Doyle, el excéntrico detective merodea por las calles del Londres de hoy en día en busca de pistas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkxLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29991:4"
+},
+{
+"id": "1787916014",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-07-25",
+"plot": "En esta renovada versión de las historias de misterio de Arthur Conan Doyle, el excéntrico detective merodea por las calles del Londres de hoy en día en busca de pistas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29991:2"
+},
+{
+"id": "567891783",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-07-25",
+"plot": "En esta renovada versión de las historias de misterio de Arthur Conan Doyle, el excéntrico detective merodea por las calles del Londres de hoy en día en busca de pistas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29991:3"
+},
+{
+"id": "1973468130",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-07-25",
+"plot": "En esta renovada versión de las historias de misterio de Arthur Conan Doyle, el excéntrico detective merodea por las calles del Londres de hoy en día en busca de pistas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29991:1"
+}
+]
+}
+}

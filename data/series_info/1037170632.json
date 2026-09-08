@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-08-30",
+"episode_count": 3,
+"id": 1865037808,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1Wz730VjE6Yee9ywb5ReXXe1GBZ.jpg"
+}
+],
+"info": {
+"name": "ES - Jack Ryan",
+"cover": "https://image.tmdb.org/t/p/w154/1Wz730VjE6Yee9ywb5ReXXe1GBZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlton Cuse, Graham Roland",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900418",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "278846287",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-30",
+"plot": "Cuando el analista de la CIA, Jack Ryan, se tropieza con una serie de transferencias bancarias sospechosas, su búsqueda de respuestas lo saca de la seguridad de su escritorio y lo catapulta hacia un juego mortal del gato y el ratón por toda Europa y Oriente Medio, donde se encuentra a un terrorista que prepara un ataque masivo contra Estados Unidos y sus aliados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900418",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29855:3"
+},
+{
+"id": "954761805",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-30",
+"plot": "Cuando el analista de la CIA, Jack Ryan, se tropieza con una serie de transferencias bancarias sospechosas, su búsqueda de respuestas lo saca de la seguridad de su escritorio y lo catapulta hacia un juego mortal del gato y el ratón por toda Europa y Oriente Medio, donde se encuentra a un terrorista que prepara un ataque masivo contra Estados Unidos y sus aliados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900418",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29855:2"
+},
+{
+"id": "207850260",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-30",
+"plot": "Cuando el analista de la CIA, Jack Ryan, se tropieza con una serie de transferencias bancarias sospechosas, su búsqueda de respuestas lo saca de la seguridad de su escritorio y lo catapulta hacia un juego mortal del gato y el ratón por toda Europa y Oriente Medio, donde se encuentra a un terrorista que prepara un ataque masivo contra Estados Unidos y sus aliados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900418",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29855:1"
+}
+]
+}
+}

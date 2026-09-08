@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-27",
+"episode_count": 2,
+"id": 378554555,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcrDB32TqpAGwvQFbICALGxSzn3.jpg"
+}
+],
+"info": {
+"name": "ES - Citadel (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcrDB32TqpAGwvQFbICALGxSzn3.jpg",
+"plot": "",
+"cast": "",
+"director": "Josh Appelbaum, Bryan Oh, David Weil",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900408",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1622513144",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-27",
+"plot": "Hace 8 años de la caída de Citadel. La agencia mundial de espionaje independiente, encargada de velar por la seguridad de todos, fue destruida por agentes de Manticore, un poderoso sindicato que manipula el mundo desde las sombras. Tras la caída de Citadel, los agentes de élite Mason Kane y Nadia Sinh intentan escapar con vida, pero pierden todos sus recuerdos. Desde entonces han permanecido ocultos, construyendo nuevas vidas con nuevas identidades, sin ser conscientes de su pasado. Hasta que una noche, Mason es localizado por su antiguo colega de Citadel, Bernard Orlick, que necesita desesperadamente su ayuda para impedir que Manticore establezca un nuevo orden mundial. Mason busca a su antigua compañera, Nadia, y los dos espías se embarcan en una misión que les lleva por todo el mundo en un esfuerzo por detener a Manticore, todo ello mientras se enfrentan a una relación construida sobre secretos, mentiras y un amor peligroso y a la vez eterno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900408",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDI1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35425:2"
+},
+{
+"id": "726885126",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-27",
+"plot": "Hace 8 años de la caída de Citadel. La agencia mundial de espionaje independiente, encargada de velar por la seguridad de todos, fue destruida por agentes de Manticore, un poderoso sindicato que manipula el mundo desde las sombras. Tras la caída de Citadel, los agentes de élite Mason Kane y Nadia Sinh intentan escapar con vida, pero pierden todos sus recuerdos. Desde entonces han permanecido ocultos, construyendo nuevas vidas con nuevas identidades, sin ser conscientes de su pasado. Hasta que una noche, Mason es localizado por su antiguo colega de Citadel, Bernard Orlick, que necesita desesperadamente su ayuda para impedir que Manticore establezca un nuevo orden mundial. Mason busca a su antigua compañera, Nadia, y los dos espías se embarcan en una misión que les lleva por todo el mundo en un esfuerzo por detener a Manticore, todo ello mientras se enfrentan a una relación construida sobre secretos, mentiras y un amor peligroso y a la vez eterno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900408",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35425:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-25",
+"episode_count": 1,
+"id": 251756253,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/70UtM8IIqfSsKZC9Kwdz36W2Z5R.jpg"
+}
+],
+"info": {
+"name": "ES - El Decamerón (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/70UtM8IIqfSsKZC9Kwdz36W2Z5R.jpg",
+"plot": "",
+"cast": "",
+"director": "Kathleen Jordan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900287",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "721859578",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-25",
+"plot": "Mientras la peste negra arrasa Italia, un grupo de nobles y sus sirvientes se retiran a una villa. Una vez allí, su ostentosa escapada pronto se sume en el caos más absoluto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35282:1"
+}
+]
+}
+}

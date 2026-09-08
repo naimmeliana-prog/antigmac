@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-24",
+"episode_count": 1,
+"id": 908033428,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/it3ZX34QRwlJy8eYnvYsyWLuyDd.jpg"
+}
+],
+"info": {
+"name": "ES - Tino Casal",
+"cover": "https://image.tmdb.org/t/p/w154/it3ZX34QRwlJy8eYnvYsyWLuyDd.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900635",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "945906874",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-24",
+"plot": "Documental que refleja la vida del artista Tino Casal, quién quería hacerlo todo a lo grande, sorprender al público, romper barreras y hacer historia. 'Tino casal' es un documental que retrata y actualiza la figura de un hombre que no se conformaba con ser uno más: quería romper moldes, tener proyección internacional, realizar producciones nunca vistas, sorprender... Su lema parecía ser: Más es más.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900635",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Njg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29687:1"
+}
+]
+}
+}

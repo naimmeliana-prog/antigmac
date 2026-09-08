@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-15",
+"episode_count": 1,
+"id": 1495966907,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KTqlq5jwt53LoZdP8ui33TpFaq.jpg"
+}
+],
+"info": {
+"name": "ES - Rancho Dutton (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KTqlq5jwt53LoZdP8ui33TpFaq.jpg",
+"plot": "",
+"cast": "",
+"director": "Chad Feehan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900539",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "26195775",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-15",
+"plot": "Rip y Beth Dutton están construyendo una nueva vida en el sur de Texas junto al joven Carter, pero la promesa de un futuro lejos de Yellowstone choca con duras realidades y con un rancho rival que no se detendrá ante nada para proteger su imperio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900539",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49554:1"
+}
+]
+}
+}

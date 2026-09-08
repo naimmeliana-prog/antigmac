@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-03",
+"episode_count": 1,
+"id": 1504926374,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kwrF2Hd6FBHUjS9EgUg2jrkmRf.jpg"
+}
+],
+"info": {
+"name": "ES - Los asesinatos de la tienda de yogur (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kwrF2Hd6FBHUjS9EgUg2jrkmRf.jpg",
+"plot": "",
+"cast": "",
+"director": "Beverly Lowry",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900610",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1081949009",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-03",
+"plot": "Explora el trágico asesinato de 4 chicas adolescentes en una tienda de \"I Can't Believe It's Yogurt\" el 6 de diciembre de 1991 en Austin, TX. Relata el inmenso trauma que dejó el crimen y detalla el laberinto de la investigación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900610",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0OTIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44923:1"
+}
+]
+}
+}

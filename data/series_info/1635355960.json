@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-17",
+"episode_count": 1,
+"id": 604982626,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/5SVYKtZVgqc19lopOHmr60Mm6sO.jpg"
+}
+],
+"info": {
+"name": "ES - El arte del crimen (2017)",
+"cover": "https://image.tmdb.org/t/p/w154/5SVYKtZVgqc19lopOHmr60Mm6sO.jpg",
+"plot": "",
+"cast": "",
+"director": "Pierre-Yves Mora, Angèle Herry-Leclerc",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900235",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "745464630",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-17",
+"plot": "Antoine Verlay, policía terco y un poco iracundo, entra en la OCBC (Oficina Central de la lucha contra el tráfico de Bienes Culturales), gracias a la influencia de su comandante Pardo, su amigo que, como resultado de este movimiento, se convierte en su jefe. Investigador excelente, pero ajeno a todo lo que tenga que ver con la cultura, Antoine va a tener que formar equipo con Florence Chassagne, historiadora del arte muy reconocida y con una imaginación desbordante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900235",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NzMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25733:1"
+}
+]
+}
+}

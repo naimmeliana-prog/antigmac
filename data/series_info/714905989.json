@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-28",
+"episode_count": 2,
+"id": 234214348,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/39WhAU8LqcQNIbT1GObCICt5Ryg.jpg"
+}
+],
+"info": {
+"name": "ES - Todos mienten (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/39WhAU8LqcQNIbT1GObCICt5Ryg.jpg",
+"plot": "",
+"cast": "",
+"director": "Pau Freixas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900252",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "164503386",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Macarena se acuesta con el hijo de su mejor amiga y alguien sube el vídeo a internet. Ese día se pone patas arriba la vida de Belmonte, una apacible urbanización de clase alta. A partir de ahí una frenética cadena de consecuencias hace que todos sus habitantes se enfrenten a sus miserias y secretos más profundos.\r\n\r\nAmigas que se odian, hijos con vidas paralelas, matrimonios con forma de estafa, amantes inesperados, cuchillos japoneses que cambian de mano, crisis matrimoniales, y para complicarlo todo un poco más, un terrible asesinato.\r\n\r\nUn misterio que no será sencillo desentrañar porque, preguntes a quien preguntes, todos mienten.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900252",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22966:2"
+},
+{
+"id": "560623040",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Macarena se acuesta con el hijo de su mejor amiga y alguien sube el vídeo a internet. Ese día se pone patas arriba la vida de Belmonte, una apacible urbanización de clase alta. A partir de ahí una frenética cadena de consecuencias hace que todos sus habitantes se enfrenten a sus miserias y secretos más profundos.\r\n\r\nAmigas que se odian, hijos con vidas paralelas, matrimonios con forma de estafa, amantes inesperados, cuchillos japoneses que cambian de mano, crisis matrimoniales, y para complicarlo todo un poco más, un terrible asesinato.\r\n\r\nUn misterio que no será sencillo desentrañar porque, preguntes a quien preguntes, todos mienten.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900252",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22966:1"
+}
+]
+}
+}

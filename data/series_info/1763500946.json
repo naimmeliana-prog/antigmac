@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-01",
+"episode_count": 2,
+"id": 1797783855,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/yScOKZTBlug31LF89M3Dccymw5b.jpg"
+}
+],
+"info": {
+"name": "ES - Hache - (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+"plot": "",
+"cast": "",
+"director": "Verónica Fernández",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900302",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "634420575",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "Helena, una mujer sumida en la prostitución, termina alzándose en un elevado puesto del tráfico de heroína en la Barcelona de los años 60. Helena vivirá un proceso de aprendizaje que la hará llevar el control del tráfico de la droga dentro de una organización criminal que pertenece a uno de los criminales más prominentes del país: Malpica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900302",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMjAxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21201:2"
+},
+{
+"id": "222877909",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "Helena, una mujer sumida en la prostitución, termina alzándose en un elevado puesto del tráfico de heroína en la Barcelona de los años 60. Helena vivirá un proceso de aprendizaje que la hará llevar el control del tráfico de la droga dentro de una organización criminal que pertenece a uno de los criminales más prominentes del país: Malpica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900302",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMjAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21201:1"
+}
+]
+}
+}

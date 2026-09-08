@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-27",
+"episode_count": 1,
+"id": 1934170157,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kT63bKrf1oJ36qbfIfwm7dAk4AM.jpg"
+}
+],
+"info": {
+"name": "ES - Vida perra (LQ) (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kT63bKrf1oJ36qbfIfwm7dAk4AM.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900435",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1954565433",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-27",
+"plot": "Un parque de perros de Madrid que se convierte en punto de encuentro para un variopinto grupo de vecinos de diferentes edades, inquietudes y perspectivas, con trabajos, familias y pasados completamente dispares, que coinciden en este lugar por un nexo en común: su amor por los perros.\r\n\r\nA través del humor y la ironía, la serie refleja los problemas y obstáculos de la sociedad contemporánea mediante las interacciones de estos personajes. El parque se convierte en un microcosmos donde surgirán amistades improbables, romances secretos y enemistades intensas, mientras la serie aborda con humor temas actuales y relevantes en la sociedad española.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900435",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Njg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48687:1"
+}
+]
+}
+}

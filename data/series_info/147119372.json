@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-05-21",
+"episode_count": 1,
+"id": 663060637,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/xbWqfPKBhqOZQEGq7HdDkX0Bjib.jpg"
+}
+],
+"info": {
+"name": "ES - Blood & Treasure - (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/xbWqfPKBhqOZQEGq7HdDkX0Bjib.jpg",
+"plot": "",
+"cast": "",
+"director": "Matthew Federman, Stephen Scaia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900231",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "7424016",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-21",
+"plot": "Un experto anticuario forma equipo con una ladrona de arte para atrapar a un terrorista que financia sus ataques con artefactos robados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900231",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22967:1"
+}
+]
+}
+}

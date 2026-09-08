@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-01",
+"episode_count": 1,
+"id": 634270619,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/6Bz9jGVoXhqp6Ihk3OI8osXzbT8.jpg"
+}
+],
+"info": {
+"name": "ES - Colin from Accounts",
+"cover": "https://image.tmdb.org/t/p/w154/6Bz9jGVoXhqp6Ihk3OI8osXzbT8.jpg",
+"plot": "",
+"cast": "",
+"director": "Patrick Brammall, Harriet Dyer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900233",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1833990522",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-01",
+"plot": "Ashley y Gordon son dos humanos solteros (más o menos) complejos que se unen por un accidente automovilístico y un perro herido. Personas defectuosas y divertidas que se eligen entre sí y son lo suficientemente valientes como para mostrar su verdadero yo, con cicatrices y todo, mientras navegan juntos por la vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900233",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30242:1"
+}
+]
+}
+}

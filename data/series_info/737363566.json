@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2014-01-12",
+"episode_count": 4,
+"id": 54918529,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://es.web.img3.acsta.net/c_310_420/pictures/21/01/29/17/36/5477264.jpg"
+}
+],
+"info": {
+"name": "ES - True Detective",
+"cover": "https://es.web.img3.acsta.net/c_310_420/pictures/21/01/29/17/36/5477264.jpg",
+"plot": "",
+"cast": "",
+"director": "Issa López, Nic Pizzolatto",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900514",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "457209247",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-01-12",
+"plot": "True Detective es una serie de televisión estadounidense dramática de género policíaco, protagonizada en su primera temporada por los actores estadounidenses Matthew McConaughey y Woody Harrelson; la serie se estrenó en Estados Unidos y América Latina el 12 de enero de 2014 por HBO. La serie sigue un formato de antología, así queen cada temporada contará una historia diferente con un elenco de personajes distintos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900514",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkyLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29992:4"
+},
+{
+"id": "1406563374",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-01-12",
+"plot": "True Detective es una serie de televisión estadounidense dramática de género policíaco, protagonizada en su primera temporada por los actores estadounidenses Matthew McConaughey y Woody Harrelson; la serie se estrenó en Estados Unidos y América Latina el 12 de enero de 2014 por HBO. La serie sigue un formato de antología, así queen cada temporada contará una historia diferente con un elenco de personajes distintos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900514",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29992:3"
+},
+{
+"id": "49182171",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-01-12",
+"plot": "True Detective es una serie de televisión estadounidense dramática de género policíaco, protagonizada en su primera temporada por los actores estadounidenses Matthew McConaughey y Woody Harrelson; la serie se estrenó en Estados Unidos y América Latina el 12 de enero de 2014 por HBO. La serie sigue un formato de antología, así queen cada temporada contará una historia diferente con un elenco de personajes distintos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900514",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29992:2"
+},
+{
+"id": "181002153",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-01-12",
+"plot": "True Detective es una serie de televisión estadounidense dramática de género policíaco, protagonizada en su primera temporada por los actores estadounidenses Matthew McConaughey y Woody Harrelson; la serie se estrenó en Estados Unidos y América Latina el 12 de enero de 2014 por HBO. La serie sigue un formato de antología, así queen cada temporada contará una historia diferente con un elenco de personajes distintos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900514",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29992:1"
+}
+]
+}
+}

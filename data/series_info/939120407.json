@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-31",
+"episode_count": 2,
+"id": 1080264671,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYbze7bEOtXNmkl2g7S2ROAuk86.jpg"
+}
+],
+"info": {
+"name": "ES - María Antonieta (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYbze7bEOtXNmkl2g7S2ROAuk86.jpg",
+"plot": "",
+"cast": "",
+"director": "Deborah Davis",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900243",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "977392428",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-31",
+"plot": "María Antonieta tiene solo 14 años cuando deja su Austria natal para casarse con el Delfín de Francia. Su cometido: proporcionar un heredero que asegure una alianza entre las dos naciones. Pero las cosas no son fáciles para ella, es solo una extranjera en una corte llena de intrigas y con una particular familia política y además su esposo parece no mostrar ningún interés por ella. La joven María Antonieta debe madurar deprisa en este entorno hostil en el que combatirá a sus enemigos, tratará de buscar aliados y sobrellevará la presión constante de asegurar la continuidad de los Borbón. Sus armas: un carisma natural y un gusto exquisito para la moda que la convertirán no solo en un icono de su época si no en una mujer adelantada a su tiempo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900243",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42915:1"
+},
+{
+"id": "1236758939",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-31",
+"plot": "María Antonieta tiene solo 14 años cuando deja su Austria natal para casarse con el Delfín de Francia. Su cometido: proporcionar un heredero que asegure una alianza entre las dos naciones. Pero las cosas no son fáciles para ella, es solo una extranjera en una corte llena de intrigas y con una particular familia política y además su esposo parece no mostrar ningún interés por ella. La joven María Antonieta debe madurar deprisa en este entorno hostil en el que combatirá a sus enemigos, tratará de buscar aliados y sobrellevará la presión constante de asegurar la continuidad de los Borbón. Sus armas: un carisma natural y un gusto exquisito para la moda que la convertirán no solo en un icono de su época si no en una mujer adelantada a su tiempo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900243",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTE1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42915:2"
+}
+]
+}
+}

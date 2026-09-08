@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-16",
+"episode_count": 1,
+"id": 81569667,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgGqbcATsb1Rkpol8qgYPOcZcUg.jpg"
+}
+],
+"info": {
+"name": "ES - La última llamada (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgGqbcATsb1Rkpol8qgYPOcZcUg.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900605",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "910773970",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-16",
+"plot": "Un retrato en primera persona sobre el lado humano del poder, mostrando los dilemas éticos, emocionales y la soledad que acompaña a quienes han ocupado el despacho más poderoso del país. A través de conversaciones íntimas, archivos personales y declaraciones exclusivas de familiares y asesores cercanos, esta serie documental original Movistar Plus+ muestra las vivencias más reveladoras de Felipe González, José María Aznar, José Luis Rodríguez Zapatero y Mariano Rajoy, desde su llegada a la Moncloa hasta los momentos más críticos de sus mandatos. ¿Qué se siente al recibir la llamada que puede cambiarlo todo? ¿Cómo se vive con esas decisiones que afectan a todo un país?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900605",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46005:1"
+}
+]
+}
+}

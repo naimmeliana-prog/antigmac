@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-01-04",
+"episode_count": 1,
+"id": 606648133,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/aVVpK7y1XaREeMnhT8rCkhbgyTT.jpg"
+}
+],
+"info": {
+"name": "ES - Operación Telemark",
+"cover": "https://image.tmdb.org/t/p/w154/aVVpK7y1XaREeMnhT8rCkhbgyTT.jpg",
+"plot": "",
+"cast": "",
+"director": "Petter Rosenlund, Per-Olav Sørensen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900425",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "422931470",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-04",
+"plot": "Miniserie de TV (2015). 6 episodios. Dramatización de una de las historias más emocionantes de la II Guerra Mundial: Los esfuerzos de los nazis para desarrollar una bomba atómica, y la lucha desesperada de los aliados para evitar que suceda. La serie comienza en Estocolmo en 1933 cuando el científico alemán Werner Heisenberg es galardonado con el Premio Nobel de Física y es felicitado por su mentor, Niels Bohr, un anterior ganador del Premio Nobel. Sigue sus experimentos en Alemania, mientras se empiezan a organizar los grupos de sabotaje en Noruega y los aliados planean el golpe, que será ejecutado por el teniente comandante de los servicios secretos noruegos, Eric Welsh.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29857:1"
+}
+]
+}
+}

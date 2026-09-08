@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-24",
+"episode_count": 1,
+"id": 1694275202,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kThOtAqFO3zC9v00WDpm4jiMlg.jpg"
+}
+],
+"info": {
+"name": "ES - Siendo Marta Diaz (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kThOtAqFO3zC9v00WDpm4jiMlg.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900631",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "676794815",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-24",
+"plot": "A días de su 25 cumpleaños, Marta Díaz muestra a la Marta que fue, es y será. Entre el apoyo de su familia y amigos y muchas confesiones inéditas, la creadora de contenido se enfrenta a traumas, retos y decisiones que marcarán su nuevo yo. Marta descubrirá que cumplir años no es el fin del mundo… sino el comienzo del suyo propio.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900631",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47736:1"
+}
+]
+}
+}

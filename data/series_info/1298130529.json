@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-28",
+"episode_count": 1,
+"id": 473589679,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/jfBaidEJJtzvfwpOzagcuiiwbtq.jpg"
+}
+],
+"info": {
+"name": "ES - El premio de tu vida - (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/jfBaidEJJtzvfwpOzagcuiiwbtq.jpg",
+"plot": "",
+"cast": "",
+"director": "David West Read",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900442",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1877761799",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-28",
+"plot": "Un pequeño pueblo cambia para siempre cuando aparece una máquina misteriosa que promete revelar el verdadero potencial de todos. Pronto, los residentes comienzan a cambiar de trabajo, repensar las relaciones y cuestionar creencias arraigadas, todo en busca de un futuro mejor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900442",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0Njg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24687:1"
+}
+]
+}
+}

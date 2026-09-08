@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-23",
+"episode_count": 1,
+"id": 1649389378,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg"
+}
+],
+"info": {
+"name": "ES - El profe (2026) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+"plot": "",
+"cast": "",
+"director": "François Uzan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900294",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1482383597",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-23",
+"plot": "Eddy, genio de las matemáticas y delincuente de poca monta, evita la cárcel haciéndose pasar por profesor. Su misión: identificar a un criminal importante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900294",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49138:1"
+}
+]
+}
+}

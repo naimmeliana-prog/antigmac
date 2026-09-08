@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-30",
+"episode_count": 1,
+"id": 1555260251,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfOJ4NWmSqii6NpMrrebQx3O8s1.jpg"
+}
+],
+"info": {
+"name": "ES - La Chaparra (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfOJ4NWmSqii6NpMrrebQx3O8s1.jpg",
+"plot": "",
+"cast": "",
+"director": "Elena Molina",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900595",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1494770850",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-30",
+"plot": "Miniserie de TV. 3 episodios. En 1998, varias familias deciden trasladarse a una masía en el interior de Castellón con la intención de construir un estilo de vida alternativo, en armonía con la naturaleza y guiados por Antonio Garrigós Lucas, un supuesto líder espiritual. Aquel lugar se llamó La Chaparra, y su fundador fue bautizado por todos como el \"Tío Toni\". Toni era considerado como un enviado de la divinidad. A través de la imposición de manos protegía a las personas de los malos espíritus y les curaba de dolencias y enfermedades. Cuando funda su propia comunidad sus seguidores lo consideran un 'ser de luz', una figura casi mística a la que debían lealtad absoluta. La historia de tres generaciones de una misma familia atrapadas durante 30 años bajo el control de 'Tío Toni', el líder de la secta acusado de abusos sexuales y cuyo mediático juicio terminó el pasado con 53 testigos, seis acusados y que está a la espera de sentencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900595",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49959:1"
+}
+]
+}
+}

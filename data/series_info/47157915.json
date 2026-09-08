@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2019-12-20",
+"episode_count": 4,
+"id": 517713690,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg"
+}
+],
+"info": {
+"name": "ES - The Witcher",
+"cover": "https://image.tmdb.org/t/p/w154/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+"plot": "",
+"cast": "",
+"director": "Lauren Schmidt Hissrich",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900353",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "20030850",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-20",
+"plot": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900353",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDUxLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29451:4"
+},
+{
+"id": "129388541",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-20",
+"plot": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900353",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDUxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29451:3"
+},
+{
+"id": "63959476",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-20",
+"plot": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900353",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDUxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29451:2"
+},
+{
+"id": "1488583077",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-12-20",
+"plot": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900353",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29451:1"
+}
+]
+}
+}

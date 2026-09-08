@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-17",
+"episode_count": 1,
+"id": 1427865779,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMsnJlXA1HojbAzEmivMd9yRccj.jpg"
+}
+],
+"info": {
+"name": "ES - Vestidas de azul",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMsnJlXA1HojbAzEmivMd9yRccj.jpg",
+"plot": "",
+"cast": "",
+"director": "Valeria Vegas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900268",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1802583468",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-17",
+"plot": "‘Vestidas de azul’ se situará dos años después de la muerte de Cristina Rodríguez, La Veneno, cuando Valeria vuelve a Valencia y se encuentra el VHS del documental ‘Vestida de azul’ una cinta que narra las experiencias de seis transexuales en la España de principios de los años 80.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900268",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34455:1"
+}
+]
+}
+}

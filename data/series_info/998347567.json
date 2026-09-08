@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-11",
+"episode_count": 1,
+"id": 269499108,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yo9lNYYBtucgAtLZow4ngJ8JDq.jpg"
+}
+],
+"info": {
+"name": "ES - Regreso a Las Sabinas (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yo9lNYYBtucgAtLZow4ngJ8JDq.jpg",
+"plot": "",
+"cast": "",
+"director": "Eulàlia Carrillo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900394",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1636353556",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-11",
+"plot": "Gracia y Paloma vuelven a Las Sabinas para cuidar de Emilio, su padre. Gracia se reencuentra con Miguel, su amor de juventud, ahora prometido con Esther. Paloma se hace cargo de las tierras de la familia y se enfrenta a la terrateniente Paca Utrera, que comparte con Emilio un terrible secreto, y que tiene un plan siniestro para el pueblo. El joven Óscar aparece muerto en extrañas circunstancias. Manuela debe investigar el crimen con la ayuda de Álex, el hermano cura de Óscar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900394",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37184:1"
+}
+]
+}
+}

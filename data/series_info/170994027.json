@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-08",
+"episode_count": 1,
+"id": 343902679,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EKUGSjME9No769NICYavtP9lAd.jpg"
+}
+],
+"info": {
+"name": "ES - La estación de las chicas perdidas (2025) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EKUGSjME9No769NICYavtP9lAd.jpg",
+"plot": "",
+"cast": "",
+"director": "Gaëlle Bellan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900383",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1028881485",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-08",
+"plot": "A finales de los años 90, en su primer caso, Flore Robin, una joven investigadora de la policía de Perpiñán, es llamada a una escena del crimen particularmente espeluznante. Es el comienzo de una serie de asesinatos y de una persecución implacable que la perseguirán durante casi veinte años.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900383",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1ODY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45868:1"
+}
+]
+}
+}

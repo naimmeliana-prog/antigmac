@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-24",
+"episode_count": 1,
+"id": 1694722139,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmvLkZx5pUlAhQEOoukL3xeu7qy.jpg"
+}
+],
+"info": {
+"name": "ES - Vikingos, los primeros reyes",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmvLkZx5pUlAhQEOoukL3xeu7qy.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900639",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1004600823",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-24",
+"plot": "Un viaje al siglo IX para sumergirnos en la tumultuosa vida de los primeros líderes vikingos, los legendarios reyes daneses. Durante sus reinados, estos formidables guerreros aterrorizaron a toda Europa e incluso amenazaron el imperio de Carlomagno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900639",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31649:1"
+}
+]
+}
+}

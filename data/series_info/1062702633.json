@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-21",
+"episode_count": 2,
+"id": 211013069,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmMul2w1bFGMQOZv1vITJUcuZs9.jpg"
+}
+],
+"info": {
+"name": "ES - Las gotas de Dios (2023) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmMul2w1bFGMQOZv1vITJUcuZs9.jpg",
+"plot": "",
+"cast": "",
+"director": "Quoc Dang Tran",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900459",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "545259648",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-21",
+"plot": "Mientras el mundo del vino llora la muerte de Alexandre Léger, su hija Camille, muy distanciada de él, descubre la extraordinaria colección que puede ser suya. Pero, para reclamar su herencia, Camille debe superar a Issei, el protegido de Alexandre, en una prueba para sus sentidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900459",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47626:1"
+},
+{
+"id": "1448381869",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-21",
+"plot": "Mientras el mundo del vino llora la muerte de Alexandre Léger, su hija Camille, muy distanciada de él, descubre la extraordinaria colección que puede ser suya. Pero, para reclamar su herencia, Camille debe superar a Issei, el protegido de Alexandre, en una prueba para sus sentidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900459",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjI2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47626:2"
+}
+]
+}
+}

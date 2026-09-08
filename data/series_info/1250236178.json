@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-03",
+"episode_count": 1,
+"id": 1259059390,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4AxEMRyaGWDI6ZqMNiyulZRYqz.jpg"
+}
+],
+"info": {
+"name": "ES - El juego de mi destino (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4AxEMRyaGWDI6ZqMNiyulZRYqz.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900648",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1028067359",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-03",
+"plot": "Asiye, que lucha con sus dos hijos pequeños a una edad temprana, se dedica a la felicidad de sus hijos a pesar de todas sus privaciones, y es tanto una madre como un padre para ellos, su vida da un vuelco con el desastre que le sucedió. hija Narciso, a quien ella evita de sus ojos. Después de eso, el camino de Asiyah se cruza con Mahir, un extraño desconocido que los ayuda, quien se ve arrastrado en un viaje irreversible con sus hijos en aras de proteger a su hija. Mahir, quien los ayuda con sentimientos humanitarios y los lleva a su automóvil, aún no sabe que cambiará el destino tanto de él como de Asiye y sus hijos con esta decisión que ha tomado. Para Asiye, quien se refugió en la Mansión Demirhan gracias a Mahir, esto no es una salvación, sino el comienzo de una guerra completamente nueva.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900648",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35677:1"
+}
+]
+}
+}

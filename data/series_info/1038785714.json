@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-08",
+"episode_count": 1,
+"id": 1314177412,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg"
+}
+],
+"info": {
+"name": "ES - Néro (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg",
+"plot": "",
+"cast": "",
+"director": "Allan Mauduit, Jean-Patrick Benes, Martin Douaire",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900334",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1184943587",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-08",
+"plot": "En la Francia de 1504, un asesino despiadado se da a la fuga con su hija, a la que apenas conoce, para protegerla de enemigos letales y fuerzas malignas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900334",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwOTgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50982:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-11",
+"episode_count": 1,
+"id": 1080763067,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDT3LX6Njv76Le5Yzyka0hxp5Oy.jpg"
+}
+],
+"info": {
+"name": "ES - Los reyes de Tupelo: Una saga criminal en Misisipi (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDT3LX6Njv76Le5Yzyka0hxp5Oy.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900611",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "271787988",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-11",
+"plot": "En Tupelo, Mississippi, la memoria de Elvis Presley es muy importante. El legendario cantante nació allí en 1935, y la ciudad sigue albergando un fervoroso fandom, repleto de imitadores. Paul Kevin Curtis, natural de Tupelo, creció venerando a Elvis y llegó a asociarse con su hermano Jack para crear Double Trouble, la primera revista doble de Elvis. Pero cuando el trabajo diario de Curtis en mantenimiento le llevó a un espeluznante descubrimiento en un depósito de cadáveres, se metió por una madriguera de conejo de Internet en un mundo de asombrosas conspiraciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900611",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38861:1"
+}
+]
+}
+}

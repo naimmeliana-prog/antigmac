@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-24",
+"episode_count": 1,
+"id": 1290392204,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrJHQZ3TYAL3kP35rmHRJKnoBl5.jpg"
+}
+],
+"info": {
+"name": "ES - El fin de las antiguas civilizaciones (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrJHQZ3TYAL3kP35rmHRJKnoBl5.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900575",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1638763200",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-24",
+"plot": "Cuatro poderosas civilizaciones: el Imperio romano, el Antiguo Egipto, los samuráis japoneses y los aztecas. Sus obras de arte más valiosas revelan los secretos detrás de su grandeza y el misterioso destino que los llevó a convertirse en leyenda.\r\n\r\nEste documental, producido por BBC Studios, analiza por qué cuatro poderosas antiguas civilizaciones se encontraron al borde del desastre, y cómo el arte y las reliquias que dejaron atrás contienen pistas para explicar su destino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47951:1"
+}
+]
+}
+}

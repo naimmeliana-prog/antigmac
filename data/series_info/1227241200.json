@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "1999-09-22",
+"episode_count": 7,
+"id": 345474972,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NR3uOYD6V1FTDkeBpjzoLVGhX.jpg"
+}
+],
+"info": {
+"name": "ES - El ala oeste de la Casa Blanca",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NR3uOYD6V1FTDkeBpjzoLVGhX.jpg",
+"plot": "",
+"cast": "",
+"director": "Aaron Sorkin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900484",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1645315898",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1999-09-22",
+"plot": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900484",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ3LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34247:7"
+},
+{
+"id": "1330253834",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1999-09-22",
+"plot": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900484",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ3LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34247:6"
+},
+{
+"id": "1599162831",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1999-09-22",
+"plot": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900484",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ3LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34247:5"
+},
+{
+"id": "185711923",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1999-09-22",
+"plot": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900484",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34247:4"
+},
+{
+"id": "920557117",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1999-09-22",
+"plot": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900484",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34247:3"
+},
+{
+"id": "596385791",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1999-09-22",
+"plot": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900484",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34247:2"
+},
+{
+"id": "1931832248",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1999-09-22",
+"plot": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900484",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34247:1"
+}
+]
+}
+}

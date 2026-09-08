@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-08-29",
+"episode_count": 1,
+"id": 1876084303,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1PdL3GhC8VvBfWzQ7XHlByL2Hn.jpg"
+}
+],
+"info": {
+"name": "ES - La historia de KISS (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1PdL3GhC8VvBfWzQ7XHlByL2Hn.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900599",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1786420040",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-29",
+"plot": "En Nueva York, en 1973, surge un grupo formado por un demonio, un chico estrella, un gato y un hombre del espacio. El resto ya es historia.\r\n\r\n\"Kiss\" es posiblemente el grupo más icónico de la historia del rock. Ahora que está llegando su final es el momento de mostrarlo todo. Los fundadores de la banda, Paul Stanley (voz) y Gene Simmons (bajo), nos revelan su historia. Se decía de ellos que eran el grupo más peligroso y temido de Estados Unidos, y sus canciones, sus espectáculos repletos de elementos o sus maquillajes han revolucionado la música durante cinco décadas. Este documental repasa su extensa carrera y lucha de egos con imágenes de sus primeros conciertos y de los ensayos para los últimos. Los acompañan artistas a los que el grupo ha influido, como Dave Grohl (\"Foo Fighters\").\r\n\r\nUna historia de música, vanidad y emoción a través de cinco décadas de noches de rock & Roll.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900599",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38019:1"
+}
+]
+}
+}

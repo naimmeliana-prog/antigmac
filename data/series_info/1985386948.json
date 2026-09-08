@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-07",
+"episode_count": 1,
+"id": 1888098222,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G9FF79g6c5GjdG33feO1zb7wEf.jpg"
+}
+],
+"info": {
+"name": "ES - Verdaderamente aterrador (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G9FF79g6c5GjdG33feO1zb7wEf.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900638",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "553677996",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-07",
+"plot": "Se detallan encuentros paranormales desde el punto de vista de quienes los vivieron a través de recreaciones inmersivas y entrevistas actuales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900638",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1ODc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45877:1"
+}
+]
+}
+}

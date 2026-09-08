@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-16",
+"episode_count": 2,
+"id": 34882910,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg"
+}
+],
+"info": {
+"name": "ES - El nuevo empleado (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+"plot": "",
+"cast": "",
+"director": "Alexi Hawley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900293",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1920153509",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-16",
+"plot": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900293",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41332:1"
+},
+{
+"id": "1989877064",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-16",
+"plot": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900293",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzMyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41332:2"
+}
+]
+}
+}

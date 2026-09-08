@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-02-21",
+"episode_count": 1,
+"id": 1405961358,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nugWvs4UOIWIMB0gVkn42FdZ2Ju.jpg"
+}
+],
+"info": {
+"name": "ES - La cocinera de Castamar",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nugWvs4UOIWIMB0gVkn42FdZ2Ju.jpg",
+"plot": "",
+"cast": "",
+"director": "Tatiana Rodríguez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900261",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1358989655",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-21",
+"plot": "Cuenta la historia de Clara Belmonte y Diego, el Duque de Castamar, ambos con un pasado doloroso, pero a quienes les cambiará la vida al conocerse. Tendrán que luchar contra uno de los grandes obstáculos de la época si quieren estar juntos: la diferencia de clases, además de hacer frente a la sed de venganza de Enrique de Arcona.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900261",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34511:1"
+}
+]
+}
+}

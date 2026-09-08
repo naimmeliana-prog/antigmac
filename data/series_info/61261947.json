@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-23",
+"episode_count": 2,
+"id": 352441474,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7Ulem8hT8nKVPvYlTeNLoWXfvk.jpg"
+}
+],
+"info": {
+"name": "ES - Planeta prehistórico",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7Ulem8hT8nKVPvYlTeNLoWXfvk.jpg",
+"plot": "",
+"cast": "",
+"director": "Mike Gunton",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900625",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "111318751",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-23",
+"plot": "Experimenta las maravillas del mundo como nunca antes en esta épica docuserie de Jon Favreau y los productores de Planeta Tierra. Retrocede 66 millones de años en el tiempo, cuando majestuosos dinosaurios y extraordinarias criaturas deambulaban por la tierra, los mares y el cielo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900625",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDIxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32021:2"
+},
+{
+"id": "1282039311",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-23",
+"plot": "Experimenta las maravillas del mundo como nunca antes en esta épica docuserie de Jon Favreau y los productores de Planeta Tierra. Retrocede 66 millones de años en el tiempo, cuando majestuosos dinosaurios y extraordinarias criaturas deambulaban por la tierra, los mares y el cielo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900625",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32021:1"
+}
+]
+}
+}

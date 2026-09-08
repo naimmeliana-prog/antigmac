@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-07",
+"episode_count": 1,
+"id": 1532807288,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YkrKcWUQyYpbeWVNIFKznsYd92.jpg"
+}
+],
+"info": {
+"name": "ES - En la nave del encanto (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YkrKcWUQyYpbeWVNIFKznsYd92.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900580",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "833763501",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-07",
+"plot": "Pedro Alonso y su equipo se embarcan en un viaje a través de vías meditativas, acercándose al mundo del chamanismo. Dibujando un ocho por los márgenes de la geografía mexicana, la travesía les llevará al encuentro de maestros medicina tradicionales con los que compartir una particular mirada sobre la vida de naturaleza panteísta, pero también sus protocolos de sanación y sus rituales de visión, en los que participan durante el rodaje. Un viaje que trata de mostrar un camino de crecimiento y de riqueza que, más allá de prejuicios occidentales, ha acompañado con su mirada mitológica al hombre de todas las culturas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMDEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40013:1"
+}
+]
+}
+}

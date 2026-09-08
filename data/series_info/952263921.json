@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2001-09-09",
+"episode_count": 1,
+"id": 1243782290,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/tFdHfzPmBSuLZn8L2L09nhxkOOH.jpg"
+}
+],
+"info": {
+"name": "ES - Hermanos de sangre",
+"cover": "https://image.tmdb.org/t/p/w154/tFdHfzPmBSuLZn8L2L09nhxkOOH.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900493",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1265711359",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-09-09",
+"plot": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900493",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29851:1"
+}
+]
+}
+}

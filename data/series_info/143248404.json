@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2016-10-08",
+"episode_count": 3,
+"id": 587752755,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ujUZkbs3s5wrsdbGUJE74gy1O.jpg"
+}
+],
+"info": {
+"name": "ES - Llamame Bruna",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ujUZkbs3s5wrsdbGUJE74gy1O.jpg",
+"plot": "",
+"cast": "",
+"director": "Márcia Faria",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900423",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1176149905",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-08",
+"plot": "Raquel (Maria Bopp) es una joven de clase media alta que vive con sus padres en una casa en el interior de San Pablo. Un día decide cambiar de vida, se escapa de casa y se muda a la capital, donde comienza a trabajar en el prostíbulo de lujo de Stella(Carla Ribas), una vieja madama. Nancy (Suzana Kruger), ayudante de Stella, inmediatamente se preocupa con el hecho de que la chica sea menor de edad. Raquel sufre con la rivalidad de las otras prostitutas del lugar, Georgette (Stella Rabello), Mónica (Luciana Paes) ...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTA2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15106:3"
+},
+{
+"id": "60698710",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-08",
+"plot": "Raquel (Maria Bopp) es una joven de clase media alta que vive con sus padres en una casa en el interior de San Pablo. Un día decide cambiar de vida, se escapa de casa y se muda a la capital, donde comienza a trabajar en el prostíbulo de lujo de Stella(Carla Ribas), una vieja madama. Nancy (Suzana Kruger), ayudante de Stella, inmediatamente se preocupa con el hecho de que la chica sea menor de edad. Raquel sufre con la rivalidad de las otras prostitutas del lugar, Georgette (Stella Rabello), Mónica (Luciana Paes) ...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTA2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15106:2"
+},
+{
+"id": "663218617",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-08",
+"plot": "Raquel (Maria Bopp) es una joven de clase media alta que vive con sus padres en una casa en el interior de San Pablo. Un día decide cambiar de vida, se escapa de casa y se muda a la capital, donde comienza a trabajar en el prostíbulo de lujo de Stella(Carla Ribas), una vieja madama. Nancy (Suzana Kruger), ayudante de Stella, inmediatamente se preocupa con el hecho de que la chica sea menor de edad. Raquel sufre con la rivalidad de las otras prostitutas del lugar, Georgette (Stella Rabello), Mónica (Luciana Paes) ...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15106:1"
+}
+]
+}
+}

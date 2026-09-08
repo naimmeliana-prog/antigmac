@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2009-09-22",
+"episode_count": 6,
+"id": 1869176194,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg"
+}
+],
+"info": {
+"name": "ES - The Good Wife (2009)",
+"cover": "https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg",
+"plot": "",
+"cast": "",
+"director": "Michelle King, Robert King",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900251",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1179475274",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "The Good Wife es un drama protagonizado por Julianna Margulies como la esposa y madre que asume toda la responsabilidad de su familia entrando a trabajar después de que su esposo fue encarcelado por un escándalo político y sexual. Alicia Florrick hizo a un lado la humillación que le causó su esposo Peter e inició una nueva vida siguiendo su carrera como abogada de defensa en una de las firmas de abogados más respetadas en Chicago.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NDQ0LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24444:6"
+},
+{
+"id": "1211841549",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "The Good Wife es un drama protagonizado por Julianna Margulies como la esposa y madre que asume toda la responsabilidad de su familia entrando a trabajar después de que su esposo fue encarcelado por un escándalo político y sexual. Alicia Florrick hizo a un lado la humillación que le causó su esposo Peter e inició una nueva vida siguiendo su carrera como abogada de defensa en una de las firmas de abogados más respetadas en Chicago.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NDQ0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24444:5"
+},
+{
+"id": "1952149444",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "The Good Wife es un drama protagonizado por Julianna Margulies como la esposa y madre que asume toda la responsabilidad de su familia entrando a trabajar después de que su esposo fue encarcelado por un escándalo político y sexual. Alicia Florrick hizo a un lado la humillación que le causó su esposo Peter e inició una nueva vida siguiendo su carrera como abogada de defensa en una de las firmas de abogados más respetadas en Chicago.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NDQ0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24444:4"
+},
+{
+"id": "1134602514",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "The Good Wife es un drama protagonizado por Julianna Margulies como la esposa y madre que asume toda la responsabilidad de su familia entrando a trabajar después de que su esposo fue encarcelado por un escándalo político y sexual. Alicia Florrick hizo a un lado la humillación que le causó su esposo Peter e inició una nueva vida siguiendo su carrera como abogada de defensa en una de las firmas de abogados más respetadas en Chicago.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NDQ0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24444:3"
+},
+{
+"id": "369919435",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "The Good Wife es un drama protagonizado por Julianna Margulies como la esposa y madre que asume toda la responsabilidad de su familia entrando a trabajar después de que su esposo fue encarcelado por un escándalo político y sexual. Alicia Florrick hizo a un lado la humillación que le causó su esposo Peter e inició una nueva vida siguiendo su carrera como abogada de defensa en una de las firmas de abogados más respetadas en Chicago.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NDQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24444:2"
+},
+{
+"id": "1006460007",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-22",
+"plot": "The Good Wife es un drama protagonizado por Julianna Margulies como la esposa y madre que asume toda la responsabilidad de su familia entrando a trabajar después de que su esposo fue encarcelado por un escándalo político y sexual. Alicia Florrick hizo a un lado la humillación que le causó su esposo Peter e inició una nueva vida siguiendo su carrera como abogada de defensa en una de las firmas de abogados más respetadas en Chicago.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NDQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24444:1"
+}
+]
+}
+}

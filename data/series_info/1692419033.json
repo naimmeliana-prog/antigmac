@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-17",
+"episode_count": 1,
+"id": 648860387,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/m2ado3veWW3Cvh5IwucZBWgkAta.jpg"
+}
+],
+"info": {
+"name": "ES - Inside Greenpeace",
+"cover": "https://image.tmdb.org/t/p/w154/m2ado3veWW3Cvh5IwucZBWgkAta.jpg",
+"plot": "",
+"cast": "",
+"director": "Florian Nöthe",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900590",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "83009348",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-17",
+"plot": "Greenpeace acompaña durante un año a activistas en su misión de salvar nuestro planeta, siguiéndoles en un viaje por todo el mundo para obtener información exclusiva. El equipo de rodaje no sólo acompaña a la tripulación del rompehielos \"Arctic Sunrise\" en su viaje de un mes frente a las costas de África hasta los hielos eternos de la Antártida, sino que también está al frente de algunas de las campañas más espectaculares y secretas de Greenpeace. También se adentran en el lado menos conocido de Greenpeace, incluidas sus campañas legales, su trabajo científico al más alto nivel y sus presiones políticas en pleno corazón del poder.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900590",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30240:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-17",
+"episode_count": 1,
+"id": 621560973,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EzcDTGhbbvTS27iKK4ompIQjva.jpg"
+}
+],
+"info": {
+"name": "ES - La familia más feliz en la nación (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EzcDTGhbbvTS27iKK4ompIQjva.jpg",
+"plot": "",
+"cast": "",
+"director": "Pam Brady, Ramy Youssef",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900420",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1458907741",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-17",
+"plot": "De Ramy Youssef llega la familia más feliz en la nación, una serie animada que sigue a los maniáticos y animados Hussein, la familia musulmana más patriótica, más pacífica y, sin duda, menos sospechosa en EE. UU. tras el 9/11. A través de la sátira y el absurdo, redefine la búsqueda del humor en la adversidad de su vida a principios de los 2000 bajo la atenta mirada de sus aterrados vecinos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900420",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42910:1"
+}
+]
+}
+}

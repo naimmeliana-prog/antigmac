@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-09",
+"episode_count": 1,
+"id": 991501911,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3spUSc7d0eNUkG9PE7BB0Sv3uv0.jpg"
+}
+],
+"info": {
+"name": "ES - El centro (LQ) (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3spUSc7d0eNUkG9PE7BB0Sv3uv0.jpg",
+"plot": "",
+"cast": "",
+"director": "David Moreno",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900235",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1168492032",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-09",
+"plot": "Ambientada en la actualidad, pero con ecos de la Guerra Fría, este thriller de espionaje se adentra en el desconocido universo del Centro Nacional de Inteligencia (CNI). La trama arranca con un asesinato que destapa una operación internacional de los servicios de Inteligencia rusos y lleva a los miembros del CNI a una carrera contrarreloj para desmantelarla, al tiempo que intentan descubrir a un traidor entre sus filas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900235",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwOTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50908:1"
+}
+]
+}
+}

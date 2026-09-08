@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2005-09-23",
+"episode_count": 5,
+"id": 1782169921,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/u20Yzj0pYiWkNfVUstpwbsSI9kc.jpg"
+}
+],
+"info": {
+"name": "ES - Entre fantasmas",
+"cover": "https://image.tmdb.org/t/p/w154/u20Yzj0pYiWkNfVUstpwbsSI9kc.jpg",
+"plot": "",
+"cast": "",
+"director": "John Gray",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900378",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "221067976",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-09-23",
+"plot": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900378",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzE2LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29716:5"
+},
+{
+"id": "1545879497",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-09-23",
+"plot": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900378",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzE2LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29716:4"
+},
+{
+"id": "685425530",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-09-23",
+"plot": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900378",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzE2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29716:3"
+},
+{
+"id": "466163929",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-09-23",
+"plot": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900378",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29716:2"
+},
+{
+"id": "1519034866",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-09-23",
+"plot": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900378",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29716:1"
+}
+]
+}
+}

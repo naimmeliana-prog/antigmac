@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-20",
+"episode_count": 1,
+"id": 1810906090,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqMvxVLLorwAOFwFXGHfWLz7urZ.jpg"
+}
+],
+"info": {
+"name": "ES - Secretos de los pingüinos (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqMvxVLLorwAOFwFXGHfWLz7urZ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900630",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1664566612",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-20",
+"plot": "Desde los reveladores lazos de amistad de los pingüinos emperador hasta la valiente determinación de los Gentoos y los Rockhoppers, y el asombroso ingenio de los pingüinos migrantes que llegaron a los desiertos y mucho más allá, sus increíbles tradiciones y sociedades se hacen eco de las nuestras de formas que nunca soñamos posibles, hasta ahora.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMDAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43003:1"
+}
+]
+}
+}

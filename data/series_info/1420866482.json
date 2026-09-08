@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-17",
+"episode_count": 1,
+"id": 1143548808,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg"
+}
+],
+"info": {
+"name": "ES - Dune: La profecía (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Diane Ademu-John, Alison Schapker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900479",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "653388192",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-17",
+"plot": "Ambientada 10.000 años antes de los acontecimientos de la novela Dune de 1965, la serie sigue a las hermanas Valya y Tula Harkonnen en su lucha contra las fuerzas que amenazan el futuro de la humanidad y en la creación de la legendaria secta conocida como las Bene Gesserit.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900479",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MzE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38318:1"
+}
+]
+}
+}

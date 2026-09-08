@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-28",
+"episode_count": 2,
+"id": 1313406964,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNFls7LsLpS7Dvyx4uFhoTWHWlF.jpg"
+}
+],
+"info": {
+"name": "ES - Punto Nemo (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNFls7LsLpS7Dvyx4uFhoTWHWlF.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Martín Sáez de Parayuelo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900427",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1800118006",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-28",
+"plot": "Los miembros de una expedición oceanográfica formada por científicos y la Armada Española, se embarcan en un buque para investigar y concienciar al mundo de los problemas de la isla de plástico localizada en el Pacífico Sur. Una fuerte tormenta les arrastrará hasta una isla situada en los confines del planeta. Un lugar antes habitado por militares rusos, que pondrá a prueba sus habilidades y conocimientos para sobrevivir e intentar salir del Punto Nemo, un lugar lleno de misterios y peligros al acecho.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900427",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTE5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42919:2"
+},
+{
+"id": "143895170",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-28",
+"plot": "Los miembros de una expedición oceanográfica formada por científicos y la Armada Española, se embarcan en un buque para investigar y concienciar al mundo de los problemas de la isla de plástico localizada en el Pacífico Sur. Una fuerte tormenta les arrastrará hasta una isla situada en los confines del planeta. Un lugar antes habitado por militares rusos, que pondrá a prueba sus habilidades y conocimientos para sobrevivir e intentar salir del Punto Nemo, un lugar lleno de misterios y peligros al acecho.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900427",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42919:1"
+}
+]
+}
+}

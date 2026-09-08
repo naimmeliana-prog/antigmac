@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-20",
+"episode_count": 1,
+"id": 366093291,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NbQ6JrTB8F4d73BKzM1GPffB2v.jpg"
+}
+],
+"info": {
+"name": "ES - Las armas secretas de Putin (2026) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NbQ6JrTB8F4d73BKzM1GPffB2v.jpg",
+"plot": "",
+"cast": "",
+"director": "Hugo Van Offel, Martin Boudot",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900605",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1506238139",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-20",
+"plot": "Pese a las sanciones internacionales y al apoyo militar a Ucrania, el avance ruso continúa. Esta investigación destapa cómo se esquivan los castigos mediante redes clandestinas de armas, espionaje y alianzas encubiertas, y analiza los intereses ocultos que están redefiniendo el equilibrio geopolítico mundial con la colaboración activa de otros estados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900605",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47928:1"
+}
+]
+}
+}

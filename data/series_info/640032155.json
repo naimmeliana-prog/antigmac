@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-02-03",
+"episode_count": 1,
+"id": 73084006,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg"
+}
+],
+"info": {
+"name": "ES - McMillions",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900615",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1430018583",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-02-03",
+"plot": "Una descripción detallada de la estafa del juego McDonald's Monopoly durante la década de 1990 según lo dicho por los participantes en el caso, incluidos los ganadores del premio y los agentes del FBI que atraparon al oficial de seguridad que orquestó todo el esquema.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31210:1"
+}
+]
+}
+}

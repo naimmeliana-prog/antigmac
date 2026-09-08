@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-02-08",
+"episode_count": 3,
+"id": 342216474,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/4WLMWQgH3eXNP1aGrAuwlSiIx5j.jpg"
+}
+],
+"info": {
+"name": "ES - Legión",
+"cover": "https://image.tmdb.org/t/p/w154/4WLMWQgH3eXNP1aGrAuwlSiIx5j.jpg",
+"plot": "",
+"cast": "",
+"director": "Noah Hawley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900384",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "280109307",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-08",
+"plot": "La ficción se centra en David Haller, un hombre que desde que era adolescente ha tenido que luchar contra una enfermadad mental. Su diagnóstico: esquizofrenia. Durante años, ha ido entrando y saliendo de diferentes hospitales psiquíatricos para tratarse, pero después de un extraño encuentro con un paciente, se tiene que enfrentar a la posibilidad de que las voces que escucha  en su cabeza y las visiones que ve podrían ser reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTMwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29930:3"
+},
+{
+"id": "94517842",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-08",
+"plot": "La ficción se centra en David Haller, un hombre que desde que era adolescente ha tenido que luchar contra una enfermadad mental. Su diagnóstico: esquizofrenia. Durante años, ha ido entrando y saliendo de diferentes hospitales psiquíatricos para tratarse, pero después de un extraño encuentro con un paciente, se tiene que enfrentar a la posibilidad de que las voces que escucha  en su cabeza y las visiones que ve podrían ser reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTMwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29930:2"
+},
+{
+"id": "587072726",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-08",
+"plot": "La ficción se centra en David Haller, un hombre que desde que era adolescente ha tenido que luchar contra una enfermadad mental. Su diagnóstico: esquizofrenia. Durante años, ha ido entrando y saliendo de diferentes hospitales psiquíatricos para tratarse, pero después de un extraño encuentro con un paciente, se tiene que enfrentar a la posibilidad de que las voces que escucha  en su cabeza y las visiones que ve podrían ser reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29930:1"
+}
+]
+}
+}

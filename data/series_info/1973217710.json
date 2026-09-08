@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-08",
+"episode_count": 2,
+"id": 334724129,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1bNBnXstXevYJaQJ6PEBXGvqpQ4.jpg"
+}
+],
+"info": {
+"name": "ES - Sentimos las molestias (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/1bNBnXstXevYJaQJ6PEBXGvqpQ4.jpg",
+"plot": "",
+"cast": "",
+"director": "Juan Cavestany, Álvaro Fernández Armero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900249",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "458140241",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-08",
+"plot": "Rafael Müller es un aclamado director de orquesta; Rafael Jiménez es una vieja gloria del rock que se resiste a colgar el hacha. Ambos lucharán por seguir encajando en un mundo veloz y joven que insiste en sacarles del juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900249",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22969:2"
+},
+{
+"id": "366961648",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-08",
+"plot": "Rafael Müller es un aclamado director de orquesta; Rafael Jiménez es una vieja gloria del rock que se resiste a colgar el hacha. Ambos lucharán por seguir encajando en un mundo veloz y joven que insiste en sacarles del juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900249",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22969:1"
+}
+]
+}
+}

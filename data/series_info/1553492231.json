@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-10",
+"episode_count": 2,
+"id": 624168553,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYzwstTEPz8qmjeQB8tduWBo63j.jpg"
+}
+],
+"info": {
+"name": "ES - Marvel's Moon Girl y Dinosaurio Diabólico (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYzwstTEPz8qmjeQB8tduWBo63j.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900389",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1628583405",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-10",
+"plot": "Marvel's Moon Girl y Dinosaurio Diabólico se basa en los cómics de éxito de Marvel y sigue las aventuras de Lunella Lafayette, una supergenio de 13 años, y su T-Rex, Dinosaurio Diabólico.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900389",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzU1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36755:2"
+},
+{
+"id": "191465927",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-10",
+"plot": "Marvel's Moon Girl y Dinosaurio Diabólico se basa en los cómics de éxito de Marvel y sigue las aventuras de Lunella Lafayette, una supergenio de 13 años, y su T-Rex, Dinosaurio Diabólico.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900389",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36755:1"
+}
+]
+}
+}

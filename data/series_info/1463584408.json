@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-19",
+"episode_count": 1,
+"id": 1447761518,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3sjI07KIY6Qa7JQyX3BvaCmtnk.jpg"
+}
+],
+"info": {
+"name": "ES - León (HQ) (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3sjI07KIY6Qa7JQyX3BvaCmtnk.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900384",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "34934631",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-19",
+"plot": "Rodada durante cuatro años, esta ambiciosa serie documental de naturaleza narra la extraordinaria historia real de Kio, un cachorro de león, en su épico viaje para convertirse en rey. Tras sufrir la pérdida y el exilio, deberá enfrentarse a feroces rivales y superar desafíos increíbles en una lucha sin tregua por sobrevivir y encontrar su lugar en el mundo salvaje.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNDk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51494:1"
+}
+]
+}
+}

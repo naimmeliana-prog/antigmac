@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-18",
+"episode_count": 1,
+"id": 1408573274,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvZlBI21f8CqRiqVfTjMDPK1NYk.jpg"
+}
+],
+"info": {
+"name": "ES - Te encontraré (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvZlBI21f8CqRiqVfTjMDPK1NYk.jpg",
+"plot": "",
+"cast": "",
+"director": "Robert Hull",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900351",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1611912326",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-18",
+"plot": "Un hombre injustamente encarcelado por asesinar a su propio hijo emprende una desesperada misión de rescate tras descubrir que el niño podría estar vivo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900351",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMjI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50226:1"
+}
+]
+}
+}

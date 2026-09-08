@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-16",
+"episode_count": 1,
+"id": 131714146,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg"
+}
+],
+"info": {
+"name": "ES - Ronaldinho (2026) (BR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900628",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "208586064",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-16",
+"plot": "Esta serie narra la vida y la carrera de Ronaldinho, estrella del fútbol brasileño, y repasa su trayectoria de joven prodigio a rey del deporte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49050:1"
+}
+]
+}
+}

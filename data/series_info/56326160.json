@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-27",
+"episode_count": 1,
+"id": 1069309549,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7tksyddK3VvismfoWCwpXPqz0x.jpg"
+}
+],
+"info": {
+"name": "ES - Secret Service (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Bradby",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900509",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1826358540",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-27",
+"plot": "Kate Henderson, una veterana oficial del MI6, inicia una investigación encubierta tras recibir pruebas de que un importante político británico es, en realidad, un activo de la inteligencia rusa. Mientras la amenaza se infiltra en las estructuras del Estado, Henderson deberá identificar al infiltrado y neutralizar la conspiración antes de que el control del gobierno quede comprometido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900509",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NzA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49704:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-18",
+"episode_count": 1,
+"id": 397467769,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uURaCvSFUzstxPMQGqKvfTA7U9.jpg"
+}
+],
+"info": {
+"name": "ES - Los Protegidos: A.D.N. (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uURaCvSFUzstxPMQGqKvfTA7U9.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900263",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "659958599",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-18",
+"plot": "‘Los Protegidos: A.D.N.’ arranca con la boda de Sandra y Culebra, uno de los eventos más esperados y que servirá para volver a reunir a la familia. En este gran día solo echarán en falta a una invitada: Rosa Ruano. Tras la celebración, los Castillo Rey decidirán poner en marcha un arriesgado plan para encontrarla. Su búsqueda los llevará a un lugar que no esperaban…",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900263",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34858:1"
+}
+]
+}
+}

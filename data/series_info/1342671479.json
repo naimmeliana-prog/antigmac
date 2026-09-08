@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2015-04-10",
+"episode_count": 3,
+"id": 231798439,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/zdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg"
+}
+],
+"info": {
+"name": "ES - Marvel - Daredevil",
+"cover": "https://image.tmdb.org/t/p/w154/zdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg",
+"plot": "",
+"cast": "",
+"director": "Drew Goddard",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900388",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1484455135",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-10",
+"plot": "'Daredevil' es una serie cargada de acción que sigue las aventuras de Matt Murdock -abogado de día y superhéroe de noche- en el barrio de la ciudad de Nueva York conocido como Hell’s Kitchen. Matt quedó ciego tras un accidente de niño, pero ahora tiene los otros cuatro sentidos incrementados y se dedica a luchar contra la injusticia como el superhéroe Daredevil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900388",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MjQ1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29245:3"
+},
+{
+"id": "93278177",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-10",
+"plot": "'Daredevil' es una serie cargada de acción que sigue las aventuras de Matt Murdock -abogado de día y superhéroe de noche- en el barrio de la ciudad de Nueva York conocido como Hell’s Kitchen. Matt quedó ciego tras un accidente de niño, pero ahora tiene los otros cuatro sentidos incrementados y se dedica a luchar contra la injusticia como el superhéroe Daredevil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900388",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MjQ1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29245:2"
+},
+{
+"id": "1464800847",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-04-10",
+"plot": "'Daredevil' es una serie cargada de acción que sigue las aventuras de Matt Murdock -abogado de día y superhéroe de noche- en el barrio de la ciudad de Nueva York conocido como Hell’s Kitchen. Matt quedó ciego tras un accidente de niño, pero ahora tiene los otros cuatro sentidos incrementados y se dedica a luchar contra la injusticia como el superhéroe Daredevil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900388",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MjQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29245:1"
+}
+]
+}
+}

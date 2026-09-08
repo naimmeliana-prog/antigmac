@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-23",
+"episode_count": 1,
+"id": 1738645887,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBKPEIVGH69Z3hl18GDaz1MuAHm.jpg"
+}
+],
+"info": {
+"name": "ES - Los amos de la ciudad (HQ) (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBKPEIVGH69Z3hl18GDaz1MuAHm.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Butchard",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900241",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "573770964",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-23",
+"plot": "Michael Kavanagh, mano derecha y casi hijo adoptivo de Ronnie Phelan, ha vivido siempre en el crimen organizado. Tras enamorarse de Diana, comienza a soñar con dejar esa vida. Pero la desaparición de un gran alijo de droga y el posible retiro de Ronnie dejan un vacío de poder que Jamie, el hijo biológico de Ronnie, quiere llenar. La lucha entre Michael y Jamie provoca una guerra interna en la banda, mientras intentan modernizar y controlar el imperio. Atrapado entre la lealtad a la familia criminal y su deseo de un futuro distinto, Michael debe tomar decisiones difíciles en un ambiente lleno de traición, violencia y ambición que amenaza todo lo que ama.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900241",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47230:1"
+}
+]
+}
+}

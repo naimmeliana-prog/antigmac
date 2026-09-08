@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-10-27",
+"episode_count": 3,
+"id": 191794818,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOTDnpXyHU0NEcFLktK2ueqmq6I.jpg"
+}
+],
+"info": {
+"name": "ES - Sangre de Zeus",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOTDnpXyHU0NEcFLktK2ueqmq6I.jpg",
+"plot": "",
+"cast": "",
+"director": "Charley Parlapanides, Vlas Parlapanides",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900365",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "1080989210",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-10-27",
+"plot": "Cuenta la historia de un joven hombre que, repudiado por su propio pueblo, descubre que es el hijo ilegítimo de Zeus. Él, por sus propios medios, puede salvar tanto al cielo como a la Tierra, pero para ello debe sobrevivir a la terrible ira de una diosa que le quiere muerto y a las monstruosas fuerzas malignas con las que ella se alía.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900365",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjA5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31209:3"
+},
+{
+"id": "549674125",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-10-27",
+"plot": "Cuenta la historia de un joven hombre que, repudiado por su propio pueblo, descubre que es el hijo ilegítimo de Zeus. Él, por sus propios medios, puede salvar tanto al cielo como a la Tierra, pero para ello debe sobrevivir a la terrible ira de una diosa que le quiere muerto y a las monstruosas fuerzas malignas con las que ella se alía.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900365",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjA5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31209:2"
+},
+{
+"id": "212789320",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-10-27",
+"plot": "Cuenta la historia de un joven hombre que, repudiado por su propio pueblo, descubre que es el hijo ilegítimo de Zeus. Él, por sus propios medios, puede salvar tanto al cielo como a la Tierra, pero para ello debe sobrevivir a la terrible ira de una diosa que le quiere muerto y a las monstruosas fuerzas malignas con las que ella se alía.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900365",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31209:1"
+}
+]
+}
+}

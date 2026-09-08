@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-10-18",
+"episode_count": 2,
+"id": 623868732,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/pGx8xBhOA7iuxFdoUQHawqpyPIo.jpg"
+}
+],
+"info": {
+"name": "ES - Vida Perfecta (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/pGx8xBhOA7iuxFdoUQHawqpyPIo.jpg",
+"plot": "",
+"cast": "",
+"director": "Leticia Dolera",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900253",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1149497417",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-18",
+"plot": "\"Vida perfecta\" es una comedia generacional que cuenta la historia de María, Cristina y Esther. Tres mujeres que, por distintas razones, descubren que su vida no tiene porqué ser tal y cómo la habían planeado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22965:2"
+},
+{
+"id": "1557191975",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-18",
+"plot": "\"Vida perfecta\" es una comedia generacional que cuenta la historia de María, Cristina y Esther. Tres mujeres que, por distintas razones, descubren que su vida no tiene porqué ser tal y cómo la habían planeado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22965:1"
+}
+]
+}
+}

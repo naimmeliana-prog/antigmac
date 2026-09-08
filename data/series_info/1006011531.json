@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-28",
+"episode_count": 1,
+"id": 1731742758,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEZfgxon0WUDRzREYM3zXGGUxfC.jpg"
+}
+],
+"info": {
+"name": "ES - Manual para señoritas (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEZfgxon0WUDRzREYM3zXGGUxfC.jpg",
+"plot": "",
+"cast": "",
+"director": "Gema R. Neira, María José Rustarazo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900328",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "762891424",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-28",
+"plot": "Elena Bianda, una carabina encargada de encontrar marido a tres hermanas adineradas, se ve envuelta en una historia de amor, escándalos y cómicos enredos de finales del siglo XIX.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900328",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42746:1"
+}
+]
+}
+}

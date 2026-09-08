@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2009-03-09",
+"episode_count": 3,
+"id": 113687742,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQPTXQbh4gob7fDwAoacnREwZTe.jpg"
+}
+],
+"info": {
+"name": "ES - Castle",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQPTXQbh4gob7fDwAoacnREwZTe.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrew W. Marlowe",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900372",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "362302838",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-03-09",
+"plot": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900372",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDA4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31408:3"
+},
+{
+"id": "1324030425",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-03-09",
+"plot": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900372",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31408:1"
+},
+{
+"id": "1148115865",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-03-09",
+"plot": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900372",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNDA4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31408:2"
+}
+]
+}
+}

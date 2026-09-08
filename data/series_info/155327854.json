@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-17",
+"episode_count": 1,
+"id": 418422564,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/85NgPJnx2XbbTHTrdP3jfNaGz0Q.jpg"
+}
+],
+"info": {
+"name": "ES - El catálogo (2025) (EG)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/85NgPJnx2XbbTHTrdP3jfNaGz0Q.jpg",
+"plot": "",
+"cast": "",
+"director": "Ayman Wattar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900289",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1624680299",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-17",
+"plot": "Youssef, un joven viudo adicto al trabajo, se las arregla como puede con sus hijos, siguiendo los consejos virtuales de su difunta esposa. ¿Superará el curso intensivo sobre paternidad?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900289",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NDEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44412:1"
+}
+]
+}
+}

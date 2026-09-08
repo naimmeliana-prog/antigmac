@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-11-06",
+"episode_count": 2,
+"id": 1921946354,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ng1Wa3uTzBgZukRglnvbqVNF0LO.jpg"
+}
+],
+"info": {
+"name": "ES - Romulus - (2020)",
+"cover": "https://image.tmdb.org/t/p/w154/ng1Wa3uTzBgZukRglnvbqVNF0LO.jpg",
+"plot": "",
+"cast": "",
+"director": "Matteo Rovere",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900509",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1332982129",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-06",
+"plot": "La historia de Rómulo y su hermano gemelo Remo, en el siglo VIII a.C. visto a través de los ojos de tres personas marcadas por la muerte, la soledad y la violencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900509",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNDc3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23477:2"
+},
+{
+"id": "1929755064",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-06",
+"plot": "La historia de Rómulo y su hermano gemelo Remo, en el siglo VIII a.C. visto a través de los ojos de tres personas marcadas por la muerte, la soledad y la violencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900509",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23477:1"
+}
+]
+}
+}

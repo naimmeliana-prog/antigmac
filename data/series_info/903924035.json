@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-20",
+"episode_count": 1,
+"id": 1256528688,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHALcHwGYDXMDIFsr88NeLYUfIG.jpg"
+}
+],
+"info": {
+"name": "ES - Now and Then",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHALcHwGYDXMDIFsr88NeLYUfIG.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos, Gema R. Neira, Teresa Fernández-Valdés",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900463",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "422132773",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-20",
+"plot": "La víspera de la graduación de la universidad, seis mejores amigos se embarcan en un épico fin de semana de celebraciones con un trágico final. Casi veinte años después, los supervivientes se ven obligados a reunirse cuando un chantajista amenaza con revelar la verdad de esa fatídica noche.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34423:1"
+}
+]
+}
+}

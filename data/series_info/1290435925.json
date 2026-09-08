@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-03",
+"episode_count": 1,
+"id": 1754126513,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A85y1MJ2v6y6gt76UJnIExVEaex.jpg"
+}
+],
+"info": {
+"name": "ES - The Bondsman (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A85y1MJ2v6y6gt76UJnIExVEaex.jpg",
+"plot": "",
+"cast": "",
+"director": "Grainger David",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900431",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "607995521",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-03",
+"plot": "Hub Halloran, un cazarrecompensas asesinado, es resucitado por el diablo para cazar demonios que se han escapado de la prisión del infierno. Persiguiendo a esos demonios con la ayuda y el impedimento de su familia desunida, Hub descubre cómo sus propios pecados condenaron su alma, lo que le empuja a buscar una segunda oportunidad en la vida, el amor y la música country.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900431",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42750:1"
+}
+]
+}
+}

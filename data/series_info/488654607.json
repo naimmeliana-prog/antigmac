@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-08",
+"episode_count": 1,
+"id": 1053166581,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9ibdbWVF0qptcQQN6nqz4NlRhC.jpg"
+}
+],
+"info": {
+"name": "ES - La suerte (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9ibdbWVF0qptcQQN6nqz4NlRhC.jpg",
+"plot": "",
+"cast": "",
+"director": "Paco Plaza, Pablo Guerrero, Borja González Santaolalla",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900383",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "949640900",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-08",
+"plot": "Un tímido taxista llamado David se convierte inesperadamente en el chófer del Maestro, figura del toreo que sale de su retiro para recuperar el prestigio perdido. El matador está de capa caída y su nuevo amigo le trae suerte, o eso dice.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900383",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1ODcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45870:1"
+}
+]
+}
+}

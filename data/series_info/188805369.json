@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "N/A",
+"episode_count": 1,
+"id": 851000839,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4205010"
+}
+],
+"info": {
+"name": "ES - Mediterraneo salvaje",
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4205010",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900615",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1786341139",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "Depredadores y presas luchan para sobrevivir en las montañas y valles del Mediterráneo mientras un verano brutalmente cálido y un invierno helado se van cobrando su cuota.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33303:1"
+}
+]
+}
+}

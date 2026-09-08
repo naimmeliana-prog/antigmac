@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-05-17",
+"episode_count": 3,
+"id": 1761372091,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/AnV2DMsAwG3WGLD7LvtptBbSSrG.jpg"
+}
+],
+"info": {
+"name": "ES - Snowpiercer: Rompenieves",
+"cover": "https://image.tmdb.org/t/p/w154/AnV2DMsAwG3WGLD7LvtptBbSSrG.jpg",
+"plot": "",
+"cast": "",
+"director": "Josh Friedman, Graeme Manson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900347",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1871749143",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-17",
+"plot": "En un futuro en el que la Tierra ha quedado cubierta por hielos perpetuos, los pocos supervivientes humanos se han refugiado en un tren que recorre el planeta sin parar nunca. Ahí, los pasajeros se han repartido siguiendo un estricto sistema de clases en el que los más pudientes se encuentran en los vagones de la cabeza y los más pobres están en la cola y deben alimentar el motor del tren.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900347",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29898:3"
+},
+{
+"id": "394954251",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-17",
+"plot": "En un futuro en el que la Tierra ha quedado cubierta por hielos perpetuos, los pocos supervivientes humanos se han refugiado en un tren que recorre el planeta sin parar nunca. Ahí, los pasajeros se han repartido siguiendo un estricto sistema de clases en el que los más pudientes se encuentran en los vagones de la cabeza y los más pobres están en la cola y deben alimentar el motor del tren.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900347",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29898:2"
+},
+{
+"id": "1394260910",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-17",
+"plot": "En un futuro en el que la Tierra ha quedado cubierta por hielos perpetuos, los pocos supervivientes humanos se han refugiado en un tren que recorre el planeta sin parar nunca. Ahí, los pasajeros se han repartido siguiendo un estricto sistema de clases en el que los más pudientes se encuentran en los vagones de la cabeza y los más pobres están en la cola y deben alimentar el motor del tren.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900347",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29898:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-05-06",
+"episode_count": 1,
+"id": 621857800,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg"
+}
+],
+"info": {
+"name": "ES - Chernobyl",
+"cover": "https://image.tmdb.org/t/p/w154/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+"plot": "",
+"cast": "",
+"director": "Craig Mazin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900476",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1774729773",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-06",
+"plot": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900476",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29169:1"
+}
+]
+}
+}

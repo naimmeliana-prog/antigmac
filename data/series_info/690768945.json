@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-10",
+"episode_count": 2,
+"id": 120711967,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mrijHPZ7NCSuQ2XRCMNYKrFwL8.jpg"
+}
+],
+"info": {
+"name": "ES - Historial delictivo (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mrijHPZ7NCSuQ2XRCMNYKrFwL8.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul Rutman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900450",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "85500214",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-10",
+"plot": "En el centro de Londres, una llamada anónima arrastra a dos brillantes inspectores, una joven en los inicios de su carrera y un hombre bien relacionado y decidido a proteger su legado, a una lucha por corregir un antiguo error judicial.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900450",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjgyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35682:2"
+},
+{
+"id": "1800378600",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-10",
+"plot": "En el centro de Londres, una llamada anónima arrastra a dos brillantes inspectores, una joven en los inicios de su carrera y un hombre bien relacionado y decidido a proteger su legado, a una lucha por corregir un antiguo error judicial.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900450",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35682:1"
+}
+]
+}
+}

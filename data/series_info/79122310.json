@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-08-18",
+"episode_count": 1,
+"id": 1804694821,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg"
+}
+],
+"info": {
+"name": "ES - Marvel - The Defenders",
+"cover": "https://image.tmdb.org/t/p/w154/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+"plot": "",
+"cast": "",
+"director": "Douglas Petrie, Marco Ramirez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900389",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1790320702",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-08-18",
+"plot": "Daredevil, Jessica Jones, Luke Cage y Iron Fist unen fuerzas para enfrentarse a sus enemigos comunes mientras una siniestra conspiración amenaza Nueva York.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900389",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29915:1"
+}
+]
+}
+}

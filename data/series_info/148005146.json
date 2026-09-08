@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-27",
+"episode_count": 1,
+"id": 253938763,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCHmcC6MC7hXy7OO2KRjmJxskAg.jpg"
+}
+],
+"info": {
+"name": "ES - Ciudad tóxica (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCHmcC6MC7hXy7OO2KRjmJxskAg.jpg",
+"plot": "",
+"cast": "",
+"director": "Jack Thorne",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900281",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "722443685",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-27",
+"plot": "Cuando en Corby nacen decenas de niños con discapacidades, sus madres emprenden una lucha para que los responsables rindan cuentas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900281",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMjI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50227:1"
+}
+]
+}
+}

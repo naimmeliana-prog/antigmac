@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-01",
+"episode_count": 3,
+"id": 1549585478,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg"
+}
+],
+"info": {
+"name": "ES - Dickinson",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
+"plot": "",
+"cast": "",
+"director": "Alena Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900441",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "742313288",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "La historia se ubica en el siglo XIX donde a través de la mirada y perspectiva de la joven y rebelde poeta Emily Dickinson se explorarán las limitaciones de la sociedad, el género y la familia de su tiempo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900441",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34233:3"
+},
+{
+"id": "1222634821",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "La historia se ubica en el siglo XIX donde a través de la mirada y perspectiva de la joven y rebelde poeta Emily Dickinson se explorarán las limitaciones de la sociedad, el género y la familia de su tiempo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900441",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34233:2"
+},
+{
+"id": "741824827",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "La historia se ubica en el siglo XIX donde a través de la mirada y perspectiva de la joven y rebelde poeta Emily Dickinson se explorarán las limitaciones de la sociedad, el género y la familia de su tiempo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900441",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34233:1"
+}
+]
+}
+}

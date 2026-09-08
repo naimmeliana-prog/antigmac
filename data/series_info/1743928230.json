@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-27",
+"episode_count": 1,
+"id": 1461979266,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNsLJcjWU09r0dMDfjZiM0moppv.jpg"
+}
+],
+"info": {
+"name": "ES - Dostoevskij (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNsLJcjWU09r0dMDfjZiM0moppv.jpg",
+"plot": "",
+"cast": "",
+"director": "Damiano D'Innocenzo, Fabio D'Innocenzo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900524",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "189278806",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-27",
+"plot": "En una tierra escasa e inhóspita, el policía Enzo Vitello, un hombre con un oscuro pasado, está obsesionado con \"Dostoievski\", un asesino en serie al que mata con una peculiaridad: junto al cadáver, el asesino deja siempre una carta con su desoladora y clarísima visión del mundo, de la vida y de la oscuridad que Vitello escucha resonar en él.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900524",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwODE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40815:1"
+}
+]
+}
+}

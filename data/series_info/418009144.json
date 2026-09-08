@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-18",
+"episode_count": 2,
+"id": 46309953,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqHG7Rd3X8JyfiiicNdZUiX2HFo.jpg"
+}
+],
+"info": {
+"name": "ES - Rivales (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqHG7Rd3X8JyfiiicNdZUiX2HFo.jpg",
+"plot": "",
+"cast": "",
+"director": "Jilly Cooper",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900395",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "591275166",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-18",
+"plot": "Corre el año 1986 y Gran Bretaña está en pleno auge. \"Rivales\" se adentra en el despiadado mundo de la televisión, donde los peinados son grandes y las ambiciones son aún más grandes. Los acuerdos se negocian en las salas de juntas y en los dormitorios. Nadie puede estar seguro de quién saldrá vencedor. Con todos preocupados sólo por sí mismos, ¿podrá florecer el amor verdadero en esta adaptación tan esperada de la novela superventas Rutshire Chronicles de Jilly Cooper?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDEyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41412:2"
+},
+{
+"id": "1587227675",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-18",
+"plot": "Corre el año 1986 y Gran Bretaña está en pleno auge. \"Rivales\" se adentra en el despiadado mundo de la televisión, donde los peinados son grandes y las ambiciones son aún más grandes. Los acuerdos se negocian en las salas de juntas y en los dormitorios. Nadie puede estar seguro de quién saldrá vencedor. Con todos preocupados sólo por sí mismos, ¿podrá florecer el amor verdadero en esta adaptación tan esperada de la novela superventas Rutshire Chronicles de Jilly Cooper?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41412:1"
+}
+]
+}
+}

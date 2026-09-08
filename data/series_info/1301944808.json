@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-10",
+"episode_count": 3,
+"id": 1155173097,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1e6y2MiGL7KCTJfpqa3cNHLDpF3.jpg"
+}
+],
+"info": {
+"name": "ES - The Walking Dead: Daryl Dixon (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/1e6y2MiGL7KCTJfpqa3cNHLDpF3.jpg",
+"plot": "",
+"cast": "",
+"director": "David Zabel",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900433",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "282659670",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-10",
+"plot": "Meses después de que lo vimos por última vez en \"The Walking Dead\", Daryl Dixon se ve transportado a través del Atlántico a Francia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900433",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjIxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28221:3"
+},
+{
+"id": "68293158",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-10",
+"plot": "Meses después de que lo vimos por última vez en \"The Walking Dead\", Daryl Dixon se ve transportado a través del Atlántico a Francia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900433",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjIxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28221:2"
+},
+{
+"id": "1659774902",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-10",
+"plot": "Meses después de que lo vimos por última vez en \"The Walking Dead\", Daryl Dixon se ve transportado a través del Atlántico a Francia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900433",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28221:1"
+}
+]
+}
+}

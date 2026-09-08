@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-18",
+"episode_count": 1,
+"id": 975859102,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg"
+}
+],
+"info": {
+"name": "ES - Hazbin Hotel (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+"plot": "",
+"cast": "",
+"director": "Vivienne Medrano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900416",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "208828654",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-18",
+"plot": "Charlie Lucero del Alba, la princesa del Infierno, intenta convencer a los demonios y a los ángeles de que toda alma es redimible. Una comedia musical para adultos sobre las segundas oportunidades repleta de canciones y tacos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34860:1"
+}
+]
+}
+}

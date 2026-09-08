@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-03",
+"episode_count": 2,
+"id": 126373842,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFognKEBtBPyQ1IPMtwWlqa7q92.jpg"
+}
+],
+"info": {
+"name": "ES - Reacher (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFognKEBtBPyQ1IPMtwWlqa7q92.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Santora",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900427",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "122458947",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-03",
+"plot": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900427",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38894:1"
+},
+{
+"id": "842283903",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-03",
+"plot": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900427",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38894:2"
+}
+]
+}
+}

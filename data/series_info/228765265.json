@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-22",
+"episode_count": 1,
+"id": 405370152,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/b6NcJ6qnBVPe6S0f2WWx5qQ2TqR.jpg"
+}
+],
+"info": {
+"name": "ES - Días mejores - (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/b6NcJ6qnBVPe6S0f2WWx5qQ2TqR.jpg",
+"plot": "",
+"cast": "",
+"director": "Cristóbal Garrido, Adolfo Valor",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900412",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "578588014",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-22",
+"plot": "\"Días mejores\" sigue el proceso de superación de cinco personajes que se dan cita en una peculiar terapia de duelo para padres que han perdido a su pareja. La serie relata los momentos duros que derivan de la pérdida de un ser querido, mostrando con optimismo cómo, a pesar de las heridas, tarde o temprano es posible volver a reír, amar y, sobre todo, volver a vivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900412",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzMjQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23247:1"
+}
+]
+}
+}

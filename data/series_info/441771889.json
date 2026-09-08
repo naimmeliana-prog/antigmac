@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-06",
+"episode_count": 1,
+"id": 763229533,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/2Y49A4DRuTOE0GeVfo9VGNZEZbm.jpg"
+}
+],
+"info": {
+"name": "ES - La paz de Marsella",
+"cover": "https://image.tmdb.org/t/p/w154/2Y49A4DRuTOE0GeVfo9VGNZEZbm.jpg",
+"plot": "",
+"cast": "",
+"director": "Olivier Marchal",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900313",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1253717235",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-06",
+"plot": "Mientras un brutal traficante de drogas intenta apoderarse de Marsella, un capitán de policía y su equipo dan la bienvenida a una recién llegada con intenciones ocultas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900313",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29044:1"
+}
+]
+}
+}

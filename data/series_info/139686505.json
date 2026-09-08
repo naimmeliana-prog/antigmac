@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-27",
+"episode_count": 1,
+"id": 1781665956,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bapvKVKuMwHX591shkXiIFBeFAd.jpg"
+}
+],
+"info": {
+"name": "ES - Katrina: Contra viento y marea (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bapvKVKuMwHX591shkXiIFBeFAd.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900592",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "139332175",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-27",
+"plot": "Los habitantes de Nueva Orleans comparten sus historias con sus propias palabras, desde cómo fue sobrevivir al huracán Katrina hasta cómo la ciudad y sus vidas han cambiado para siempre. Es testimonio de su capacidad de resistencia y una dura llamada a la vigilancia y la preparación en un momento en que las catástrofes naturales son cada vez más frecuentes en todo el mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0OTIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44921:1"
+}
+]
+}
+}

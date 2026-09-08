@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-06",
+"episode_count": 1,
+"id": 977684648,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWqgxcaaMWFbneUcepBrEpq3jQh.jpg"
+}
+],
+"info": {
+"name": "ES - Supersex",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWqgxcaaMWFbneUcepBrEpq3jQh.jpg",
+"plot": "",
+"cast": "",
+"director": "Francesca Manieri",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900350",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1429199860",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-06",
+"plot": "Esta serie inspirada en hechos reales cuenta la historia de Rocco Siffredi, que dejó atrás una vida humilde para convertirse en la estrella porno más conocida del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900350",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30974:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-20",
+"episode_count": 1,
+"id": 1467523466,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tT16uPa4TyP8SogNA2KpWSm6IrQ.jpg"
+}
+],
+"info": {
+"name": "ES - La apuesta de mi vida (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tT16uPa4TyP8SogNA2KpWSm6IrQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Deniz Akçay",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900308",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "151921223",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-20",
+"plot": "Un escritor de apuestas deportivas fracasado se ve obligado a unirse al fantasma de un empresario mandón que le pide que resuelva su caso de asesinato.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900308",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNDA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42404:1"
+}
+]
+}
+}

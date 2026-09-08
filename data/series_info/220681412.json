@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-26",
+"episode_count": 1,
+"id": 1766722281,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg"
+}
+],
+"info": {
+"name": "ES - Knuckles (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
+"plot": "",
+"cast": "",
+"director": "John Whittington, Toby Ascher",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900532",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "110413084",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-26",
+"plot": "Serie de acción real que sigue a Knuckles en un viaje de autodescubrimiento y lleno de acción cuando acepta entrenar a Wade como su protegido y enseñarle los caminos del guerrero Echidna.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900532",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NDI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35424:1"
+}
+]
+}
+}

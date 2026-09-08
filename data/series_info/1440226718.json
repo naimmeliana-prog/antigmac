@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-23",
+"episode_count": 1,
+"id": 1942953782,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm5afZdKxCewHTKdx84GNYdokY.jpg"
+}
+],
+"info": {
+"name": "ES - Dilemma",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm5afZdKxCewHTKdx84GNYdokY.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900411",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1513002115",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-23",
+"plot": "Neslihan Turhan es la presentadora del programa de televisión One Truth. Toca la vida de las personas, arroja luz sobre las historias que permanecen en la oscuridad y construyó su carrera sobre los principios de la justicia. Su vida da un vuelco con la muerte de Lal Kaleli, en la que está implicado Can, su hijo. Atrapada entre la maternidad y todos los principios en los que cree, Neslihan enfrenta la prueba más desafiante de su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900411",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34244:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "EE.UU (2023)",
+"episode_count": 1,
+"id": 385801967,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4219854"
+}
+],
+"info": {
+"name": "ES - Tu cerebro: La percepción",
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4219854",
+"plot": "",
+"cast": "",
+"director": "Michael Bicks, Anna Lee Strachan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900636",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "481441440",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "EE.UU (2023)",
+"plot": "Los mejores neurocientíficos nos muestran los trucos y atajos que toma nuestro cerebro para ayudarnos a sobrevivir.\r\n\r\n¿Es real lo que ves? ¿Tienes control sobre tu cerebro o es tu cerebro quien te controla a ti? ¿Cómo crea tu cerebro tu realidad?\r\n\r\nCreemos que lo que estamos percibiendo es la realidad. Pero realmente no es así. Prácticamente desde el principio, transformamos la realidad. Averiguar cómo el cerebro pone en marcha la mente es un enorme desafío. Durante siglos, nuestro cerebro ha sido un enigma sin resolver, pero, poco a poco, la neurociencia está arrojando luz sobre grandes cuestiones que afectan a nuestro órgano más desconocido. Este documental recurre a las últimas investigaciones en neurociencia para desvelarnos cómo funciona nuestro cerebro y cómo moldea nuestra percepción de la realidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900636",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35629:1"
+}
+]
+}
+}

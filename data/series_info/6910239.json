@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-06",
+"episode_count": 1,
+"id": 1906998423,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ActpqKbShWGYNDRsCjTueRixlrr.jpg"
+}
+],
+"info": {
+"name": "ES - Lazarus (2025) (JP)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ActpqKbShWGYNDRsCjTueRixlrr.jpg",
+"plot": "",
+"cast": "",
+"director": "渡辺信一郎",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900499",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "729508574",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-06",
+"plot": "En 2052, la humanidad vive en paz gracias a Hapuna, una droga milagrosa sin efectos secundarios. Pero su creador, el Dr. Skinner, desaparece y regresa tres años después con una revelación: todos los que la tomaron morirán en tres años. Un equipo de cinco agentes, Lazarus, debe encontrarlo y hallar una cura antes de que sea tarde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900499",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46167:1"
+}
+]
+}
+}

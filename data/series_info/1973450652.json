@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-08",
+"episode_count": 1,
+"id": 1161768423,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a2ndG4X5f2ewBsoTjPdlJagunW.jpg"
+}
+],
+"info": {
+"name": "ES - La jaula (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a2ndG4X5f2ewBsoTjPdlJagunW.jpg",
+"plot": "",
+"cast": "",
+"director": "Franck Gastambide, Sylvain Caron",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900311",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "554502349",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-08",
+"plot": "Un joven que aspira a ser luchador profesional se deja la piel para hacerse ver, hasta que un combate insólito le pone frente a la oportunidad de triunfar... y a un despiadado rival.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900311",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37861:1"
+}
+]
+}
+}

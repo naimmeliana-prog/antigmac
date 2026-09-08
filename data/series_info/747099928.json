@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-01-15",
+"episode_count": 1,
+"id": 58520959,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/cx8rEVxKFkQ1wz9OnN5mJzdwZOl.jpg"
+}
+],
+"info": {
+"name": "ES - Bruja Escarlata y Visión",
+"cover": "https://image.tmdb.org/t/p/w154/cx8rEVxKFkQ1wz9OnN5mJzdwZOl.jpg",
+"plot": "",
+"cast": "",
+"director": "Jac Schaeffer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900371",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1507982584",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-15",
+"plot": "Combinando el estilo clásico de las sitcoms con el MCU (Universo Cinematográfico de Marvel), cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900371",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29934:1"
+}
+]
+}
+}

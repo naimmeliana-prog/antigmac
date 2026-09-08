@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-04",
+"episode_count": 1,
+"id": 1450660675,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9StRZHTEUnBCYcTtFFrzLaq0XaA.jpg"
+}
+],
+"info": {
+"name": "ES Furtivo (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9StRZHTEUnBCYcTtFFrzLaq0XaA.jpg",
+"plot": "",
+"cast": "",
+"director": "Cédric Anger",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900472",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "293866825",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-04",
+"plot": "Cuando unos amigos que van de caza se enfrentan mortalmente con otros cazadores, juran mantenerlo en secreto. Pero, a medida que la paranoia se apodera de ellos y una banda despiadada busca venganza, los amigos deben afrontar su moral, sus familias y sus instintos salvajes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NDIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48422:1"
+}
+]
+}
+}

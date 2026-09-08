@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2016-03-29",
+"episode_count": 7,
+"id": 75448432,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZHWUCj6S1icettvA5FsZbrZXTF.jpg"
+}
+],
+"info": {
+"name": "ES - Tandem",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZHWUCj6S1icettvA5FsZbrZXTF.jpg",
+"plot": "",
+"cast": "",
+"director": "Jérémie Marcus",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900251",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1719292487",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-29",
+"plot": "La comandante Lea Soler es transferida a la brigada del Capitán Paul Marchal, su ex marido, con el que se reencontrará. También se verán obligados a reunirse fuera del trabajo porque la ex pareja, que se ve obligada a formar un tándem, tiene dos hijos adolescentes que cuidar, Alice y Thomas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM4LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34338:7"
+},
+{
+"id": "91410825",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-29",
+"plot": "La comandante Lea Soler es transferida a la brigada del Capitán Paul Marchal, su ex marido, con el que se reencontrará. También se verán obligados a reunirse fuera del trabajo porque la ex pareja, que se ve obligada a formar un tándem, tiene dos hijos adolescentes que cuidar, Alice y Thomas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM4LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34338:6"
+},
+{
+"id": "585561268",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-29",
+"plot": "La comandante Lea Soler es transferida a la brigada del Capitán Paul Marchal, su ex marido, con el que se reencontrará. También se verán obligados a reunirse fuera del trabajo porque la ex pareja, que se ve obligada a formar un tándem, tiene dos hijos adolescentes que cuidar, Alice y Thomas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM4LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34338:5"
+},
+{
+"id": "1739128413",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-29",
+"plot": "La comandante Lea Soler es transferida a la brigada del Capitán Paul Marchal, su ex marido, con el que se reencontrará. También se verán obligados a reunirse fuera del trabajo porque la ex pareja, que se ve obligada a formar un tándem, tiene dos hijos adolescentes que cuidar, Alice y Thomas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34338:4"
+},
+{
+"id": "688575655",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-29",
+"plot": "La comandante Lea Soler es transferida a la brigada del Capitán Paul Marchal, su ex marido, con el que se reencontrará. También se verán obligados a reunirse fuera del trabajo porque la ex pareja, que se ve obligada a formar un tándem, tiene dos hijos adolescentes que cuidar, Alice y Thomas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34338:3"
+},
+{
+"id": "646610375",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-29",
+"plot": "La comandante Lea Soler es transferida a la brigada del Capitán Paul Marchal, su ex marido, con el que se reencontrará. También se verán obligados a reunirse fuera del trabajo porque la ex pareja, que se ve obligada a formar un tándem, tiene dos hijos adolescentes que cuidar, Alice y Thomas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34338:2"
+},
+{
+"id": "1750269741",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-29",
+"plot": "La comandante Lea Soler es transferida a la brigada del Capitán Paul Marchal, su ex marido, con el que se reencontrará. También se verán obligados a reunirse fuera del trabajo porque la ex pareja, que se ve obligada a formar un tándem, tiene dos hijos adolescentes que cuidar, Alice y Thomas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34338:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-05",
+"episode_count": 1,
+"id": 54868505,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny2b26cniLhQ8KgbNxPuY2d874t.jpg"
+}
+],
+"info": {
+"name": "ES - La pareja perfecta (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny2b26cniLhQ8KgbNxPuY2d874t.jpg",
+"plot": "",
+"cast": "",
+"director": "Jenna Lamia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900312",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "779964138",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-05",
+"plot": "Amelia está a punto de entrar, por la vía del altar, en una de las familias más ricas de Nantucket, pero aparece un cadáver que arruina la boda y convierte a todos en sospechosos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900312",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36079:1"
+}
+]
+}
+}

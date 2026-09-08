@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-16",
+"episode_count": 1,
+"id": 1574848413,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxhjI3tiTBa8Zub8LKMGIZrvYMy.jpg"
+}
+],
+"info": {
+"name": "ES - Legado (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxhjI3tiTBa8Zub8LKMGIZrvYMy.jpg",
+"plot": "",
+"cast": "",
+"director": "Pablo Alén, Breixo Corral, Carlos Montero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900322",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "195534213",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-16",
+"plot": "Tras una grave enfermedad, un magnate de los medios de comunicación descubre que la gerencia de sus hijos amenaza con destruir su querido emporio… y hará lo que sea para salvarlo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900322",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NzMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49733:1"
+}
+]
+}
+}

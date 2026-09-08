@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-13",
+"episode_count": 1,
+"id": 214313151,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8pJgw27hci7eSQMsVwCiPeI7Lg.jpg"
+}
+],
+"info": {
+"name": "ES - Lisbon Noir (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8pJgw27hci7eSQMsVwCiPeI7Lg.jpg",
+"plot": "",
+"cast": "",
+"director": "João Tordo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900422",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1949817008",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-13",
+"plot": "En Lisboa, un psicópata moderno arroja a sus víctimas desde rascacielos y sitios turísticos. Inspirado en el primer asesino en serie de Portugal, Diogo Alves.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900422",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49080:1"
+}
+]
+}
+}

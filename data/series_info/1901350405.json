@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-20",
+"episode_count": 2,
+"id": 216807677,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jEUtX0NQyZjZUt575061fKIaXm.jpg"
+}
+],
+"info": {
+"name": "ES - La diplomática (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+"plot": "",
+"cast": "",
+"director": "Debora Cahn",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900310",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1541804525",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-20",
+"plot": "En medio de una crisis internacional, una diplomática compagina su nuevo trabajo como embajadora en el Reino Unido con su turbulento matrimonio con un célebre político.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900310",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTg1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37985:2"
+},
+{
+"id": "1884781667",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-20",
+"plot": "En medio de una crisis internacional, una diplomática compagina su nuevo trabajo como embajadora en el Reino Unido con su turbulento matrimonio con un célebre político.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900310",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37985:1"
+}
+]
+}
+}

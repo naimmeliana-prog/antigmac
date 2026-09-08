@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-01-25",
+"episode_count": 2,
+"id": 894969866,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJlrSR3D6SknyRBHkmI3E6YNWRq.jpg"
+}
+],
+"info": {
+"name": "ES - Pagan Peak (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJlrSR3D6SknyRBHkmI3E6YNWRq.jpg",
+"plot": "",
+"cast": "",
+"director": "Cyrill Boss, Philipp Stennert",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900246",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "228757915",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-25",
+"plot": "Inspirada en el exitoso drama The Bridge, este drama sigue a la detective alemana Ellie Stocker junto a su equivalente austriaco Gedeon Winter. Ambos detectives tienen que unir fuerzas para investigar un escambroso asesinato justo en la frontera entre Alemania y Austria. A medida que los dos indagan en el caso, averiguan otras escenas de asesinatos con victimas que recuerdan a rituales paganos.\r\n\r\nEste caso se convierte en parte importante de la vida de ambos detectives, llegando a cambiar sus vidas. Aunque Ellie empieza con gran energía y motivada, al ser su primer caso importante, la joven acaba soportando mucha presión. En cambio, Gedeon Winter ha perdido totalmente la ilusión con su trabajo y, las sombras de su pasado oscuro le persiguen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900246",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MzA2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18306:2"
+},
+{
+"id": "212569267",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-25",
+"plot": "Inspirada en el exitoso drama The Bridge, este drama sigue a la detective alemana Ellie Stocker junto a su equivalente austriaco Gedeon Winter. Ambos detectives tienen que unir fuerzas para investigar un escambroso asesinato justo en la frontera entre Alemania y Austria. A medida que los dos indagan en el caso, averiguan otras escenas de asesinatos con victimas que recuerdan a rituales paganos.\r\n\r\nEste caso se convierte en parte importante de la vida de ambos detectives, llegando a cambiar sus vidas. Aunque Ellie empieza con gran energía y motivada, al ser su primer caso importante, la joven acaba soportando mucha presión. En cambio, Gedeon Winter ha perdido totalmente la ilusión con su trabajo y, las sombras de su pasado oscuro le persiguen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900246",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MzA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18306:1"
+}
+]
+}
+}

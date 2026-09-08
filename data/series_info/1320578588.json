@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-18",
+"episode_count": 1,
+"id": 842882957,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBAgKN0cyoExZoM8ZofeTFLC1t5.jpg"
+}
+],
+"info": {
+"name": "ES - La cancha de oro (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBAgKN0cyoExZoM8ZofeTFLC1t5.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900597",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "181563875",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-18",
+"plot": "Imágenes inéditas de los principales aspirantes a conseguir una medalla en baloncesto masculino mientras luchan por el oro y la gloria en los Juegos Olímpicos de 2024 en París.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900597",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41816:1"
+}
+]
+}
+}

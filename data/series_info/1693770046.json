@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-08",
+"episode_count": 1,
+"id": 98099220,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iF71xaLonwIUKxpT5tHbUif429.jpg"
+}
+],
+"info": {
+"name": "ES - La canción (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iF71xaLonwIUKxpT5tHbUif429.jpg",
+"plot": "",
+"cast": "",
+"director": "Fran Araújo, Pepe Coira",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900240",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1459017679",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-08",
+"plot": "En 1968, TVE inicia un proceso para seleccionar a un cantante que interprete la canción \"La, la, la\", compuesto por el Dúo Dinámico, en Eurovisión. En un primer momento, Joan Manuel Serrat, quien grabó el tema en catalán, había sido elegido; sin embargo, el régimen franquista se opuso a que cantara en una lengua cooficial y el cantautor abandonó. Fue tras ello cuando Massiel apareció en la ecuación y se inició el periplo para alcanzar la única victoria de España en Eurovisión.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900240",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43364:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-24",
+"episode_count": 1,
+"id": 772642740,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7X0sMjaznCHmAIi99MLpYsO1DWk.jpg"
+}
+],
+"info": {
+"name": "ES - ¿De quién huimos, mamá? (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7X0sMjaznCHmAIi99MLpYsO1DWk.jpg",
+"plot": "",
+"cast": "",
+"director": "Perihan Magden",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900650",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1331176455",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-24",
+"plot": "Una madre con un pasado oculto y su hija son fugitivas sin identidad en una huida eterna en la que no pueden confiar en nadie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35527:1"
+}
+]
+}
+}

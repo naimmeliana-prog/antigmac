@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-14",
+"episode_count": 4,
+"id": 1864843300,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt6SjosB6PAiAmjlHA4E731LH8j.jpg"
+}
+],
+"info": {
+"name": "ES - Mayor of Kingstown (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt6SjosB6PAiAmjlHA4E731LH8j.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan, Hugh Dillon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900535",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "379751797",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "Ambientada en una pequeña ciudad de Michigan donde la única industria que queda son las cárceles federales, estatales y privadas, la historia sigue a la familia McClusky, los intermediarios del poder entre la policía, los delincuentes, los presos, los guardias de prisiones y los políticos, en una ciudad completamente dependiente de las prisiones.  y los prisioneros que contienen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900535",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTUyLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34952:4"
+},
+{
+"id": "1383070201",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "Ambientada en una pequeña ciudad de Michigan donde la única industria que queda son las cárceles federales, estatales y privadas, la historia sigue a la familia McClusky, los intermediarios del poder entre la policía, los delincuentes, los presos, los guardias de prisiones y los políticos, en una ciudad completamente dependiente de las prisiones.  y los prisioneros que contienen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900535",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTUyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34952:3"
+},
+{
+"id": "1944872379",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "Ambientada en una pequeña ciudad de Michigan donde la única industria que queda son las cárceles federales, estatales y privadas, la historia sigue a la familia McClusky, los intermediarios del poder entre la policía, los delincuentes, los presos, los guardias de prisiones y los políticos, en una ciudad completamente dependiente de las prisiones.  y los prisioneros que contienen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900535",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTUyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34952:2"
+},
+{
+"id": "294610569",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "Ambientada en una pequeña ciudad de Michigan donde la única industria que queda son las cárceles federales, estatales y privadas, la historia sigue a la familia McClusky, los intermediarios del poder entre la policía, los delincuentes, los presos, los guardias de prisiones y los políticos, en una ciudad completamente dependiente de las prisiones.  y los prisioneros que contienen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900535",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34952:1"
+}
+]
+}
+}

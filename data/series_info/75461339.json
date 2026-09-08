@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-29",
+"episode_count": 1,
+"id": 247039128,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Wukg7Nvilp8CtP7FZov2u8PC3G.jpg"
+}
+],
+"info": {
+"name": "ES - Renegade Nell",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Wukg7Nvilp8CtP7FZov2u8PC3G.jpg",
+"plot": "",
+"cast": "",
+"director": "Sally Wainwright",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900395",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "707376223",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-29",
+"plot": "Inglaterra, 1705: acusada de asesinato y huyendo con sus hermanas, Nell Jackson recurre a atracar carruajes para sobrevivir. Con la ayuda de su compañero con superpoderes, un intrépido duendecillo llamado Billy Blind, Nell se da cuenta de que el destino le ha puesto a la ley en contra por un motivo, un motivo mucho más importante de lo que jamás habría imaginado: detener un complot mágico contra la reina de Inglaterra.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMTcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32171:1"
+}
+]
+}
+}

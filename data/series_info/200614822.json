@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-23",
+"episode_count": 1,
+"id": 1142709439,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zH5h9RQ1myoBZlRzjVTfYPBA0RL.jpg"
+}
+],
+"info": {
+"name": "ES - Desconectados",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zH5h9RQ1myoBZlRzjVTfYPBA0RL.jpg",
+"plot": "",
+"cast": "",
+"director": "Mikael Ljung",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900411",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1318758200",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-23",
+"plot": "Una terapeuta de parejas puede ver el futuro amoroso de alguien con tan solo tocarle el pecho",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900411",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34528:1"
+}
+]
+}
+}

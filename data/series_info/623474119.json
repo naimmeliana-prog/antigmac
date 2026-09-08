@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-14",
+"episode_count": 2,
+"id": 1900123830,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xMrhea5G3iyZez1KidFs4ufE3D.jpg"
+}
+],
+"info": {
+"name": "ES - Yellowjackets",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xMrhea5G3iyZez1KidFs4ufE3D.jpg",
+"plot": "",
+"cast": "",
+"director": "Ashley Lyle, Bart Nickerson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900552",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1369984372",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900552",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNTE3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33517:2"
+},
+{
+"id": "1605879715",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900552",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33517:1"
+}
+]
+}
+}

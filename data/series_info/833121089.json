@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-26",
+"episode_count": 1,
+"id": 135978333,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zb5MArsrMxK4mSSLzUmbfcXAc60.jpg"
+}
+],
+"info": {
+"name": "ES - Rabbit Hole: Juego de mentiras (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zb5MArsrMxK4mSSLzUmbfcXAc60.jpg",
+"plot": "",
+"cast": "",
+"director": "Glenn Ficarra, John Requa",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900538",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "667100805",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-26",
+"plot": "Nada es lo que parece cuando John Weir, un maestro del engaño en el mundo del espionaje corporativo, es acusado de asesinato por fuerzas poderosas con la capacidad de influir y controlar poblaciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900538",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35005:1"
+}
+]
+}
+}

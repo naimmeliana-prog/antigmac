@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-17",
+"episode_count": 1,
+"id": 1521659743,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD3M24I0AJm0ZKzrZ0N7p18fkPO.jpg"
+}
+],
+"info": {
+"name": "ES - Mujeres imperfectas (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD3M24I0AJm0ZKzrZ0N7p18fkPO.jpg",
+"plot": "",
+"cast": "",
+"director": "Annie Weisman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900462",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "722577764",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-17",
+"plot": "Tras un asesinato que destruye las vidas de tres amigos, su vínculo de décadas se pone a prueba cuando una investigación revela verdades impactantes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900462",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49140:1"
+}
+]
+}
+}

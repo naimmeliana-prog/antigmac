@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2017-07-05",
+"episode_count": 6,
+"id": 878415778,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/h8VkLwctoqK1f1wergrfz3Mmj3a.jpg"
+}
+],
+"info": {
+"name": "ES - Snowfall - (2017)",
+"cover": "https://image.tmdb.org/t/p/w154/h8VkLwctoqK1f1wergrfz3Mmj3a.jpg",
+"plot": "",
+"cast": "",
+"director": "John Singleton, Eric Amadio, Dave Andron",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900510",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1926636948",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-05",
+"plot": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900510",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDQwLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25040:6"
+},
+{
+"id": "311373659",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-05",
+"plot": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900510",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDQwLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25040:5"
+},
+{
+"id": "246663202",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-05",
+"plot": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900510",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDQwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25040:4"
+},
+{
+"id": "1574623556",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-05",
+"plot": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900510",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDQwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25040:3"
+},
+{
+"id": "1072545389",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-05",
+"plot": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900510",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDQwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25040:2"
+},
+{
+"id": "582940944",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-07-05",
+"plot": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900510",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25040:1"
+}
+]
+}
+}

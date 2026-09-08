@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-28",
+"episode_count": 1,
+"id": 619341783,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XoxZ6PhqsHTD3HbGNVhnGGMlZq.jpg"
+}
+],
+"info": {
+"name": "ES - Capturados (LQ) (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XoxZ6PhqsHTD3HbGNVhnGGMlZq.jpg",
+"plot": "",
+"cast": "",
+"director": "Kick Gurry",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900476",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1348336901",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-28",
+"plot": "Durante una misión en un país extranjero y ficticio, cuatro soldados australianos son capturados por las fuerzas locales y confundidos con agentes estadounidenses. Después de que su gobierno se niegue a intervenir en su rescate y decida abandonarlos a su suerte, el grupo opta por un movimiento arriesgado e inesperado: aprovechar su secuestro para convertirse en las celebridades del momento en su país.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900476",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MzQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49344:1"
+}
+]
+}
+}

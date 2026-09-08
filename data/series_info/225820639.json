@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2018-06-03",
+"episode_count": 4,
+"id": 217442663,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg"
+}
+],
+"info": {
+"name": "ES - La sucesión",
+"cover": "https://image.tmdb.org/t/p/w154/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+"plot": "",
+"cast": "",
+"director": "Jesse Armstrong",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900498",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "585336390",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-03",
+"plot": "La serie gira en torno a la vida de la familia Redstone. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900498",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDY0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29464:4"
+},
+{
+"id": "1088261434",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-03",
+"plot": "La serie gira en torno a la vida de la familia Redstone. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900498",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDY0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29464:3"
+},
+{
+"id": "319700439",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-03",
+"plot": "La serie gira en torno a la vida de la familia Redstone. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900498",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDY0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29464:2"
+},
+{
+"id": "423942043",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-03",
+"plot": "La serie gira en torno a la vida de la familia Redstone. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900498",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29464:1"
+}
+]
+}
+}

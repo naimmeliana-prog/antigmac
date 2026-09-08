@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-12",
+"episode_count": 3,
+"id": 1894438281,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg"
+}
+],
+"info": {
+"name": "ES - The Mandalorian",
+"cover": "https://image.tmdb.org/t/p/w154/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Favreau",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900399",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1339201231",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-12",
+"plot": "En el anárquico período tras el hundimiento del Imperio Galáctico, un cazarrecompensas con armadura conocido solo como El Mandaloriano emprende una misión bien remunerada aunque enigmática.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29914:3"
+},
+{
+"id": "1867423581",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-12",
+"plot": "En el anárquico período tras el hundimiento del Imperio Galáctico, un cazarrecompensas con armadura conocido solo como El Mandaloriano emprende una misión bien remunerada aunque enigmática.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29914:2"
+},
+{
+"id": "631322651",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-12",
+"plot": "En el anárquico período tras el hundimiento del Imperio Galáctico, un cazarrecompensas con armadura conocido solo como El Mandaloriano emprende una misión bien remunerada aunque enigmática.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29914:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-09",
+"episode_count": 2,
+"id": 1785007201,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Oh4tGraCM7UgnmzCcSKeuXC8f8.jpg"
+}
+],
+"info": {
+"name": "ES - Funny woman (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Oh4tGraCM7UgnmzCcSKeuXC8f8.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Hornby, Oliver Parker, Morwenna Banks",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900528",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1515922456",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-09",
+"plot": "Una joven de Blackpool encuentra su voz en el mundo dominado por los hombres de la comedia de la década de 1960 y, al hacerlo, conquista Londres.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900528",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37194:1"
+},
+{
+"id": "887233643",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-09",
+"plot": "Una joven de Blackpool encuentra su voz en el mundo dominado por los hombres de la comedia de la década de 1960 y, al hacerlo, conquista Londres.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900528",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37194:2"
+}
+]
+}
+}

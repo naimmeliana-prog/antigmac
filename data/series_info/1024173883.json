@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2017-04-28",
+"episode_count": 5,
+"id": 328854635,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83PNb8abIVGnJj1AUacH7FayuAF.jpg"
+}
+],
+"info": {
+"name": "ES - Las chicas del cable (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83PNb8abIVGnJj1AUacH7FayuAF.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos, Gema R. Neira, Teresa Fernández-Valdés",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900320",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1199682979",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-28",
+"plot": "Madrid, año 1928. Las operadoras de la recién nacida Telefónica viven sus romances y envidias dentro de una empresa moderna, reflejo del cambio social de la época. Alba, Marga, Ángeles y Carlota comienzan a trabajar como telefonistas en el edificio más moderno de toda la ciudad. Para ellas empieza la lucha por una independencia que tanto su entorno como la sociedad de entonces les niega. Su amistad será clave para conseguir sus sueños y juntas irán descubriendo lo que significa la verdadera libertad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODgxLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34881:5"
+},
+{
+"id": "1353728338",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-28",
+"plot": "Madrid, año 1928. Las operadoras de la recién nacida Telefónica viven sus romances y envidias dentro de una empresa moderna, reflejo del cambio social de la época. Alba, Marga, Ángeles y Carlota comienzan a trabajar como telefonistas en el edificio más moderno de toda la ciudad. Para ellas empieza la lucha por una independencia que tanto su entorno como la sociedad de entonces les niega. Su amistad será clave para conseguir sus sueños y juntas irán descubriendo lo que significa la verdadera libertad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODgxLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34881:4"
+},
+{
+"id": "1179146156",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-28",
+"plot": "Madrid, año 1928. Las operadoras de la recién nacida Telefónica viven sus romances y envidias dentro de una empresa moderna, reflejo del cambio social de la época. Alba, Marga, Ángeles y Carlota comienzan a trabajar como telefonistas en el edificio más moderno de toda la ciudad. Para ellas empieza la lucha por una independencia que tanto su entorno como la sociedad de entonces les niega. Su amistad será clave para conseguir sus sueños y juntas irán descubriendo lo que significa la verdadera libertad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODgxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34881:3"
+},
+{
+"id": "265716607",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-28",
+"plot": "Madrid, año 1928. Las operadoras de la recién nacida Telefónica viven sus romances y envidias dentro de una empresa moderna, reflejo del cambio social de la época. Alba, Marga, Ángeles y Carlota comienzan a trabajar como telefonistas en el edificio más moderno de toda la ciudad. Para ellas empieza la lucha por una independencia que tanto su entorno como la sociedad de entonces les niega. Su amistad será clave para conseguir sus sueños y juntas irán descubriendo lo que significa la verdadera libertad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODgxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34881:2"
+},
+{
+"id": "793428415",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-28",
+"plot": "Madrid, año 1928. Las operadoras de la recién nacida Telefónica viven sus romances y envidias dentro de una empresa moderna, reflejo del cambio social de la época. Alba, Marga, Ángeles y Carlota comienzan a trabajar como telefonistas en el edificio más moderno de toda la ciudad. Para ellas empieza la lucha por una independencia que tanto su entorno como la sociedad de entonces les niega. Su amistad será clave para conseguir sus sueños y juntas irán descubriendo lo que significa la verdadera libertad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34881:1"
+}
+]
+}
+}

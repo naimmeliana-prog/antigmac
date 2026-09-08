@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-03",
+"episode_count": 1,
+"id": 963365021,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsbkKSNiRAqLWUoJ7pnwY90LfWd.jpg"
+}
+],
+"info": {
+"name": "ES - Calleja en el espacio (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsbkKSNiRAqLWUoJ7pnwY90LfWd.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Lora, Paolo Vasile, Jesús Calleja",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900565",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "473905091",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-03",
+"plot": "Jesús emprende la mayor aventura de su vida: viajar al espacio a bordo del New Shepard. En esta serie documental, compartirá los orígenes de su sueño espacial y cruzará la línea de Kármán para cumplir su anhelo de alcanzar las estrellas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900565",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41813:1"
+}
+]
+}
+}

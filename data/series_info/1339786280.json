@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-09",
+"episode_count": 1,
+"id": 556881990,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B5AAnZhMJc7sZJiRRL8FQrKp8l.jpg"
+}
+],
+"info": {
+"name": "ES - Favàritx (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B5AAnZhMJc7sZJiRRL8FQrKp8l.jpg",
+"plot": "",
+"cast": "",
+"director": "Lluis Illescas Medina",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900490",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "322072648",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-09",
+"plot": "La inspectora Marta Serra se exilia a Menorca y persigue a un asesino que simula suicidios. Ella y Àlex destapan una trama de corrupción urbanística de la mafia portuguesa que oculta droga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900490",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43362:1"
+}
+]
+}
+}

@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2018-11-27",
+"episode_count": 4,
+"id": 767290460,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lf7Iw9dP66F3iKRRVxTdF61ewO.jpg"
+}
+],
+"info": {
+"name": "ES - La amiga estupenda (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lf7Iw9dP66F3iKRRVxTdF61ewO.jpg",
+"plot": "",
+"cast": "",
+"director": "Saverio Costanzo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900496",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1042120017",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-27",
+"plot": "Cuando una de sus amigas más importantes desaparece sin dejar rastro, Elena Greco, una anciana que vive en una vivienda llena de libros, decide escribir la historia de su amistad desde 1950. Esto pretende desvelar el misterio de Lila, su mejor amiga y mayor enemiga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MzgzLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37383:4"
+},
+{
+"id": "1732750486",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-27",
+"plot": "Cuando una de sus amigas más importantes desaparece sin dejar rastro, Elena Greco, una anciana que vive en una vivienda llena de libros, decide escribir la historia de su amistad desde 1950. Esto pretende desvelar el misterio de Lila, su mejor amiga y mayor enemiga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MzgzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37383:3"
+},
+{
+"id": "462713366",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-27",
+"plot": "Cuando una de sus amigas más importantes desaparece sin dejar rastro, Elena Greco, una anciana que vive en una vivienda llena de libros, decide escribir la historia de su amistad desde 1950. Esto pretende desvelar el misterio de Lila, su mejor amiga y mayor enemiga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MzgzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37383:2"
+},
+{
+"id": "1024968001",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-27",
+"plot": "Cuando una de sus amigas más importantes desaparece sin dejar rastro, Elena Greco, una anciana que vive en una vivienda llena de libros, decide escribir la historia de su amistad desde 1950. Esto pretende desvelar el misterio de Lila, su mejor amiga y mayor enemiga.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MzgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37383:1"
+}
+]
+}
+}

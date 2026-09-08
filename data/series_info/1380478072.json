@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-07-07",
+"episode_count": 2,
+"id": 530984203,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbV7pBAhyf1Z2YDHBR2kwYrFiQV.jpg"
+}
+],
+"info": {
+"name": "ES - Monstruos a la obra",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbV7pBAhyf1Z2YDHBR2kwYrFiQV.jpg",
+"plot": "",
+"cast": "",
+"director": "Bobs Gannaway",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900390",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1643767330",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-07",
+"plot": "Tylor Tuskmon se ha graduado en Monstruos University como mejor alumno de su promoción y se incorpora a Monstruos S. A. para cumplir su sueño de trabajar como asustador... o no. En su primer día allí, se entera de que ya no buscan asustadores, sino bromistas, y lo reasignan temporalmente al departamento de Mantenimiento de Instalaciones Fijas y Temporales. Este cambio da al traste con los planes de Tylor, pero él se fija una nueva meta: convertirse en bromista.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900390",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MTc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34174:1"
+},
+{
+"id": "819949475",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-07",
+"plot": "Tylor Tuskmon se ha graduado en Monstruos University como mejor alumno de su promoción y se incorpora a Monstruos S. A. para cumplir su sueño de trabajar como asustador... o no. En su primer día allí, se entera de que ya no buscan asustadores, sino bromistas, y lo reasignan temporalmente al departamento de Mantenimiento de Instalaciones Fijas y Temporales. Este cambio da al traste con los planes de Tylor, pero él se fija una nueva meta: convertirse en bromista.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900390",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MTc0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34174:2"
+}
+]
+}
+}

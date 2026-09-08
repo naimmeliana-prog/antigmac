@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-19",
+"episode_count": 1,
+"id": 859948314,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ivTSksMkcvoBbMPwNVd5ri4Wh5i.jpg"
+}
+],
+"info": {
+"name": "ES - Cristóbal Balenciaga",
+"cover": "https://image.tmdb.org/t/p/w154/ivTSksMkcvoBbMPwNVd5ri4Wh5i.jpg",
+"plot": "",
+"cast": "",
+"director": "Aitor Arregi, Jon Garaño, Jose Mari Goenaga",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900373",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "49568216",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-19",
+"plot": "La historia transcurre desde la Guerra Civil española hasta principios de la década de los 70, y cuenta la historia de un hombre que se atrevió a desafiar su condición social de hijo de costurera y pescador. Usando su talento natural, el trabajo constante y un agudo olfato para los negocios, Cristóbal Balenciaga se convirtió en uno de los diseñadores de moda más destacados de todos los tiempos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900373",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30059:1"
+}
+]
+}
+}

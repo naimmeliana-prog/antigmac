@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-02",
+"episode_count": 1,
+"id": 176229286,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQNx6p0MePHR2OBRR3Nz0q7EsU3.jpg"
+}
+],
+"info": {
+"name": "ES - Eva & Nicole",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQNx6p0MePHR2OBRR3Nz0q7EsU3.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Écija",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900259",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "172805754",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-02",
+"plot": "París 1972. Eva y Manuel hacen el amor en una buhardilla cuando la gendarmería francesa tira la puerta y se llevan a la chica a la fuerza, para ser deportada a su país de origen. Marbella 1985. Nicole se ha casado con Manuel y se ha convertido en una mujer poderosa, dueña de la noche marbellí y de la discoteca de moda, el Nicole’s. Ha conseguido reunir a toda la jet. Todo apunta a una noche perfecta, pero la llegada de una extraña sorprende a todos: es Eva.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900259",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34245:1"
+}
+]
+}
+}

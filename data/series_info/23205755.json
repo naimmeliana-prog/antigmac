@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-28",
+"episode_count": 1,
+"id": 570936505,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niabu7iVMCier4vtIGMR5r5Xm1Y.jpg"
+}
+],
+"info": {
+"name": "ES - La vorágine (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niabu7iVMCier4vtIGMR5r5Xm1Y.jpg",
+"plot": "",
+"cast": "",
+"director": "박경수, 김용완",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900320",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1882750631",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-28",
+"plot": "Una encarnizada lucha de poder entre el primer ministro y la vice primera ministra se desata el día en que el presidente sufre un intento de asesinato.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Njg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34684:1"
+}
+]
+}
+}

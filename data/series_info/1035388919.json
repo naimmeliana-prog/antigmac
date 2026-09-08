@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-16",
+"episode_count": 1,
+"id": 1327000557,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DY0aZe2NCaDXaJTYKNvdoTKLxs.jpg"
+}
+],
+"info": {
+"name": "ES - Deseo de venganza (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DY0aZe2NCaDXaJTYKNvdoTKLxs.jpg",
+"plot": "",
+"cast": "",
+"director": "Durul Taylan, Yağmur Taylan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900647",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "848304919",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-16",
+"plot": "La vida de Fuat Akıncı, un abogado exitoso y respetado, cambia cuando su hija experimenta un evento desafortunado. Buscando venganza, Fuat responde a los misteriosos mensajes enviados a su teléfono que eventualmente cambiarán su vida y lo harán enfrentar su pasado en medio de la oscuridad y la luz.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35673:1"
+}
+]
+}
+}

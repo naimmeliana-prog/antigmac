@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-23",
+"episode_count": 1,
+"id": 1086744137,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6rirFwHwqLPGetnYK48Ymanbva.jpg"
+}
+],
+"info": {
+"name": "ES - Kobe, la leyenda (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6rirFwHwqLPGetnYK48Ymanbva.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900593",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1117337031",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-23",
+"plot": "\"Kobe, la leyenda\" explora la vida y el legado del icónico Kobe Bryant y nos muestra su increíble trayectoria y ascenso hasta convertirse en uno de los mejores jugadores de baloncesto de todos los tiempos.\r\n\r\nEsta serie documental recorre su historia desde su infancia en Italia (y los paralelismos con su padre, el exjugador de la NBA Joe Bryan) hasta lo más alto del deporte y ofrece una visión íntima de sus aspiraciones tras la NBA como narrador y padre. A través de un extenso archivo y de entrevistas con excompañeros como Shaquille O’Neal o Tracy McGrady, además de con su círculo cercano (como su viuda, Vanessa Bryant), la serie nos muestra todas las facetas de su vida: el Kobe Bryant de dentro de las canchas (y también el de fuera), la relación con su familia y las partes más oscuras de su trayectoria, incluyendo las acusaciones por agresión sexual. Un documental para conocer al hombre más allá del mito.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900593",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48320:1"
+}
+]
+}
+}

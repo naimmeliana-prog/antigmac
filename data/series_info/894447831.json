@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-28",
+"episode_count": 1,
+"id": 1086262344,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWN6sMp87eNHcnbzZ3Zo5cIL8Fs.jpg"
+}
+],
+"info": {
+"name": "ES - Publio. El secuestro sin fin (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWN6sMp87eNHcnbzZ3Zo5cIL8Fs.jpg",
+"plot": "",
+"cast": "",
+"director": "Fèlix Colomer Vallès",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900626",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1268118291",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-28",
+"plot": "El secuestro del empresario Publio Cordón por parte de la banda terrorista GRAPO es uno de los casos sin resolver más longevos de la historia de España. La familia de Publio pagó el rescate, pero él nunca llegó a casa. 27 años más tarde, esta serie documental trata de responder a las preguntas que todo el mundo se hizo: ¿por qué lo secuestraron a él?, ¿cómo se pagó el rescate?, ¿cómo lo vivió la familia?, ¿cuál fue el tratamiento de los medios? ¿cuál fue el papel de la policía y el gobierno?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0Njg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34687:1"
+}
+]
+}
+}

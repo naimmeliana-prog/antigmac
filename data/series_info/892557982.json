@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-27",
+"episode_count": 1,
+"id": 20674126,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAjcpCceLixP5k9lRw1y4fhsLwV.jpg"
+}
+],
+"info": {
+"name": "ES - The Copenhagen Test (LQ)  (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAjcpCceLixP5k9lRw1y4fhsLwV.jpg",
+"plot": "",
+"cast": "",
+"director": "Thomas Brandon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900547",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "573225128",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-27",
+"plot": "Un analista de inteligencia se da cuenta de que su cerebro ha sido pirateado, lo que permite a unos hackers desconocidos acceder a todo lo que ve y oye. Atrapado entre la agencia y los hackers, decide actuar con normalidad para intentar descubrir a los culpables.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900547",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NzA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49705:1"
+}
+]
+}
+}

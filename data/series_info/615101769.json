@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-18",
+"episode_count": 1,
+"id": 155511901,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBkG310la4XzjwnFkG3ffaZDrPB.jpg"
+}
+],
+"info": {
+"name": "ES - Tekken: Linaje",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBkG310la4XzjwnFkG3ffaZDrPB.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900366",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "908644059",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-18",
+"plot": "De muy joven, Jin Kazama aprendió de su madre las artes marciales tradicionales en su familia. Sin embargo, no pudo hacer nada cuando una fuerza malvada destruyó lo que más quería y cambió su vida para siempre. Enfadado consigo mismo, Jin promete vengarse. Para conseguirlo, buscará el poder absoluto y emprenderá una odisea que lo llevará a la batalla más grande de todos los tiempos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900366",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31550:1"
+}
+]
+}
+}

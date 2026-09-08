@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-15",
+"episode_count": 1,
+"id": 858784891,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyVfbOTqBAD7pCcqEgCXf7ndCo7.jpg"
+}
+],
+"info": {
+"name": "ES - Desorden público (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyVfbOTqBAD7pCcqEgCXf7ndCo7.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlo Bonini, Filippo Gravino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900284",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "37077635",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-15",
+"plot": "Tras las fatídicas secuelas de una manifestación, las tensiones afloran dentro de un escuadrón antidisturbios que lucha por separar lo personal de lo profesional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900284",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40592:1"
+}
+]
+}
+}

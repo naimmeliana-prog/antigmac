@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-06",
+"episode_count": 1,
+"id": 37225704,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/rRvLrcSyLF2PZ0Y5mY6PB3gUthi.jpg"
+}
+],
+"info": {
+"name": "ES - Malory Towers",
+"cover": "https://image.tmdb.org/t/p/w154/rRvLrcSyLF2PZ0Y5mY6PB3gUthi.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900243",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1588832718",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-06",
+"plot": "Sigue las aventuras de Darrell Rivers cuando sale de casa por primera vez para asistir a un internado para niñas. Ambientada en la Gran Bretaña de la posguerra en los acantilados bañados por el sol de la costa de Cornualles, la serie explora un mundo nostálgico de fiestas de medianoche, lacrosse, bromas, un fantasma misterioso y amistades duraderas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900243",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29876:1"
+}
+]
+}
+}

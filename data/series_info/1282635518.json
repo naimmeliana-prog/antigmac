@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-17",
+"episode_count": 1,
+"id": 455057979,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg"
+}
+],
+"info": {
+"name": "ES - The Stand",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg",
+"plot": "",
+"cast": "",
+"director": "Josh Boone, Benjamin Cavell",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900433",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1599189037",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-17",
+"plot": "El destino de la humanidad yace en los frágiles hombros de Mother Abagail de 108 años de edad y un puñado de sobrevivientes. Sus peores pesadillas son encarnadas en un hombre con sonrisa letal y poderes indescriptibles: Randall Flagg, el hombre oscuro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900433",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7267:1"
+}
+]
+}
+}

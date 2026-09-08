@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-09",
+"episode_count": 1,
+"id": 1033794666,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgwmxAwzReBwwoebl6v9Ceb75fE.jpg"
+}
+],
+"info": {
+"name": "ES - Jesús: Corona de espinas (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgwmxAwzReBwwoebl6v9Ceb75fE.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900592",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "532596227",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-09",
+"plot": "Este documental cuenta la vida y misión de Jesucristo en un mundo de alianzas cambiantes y luchas internas, en el que emergió como una figura revolucionaria que se atrevió a desafiar el status quo. Esta es la historia de una de las figuras más importantes e influyentes.\r\n\r\nEsta producción está repleta de personajes complejos y reales que vivieron un momento histórico extraordinario. Unos vieron a Jesucristo como una amenaza y otros arriesgaron sus vidas para protegerlo. Combinando dramatizaciones llenas de acción y las opiniones de expertos en historia y religión, el documental a lo largo de cuatro episodios “redefine la forma en que percibimos la vida de Jesús en el contexto político de esa época”, según su productor Ben Goold.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMDAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43002:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-24",
+"episode_count": 1,
+"id": 282456728,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWAeHxwcwikvkEZmJKpT568jjDX.jpg"
+}
+],
+"info": {
+"name": "ES - El mal invisible (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWAeHxwcwikvkEZmJKpT568jjDX.jpg",
+"plot": "",
+"cast": "",
+"director": "Lluís Arcarazo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900377",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "414530209",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-24",
+"plot": "Cuando una sucesión de ancianos sin hogar son brutalmente asesinados mientras duermen en la ciudad de Barcelona, cerrada por la pandemia del COVID-19, Quique Molina y Marga Muñoz, agentes de la Unidad de Investigación Criminal de los Mossos d'Esquadra que tienen sus diferencias, unen fuerzas para localizar a un asesino en serie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900377",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43849:1"
+}
+]
+}
+}

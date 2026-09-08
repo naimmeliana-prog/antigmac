@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2015-09-27",
+"episode_count": 3,
+"id": 1412127648,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCy1fwk2uHQhAY4FEuG29lvmHmC.jpg"
+}
+],
+"info": {
+"name": "ES - Quantico",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCy1fwk2uHQhAY4FEuG29lvmHmC.jpg",
+"plot": "",
+"cast": "",
+"director": "Joshua Safran",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900394",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "926587744",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-27",
+"plot": "Quantico es una serie de ABC que trata el tema del terrorismo silencioso. La ficción se centra en un grupo de jóvenes reclutas del FBI, todos ellos con un motivo importante para unirse, que luchan , a su manera, a través de la base de Quantico, en Virginia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900394",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMDk3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11097:3"
+},
+{
+"id": "1195205698",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-27",
+"plot": "Quantico es una serie de ABC que trata el tema del terrorismo silencioso. La ficción se centra en un grupo de jóvenes reclutas del FBI, todos ellos con un motivo importante para unirse, que luchan , a su manera, a través de la base de Quantico, en Virginia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900394",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMDk3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11097:2"
+},
+{
+"id": "1327908647",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-09-27",
+"plot": "Quantico es una serie de ABC que trata el tema del terrorismo silencioso. La ficción se centra en un grupo de jóvenes reclutas del FBI, todos ellos con un motivo importante para unirse, que luchan , a su manera, a través de la base de Quantico, en Virginia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900394",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMDk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11097:1"
+}
+]
+}
+}

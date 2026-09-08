@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-21",
+"episode_count": 1,
+"id": 1812906700,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssRL2zNmTlxrvDNpKHBEV2FkAs.jpg"
+}
+],
+"info": {
+"name": "ES - Los no elegidos (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssRL2zNmTlxrvDNpKHBEV2FkAs.jpg",
+"plot": "",
+"cast": "",
+"director": "Julie Gearey",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900325",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1890854706",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-21",
+"plot": "Una joven madre de una secta aislada se cruza con un misterioso desconocido e inicia una relación arriesgada que despierta deseos y desvela secretos oscuros.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900325",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49041:1"
+}
+]
+}
+}

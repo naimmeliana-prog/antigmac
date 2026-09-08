@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-25",
+"episode_count": 1,
+"id": 716190131,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1T4RXeChi27cc2abUdz3ufzcGi.jpg"
+}
+],
+"info": {
+"name": "ES - Padre no hay más que uno, la serie (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1T4RXeChi27cc2abUdz3ufzcGi.jpg",
+"plot": "",
+"cast": "",
+"director": "Inés de León",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900265",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "23183642",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-25",
+"plot": "Helena y Mateo son un matrimonio con cinco hijos. Cuando a Helena le ofrecen el trabajo de su vida en la app Conchy, toda la familia decide mudarse. Mateo, con más confianza que sentido común, deja de lado su carrera para encargarse del cuidado de sus hijos, convencido de que “esto no puede ser tan difícil” pero pronto descubrirá que lo es, y mucho. Mientras Helena intenta brillar en su nueva empresa, sus hijos, descontentos con la mudanza, se organizan para sabotear este cambio de vida y poder volver a su antigua ciudad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900265",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47922:1"
+}
+]
+}
+}

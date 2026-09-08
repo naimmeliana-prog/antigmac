@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-06",
+"episode_count": 1,
+"id": 455936648,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMmD68IHT4XnWMXEmoC4hrbzMfN.jpg"
+}
+],
+"info": {
+"name": "ES - Los crímenes de Åre (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMmD68IHT4XnWMXEmoC4hrbzMfN.jpg",
+"plot": "",
+"cast": "",
+"director": "Viveca Sten",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900324",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "405165008",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-06",
+"plot": "Una policía de Estocolmo sometida a una investigación interna se va a una estación de esquí para desconectar, pero la desaparición de una chica la obliga a volver al trabajo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900324",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MzY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49364:1"
+}
+]
+}
+}

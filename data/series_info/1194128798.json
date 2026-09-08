@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-18",
+"episode_count": 1,
+"id": 1341060677,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2uNbATWA2qZTVgsrJeqWmQPb4V.jpg"
+}
+],
+"info": {
+"name": "ES - ¿Y ahora qué? El futuro según Bill Gates (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2uNbATWA2qZTVgsrJeqWmQPb4V.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900641",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "113388153",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-18",
+"plot": "Acompaña al visionario y filántropo Bill Gates en su análisis de los problemas globales más urgentes y descubre la tecnología puntera que transformará el mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900641",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzY2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36366:1"
+}
+]
+}
+}

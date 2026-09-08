@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-13",
+"episode_count": 1,
+"id": 6924474,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27x3WlLsF2PQO0jEiw8t50TZfnQ.jpg"
+}
+],
+"info": {
+"name": "ES - Ice Age: Las desventuras de Scrat (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27x3WlLsF2PQO0jEiw8t50TZfnQ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900381",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "745837119",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-13",
+"plot": "Seis nuevas aventuras animadas de \"Ice Age\" protagonizadas por el desafortunado Scrat, la ardilla con dientes de sable, que ahora experimenta las desventuras de la paternidad al tener sus más y sus menos con el encantador y travieso Bebé Scrat, con quien compite por hacerse con la preciada Bellota.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900381",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34948:1"
+}
+]
+}
+}

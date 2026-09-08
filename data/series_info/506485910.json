@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-15",
+"episode_count": 1,
+"id": 1239691043,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg"
+}
+],
+"info": {
+"name": "ES - G.E.O. Más allá del límite",
+"cover": "https://image.tmdb.org/t/p/w154/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg",
+"plot": "",
+"cast": "",
+"director": "David Miralles, José Ignacio Corrales, Jorge Pérez Vega",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900585",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "294105874",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-15",
+"plot": "G.E.O. Más allá del límite es la primera serie documental que mostrará desde dentro los entresijos de uno de los cuerpos policiales de élite más prestigiosos del mundo: el Grupo Especial de Operaciones o G.E.O. Por primera vez en su historia, un equipo de cámaras tiene acceso exclusivo al duro y exigente proceso de selección de los nuevos miembros, que se extiende durante más de 7 meses. Cientos de aspirantes comienzan y solo unos pocos terminarán pasando las pruebas necesarias para convertirse en miembros del G.E.O.\r\n\r\nEn cada capítulo se seguirán los progresos de este grupo de aspirantes profundizando en su historia personal, sus reacciones ante las duras pruebas y su transformación a lo largo de un proceso que pondrá al límite sus capacidades físicas y mentales. Sometidos a un estrés extremo, privados de sueño y expuestos a condiciones inaguantables, los aspirantes tendrán que superar sus peores miedos para estar preparados para lo que pueda estar por venir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29891:1"
+}
+]
+}
+}

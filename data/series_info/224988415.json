@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-02",
+"episode_count": 1,
+"id": 616193832,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/bGn7dGysvut3RzbwcTupisAYElN.jpg"
+}
+],
+"info": {
+"name": "ES - La chica de los cigarrillos",
+"cover": "https://image.tmdb.org/t/p/w154/bGn7dGysvut3RzbwcTupisAYElN.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900309",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1224671448",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-02",
+"plot": "Una artesana se sumerge en una historia de amor y autodescubrimiento mientras desafía las tradiciones de la industria de los cigarrillos ‘kretek’ de Indonesia en los 60.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900309",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28469:1"
+}
+]
+}
+}

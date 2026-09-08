@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-25",
+"episode_count": 2,
+"id": 1650583799,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg"
+}
+],
+"info": {
+"name": "ES - FBI",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Dick Wolf, Craig Turk",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900237",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "628838426",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-25",
+"plot": "La unidad de élite de la oficina del FBI en Nueva York ofrece todos sus talentos, intelecto y experiencia técnica en casos importantes para mantener a salvo a Nueva York y el país.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900237",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg2MTUsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8615:4"
+},
+{
+"id": "611763659",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-25",
+"plot": "La unidad de élite de la oficina del FBI en Nueva York ofrece todos sus talentos, intelecto y experiencia técnica en casos importantes para mantener a salvo a Nueva York y el país.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900237",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg2MTUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8615:3"
+}
+]
+}
+}

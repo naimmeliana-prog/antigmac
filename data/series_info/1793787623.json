@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2015-12-14",
+"episode_count": 6,
+"id": 1089767122,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/lLidDKUYF5pcmH7zaM6J6nyRQGG.jpg"
+}
+],
+"info": {
+"name": "ES - The Expanse",
+"cover": "https://image.tmdb.org/t/p/w154/lLidDKUYF5pcmH7zaM6J6nyRQGG.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Fergus, Hawk Ostby",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900432",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "223088107",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-12-14",
+"plot": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\r\n\r\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkzLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30393:6"
+},
+{
+"id": "1360660775",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-12-14",
+"plot": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\r\n\r\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkzLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30393:5"
+},
+{
+"id": "1235675156",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-12-14",
+"plot": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\r\n\r\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkzLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30393:4"
+},
+{
+"id": "1707847811",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-12-14",
+"plot": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\r\n\r\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30393:3"
+},
+{
+"id": "430799521",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-12-14",
+"plot": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\r\n\r\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30393:2"
+},
+{
+"id": "900390320",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-12-14",
+"plot": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\r\n\r\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30393:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-04",
+"episode_count": 1,
+"id": 328828675,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1N8jQZgY6cclWyL3q6uutynB9Z.jpg"
+}
+],
+"info": {
+"name": "ES - The Rise and Fall of the Maya (2023) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1N8jQZgY6cclWyL3q6uutynB9Z.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900635",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1050892637",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-04",
+"plot": "Despite decades of research, many mysteries remain about the ancient Maya. Now, archaeologists are unearthing new clues that transform long held ideas about how these people came to dominate vast areas of Mexico and Central America. Through immense lost monuments, ancient inscriptions and new forensic evidence, this series tracks the Maya from their earliest origins all the way to the present day, unlocking the dark secrets of the rise and fall of the Maya.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900635",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37183:1"
+}
+]
+}
+}

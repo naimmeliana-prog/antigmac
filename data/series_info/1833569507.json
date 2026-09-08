@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-24",
+"episode_count": 3,
+"id": 198024362,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58Z3KlTeOe1rHwa6x3xSRRVTIXk.jpg"
+}
+],
+"info": {
+"name": "ES - Vivir sin permiso (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58Z3KlTeOe1rHwa6x3xSRRVTIXk.jpg",
+"plot": "",
+"cast": "",
+"director": "Aitor Gabilondo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900358",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "40716714",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-24",
+"plot": "La serie narra el declive de un líder poderoso, dominante y temido que ha controlado con mano de hierro durante años la comunidad en la que vive y el espectáculo cruel y despiadado que ofrecen sus familiares y allegados por hacerse con el control de su imperio. Pasiones, rivalidades e intereses enfrentados son los ejes en torno a los que se vertebra la serie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37041:1"
+},
+{
+"id": "1264662043",
+"episode_num": 1,
+"title": "Season 12",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-24",
+"plot": "La serie narra el declive de un líder poderoso, dominante y temido que ha controlado con mano de hierro durante años la comunidad en la que vive y el espectáculo cruel y despiadado que ofrecen sus familiares y allegados por hacerse con el control de su imperio. Pasiones, rivalidades e intereses enfrentados son los ejes en torno a los que se vertebra la serie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDQxLCJzZWFzb25fbnVtIjoxMiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "37041:12"
+},
+{
+"id": "1767479282",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-24",
+"plot": "La serie narra el declive de un líder poderoso, dominante y temido que ha controlado con mano de hierro durante años la comunidad en la que vive y el espectáculo cruel y despiadado que ofrecen sus familiares y allegados por hacerse con el control de su imperio. Pasiones, rivalidades e intereses enfrentados son los ejes en torno a los que se vertebra la serie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDQxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37041:2"
+}
+]
+}
+}

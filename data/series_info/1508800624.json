@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-02",
+"episode_count": 1,
+"id": 1364943649,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2P7KSb4I2tY6uNX9eXXwo5hm46.jpg"
+}
+],
+"info": {
+"name": "ES - Star Wars: Tripulación perdida (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2P7KSb4I2tY6uNX9eXXwo5hm46.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Watts, Christopher Ford",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900398",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "945517596",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-02",
+"plot": "Se centrará en un grupo de niños perdidos en la galaxia que intentan encontrar su camino a casa en la era de la Nueva República.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900398",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38563:1"
+}
+]
+}
+}

@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-24",
+"episode_count": 4,
+"id": 184496068,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ajQ9OW0TSJ5d8MCkKFiqCBpfa05.jpg"
+}
+],
+"info": {
+"name": "ES - Manifest- (2018)",
+"cover": "https://image.tmdb.org/t/p/w154/ajQ9OW0TSJ5d8MCkKFiqCBpfa05.jpg",
+"plot": "",
+"cast": "",
+"director": "Jeff Rake",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900328",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "70298864",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-24",
+"plot": "Cuando el vuelo 828 de Montego Air aterriza de manera segura después de un vuelo turbulento pero de rutina, la tripulación y los pasajeros se sienten aliviados. Sin embargo, aunque para ellos han pasado pocas horas, el mundo ha envejecido cinco años y sus amigos, familias y colegas, después de llorar su pérdida, han perdido la esperanza y están intentando seguir adelante. Ahora, frente a lo imposible, a todos se les da una segunda oportunidad. Pero, a medida que se aclaran sus nuevas realidades, se enfrentan a un misterio más profundo y algunos de los pasajeros pronto se dan cuenta de que pueden estar destinados a algo más grande de lo que alguna vez creyeron posible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900328",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDI4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21428:4"
+},
+{
+"id": "162516303",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-24",
+"plot": "Cuando el vuelo 828 de Montego Air aterriza de manera segura después de un vuelo turbulento pero de rutina, la tripulación y los pasajeros se sienten aliviados. Sin embargo, aunque para ellos han pasado pocas horas, el mundo ha envejecido cinco años y sus amigos, familias y colegas, después de llorar su pérdida, han perdido la esperanza y están intentando seguir adelante. Ahora, frente a lo imposible, a todos se les da una segunda oportunidad. Pero, a medida que se aclaran sus nuevas realidades, se enfrentan a un misterio más profundo y algunos de los pasajeros pronto se dan cuenta de que pueden estar destinados a algo más grande de lo que alguna vez creyeron posible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900328",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDI4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21428:3"
+},
+{
+"id": "723234922",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-24",
+"plot": "Cuando el vuelo 828 de Montego Air aterriza de manera segura después de un vuelo turbulento pero de rutina, la tripulación y los pasajeros se sienten aliviados. Sin embargo, aunque para ellos han pasado pocas horas, el mundo ha envejecido cinco años y sus amigos, familias y colegas, después de llorar su pérdida, han perdido la esperanza y están intentando seguir adelante. Ahora, frente a lo imposible, a todos se les da una segunda oportunidad. Pero, a medida que se aclaran sus nuevas realidades, se enfrentan a un misterio más profundo y algunos de los pasajeros pronto se dan cuenta de que pueden estar destinados a algo más grande de lo que alguna vez creyeron posible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900328",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDI4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21428:2"
+},
+{
+"id": "863929231",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-24",
+"plot": "Cuando el vuelo 828 de Montego Air aterriza de manera segura después de un vuelo turbulento pero de rutina, la tripulación y los pasajeros se sienten aliviados. Sin embargo, aunque para ellos han pasado pocas horas, el mundo ha envejecido cinco años y sus amigos, familias y colegas, después de llorar su pérdida, han perdido la esperanza y están intentando seguir adelante. Ahora, frente a lo imposible, a todos se les da una segunda oportunidad. Pero, a medida que se aclaran sus nuevas realidades, se enfrentan a un misterio más profundo y algunos de los pasajeros pronto se dan cuenta de que pueden estar destinados a algo más grande de lo que alguna vez creyeron posible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900328",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21428:1"
+}
+]
+}
+}

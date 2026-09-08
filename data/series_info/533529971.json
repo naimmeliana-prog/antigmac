@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-07",
+"episode_count": 1,
+"id": 167817922,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg"
+}
+],
+"info": {
+"name": "ES - La dama de los muertos (LQ) (2022) (AT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg",
+"plot": "",
+"cast": "",
+"director": "Bernhard Aichner",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900310",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1596652069",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-07",
+"plot": "Brünhilde Blum dirige una funeraria en una estación de esquí cercana a Innsbruck y lleva una vida familiar feliz con su marido Mark y sus dos hijos Tim y Nela. Mark trabaja en el departamento de investigación criminal de Innsbruck.\r\n\r\nLa felicidad familiar se ve truncada cuando Mark es atropellado por un coche delante de Brünhilde y sucumbe a sus heridas en el hospital. La otra persona implicada en el accidente se da a la fuga. Tiempo después descubre que el supuesto accidente pudo ser en realidad un asesinato. Brünhilde sigue investigando, pero se pone en peligro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900310",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNDU0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51454:2"
+}
+]
+}
+}

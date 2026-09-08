@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-16",
+"episode_count": 1,
+"id": 1584303851,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTkRTDTZPrMAk0rlhTiGLHVeuUd.jpg"
+}
+],
+"info": {
+"name": "ES - The Iris Affair (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTkRTDTZPrMAk0rlhTiGLHVeuUd.jpg",
+"plot": "",
+"cast": "",
+"director": "Neil Cross",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900547",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1586455607",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-16",
+"plot": "Cuando la enigmática genio Iris Nixon resuelve una serie de complejos rompecabezas en línea, es conducida a una plaza de Florencia donde conoce al carismático empresario Cameron Beck. Éste la invita a trabajar para él para desentrañar una poderosa tecnología de alto secreto. A Iris le pica la curiosidad y acepta. Pero cuando Iris descubre su peligroso potencial, roba el diario que contiene la secuencia de activación del dispositivo y desaparece. Lo que sigue es una persecución implacable, desde una remota cabaña en Cerdeña hasta las bulliciosas calles de Roma, mientras Cameron corre para encontrar a Iris en un juego de altas apuestas donde la confianza es peligrosa y el fracaso podría ser catastrófico.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900547",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46894:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-10",
+"episode_count": 1,
+"id": 1888330851,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umBSlL6mMiDcfQMnKuIfugiHzw0.jpg"
+}
+],
+"info": {
+"name": "ES - Polo (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umBSlL6mMiDcfQMnKuIfugiHzw0.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900626",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1805783761",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-10",
+"plot": "Esta apasionante docuserie se adentra en los entresijos del polo profesional para ofrecer un retrato sin precedentes de las vidas de los jugadores, dentro y fuera del campo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Nzg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38787:1"
+}
+]
+}
+}

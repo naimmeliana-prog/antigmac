@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-11",
+"episode_count": 1,
+"id": 1324279844,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzWE1vT95FNUnwv1bgl5dJWVZUL.jpg"
+}
+],
+"info": {
+"name": "ES - Disclaimer (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzWE1vT95FNUnwv1bgl5dJWVZUL.jpg",
+"plot": "",
+"cast": "",
+"director": "Alfonso Cuarón",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900441",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "141188982",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-11",
+"plot": "Cuando una intrigante novela aparece junto a la cama de una periodista cuya carrera se ha basado en revelar transgresiones, se horroriza al darse cuenta de que es un personaje clave en una historia oculta desde hace mucho que deja al descubierto su secreto más siniestro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900441",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37181:1"
+}
+]
+}
+}

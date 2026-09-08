@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-22",
+"episode_count": 1,
+"id": 241143024,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4I5TzRRCmNcOv5P9Bnbr8Wklv5h.jpg"
+}
+],
+"info": {
+"name": "ES - El circo de los muchachos (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4I5TzRRCmNcOv5P9Bnbr8Wklv5h.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900575",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "740401924",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-22",
+"plot": "Docuserie de 5 episodios sobre el cura Jesús Silva, que fundó una ciudad utópica autogobernada por muchachos. Formaron un circo y llegaron a actuar en el Madison Square Garden. Una historia real y poco conocida de Galicia, narrada combinando materiales y entrevistas inéditas y un archivo único que recorre más de 50 años de historia y que cuenta incluso con imágenes grabadas desde el propio estudio de televisión creado en Benposta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MzIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38320:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-20",
+"episode_count": 1,
+"id": 1955353355,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9F4tfuAlbjqWy6TOjcVExDL8X9.jpg"
+}
+],
+"info": {
+"name": "ES - Las Berrocal (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9F4tfuAlbjqWy6TOjcVExDL8X9.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900605",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "27208199",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-20",
+"plot": "'Las Berrocal' son mucho más que glamour, éxito y elegancia. Forman un clan de cuatro mujeres con personalidades arrebatadoras y una manera muy particular de mirar la vida. En un mundo complejo, ellas han creado un universo propio en el que se cuidan y se apoyan mutuamente, a pesar de las diferencias generacionales. Ahora, abren las puertas de su mundo, lleno de luces y de sombras, para darse a conocer y ayudarnos a comprender cómo han llegado a convertirse en lo que son.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900605",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NjM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44637:1"
+}
+]
+}
+}

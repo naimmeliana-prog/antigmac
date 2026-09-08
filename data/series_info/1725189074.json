@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-01",
+"episode_count": 1,
+"id": 954167122,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg"
+}
+],
+"info": {
+"name": "ES - Mr. & Mrs. Smith",
+"cover": "https://image.tmdb.org/t/p/w154/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg",
+"plot": "",
+"cast": "",
+"director": "Donald Glover, Francesca Sloane",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900331",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1160696148",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-01",
+"plot": "Meet the Smiths: two lonely strangers, John and Jane, who have given up their lives and identities to be thrown together as partners – both in espionage and in marriage",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900331",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30392:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-11",
+"episode_count": 1,
+"id": 477166771,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/byjna2mXAkO1CO1nBgmYR60UcB6.jpg"
+}
+],
+"info": {
+"name": "ES - El desorden que dejas",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/byjna2mXAkO1CO1nBgmYR60UcB6.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlos Montero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900258",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1513957317",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-11",
+"plot": "Raquel, una joven profesora de literatura, acepta el puesto de suplente que le ofrecen en el instituto de Novariz, pueblo al que pertenece su marido. Cuando llega se entera de que Elvira, la profesora a la que está sustituyendo se suicidó. Eso la extraña pero las cosas se ponen peor cuando al finalizar las clases encuentra una nota en su bolso en la que pone: ¿Y tú cuánto vas a tardar en matarte?. Raquel se empieza a hacer preguntas y decidida, empieza a investigar sobre la antigua profesora para averiguar qué le pasó. Durante la investigación que lleva a cabo por su cuenta, sin contarle a nadie lo que le pasa por puro miedo, sigue recibiendo notas de ese estilo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900258",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34440:1"
+}
+]
+}
+}

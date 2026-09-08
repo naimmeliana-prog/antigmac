@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-07",
+"episode_count": 1,
+"id": 199206340,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZalUWRabIM2HehTDv8eqffqD4g.jpg"
+}
+],
+"info": {
+"name": "ES - Encerrado con el diablo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZalUWRabIM2HehTDv8eqffqD4g.jpg",
+"plot": "",
+"cast": "",
+"director": "Dennis Lehane",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900442",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "852263482",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-07",
+"plot": "Cuando Jimmy Keene comienza una condena de 10 años de cárcel, recibe una oferta increíble: si puede obtener una confesión del presunto asesino Larry Hall, Jimmy será liberado. Completar esta misión se convierte en el reto de su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900442",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32009:1"
+}
+]
+}
+}

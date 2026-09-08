@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-20",
+"episode_count": 1,
+"id": 1646749402,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/aCObyETnCoLrPQasvypmER1r2xE.jpg"
+}
+],
+"info": {
+"name": "ES - The Peripheral - (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/aCObyETnCoLrPQasvypmER1r2xE.jpg",
+"plot": "",
+"cast": "",
+"director": "Scott B. Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900432",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "329362810",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-20",
+"plot": "Atrapada en un pequeño pueblo de los Apalaches, jugar videojuegos es la única manera que una joven tiene para escapar de la rutina. Es tan buena jugadora, que una empresa le envía un nuevo sistema de videojuegos para que lo pruebe, pero tiene una sorpresa. Desbloquea sus sueños de encontrar un propósito, romance y glamour en lo que parece un juego, poniéndola a ella y su familia en peligro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21453:1"
+}
+]
+}
+}

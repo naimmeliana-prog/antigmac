@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-28",
+"episode_count": 3,
+"id": 640691858,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ofsqtGkm3iSYqEMvMgP5NnSgKST.jpg"
+}
+],
+"info": {
+"name": "ES - El Inmortal (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/ofsqtGkm3iSYqEMvMgP5NnSgKST.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900234",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "93226244",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-28",
+"plot": "Durante la década de los 90, el tráfico de cocaína y el control de las discotecas de Madrid estuvo en manos de una banda que acaparó cientos de portadas y programas de televisión: Los Miami. Su nombre provocaba el pánico de aquel que lo escuchaba. “El Inmortal” fue el jefe de todos ellos. Esta historia está inspirada en su reinado y en la ciudad que tantas veces lo vio morir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900234",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMDU1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21055:3"
+},
+{
+"id": "1915518442",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-28",
+"plot": "Durante la década de los 90, el tráfico de cocaína y el control de las discotecas de Madrid estuvo en manos de una banda que acaparó cientos de portadas y programas de televisión: Los Miami. Su nombre provocaba el pánico de aquel que lo escuchaba. “El Inmortal” fue el jefe de todos ellos. Esta historia está inspirada en su reinado y en la ciudad que tantas veces lo vio morir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900234",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMDU1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21055:2"
+},
+{
+"id": "1529802663",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-28",
+"plot": "Durante la década de los 90, el tráfico de cocaína y el control de las discotecas de Madrid estuvo en manos de una banda que acaparó cientos de portadas y programas de televisión: Los Miami. Su nombre provocaba el pánico de aquel que lo escuchaba. “El Inmortal” fue el jefe de todos ellos. Esta historia está inspirada en su reinado y en la ciudad que tantas veces lo vio morir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900234",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMDU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21055:1"
+}
+]
+}
+}

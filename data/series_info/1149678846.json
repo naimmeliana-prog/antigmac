@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-27",
+"episode_count": 1,
+"id": 1977214678,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
+}
+],
+"info": {
+"name": "ES - Shōgun [MULTI-SUB]",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+"plot": "",
+"cast": "",
+"director": "Justin Marks, Rachel Kondo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900395",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "199553271",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-27",
+"plot": "Ambientada en el Japón de 1600, lord Yoshii Toranaga lucha por su vida mientras que sus enemigos en el Consejo de regentes se alían contra él cuando un misterioso barco europeo aparece abandonado cerca de un pueblo pesquero.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30735:1"
+}
+]
+}
+}

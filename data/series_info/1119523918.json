@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-19",
+"episode_count": 2,
+"id": 29729069,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg"
+}
+],
+"info": {
+"name": "ES - Percy Jackson y los dioses del Olimpo",
+"cover": "https://image.tmdb.org/t/p/w154/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+"plot": "",
+"cast": "",
+"director": "Rick Riordan, Jonathan E. Steinberg",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900393",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1374568812",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-19",
+"plot": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajenoy si logrará entender su destino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Mzg5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29389:2"
+},
+{
+"id": "1436113359",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-19",
+"plot": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajenoy si logrará entender su destino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5Mzg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29389:1"
+}
+]
+}
+}

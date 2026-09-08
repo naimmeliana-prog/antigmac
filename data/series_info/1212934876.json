@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-23",
+"episode_count": 3,
+"id": 1719227559,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4eNN7MDyoTXTEm58JBuw7mJ03m.jpg"
+}
+],
+"info": {
+"name": "ES - Gangs of London (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4eNN7MDyoTXTEm58JBuw7mJ03m.jpg",
+"plot": "",
+"cast": "",
+"director": "Gareth Evans, Matt Flannery",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900529",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "730981058",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-23",
+"plot": "Cuando el jefe de una organización criminal, Finn Wallace es asesinado, el repentino vacío de poder que crea su muerte amenaza la frágil paz entre la intrincada red de pandillas que operan en las calles de la ciudad. Ahora le corresponde al afligido, volátil e impulsivo Sean Wallace restablecer el control y encontrar a los responsables de matar a su padre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900529",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35028:3"
+},
+{
+"id": "1943504730",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-23",
+"plot": "Cuando el jefe de una organización criminal, Finn Wallace es asesinado, el repentino vacío de poder que crea su muerte amenaza la frágil paz entre la intrincada red de pandillas que operan en las calles de la ciudad. Ahora le corresponde al afligido, volátil e impulsivo Sean Wallace restablecer el control y encontrar a los responsables de matar a su padre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900529",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35028:2"
+},
+{
+"id": "760403369",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-23",
+"plot": "Cuando el jefe de una organización criminal, Finn Wallace es asesinado, el repentino vacío de poder que crea su muerte amenaza la frágil paz entre la intrincada red de pandillas que operan en las calles de la ciudad. Ahora le corresponde al afligido, volátil e impulsivo Sean Wallace restablecer el control y encontrar a los responsables de matar a su padre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900529",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35028:1"
+}
+]
+}
+}

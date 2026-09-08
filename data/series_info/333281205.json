@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-03",
+"episode_count": 1,
+"id": 792545850,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY1RClT1j0Ry7ZG6vzaZDOWCMAN.jpg"
+}
+],
+"info": {
+"name": "ES - La chica de la limpieza",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY1RClT1j0Ry7ZG6vzaZDOWCMAN.jpg",
+"plot": "",
+"cast": "",
+"director": "Miranda Kwok",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900496",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1029560936",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-03",
+"plot": "Thony De La Rosa es una médica camboyana, a cuyo hijo Luca se le diagnostica un trastorno de inmunodeficiencia poco común y potencialmente mortal. Dejando a su esposo Marco en Filipinas, Thony llega a los Estados Unidos en busca de tratamiento médico urgente para su hijo, pero cuando el único donante de médula ósea compatible se retira y su visa expira, Thony se encuentra atrapada en Las Vegas, forzada a apoyar a su hijo trabajando como empleada de limpieza junto a su cuñada filipina Fiona. Después de presenciar accidentalmente un asesinato, Thony es reclutada por el mafioso Arman Morales para usar sus habilidades médicas como «limpiadora», borrando la evidencia de los crímenes de la mafia. Al cruzar a un mundo de moral gris, Thony comienza a vivir una doble vida, guardando secretos a su familia mientras limpia escenas del crimen y esquiva la ley, jugando según sus propias reglas en un peligroso inframundo criminal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15139:1"
+}
+]
+}
+}

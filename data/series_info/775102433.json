@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-01",
+"episode_count": 1,
+"id": 100922979,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg"
+}
+],
+"info": {
+"name": "ES - El Arca (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+"plot": "",
+"cast": "",
+"director": "Dean Devlin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900234",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "977483724",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-01",
+"plot": "El Arca tiene lugar 100 años en el futuro cuando las misiones de colonización planetaria han comenzado como una necesidad para ayudar a asegurar la supervivencia de la raza humana. La primera de estas misiones en una nave espacial conocida como Ark One se encuentra con un evento catastrófico que causa destrucción masiva y pérdida de vidas. Con más de un año antes de llegar a su planeta objetivo, la falta de suministros vitales y la pérdida de liderazgo, la tripulación restante debe convertirse en la mejor versión de sí misma para mantener el rumbo y sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900234",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25049:1"
+}
+]
+}
+}

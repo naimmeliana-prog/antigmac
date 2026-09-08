@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-16",
+"episode_count": 1,
+"id": 1793480482,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VMiV4GAZnvo0sJYZ1KcK0jLGwC.jpg"
+}
+],
+"info": {
+"name": "ES - Bluey Cortos (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VMiV4GAZnvo0sJYZ1KcK0jLGwC.jpg",
+"plot": "",
+"cast": "",
+"director": "Joe Brumm",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900371",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "989354726",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-16",
+"plot": "Bluey Cortos es una colección de momentos divertidos y tiernos protagonizados por Bluey y Bingo. Presenta algunos personajes nuevos junto a los favoritos de los fans, como Muffin haciendo un vídeo de desembalaje, papá haciéndose un \"tatuaje\" y los entresijos de la casa de los sueños de Bluey y Bingo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900371",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODY2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34866:1"
+}
+]
+}
+}

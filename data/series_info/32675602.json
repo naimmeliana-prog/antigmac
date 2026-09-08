@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-19",
+"episode_count": 1,
+"id": 482587463,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg"
+}
+],
+"info": {
+"name": "ES - The Mighty Nein (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900432",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "142854457",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-19",
+"plot": "Un grupo de marginados, criminales e inadaptados se ven abocados a salvar el continente cuando una reliquia arcana capaz de remodelar la realidad cae en manos equivocadas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900432",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NjU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46658:1"
+}
+]
+}
+}

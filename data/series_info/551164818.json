@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-13",
+"episode_count": 1,
+"id": 252851194,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R0K00U4CdvkLu8yuAvOgH8hwDj.jpg"
+}
+],
+"info": {
+"name": "ES - De polo a polo con Will Smith (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R0K00U4CdvkLu8yuAvOgH8hwDj.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900571",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1378770946",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-13",
+"plot": "Sigue a Will Smith a través de los siete continentes, llevándole de los campos de hielo de la Antártida a las selvas del Amazonas, las montañas del Himalaya, los desiertos de África, las islas del Pacífico y los icebergs del Ártico.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900571",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47620:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-26",
+"episode_count": 1,
+"id": 991072540,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2titW404dPYOzK5NElQoAJ2ivK5.jpg"
+}
+],
+"info": {
+"name": "ES - It: Bienvenidos a Derry (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
+"plot": "",
+"cast": "",
+"director": "Andy Muschietti, Barbara Muschietti, Jason Fuchs",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900493",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1431416536",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-26",
+"plot": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900493",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MjgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46280:1"
+}
+]
+}
+}

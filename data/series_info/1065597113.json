@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-23",
+"episode_count": 3,
+"id": 766637901,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TZnk9ryzfcNlsCOghURfZsBong.jpg"
+}
+],
+"info": {
+"name": "ES - The Bear",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TZnk9ryzfcNlsCOghURfZsBong.jpg",
+"plot": "",
+"cast": "",
+"director": "Christopher Storer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900399",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1325767076",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-23",
+"plot": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzcxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30771:3"
+},
+{
+"id": "683386386",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-23",
+"plot": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzcxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30771:2"
+},
+{
+"id": "731025024",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-23",
+"plot": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30771:1"
+}
+]
+}
+}

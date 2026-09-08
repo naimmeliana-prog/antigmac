@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022¡5",
+"episode_count": 1,
+"id": 1048218306,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4341213?od[]=Z1V:MM3_V"
+}
+],
+"info": {
+"name": "ES - Renacimiento , arte y violencia (2025)",
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4341213?od[]=Z1V:MM3_V",
+"plot": "",
+"cast": "",
+"director": "Emma Frank",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900628",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "587222365",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022¡5",
+"plot": "Hace seis siglos, la rivalidad artística entre Miguel Ángel, Leonardo da Vinci y Rafael los impulsó a crear algunas de las mayores obras de arte de todos los tiempos. Este documental de BBC ofrece un relato fascinante de sus vidas durante un período tumultuoso de la historia: el Renacimiento.\r\n\r\n¿Cómo surgieron las obras de arte más hermosas de la civilización occidental en uno de los períodos más violentos de la historia? Protagonizada por Charles Dance, interpretando al propio Miguel Ángel, esta producción de BBC revela cómo el artista italiano creó grandes obras en estos años tan sangrientos y violentos y cómo su vida se cruzó con la de otros dos genios de la época: Leonardo da Vinci y Rafael.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNzUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41750:1"
+}
+]
+}
+}

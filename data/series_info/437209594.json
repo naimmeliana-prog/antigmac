@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-02-24",
+"episode_count": 1,
+"id": 1451977730,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrGSsLo8URgXa17fqNSJ7aIUBpS.jpg"
+}
+],
+"info": {
+"name": "ES - Operación Éxtasis",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrGSsLo8URgXa17fqNSJ7aIUBpS.jpg",
+"plot": "",
+"cast": "",
+"director": "Nico Moolenaar, Piet Matthys, Bart Uytdenhouwen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900335",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "935700235",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-02-24",
+"plot": "Dos agentes encubiertos se infiltran en la operación de un traficante de drogas, haciéndose pasar por una pareja. Inspirado en hechos reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900335",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTE1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15115:3"
+}
+]
+}
+}

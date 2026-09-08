@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-06-14",
+"episode_count": 1,
+"id": 511012594,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cH3HIvjW3TrsMeH4fXBoRdVtoZG.jpg"
+}
+],
+"info": {
+"name": "ES - El caso Alcàsser",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cH3HIvjW3TrsMeH4fXBoRdVtoZG.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900574",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "248541695",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-14",
+"plot": "Nuevas entrevistas y análisis de evidencias arrojan luz sobre el homicidio de tres chicas en 1992 que conmocionó a toda España.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900574",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34436:1"
+}
+]
+}
+}

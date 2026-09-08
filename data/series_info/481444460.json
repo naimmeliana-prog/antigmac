@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-20",
+"episode_count": 1,
+"id": 1471083980,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9wNIe2yoiQgtoC5JhOJQJStz0d.jpg"
+}
+],
+"info": {
+"name": "ES - Cómo vivían los soldados romanos (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9wNIe2yoiQgtoC5JhOJQJStz0d.jpg",
+"plot": "",
+"cast": "",
+"director": "Pierre-François Gaudry",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900571",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1545089043",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-20",
+"plot": "Hubo un tiempo en que el ejército romano era invencible. Este documental revela cómo eran estos soldados y cómo vivían. Nuevos descubrimientos de antiguos campamentos romanos en toda Europa están arrojando luz sobre las vidas de estos feroces guerreros.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900571",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35624:1"
+}
+]
+}
+}

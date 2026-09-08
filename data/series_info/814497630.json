@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-08",
+"episode_count": 1,
+"id": 1671707440,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgJsHScLhBpdB8EHJ0H12C1Ikax.jpg"
+}
+],
+"info": {
+"name": "ES - Perrea, Perrea (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgJsHScLhBpdB8EHJ0H12C1Ikax.jpg",
+"plot": "",
+"cast": "",
+"director": "José María Clemente, Elena Pascual Gómez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900624",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1307054289",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-08",
+"plot": "'Perrea, perrea' es un viaje musical por un género que rompe barreras y llena estadios en todo el mundo, con la participación de artistas que hacen reguetón y que simplemente lo escuchan, como Justin Quiles, Henry Méndez, Kevin Roldán, Mikel Delacalle, Ptazeta, Belén Aguilera, Rodrigo Cuevas, Lorna, Zahara, Vicco o Don Patricio, y con expertos en música, sexología o antropología que nos ayudan a entender qué ha pasado en estos años para que el reguetón haya conquistado el mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35065:1"
+}
+]
+}
+}

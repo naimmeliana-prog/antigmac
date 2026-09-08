@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-05",
+"episode_count": 1,
+"id": 1048987603,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxz63rBBX5MiPzZ7HDoBGfl7zTK.jpg"
+}
+],
+"info": {
+"name": "ES - The Shards (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxz63rBBX5MiPzZ7HDoBGfl7zTK.jpg",
+"plot": "",
+"cast": "",
+"director": "Ryan Murphy, Bret Easton Ellis",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900400",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "663593365",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-05",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMjMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51232:1"
+}
+]
+}
+}

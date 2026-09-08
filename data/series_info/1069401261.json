@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-06-07",
+"episode_count": 1,
+"id": 1140797971,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJfMvJV9ouPyoFjhsEoh3hEiRD6.jpg"
+}
+],
+"info": {
+"name": "ES - El Avión que Lideró el Día D (2019) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJfMvJV9ouPyoFjhsEoh3hEiRD6.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900573",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1484459877",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-07",
+"plot": "En la noche del 5 de junio de 1944, un avión paracaidista C-47, apodado \"Eso es todo, hermano\", despegó de Inglaterra y se dirigió en las primeras horas del 6 de junio para lanzar combatientes aliados en Normandía.  Un descubrimiento casual en 2015 provocó una lucha para salvar el avión, después de permanecer olvidado durante décadas en un depósito de chatarra.  Este estreno en el Reino Unido narra la historia de un ícono estadounidense, su reconstrucción y su peligrosa misión transatlántica para honrar a los caídos de Estados Unidos en Europa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900573",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34246:1"
+}
+]
+}
+}

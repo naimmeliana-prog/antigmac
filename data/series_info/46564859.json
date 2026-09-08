@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-24",
+"episode_count": 1,
+"id": 1141774510,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjcItUhqXdZKEgyNn9rsuHniQre.jpg"
+}
+],
+"info": {
+"name": "ES - Supermachos (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjcItUhqXdZKEgyNn9rsuHniQre.jpg",
+"plot": "",
+"cast": "",
+"director": "Noémie Saglio",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900350",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "76896800",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-24",
+"plot": "Cuatro amigos de mediana edad lidian con las crisis amorosas, personales y profesionales en el París de hoy en día... ¿Por qué ahora los hombres lo tienen tan crudo?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900350",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41287:1"
+}
+]
+}
+}

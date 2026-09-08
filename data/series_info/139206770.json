@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-20",
+"episode_count": 1,
+"id": 301805685,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg"
+}
+],
+"info": {
+"name": "ES - X-Men '97",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900404",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1403812499",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-20",
+"plot": "Un grupo de mutantes utiliza sus asombrosos dones para proteger a un mundo que los odia y los teme.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900404",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMzIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31323:1"
+}
+]
+}
+}

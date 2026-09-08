@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-07-11",
+"episode_count": 3,
+"id": 551236971,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg"
+}
+],
+"info": {
+"name": "ES - Wellington Paranormal - (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
+"plot": "",
+"cast": "",
+"director": "Taika Waititi, Jemaine Clement",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900516",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1151236433",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-07-11",
+"plot": "Sin darse cuenta, los agentes Minogue y O’Leary arrestan a una joven poseída por un demonio. Con ayuda del sargento\r\n\r\nRuawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal de Wellington.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900516",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19243:3"
+},
+{
+"id": "1856325177",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-07-11",
+"plot": "Sin darse cuenta, los agentes Minogue y O’Leary arrestan a una joven poseída por un demonio. Con ayuda del sargento\r\n\r\nRuawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal de Wellington.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900516",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19243:2"
+},
+{
+"id": "15502750",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-07-11",
+"plot": "Sin darse cuenta, los agentes Minogue y O’Leary arrestan a una joven poseída por un demonio. Con ayuda del sargento\r\n\r\nRuawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal de Wellington.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900516",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19243:1"
+}
+]
+}
+}

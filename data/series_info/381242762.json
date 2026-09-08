@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2009-10-02",
+"episode_count": 1,
+"id": 1296958020,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHOaOZGUhnoRXeK9mhYeSRPh59H.jpg"
+}
+],
+"info": {
+"name": "ES - Stargate Universe",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHOaOZGUhnoRXeK9mhYeSRPh59H.jpg",
+"plot": "",
+"cast": "",
+"director": "Brad Wright, Robert C. Cooper",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900430",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "261367697",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-10-02",
+"plot": "Tras descubrirse el misterio del noveno chevron, un grupo de militares, civiles y científicos que habitaban la base secreta Ícaro se ven forzados a cruzar prematuramente el Stargate cuando la base es atacada. Como resultado, viajaron al interior de la nave Destiny (Destino), lanzada por Los Antiguos en la época dorada de su civilización como un experimento puesto en marcha pero nunca finalizado.\r\n\r\nLo que comienza como un accidente, termina siendo una misión sin fin cuando la improvisada expedición se percata de que la nave no puede regresar a la Tierra y ahora tienen que sobrevivir a bordo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900430",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc2NDEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7641:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-29",
+"episode_count": 1,
+"id": 92102014,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwVT6a6eUzhZdkQB4vPDGdmpacw.jpg"
+}
+],
+"info": {
+"name": "ES - La mejor hermana (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwVT6a6eUzhZdkQB4vPDGdmpacw.jpg",
+"plot": "",
+"cast": "",
+"director": "Olivia Milch",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900421",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "480116333",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-29",
+"plot": "Chloe se mueve en los círculos más elitistas de Nueva York con su marido abogado Adam y su hijo adolescente Ethan a su lado, mientras su hermana Nicky, distanciada de ella, intenta llegar a fin de mes y mantenerse limpia de drogas. Cuando Adam es brutalmente asesinado, la investigación sacude a toda la familia y saca a la luz secretos que llevaban mucho tiempo enterrados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900421",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43851:1"
+}
+]
+}
+}

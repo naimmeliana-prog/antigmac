@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-02",
+"episode_count": 3,
+"id": 722348759,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/atFuoNn7ARd0BYpmIkS8F3TMZw2.jpg"
+}
+],
+"info": {
+"name": "ES - El sastre (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/atFuoNn7ARd0BYpmIkS8F3TMZw2.jpg",
+"plot": "",
+"cast": "",
+"director": "Onur Güvenatam",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "93554951",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-02",
+"plot": "Un famoso sastre empieza a coser un vestido de novia para la prometida de su mejor amigo, pero los tres tienen oscuros secretos que pronto harán tambalear sus vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTI2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35526:3"
+},
+{
+"id": "159056423",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-02",
+"plot": "Un famoso sastre empieza a coser un vestido de novia para la prometida de su mejor amigo, pero los tres tienen oscuros secretos que pronto harán tambalear sus vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTI2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35526:2"
+},
+{
+"id": "873473003",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-02",
+"plot": "Un famoso sastre empieza a coser un vestido de novia para la prometida de su mejor amigo, pero los tres tienen oscuros secretos que pronto harán tambalear sus vidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35526:1"
+}
+]
+}
+}

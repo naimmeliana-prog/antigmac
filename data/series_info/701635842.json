@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2011-05-02",
+"episode_count": 1,
+"id": 1929223638,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/KC9ddfcihLbTe2gepIopSGbTX8.jpg"
+}
+],
+"info": {
+"name": "ES - Los quién",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/KC9ddfcihLbTe2gepIopSGbTX8.jpg",
+"plot": "",
+"cast": "",
+"director": "Nacho G. Velilla, Oriol Capel, David S. Olivas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900264",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1125092615",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-05-02",
+"plot": "Narra las peripecias de un matrimonio (María Pujalte y Javier Cámara) que a principios de los años ochenta protagoniza el primer divorcio de la España democrática.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900264",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34518:1"
+}
+]
+}
+}

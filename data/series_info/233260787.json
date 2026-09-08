@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-06-12",
+"episode_count": 2,
+"id": 1022013055,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg"
+}
+],
+"info": {
+"name": "ES - La Reina del Flow (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrés Salgado",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "23396081",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-12",
+"plot": "La serie se desarrolla en el seductor ambiente del reggaeton, género que se ha tomado al mundo. Esta es la historia de Yeimy Montoya, una talentosa joven compositora que paga una injusta condena en una prisión de Nueva York tras ser engañada por Charly, el hombre que ama y que posteriormente le roba sus canciones, con las que logra alcanzar la fama y convertirse en una estrella. El único deseo de Yeimy es salir a cobrar venganza contra todos aquellos que acabaron con su vida y su familia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35541:2"
+},
+{
+"id": "234738411",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-12",
+"plot": "La serie se desarrolla en el seductor ambiente del reggaeton, género que se ha tomado al mundo. Esta es la historia de Yeimy Montoya, una talentosa joven compositora que paga una injusta condena en una prisión de Nueva York tras ser engañada por Charly, el hombre que ama y que posteriormente le roba sus canciones, con las que logra alcanzar la fama y convertirse en una estrella. El único deseo de Yeimy es salir a cobrar venganza contra todos aquellos que acabaron con su vida y su familia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35541:1"
+}
+]
+}
+}

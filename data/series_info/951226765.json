@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-09",
+"episode_count": 1,
+"id": 78738965,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uiC8P3bKVzNqyTN6kJuozJvF5h.jpg"
+}
+],
+"info": {
+"name": "ES - Él es mi hijo (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uiC8P3bKVzNqyTN6kJuozJvF5h.jpg",
+"plot": "",
+"cast": "",
+"director": "Serkan Birinci",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900650",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1587837681",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-09",
+"plot": "Al ser hija de una madre prostituta, Akca renuncia a su maternidad para darle a su hijo un futuro mejor. La novia de una familia adinerada, Sule promete ser la madre del bebé de Akca para toda la vida. Mira al bebé al que llamó Efe y lo cría. Las cosas cambian con el nacimiento del propio hijo de Sule.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35674:1"
+}
+]
+}
+}

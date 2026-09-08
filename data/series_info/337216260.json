@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-16",
+"episode_count": 2,
+"id": 621963385,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNqZzxDi7IaU3DBrsVud56iLn92.jpg"
+}
+],
+"info": {
+"name": "ES - Skam España",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNqZzxDi7IaU3DBrsVud56iLn92.jpg",
+"plot": "",
+"cast": "",
+"director": "Julie Andem",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900250",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "971052657",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-16",
+"plot": "Skam España es un retrato de los jóvenes de 16 años nacidos a partir del 2000. Los temas en los que se centra esta serie son: el acoso sexual, el feminismo, el acoso escolar, la homofobia, la gordofobia o la islamofobia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900250",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjczMzksInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7339:4"
+},
+{
+"id": "243389854",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-16",
+"plot": "Skam España es un retrato de los jóvenes de 16 años nacidos a partir del 2000. Los temas en los que se centra esta serie son: el acoso sexual, el feminismo, el acoso escolar, la homofobia, la gordofobia o la islamofobia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900250",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjczMzksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7339:1"
+}
+]
+}
+}

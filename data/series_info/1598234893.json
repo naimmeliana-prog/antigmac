@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-28",
+"episode_count": 1,
+"id": 1189531776,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/29dCt1GEFwJn2LX5St7QgvzrAFF.jpg"
+}
+],
+"info": {
+"name": "ES - Pollos sin cabeza (LQ) (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/29dCt1GEFwJn2LX5St7QgvzrAFF.jpg",
+"plot": "",
+"cast": "",
+"director": "Jorge Valdano, Pablo Tébar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900506",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "910712936",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-28",
+"plot": "Pollos sin cabeza sigue la vida de Alberto Martín Ruiz, un ex futbolista y actual representante de jugadores al que todos llaman “Beto”, quien acaba de establecerse por su cuenta montando su propia agencia de representación. Beto intenta mantener un equilibrio entre su delirante mundo profesional y su inestable vida personal con la ayuda de su novia Sonia, una chica que le conoce como nadie y le pone los pies en la tierra. Justo cuando las cosas empiezan a funcionar, llega el desastre: su jugador más potente se va y su novia le deja.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4ODIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48820:1"
+}
+]
+}
+}

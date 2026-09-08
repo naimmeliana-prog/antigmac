@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-11",
+"episode_count": 1,
+"id": 568036118,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CSakKtqVkAKU4HrZLjUeHYFJ4O.jpg"
+}
+],
+"info": {
+"name": "ES - El caso Air Cocaine: Traficantes de altura (2025) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CSakKtqVkAKU4HrZLjUeHYFJ4O.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900574",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1540290594",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-11",
+"plot": "En 2013, interceptan en Punta Cana 700 kg de cocaína y arrestan a cuatro franceses que para nada encajan en el perfil de un traficante. ¿Quién estuvo detrás de la redada?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900574",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44353:1"
+}
+]
+}
+}

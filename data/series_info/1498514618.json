@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-21",
+"episode_count": 1,
+"id": 636650267,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GmOlDlwbW78UkXTIFlj8hPwFcy.jpg"
+}
+],
+"info": {
+"name": "ES - El Rey del invierno (The Winter King) (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GmOlDlwbW78UkXTIFlj8hPwFcy.jpg",
+"plot": "",
+"cast": "",
+"director": "Ed Whitmore, Kate Brooke",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900235",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "275062496",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-21",
+"plot": "Siglo V. Décadas de brutales guerras entre las tribus han dejado a Britania dividida en varios territorios enfrentados, donde las vidas son fugaces y la violencia es la norma. Las tensiones se acentúan entre paganos y cristianos, y el rey supremo, Uther Pendragón, lucha de forma errada por unir a todas las facciones para hacer frente a la peor amenaza: los sajones. Sus esperanzas residen en alianzas inestables con pueblos traicioneros, así como en su nuevo heredero: el recién nacido príncipe Mordred. Pero, según los presagios de Merlín, el niño podría traer consigo la ruina del reino. Es entonces cuando Merlín desafía al monarca y decide ir en busca de Arturo, su hijo bastardo desterrado ocho años atrás y el único capaz de unificar bajo su mando a las tribus contra los sajones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900235",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32044:1"
+}
+]
+}
+}

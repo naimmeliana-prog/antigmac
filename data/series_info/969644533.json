@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-07",
+"episode_count": 1,
+"id": 1953608767,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2jLT8TjwgJ6UywCz9EkOyMcp3i.jpg"
+}
+],
+"info": {
+"name": "ES - M.I.A. (LQ) (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2jLT8TjwgJ6UywCz9EkOyMcp3i.jpg",
+"plot": "",
+"cast": "",
+"director": "Bill Dubuque, Karen Campbell",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900242",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "868826130",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-07",
+"plot": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900242",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51628:1"
+}
+]
+}
+}

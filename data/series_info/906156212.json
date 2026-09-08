@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-26",
+"episode_count": 2,
+"id": 895175783,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oISmg52qlvXr8Cc3jo3YD3ZYUZx.jpg"
+}
+],
+"info": {
+"name": "ES - Una maldición familiar (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oISmg52qlvXr8Cc3jo3YD3ZYUZx.jpg",
+"plot": "",
+"cast": "",
+"director": "Jim Cooper, Jeff Dixon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900471",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "21511565",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-26",
+"plot": "Los Vanderhouven son una familia típica... salvo por la maldición que ha convertido a Alex —su amado padre y esposo— en piedra. Para salvarle, su mujer y sus hijos se embarcan en escalofriantes aventuras para devolver objetos antiguos robados por un antepasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900471",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTkxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37191:2"
+},
+{
+"id": "821812432",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-26",
+"plot": "Los Vanderhouven son una familia típica... salvo por la maldición que ha convertido a Alex —su amado padre y esposo— en piedra. Para salvarle, su mujer y sus hijos se embarcan en escalofriantes aventuras para devolver objetos antiguos robados por un antepasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900471",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MTkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37191:1"
+}
+]
+}
+}

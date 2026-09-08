@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-17",
+"episode_count": 1,
+"id": 1073245323,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlKETP9iErKueFfNRuKxivsDLWe.jpg"
+}
+],
+"info": {
+"name": "ES - El palacio del este (LQ) (2026) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlKETP9iErKueFfNRuKxivsDLWe.jpg",
+"plot": "",
+"cast": "",
+"director": "권소라, 서재원",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900293",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1530819747",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-17",
+"plot": "Un hombre que transita el mundo de los espíritus y una dama de la corte que oye a los muertos entran en el palacio del este por orden del rey. ¿Lograrán desentrañar sus secretos?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900293",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwOTExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50911:1"
+}
+]
+}
+}

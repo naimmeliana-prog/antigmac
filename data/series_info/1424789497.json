@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-24",
+"episode_count": 1,
+"id": 13976282,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I7BDfe3SysVvCYwkhUnQKHim7U.jpg"
+}
+],
+"info": {
+"name": "ES - Familia de medianoche (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I7BDfe3SysVvCYwkhUnQKHim7U.jpg",
+"plot": "",
+"cast": "",
+"director": "Julio Rojas, Gibrán Portela",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900442",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "562000813",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-24",
+"plot": "Marigaby estudia Medicina durante el día y, por la noche, salva vidas con su familia en el peligroso mundo de las ambulancias privadas de Cuidad de México. La presión de los dos mundos amenaza con hundirla, pero Marigaby hará todo lo que estén en su mano para mantenerse a flote.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900442",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36748:1"
+}
+]
+}
+}

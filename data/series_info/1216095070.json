@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-03",
+"episode_count": 1,
+"id": 525387385,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg"
+}
+],
+"info": {
+"name": "ES - Sticks: Cracks del golf (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Keller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900468",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "69760598",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-03",
+"plot": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900468",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43857:1"
+}
+]
+}
+}

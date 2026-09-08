@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-11-26",
+"episode_count": 2,
+"id": 636682031,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw8sdpX1cvouqQz8SnxC76etn4K.jpg"
+}
+],
+"info": {
+"name": "ES - The Flight Attendant - (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw8sdpX1cvouqQz8SnxC76etn4K.jpg",
+"plot": "",
+"cast": "",
+"director": "Steve Yockey",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900512",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "27470158",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-26",
+"plot": "La asistente de vuelo Cassandra Bowden se despierta en su habitación de hotel con resaca de la noche anterior en Dubai con un cadáver a su lado. Temerosa de llamar a la policía, continúa su mañana como si nada. En Nueva York, los agentes del FBI la reciben y la interrogan sobre su reciente escala en Dubai. Aún incapaz de reconstruir la noche, comienza a preguntarse si ella podría ser la asesina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900512",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19242:2"
+},
+{
+"id": "1266543393",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-26",
+"plot": "La asistente de vuelo Cassandra Bowden se despierta en su habitación de hotel con resaca de la noche anterior en Dubai con un cadáver a su lado. Temerosa de llamar a la policía, continúa su mañana como si nada. En Nueva York, los agentes del FBI la reciben y la interrogan sobre su reciente escala en Dubai. Aún incapaz de reconstruir la noche, comienza a preguntarse si ella podría ser la asesina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900512",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19242:1"
+}
+]
+}
+}

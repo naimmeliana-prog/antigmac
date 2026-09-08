@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2014-07-20",
+"episode_count": 1,
+"id": 1818401303,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw52fdMb0F9LIvuV3NavYSbwd1K.jpg"
+}
+],
+"info": {
+"name": "ES - El legado (2014)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw52fdMb0F9LIvuV3NavYSbwd1K.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900292",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "175658691",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-07-20",
+"plot": "La historia sucede en dos tiempos, por un lado cuenta las aventuras del soldado italiano Giuseppe Garibaldi (Pablo Rago) en Sudamérica durante la década del 1840 y por el otro muestra en simultáneo como un grupo de jóvenes estudiantes junto a su profesor en la actualidad emprenden una búsqueda por el tesoro que ha dejado este último escondido en esa época.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30058:1"
+}
+]
+}
+}

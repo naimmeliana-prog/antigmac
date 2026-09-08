@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-08",
+"episode_count": 1,
+"id": 1867843271,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7SlNsNwRcNyhHbq6GJKdIDhB4x.jpg"
+}
+],
+"info": {
+"name": "ES - Un espía entre amigos",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7SlNsNwRcNyhHbq6GJKdIDhB4x.jpg",
+"plot": "",
+"cast": "",
+"director": "Alexander Cary, Ben Macintyre",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900253",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "404156810",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-08",
+"plot": "La serie sigue la deserción del notorio oficial de inteligencia británico y agente doble de la KGB, Kim Philby, a través de la lente de su compleja relación con el colega del MI6 y amigo cercano, Nicholas Elliott. El programa examina el espionaje a través de su amistad, cuyas consecuencias afectan las relaciones Este-Oeste hasta el día de hoy.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900253",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32037:1"
+}
+]
+}
+}

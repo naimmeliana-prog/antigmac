@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-18",
+"episode_count": 1,
+"id": 1316524853,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/4ie82rXFa1rAJ9qTWoCvlljglLJ.jpg"
+}
+],
+"info": {
+"name": "ES - She-Hulk: abogada Hulka",
+"cover": "https://image.tmdb.org/t/p/w154/4ie82rXFa1rAJ9qTWoCvlljglLJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Jessica Gao",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900395",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1236471634",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-18",
+"plot": "Jennifer Walters —una abogada especializada en derecho sobrehumano— tendrá que lidiar con los problemas típicos de una treintañera soltera que además resulta ser una Hulka verde de 2 metros.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29927:1"
+}
+]
+}
+}

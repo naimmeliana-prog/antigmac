@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-22",
+"episode_count": 1,
+"id": 363249448,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uh8mjAwKOpTrlu4nldsBf0ZOuU.jpg"
+}
+],
+"info": {
+"name": "ES - GIGN: Unidad de élite (LQ) (2026) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uh8mjAwKOpTrlu4nldsBf0ZOuU.jpg",
+"plot": "",
+"cast": "",
+"director": "Julien Leclercq, Sylvain Caron",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900301",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1540240980",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-22",
+"plot": "Tras un ataque sin precedentes contra su unidad, un agente de alto rango a punto de retirarse lidera una peligrosa misión que le obliga a enfrentarse a su pasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900301",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwOTA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50909:1"
+}
+]
+}
+}

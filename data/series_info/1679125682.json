@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-01",
+"episode_count": 1,
+"id": 1554278038,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/uALNNtlfwIhGeVHazHicitQH8f2.jpg"
+}
+],
+"info": {
+"name": "ES - La Fortuna (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/uALNNtlfwIhGeVHazHicitQH8f2.jpg",
+"plot": "",
+"cast": "",
+"director": "Alejandro Amenábar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900239",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1067552026",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-01",
+"plot": "Álex Ventura, un joven e inexperto diplomático, se ve convertido sin proponérselo en el líder de una misión que pondrá a prueba todas sus convicciones: recuperar el tesoro submarino robado por Frank Wild, un aventurero que recorre el mundo saqueando el patrimonio común que reposa en las profundidades del mar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900239",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22914:1"
+}
+]
+}
+}

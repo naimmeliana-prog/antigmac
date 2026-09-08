@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-09",
+"episode_count": 1,
+"id": 245999895,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6trP28R0v5ZziZ8fWkqLoe3TVKc.jpg"
+}
+],
+"info": {
+"name": "ES - El clan Olimpia (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6trP28R0v5ZziZ8fWkqLoe3TVKc.jpg",
+"plot": "",
+"cast": "",
+"director": "Arantxa Cuesta, David Muñoz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900376",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1166836639",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-09",
+"plot": "La vida de Olimpia cambia cuando a su esposo le diagnostican cáncer. Para pagar el tratamiento comienza a vender hachís en su barrio, pero pronto da el salto al tráfico de cocaína con su socio, el “Moreno”. Rápidamente asciende y entra en contacto con cárteles colombianos y la mafia napolitana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900376",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NDEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44410:1"
+}
+]
+}
+}

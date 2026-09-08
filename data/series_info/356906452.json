@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-18",
+"episode_count": 1,
+"id": 522148518,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg"
+}
+],
+"info": {
+"name": "ES - Locos por Los Monos (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900607",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1552284664",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-18",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900607",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35743:1"
+}
+]
+}
+}

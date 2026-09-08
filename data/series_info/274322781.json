@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-08",
+"episode_count": 1,
+"id": 229149863,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/3tlLcQ4h6TnuxrE1pGwnSEgP84g.jpg"
+}
+],
+"info": {
+"name": "ES - Creciendo - (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/3tlLcQ4h6TnuxrE1pGwnSEgP84g.jpg",
+"plot": "",
+"cast": "",
+"director": "Brie Larson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900569",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "686146888",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-08",
+"plot": "Una docuserie híbrida que explora la adolescencia a través de diez historias de crecimiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyNzQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22745:1"
+}
+]
+}
+}

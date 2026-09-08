@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-23",
+"episode_count": 1,
+"id": 1640576637,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/64DZGqNTL3EoyH94sDXsil31cz8.jpg"
+}
+],
+"info": {
+"name": "ES - Platónico",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/64DZGqNTL3EoyH94sDXsil31cz8.jpg",
+"plot": "",
+"cast": "",
+"director": "Nicholas Stoller, Francesca Delbanco",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900464",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1858831497",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-23",
+"plot": "Después de un largo paréntesis en su amistad, unos viejos amigos con una conexión platónica vuelven a encontrarse en la mediana edad. Su amistad se vuelve más obsesiva y desestabiliza sus vidas de una manera muy divertida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900464",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32022:1"
+}
+]
+}
+}

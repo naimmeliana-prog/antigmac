@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-02-08",
+"episode_count": 1,
+"id": 1592355282,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/97xpke32aNz0XSl6OHLilu9GK63.jpg"
+}
+],
+"info": {
+"name": "ES - Sobreviviendo a Escobar, Alias J.J.",
+"cover": "https://image.tmdb.org/t/p/w154/97xpke32aNz0XSl6OHLilu9GK63.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900347",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "629098032",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-08",
+"plot": "Relata la historia de Jhon Jairo Velásquez mejor conocido por Alias Popeye durante la cárcel desde la captura en la muerte de Escobar hasta los últimos años de la prisión, mostrando las mas importantes y relevantes acontecimientos que tuvo él, durante el encerramiento en ésta misma. También narra la historia de este país a nivel política y social de aquella época durante la temporada del Narcoterrorismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900347",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNTIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30522:1"
+}
+]
+}
+}

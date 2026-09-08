@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-04-22",
+"episode_count": 3,
+"id": 1221260196,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg"
+}
+],
+"info": {
+"name": "ES - Luis Miguel: La Serie (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900327",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1519543907",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-22",
+"plot": "Esta serie cuenta la historia del cantante mexicano Luis Miguel, una superestrella en Latinoamérica y el resto del mundo desde hace décadas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900327",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35394:3"
+},
+{
+"id": "590438509",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-22",
+"plot": "Esta serie cuenta la historia del cantante mexicano Luis Miguel, una superestrella en Latinoamérica y el resto del mundo desde hace décadas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900327",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35394:2"
+},
+{
+"id": "477185839",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-22",
+"plot": "Esta serie cuenta la historia del cantante mexicano Luis Miguel, una superestrella en Latinoamérica y el resto del mundo desde hace décadas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900327",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mzk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35394:1"
+}
+]
+}
+}

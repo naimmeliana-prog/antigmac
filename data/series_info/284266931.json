@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "N/A",
+"episode_count": 1,
+"id": 1911314363,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4386286?od[]=Z1V:MM3_V"
+}
+],
+"info": {
+"name": "ES - Hiroshima Cuando todo cambio (2025)",
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4386286?od[]=Z1V:MM3_V",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900587",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "104102214",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "Hiroshima simboliza el fin de la Segunda Guerra Mundial y el inicio de una era marcada por la ansiedad nuclear. Este documental viaja en el tiempo para analizar las decisiones que llevaron a la creación y lanzamiento de la bomba atómica y sus profundas consecuencias en la historia mundial.\r\n\r\nEl 6 de agosto de 1945, tres bombarderos B-29 despegan de Tinian, en las islas Marianas. El Enola Gay transporta en su interior a \"Little Boy\", una bomba atómica de 15 kilotones. Siete horas después la bomba es lanzada sobre Hiroshima. La explosión es devastadora: un inmenso hongo atómico se eleva en el cielo y una onda expansiva arrasa la ciudad. El 90% de los edificios quedan dañados o destruidos y cerca de 90.000 personas pierden la vida en el acto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900587",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NDc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44478:1"
+}
+]
+}
+}

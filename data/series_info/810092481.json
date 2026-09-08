@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-29",
+"episode_count": 2,
+"id": 1215653605,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/nob2INC40ytwbMnHC2bneDz9k5D.jpg"
+}
+],
+"info": {
+"name": "ES - El curioso caso de Natalia Grace",
+"cover": "https://image.tmdb.org/t/p/w154/nob2INC40ytwbMnHC2bneDz9k5D.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900575",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1898036613",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-29",
+"plot": "Esta serie más extraña que la ficción explora la cuestión de si Natalia Barnett es una niña ucraniana explotada con enanismo o un adulto peligroso disfrazado de niña. Con entrevistas exclusivas y explosivas con miembros de la familia adoptiva de Natalia, parientes, amigos, expertos legales y vecinos, esta serie documental ofrece una visión nunca antes vista de la familia Barnett, la identidad de Natalia, el juicio de Michael Barnett en octubre de 2022, así como ideas clave. en nuevas teorías y evidencias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30239:1"
+},
+{
+"id": "899524821",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-29",
+"plot": "Esta serie más extraña que la ficción explora la cuestión de si Natalia Barnett es una niña ucraniana explotada con enanismo o un adulto peligroso disfrazado de niña. Con entrevistas exclusivas y explosivas con miembros de la familia adoptiva de Natalia, parientes, amigos, expertos legales y vecinos, esta serie documental ofrece una visión nunca antes vista de la familia Barnett, la identidad de Natalia, el juicio de Michael Barnett en octubre de 2022, así como ideas clave. en nuevas teorías y evidencias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjM5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30239:2"
+}
+]
+}
+}

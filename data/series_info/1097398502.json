@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-13",
+"episode_count": 1,
+"id": 94912343,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9N3XFLtW4v4cydFsMX9fcsIOrBi.jpg"
+}
+],
+"info": {
+"name": "ES - Pesadillas",
+"cover": "https://image.tmdb.org/t/p/w154/9N3XFLtW4v4cydFsMX9fcsIOrBi.jpg",
+"plot": "",
+"cast": "",
+"director": "Nicholas Stoller, Rob Letterman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900393",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "533297517",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-13",
+"plot": "Un grupo de cinco estudiantes de secundaria desatan fuerzas sobrenaturales sobre su ciudad, ahora deben trabajar juntos para salvarla.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28199:1"
+}
+]
+}
+}

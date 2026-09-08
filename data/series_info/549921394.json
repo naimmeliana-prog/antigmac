@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-14",
+"episode_count": 1,
+"id": 269294049,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg"
+}
+],
+"info": {
+"name": "ES - El juego de Gracie Darling (2025) (AU)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Miranda Nation",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900525",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "750149106",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-14",
+"plot": "Cuando Joni tenía 14 años, su mejor amiga, Gracie Darling, desapareció durante una sesión espiritista. Veintisiete años después, los niños de un pequeño pueblo se divierten jugando a \"Jugar a ser Gracie Darling\", pero el juego aparentemente inocente se vuelve siniestro cuando otra niña desaparece. Joni, para entonces psicóloga infantil, regresa al pueblo y colabora con el sargento de policía Jay para descubrir la verdad, mientras que Ruth, la hermana de Gracie, se enfrenta a la peor pesadilla de una madre cuando su propia hija desaparece en circunstancias inquietantemente similares.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900525",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46802:1"
+}
+]
+}
+}

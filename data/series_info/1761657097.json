@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-05-17",
+"episode_count": 3,
+"id": 1373811770,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/69hornrvpKWIzBMCNzsVTZOggOw.jpg"
+}
+],
+"info": {
+"name": "ES - Hightown",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/69hornrvpKWIzBMCNzsVTZOggOw.jpg",
+"plot": "",
+"cast": "",
+"director": "Rebecca Perry Cutter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900417",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1315860781",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-17",
+"plot": "En medio del tráfico de drogas en Cape Cod, un cuerpo se lava en tierra y es descubierto por un oficial irreverente del Servicio Nacional de Pesca Marina, Jackie Quiñones, quien está decidida a ayudar a resolver el asesinato, incluso si los policías estatales no la quieren cerca del caso.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjA0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31204:3"
+},
+{
+"id": "814356762",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-17",
+"plot": "En medio del tráfico de drogas en Cape Cod, un cuerpo se lava en tierra y es descubierto por un oficial irreverente del Servicio Nacional de Pesca Marina, Jackie Quiñones, quien está decidida a ayudar a resolver el asesinato, incluso si los policías estatales no la quieren cerca del caso.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjA0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31204:2"
+},
+{
+"id": "978184011",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-17",
+"plot": "En medio del tráfico de drogas en Cape Cod, un cuerpo se lava en tierra y es descubierto por un oficial irreverente del Servicio Nacional de Pesca Marina, Jackie Quiñones, quien está decidida a ayudar a resolver el asesinato, incluso si los policías estatales no la quieren cerca del caso.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31204:1"
+}
+]
+}
+}

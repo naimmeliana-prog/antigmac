@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2011-10-28",
+"episode_count": 2,
+"id": 1473022885,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg"
+}
+],
+"info": {
+"name": "ES - Grimm",
+"cover": "https://image.tmdb.org/t/p/w154/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+"plot": "",
+"cast": "",
+"director": "Jim Kouf, Stephen Carpenter, David Greenwalt",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900492",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "747472256",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-10-28",
+"plot": "¿Recuerdas los cuentos de hadas de tus padres te contaban antes de acostarte? Esas no eran historias, eran advertencias. Nick Burkhardt pensaba que realmente se había preparado para trabajar como detective de homicidios hasta que empezó a ver cosas que no podía explicar. Cuando su tía enferma Marie llega, la vida de Nick da un giro cuando ella revela que son descendientes de un grupo de élite de cazadores, también conocidos como \"Grimms\", que luchan para mantener el equilibrio de la humanidad a salvo de las criaturas sobrenaturales del mundo. Como Nick profundiza en su pasado, se da cuenta que tendrá que asumir la responsabilidad de sus antepasados y lidiar con una mitología más grande que la vida de los hermanos Grimm que ahora es demasiado real.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODc5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29879:2"
+},
+{
+"id": "648417395",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-10-28",
+"plot": "¿Recuerdas los cuentos de hadas de tus padres te contaban antes de acostarte? Esas no eran historias, eran advertencias. Nick Burkhardt pensaba que realmente se había preparado para trabajar como detective de homicidios hasta que empezó a ver cosas que no podía explicar. Cuando su tía enferma Marie llega, la vida de Nick da un giro cuando ella revela que son descendientes de un grupo de élite de cazadores, también conocidos como \"Grimms\", que luchan para mantener el equilibrio de la humanidad a salvo de las criaturas sobrenaturales del mundo. Como Nick profundiza en su pasado, se da cuenta que tendrá que asumir la responsabilidad de sus antepasados y lidiar con una mitología más grande que la vida de los hermanos Grimm que ahora es demasiado real.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29879:1"
+}
+]
+}
+}

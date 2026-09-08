@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-24",
+"episode_count": 1,
+"id": 1538114956,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/TU2ZuGEIk9LYAfVXpvb1I5lrC3.jpg"
+}
+],
+"info": {
+"name": "ES - El Nudo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/TU2ZuGEIk9LYAfVXpvb1I5lrC3.jpg",
+"plot": "",
+"cast": "",
+"director": "Nuria Bueno",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900258",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1334735750",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-24",
+"plot": "Narra el relato de dos parejas de mediana edad en una historia que se cuenta en dos tiempos, que arranca con un accidente, y en la que se habla de relaciones humanas y segundas oportunidades.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900258",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34515:1"
+}
+]
+}
+}

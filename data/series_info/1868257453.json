@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-08",
+"episode_count": 1,
+"id": 908611328,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLmVfEZur8wWs4LQkOGCbXfkyc4.jpg"
+}
+],
+"info": {
+"name": "ES - La noche más larga (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLmVfEZur8wWs4LQkOGCbXfkyc4.jpg",
+"plot": "",
+"cast": "",
+"director": "Xosé Morais, Víctor Sierra",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900312",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1562228143",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-08",
+"plot": "La noche más larga es la noche del 24 de diciembre: un grupo de hombres armados rodean la prisión Monte Baruca y cortan las comunicaciones con el exterior. Su objetivo: capturar a Simón Lago (Luis Callejo), un peligroso asesino en serie. Si los guardias lo entregan, el asalto acabará en cuestión de minutos. Pero Hugo (Alberto Ammann), el director de la prisión, se niega a obedecer y se prepara para resistir el ataque.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900312",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNDAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42402:1"
+}
+]
+}
+}

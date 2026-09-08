@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-06",
+"episode_count": 1,
+"id": 504346727,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxH2Nanj5YGHyfvpaO5plDzcMbw.jpg"
+}
+],
+"info": {
+"name": "ES - Wonderboys: en busca del tesoro secreto de Nápoles (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxH2Nanj5YGHyfvpaO5plDzcMbw.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrea De Sica, Giorgio Romano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900404",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1694920870",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-06",
+"plot": "Los Wonderboys, cinco amigos inseparables, se ven obligados a despedirse porque su vieja casera está a punto de vender sus casas a cambio de una figura de Maradona. Cuando su ídolo, Tonino Wonderboy, el nuevo Munaciello de Nápoles, roba la figura, comienza su aventura en los pasadizos de la ciudad en busca de un misterioso tesoro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900404",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38609:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-08",
+"episode_count": 1,
+"id": 1823847017,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLpmZeJNST8bbiHzFwOY1wcJA4u.jpg"
+}
+],
+"info": {
+"name": "ES - Venganza oculta (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLpmZeJNST8bbiHzFwOY1wcJA4u.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900356",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1999776657",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-08",
+"plot": "La vida de una joven madre se desmorona cuando se ve obligada a adoptar una identidad secreta para escapar de la banda responsable de la muerte de su prometido.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900356",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMDE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40019:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-06",
+"episode_count": 1,
+"id": 1713674450,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/or3qGeZF4FgZ7Dax9HNJ5JdOIuq.jpg"
+}
+],
+"info": {
+"name": "ES - El infierno de las mujeres (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/or3qGeZF4FgZ7Dax9HNJ5JdOIuq.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900236",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1027582527",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-06",
+"plot": "Varsovia. Años 30. La editora de una revista matrimonial descubre que el periódico de su marido podría estar relacionado con la misteriosa muerte de una joven bailarina. Mientras intenta descubrir la verdad, su mundo cambia irremediablemente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900236",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48652:1"
+}
+]
+}
+}

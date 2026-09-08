@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-05",
+"episode_count": 1,
+"id": 98094225,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg"
+}
+],
+"info": {
+"name": "ES - Medusa (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+"plot": "",
+"cast": "",
+"director": "Said Chamie, Claudia Sánchez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900329",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1834034034",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-05",
+"plot": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900329",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43319:1"
+}
+]
+}
+}

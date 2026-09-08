@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-09",
+"episode_count": 1,
+"id": 656999273,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PpoCTO1DChGyG5rNqedG4k90yk.jpg"
+}
+],
+"info": {
+"name": "ES - On call: Long Beach P.D. (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PpoCTO1DChGyG5rNqedG4k90yk.jpg",
+"plot": "",
+"cast": "",
+"director": "Tim Walsh, Elliot Wolf",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900425",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "49983406",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-09",
+"plot": "Es un emocionante drama policiaco que nos sube a un coche patrulla de la Policía de Long Beach. A través de la agente formadora Traci Harmon y el novato Alex Diaz veremos cómo las dificultades del trabajo afectan a la condición humana. Harmon abrirá los ojos gracias a un chico de la calle, y Diaz aprenderá que ser policía no es blanco o negro, tiene matices de gris.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMDE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40017:1"
+}
+]
+}
+}

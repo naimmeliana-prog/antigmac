@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-01-24",
+"episode_count": 1,
+"id": 1645444309,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14q24aBfJPrjumuWjKKA6Bwml2A.jpg"
+}
+],
+"info": {
+"name": "ES - Waco",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14q24aBfJPrjumuWjKKA6Bwml2A.jpg",
+"plot": "",
+"cast": "",
+"director": "John Erick Dowdle, Drew Dowdle",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900358",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1675807221",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-01-24",
+"plot": "Miniserie compuesta de 6 partes que narra los trágicos eventos sucedidos en la secta religiosa liderada por David Koresh en Waco, Texas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyNTcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8257:1"
+}
+]
+}
+}

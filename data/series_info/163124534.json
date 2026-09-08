@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-06",
+"episode_count": 2,
+"id": 327320278,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rWWgTEDFdV330aLgCoaq7I56lk.jpg"
+}
+],
+"info": {
+"name": "ES - Your Honor (2020) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Moffat",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900553",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "664573493",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-06",
+"plot": "El juez de Nueva Orleans, Michael Desiato, se ve obligado a enfrentar sus propias convicciones más profundas cuando su hijo se ve involucrado en un golpe y fuga que involucra a una familia del crimen organizado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900553",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDA0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46004:2"
+},
+{
+"id": "1094208630",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-06",
+"plot": "El juez de Nueva Orleans, Michael Desiato, se ve obligado a enfrentar sus propias convicciones más profundas cuando su hijo se ve involucrado en un golpe y fuga que involucra a una familia del crimen organizado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900553",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46004:1"
+}
+]
+}
+}

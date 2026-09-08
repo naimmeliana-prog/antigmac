@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-28",
+"episode_count": 1,
+"id": 342739241,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fdYX5uc3HZEuYotms3XJ72AbCr.jpg"
+}
+],
+"info": {
+"name": "ES - La Oferta (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fdYX5uc3HZEuYotms3XJ72AbCr.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Tolkin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900532",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "276236132",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-28",
+"plot": "El productor de cine y televisión, Albert S. Ruddy, se propone hacer la película de 1972 \"El padrino\" con Francis Ford Coppola en medio de numerosos contratiempos de producción y enfrentamientos con la mafia italoestadounidense.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900532",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35007:1"
+}
+]
+}
+}

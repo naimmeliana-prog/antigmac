@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "1998-10-07",
+"episode_count": 1,
+"id": 210835747,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhnSqxQc8QaeBC2ZuWqZDtECtHv.jpg"
+}
+],
+"info": {
+"name": "ES - Siete días (1998) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhnSqxQc8QaeBC2ZuWqZDtECtHv.jpg",
+"plot": "",
+"cast": "",
+"director": "Christopher Crowe",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900631",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "247872649",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1998-10-07",
+"plot": "Frank Parker trabaja en proyecto secreto del gobierno que experimeta con el viaje en el tiempo. Cuando las cosas se ponen feas le envian a él para arreglar las cosas. El problema es que solo puede retroceder, como máximo, siete días.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900631",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34868:1"
+}
+]
+}
+}

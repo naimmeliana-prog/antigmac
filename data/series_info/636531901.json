@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-01-09",
+"episode_count": 1,
+"id": 355370973,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0iCJ1DIfILeSDjxqxF453SSGSh.jpg"
+}
+],
+"info": {
+"name": "ES - Matadero",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0iCJ1DIfILeSDjxqxF453SSGSh.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Martín Sáez de Parayuelo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900264",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "632341606",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-09",
+"plot": "En un pueblo de Castilla, interminables campos de cereal mecidos por el viento se extienden hasta más allá de donde alcanza la vista. Allí se encuentra un municipio tranquilo donde se ubica el matadero de Francisco (Antonio Garrido), un empresario que se dedica al procesado de la carne, importa cerdos baratos y de baja calidad desde Portugal para luego venderlos. En el matadero trabaja su cuñado Alfonso (Pepe Viyuela), veterinario de profesión, un hombre débil y un tanto cobarde que en el fondo está harto de mirar hacia otro lado certificando animales de dudosa calidad y que cualquier otro echaría para atrás.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900264",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34521:1"
+}
+]
+}
+}

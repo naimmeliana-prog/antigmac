@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-11",
+"episode_count": 1,
+"id": 175902360,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ssJHCoHfF52Or9H1jT5NNZ0NvD0.jpg"
+}
+],
+"info": {
+"name": "ES - Cazadores de olas - (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/ssJHCoHfF52Or9H1jT5NNZ0NvD0.jpg",
+"plot": "",
+"cast": "",
+"director": "Christopher G. Cowen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900567",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1727815368",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-11",
+"plot": "Tras el debut olímpico del surf en Tokio, \"Cazadores de olas\" trata de la gente y los lugares importantes para Japón dentro de la cultura del surf mundial. Esta serie documental basada en varios personajes retrata a deportistas multiculturales persiguiendo sus sueños, ofrece una cautivadora imagen de la vida japonesa y muestra lo que se necesita para tener éxito en la industria del surf internacional",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900567",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22886:1"
+}
+]
+}
+}

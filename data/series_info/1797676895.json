@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-11-16",
+"episode_count": 1,
+"id": 1426200958,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCid4sQkaVzfa2y4yQWs5E0TES9.jpg"
+}
+],
+"info": {
+"name": "ES - Narcos: México (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCid4sQkaVzfa2y4yQWs5E0TES9.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Brancato, Doug Miro, Carlo Bernard",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900332",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "247984670",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-16",
+"plot": "La nueva saga de \"Narcos\" cuenta la historia real del ascenso al poder del cártel de Guadalajara y el inicio de las guerras de la droga en el México de los años 80.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900332",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37873:1"
+}
+]
+}
+}

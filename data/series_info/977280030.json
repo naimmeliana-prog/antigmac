@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-10",
+"episode_count": 1,
+"id": 466522390,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW7TI3h8iqxf5a3HpEXv54zI3s6.jpg"
+}
+],
+"info": {
+"name": "ES Los 8 de Irak (HQ)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW7TI3h8iqxf5a3HpEXv54zI3s6.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900254",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1275753746",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-10",
+"plot": "Cuenta el mayor ataque contra los agentes del servicio de inteligencia español, que fueron víctimas de una emboscada el 29 de noviembre de 2003 en Irak. Diecinueve años después, quienes vivieron aquellos días y trabajaron junto a los agentes, recuerdan este trágico acontecimiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900254",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48399:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-10-20",
+"episode_count": 1,
+"id": 1151690760,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg"
+}
+],
+"info": {
+"name": "ES - Watchmen",
+"cover": "https://image.tmdb.org/t/p/w154/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+"plot": "",
+"cast": "",
+"director": "Damon Lindelof",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900516",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1146104964",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-20",
+"plot": "Watchmen es una extensión de la historia original gráfica creada por Alan Moore y Dave Gibbons. La trama se sitúa en un universo alternativo donde los superhéroes son tratados como proscritos. Sin embargo, un grupo de superhéroes apodados como Watchmen, están en medio de una investigación centrada en el asesinato de un integrante de su equipo, topándose con una conspiración que pondrá en peligro sus vidas y las de los demás.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900516",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29911:1"
+}
+]
+}
+}

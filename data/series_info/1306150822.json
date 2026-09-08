@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022",
+"episode_count": 3,
+"id": 578070624,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://pics.filmaffinity.com/criminal_minds_evolution-335865059-mmed.jpg"
+}
+],
+"info": {
+"name": "ES - Mentes criminales: Evolution (2005)",
+"cover": "https://pics.filmaffinity.com/criminal_minds_evolution-335865059-mmed.jpg",
+"plot": "",
+"cast": "",
+"director": "Jeff Davis (Creador), Nelson McCormick, Sharat Raju",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900536",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1808655727",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022",
+"plot": "El equipo de élite de criminólogos del FBI se enfrenta a su mayor amenaza, un sujeto que utilizó la pandemia para crear una red de asesinos en serie. A medida que el mundo vuelve a abrirse, la red entra en funcionamiento y el equipo debe dar caza a un asesino tras otro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900536",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35545:3"
+},
+{
+"id": "1115591697",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022",
+"plot": "El equipo de élite de criminólogos del FBI se enfrenta a su mayor amenaza, un sujeto que utilizó la pandemia para crear una red de asesinos en serie. A medida que el mundo vuelve a abrirse, la red entra en funcionamiento y el equipo debe dar caza a un asesino tras otro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900536",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35545:2"
+},
+{
+"id": "1913206993",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022",
+"plot": "El equipo de élite de criminólogos del FBI se enfrenta a su mayor amenaza, un sujeto que utilizó la pandemia para crear una red de asesinos en serie. A medida que el mundo vuelve a abrirse, la red entra en funcionamiento y el equipo debe dar caza a un asesino tras otro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900536",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35545:1"
+}
+]
+}
+}

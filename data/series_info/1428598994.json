@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-03-17",
+"episode_count": 2,
+"id": 1130882115,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ywrvjIgK5K9Ff8RddgdFI3kfDqT.jpg"
+}
+],
+"info": {
+"name": "ES - Marvel - Iron Fist",
+"cover": "https://image.tmdb.org/t/p/w154/ywrvjIgK5K9Ff8RddgdFI3kfDqT.jpg",
+"plot": "",
+"cast": "",
+"director": "Scott Buck",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900388",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1933641664",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-03-17",
+"plot": "Danny Rand reaparece 15 años después de ser dado por muerto. Ahora, armado con un increíble poder, tratará de recuperar su pasado y cumplir su destino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900388",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTMxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29931:2"
+},
+{
+"id": "1427103138",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-03-17",
+"plot": "Danny Rand reaparece 15 años después de ser dado por muerto. Ahora, armado con un increíble poder, tratará de recuperar su pasado y cumplir su destino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900388",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29931:1"
+}
+]
+}
+}

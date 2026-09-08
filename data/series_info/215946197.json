@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-06-18",
+"episode_count": 1,
+"id": 618983749,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVPgwHX27ljXzhPH05w8jZUn3OI.jpg"
+}
+],
+"info": {
+"name": "ES - Perdiendo a Alice",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVPgwHX27ljXzhPH05w8jZUn3OI.jpg",
+"plot": "",
+"cast": "",
+"director": "Sigal Avin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900464",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1460524114",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-18",
+"plot": "En esta serie de inspiración noir, Alice es una directora de cine que se acerca a los cincuenta y se siente perdida desde que tuvo a sus hijos. Un encuentro casual con Sophie, una escritora y mujer fatal, la arrastrará a una búsqueda obsesiva del éxito.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900464",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjczNDIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7342:1"
+}
+]
+}
+}

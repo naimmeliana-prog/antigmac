@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-11",
+"episode_count": 1,
+"id": 1763835668,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ous8IYSqDHNd8gOJDDQBL3kNqqW.jpg"
+}
+],
+"info": {
+"name": "ES - Niños de plomo (2026) (PL)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ous8IYSqDHNd8gOJDDQBL3kNqqW.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900333",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "34031201",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-11",
+"plot": "Una joven doctora descubre que los niños que viven cerca de una fundición sufren de envenenamiento por plomo, y se juega la carrera y la vida para salvarlos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900333",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47958:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-21",
+"episode_count": 1,
+"id": 1689379745,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/o6vKr1ldbJmFmUuvyFT05ffyEXR.jpg"
+}
+],
+"info": {
+"name": "ES - Montecristo",
+"cover": "https://image.tmdb.org/t/p/w154/o6vKr1ldbJmFmUuvyFT05ffyEXR.jpg",
+"plot": "",
+"cast": "",
+"director": "Lidia Fraga, Jacobo Díaz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900244",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1202926998",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-21",
+"plot": "¿Quién es Alejandro Montecristo? Esa es la pregunta que las personas más selectas de la capital española se hacen. Nadie sospecha que el éxito y el dinero no le interesan, lo único que le importa es vengarse de sus enemigos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900244",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30380:1"
+}
+]
+}
+}

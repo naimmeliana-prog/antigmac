@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-21",
+"episode_count": 1,
+"id": 103216159,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH0BuRkZmP6sdi8R6tvlvwdBxmo.jpg"
+}
+],
+"info": {
+"name": "ES - The Endgame",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH0BuRkZmP6sdi8R6tvlvwdBxmo.jpg",
+"plot": "",
+"cast": "",
+"director": "Jake Coburn, Nicholas Wootton",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900251",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1900443840",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-21",
+"plot": "Un thriller de alto riesgo sobre Elena Federova, una traficante de armas internacional recientemente capturada y una brillante mente criminal que incluso en cautiverio orquesta una serie de atracos bancarios coordinados, y Val Turner, la agente del FBI con principios, implacable y socialmente marginada que no se detendrá ante nada. para frustrar su ambicioso plan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32042:1"
+}
+]
+}
+}

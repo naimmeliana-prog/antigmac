@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-01",
+"episode_count": 1,
+"id": 501162606,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5UGnjpD5cbwbhiFR4UACeHSevg.jpg"
+}
+],
+"info": {
+"name": "ES Elle (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5UGnjpD5cbwbhiFR4UACeHSevg.jpg",
+"plot": "",
+"cast": "",
+"director": "Laura Kittrell, Caroline Dries",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900436",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1291994035",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-01",
+"plot": "Conozcamos a la Elle Woods adolescente, antes de sus andanzas para intentar encajar en Harvard. Es 1995, y Elle hace todo lo posible por mantenerse a flote en el instituto: amistades complicadas, amores prohibidos y estilismos cuestionables. Echaremos un vistazo a este episodio de su vida, que nos enseñará cómo Elle llegó a ser la joven icónica que tanto queremos y admiramos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900436",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNDk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50495:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-12",
+"episode_count": 1,
+"id": 594914971,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg"
+}
+],
+"info": {
+"name": "ES - Love Story: John F. Kennedy Jr. y Carolyn Bessette (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+"plot": "",
+"cast": "",
+"director": "Connor Hines",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900387",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "168748226",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-12",
+"plot": "Miniserie. 9 episodios. Serie que narra la relación entre Carolyn Bessette y John John Kennedy, pareja que tras un breve noviazgo contrajo matrimonio, convirtiéndose en una de las parejas más icónicas del finales del siglo XX. Fue una historia de amor que capturó la atención de toda una nación: John F. Kennedy Jr. (Paul Anthony Kelly), hijo del legendario presidente JFK, era el cabeza visible de la familia más parecida a la realeza estadounidense. El país lo vio crecer, pasó de niño a ser el soltero más deseado y fenómeno mediático.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900387",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48322:1"
+}
+]
+}
+}

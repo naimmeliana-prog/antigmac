@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2016-07-10",
+"episode_count": 1,
+"id": 1978388761,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg"
+}
+],
+"info": {
+"name": "ES - The Night Of",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Zaillian, Richard Price",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900513",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "665671346",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-07-10",
+"plot": "Después de pasar la noche con una desconocida a la que recoge con el taxi de su padre en Manhattan, el joven paquistaní Naz se despierta y la encuentra apuñalada en la cama. Asustado, el joven huye pero poco después es arrestado y se convierte en el único sospechoso del asesinato. Remake de la serie británica \"Criminal justice\" (2008).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900513",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32041:1"
+}
+]
+}
+}

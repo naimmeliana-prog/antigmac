@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-06-16",
+"episode_count": 3,
+"id": 1351544408,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg"
+}
+],
+"info": {
+"name": "ES - Euphoria",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+"plot": "",
+"cast": "",
+"director": "Sam Levinson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900489",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1056746464",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-16",
+"plot": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900489",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjM1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34235:3"
+},
+{
+"id": "1593126681",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-16",
+"plot": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900489",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34235:2"
+},
+{
+"id": "207254922",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-16",
+"plot": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900489",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34235:1"
+}
+]
+}
+}

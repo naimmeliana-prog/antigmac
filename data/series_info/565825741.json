@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-23",
+"episode_count": 3,
+"id": 1103918581,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOmyHBjhcTCCI7u3IOnjAiJrj3r.jpg"
+}
+],
+"info": {
+"name": "ES - Loot",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOmyHBjhcTCCI7u3IOnjAiJrj3r.jpg",
+"plot": "",
+"cast": "",
+"director": "Alan Yang, Matt Hubbard",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900460",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "286128593",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-23",
+"plot": "Tras divorciarse de su marido después de 20 años de matrimonio, Molly Novak tiene que decidir qué hacer con los 87 000 millones que consigue en el acuerdo de separación. Molly decide volver a implicarse con su fundación benéfica y reconectar con el mundo real, un viaje que la llevará a encontrarse a sí misma.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900460",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31638:3"
+},
+{
+"id": "699015192",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-23",
+"plot": "Tras divorciarse de su marido después de 20 años de matrimonio, Molly Novak tiene que decidir qué hacer con los 87 000 millones que consigue en el acuerdo de separación. Molly decide volver a implicarse con su fundación benéfica y reconectar con el mundo real, un viaje que la llevará a encontrarse a sí misma.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900460",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31638:2"
+},
+{
+"id": "1343248465",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-23",
+"plot": "Tras divorciarse de su marido después de 20 años de matrimonio, Molly Novak tiene que decidir qué hacer con los 87 000 millones que consigue en el acuerdo de separación. Molly decide volver a implicarse con su fundación benéfica y reconectar con el mundo real, un viaje que la llevará a encontrarse a sí misma.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900460",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31638:1"
+}
+]
+}
+}

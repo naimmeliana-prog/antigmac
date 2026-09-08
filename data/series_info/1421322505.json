@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-28",
+"episode_count": 2,
+"id": 1790307299,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtamFfvduIH34I9jRn9Rr1faE6S.jpg"
+}
+],
+"info": {
+"name": "ES - The Afterparty",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtamFfvduIH34I9jRn9Rr1faE6S.jpg",
+"plot": "",
+"cast": "",
+"director": "Christopher Miller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900469",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1914584107",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Nada es lo que parece en este divertidísimo asesinato misterioso en el que la historia de cada sospechoso se cuenta desde la óptica de un género cinematográfico distinto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDM0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32034:2"
+},
+{
+"id": "1517846819",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Nada es lo que parece en este divertidísimo asesinato misterioso en el que la historia de cada sospechoso se cuenta desde la óptica de un género cinematográfico distinto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32034:1"
+}
+]
+}
+}

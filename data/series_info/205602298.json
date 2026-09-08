@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-16",
+"episode_count": 1,
+"id": 1686982390,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/km0iLvc1UKtODBxVG54gyeZYkOm.jpg"
+}
+],
+"info": {
+"name": "ES - Narcogallegos (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/km0iLvc1UKtODBxVG54gyeZYkOm.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900619",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "779222592",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-16",
+"plot": "A finales de los años 80 las costas gallegas se convirtieron en la principal puerta de entrada de la cocaína en Europa. La respuesta a la llegada de las sustancias llevó a las administraciones a tomar medidas. Los mejores agentes antidroga del país llegaron a Pontevedra, la Justicia se adecuó a los tiempos y los policías que ya estaban en el territorio comenzaron a cooperar con los recién llegados. La clave de \"Narcogallegos\" es contar lo que sucede en el negocio de las drogas desde todas las perspectivas posibles: los buenos, los malos, los que juegan a dos bandas como infiltrados, los periodistas y la sociedad civil. La parte argumental, guion y dirección del documental corre a cargo de Víctor Méndez Sanguos, periodista especializado en narcotráfico, autor de los libros \"Narcogallegos, tras los pasos de Sito Miñanco\" y \"Traficantes de la muerte. De la heroína al fentanilo\".",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NzkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38792:1"
+}
+]
+}
+}

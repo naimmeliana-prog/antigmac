@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-14",
+"episode_count": 1,
+"id": 542895821,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9CkBu9ZFGdguoukibrkyvbvCTo.jpg"
+}
+],
+"info": {
+"name": "ES - Cacería implacable: Osama bin Laden (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9CkBu9ZFGdguoukibrkyvbvCTo.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900565",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "258407028",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-14",
+"plot": "Con imágenes inéditas y entrevistas a agentes de la CIA, esta trepidante serie documental narra la épica búsqueda de Osama bin Laden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900565",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43516:1"
+}
+]
+}
+}

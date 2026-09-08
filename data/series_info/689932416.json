@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-10",
+"episode_count": 1,
+"id": 858808219,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg"
+}
+],
+"info": {
+"name": "ES - Las muertas (2025) (MX)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",
+"plot": "",
+"cast": "",
+"director": "Luis Estrada",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900322",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1540869823",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-10",
+"plot": "Basada en la aclamada novela de Jorge Ibargüengoitia, que ficciona el escalofriante caso de 'Las Poquianchis', 'Las muertas' narra el ascenso y la caída de las hermanas Arcángela y Serafina Baladro, quienes construyeron un imperio de burdeles en el México de los años 60, quedando marcadas en la historia como las asesinas seriales más despiadadas y temidas del país.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900322",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45623:1"
+}
+]
+}
+}

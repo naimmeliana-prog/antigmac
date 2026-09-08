@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-01-21",
+"episode_count": 2,
+"id": 276955992,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5E9GrO7cT3zkNQVUQu8C8cS7Tk.jpg"
+}
+],
+"info": {
+"name": "ES - The Resident",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5E9GrO7cT3zkNQVUQu8C8cS7Tk.jpg",
+"plot": "",
+"cast": "",
+"director": "Amy Holden Jones, Hayley Schore, Roshan Sethi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900400",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1906624041",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-01-21",
+"plot": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NjM0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15634:5"
+},
+{
+"id": "1626143930",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-01-21",
+"plot": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NjM0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15634:2"
+}
+]
+}
+}

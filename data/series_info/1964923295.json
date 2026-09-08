@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-17",
+"episode_count": 1,
+"id": 1985544269,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXkLE6M0YYXE8NugdnYSXVngtSR.jpg"
+}
+],
+"info": {
+"name": "ES - Indomable (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXkLE6M0YYXE8NugdnYSXVngtSR.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark L. Smith, Elle Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900305",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1518102640",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-17",
+"plot": "En la inmensidad del Parque Nacional de Yosemite, la muerte de una joven arrastra a un agente federal hasta una tierra sin ley en donde la naturaleza obedece sus propias reglas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900305",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45443:1"
+}
+]
+}
+}

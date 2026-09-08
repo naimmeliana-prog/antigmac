@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-11",
+"episode_count": 1,
+"id": 261540846,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIw03VhnhQidgwuWTqisYn3ueK6.jpg"
+}
+],
+"info": {
+"name": "ES - Después del huracán (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIw03VhnhQidgwuWTqisYn3ueK6.jpg",
+"plot": "",
+"cast": "",
+"director": "John Ridley, Carlton Cuse",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900441",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1720523880",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-11",
+"plot": "Basada en hechos reales, narra el impacto del huracán Katrina y sus secuelas en un hospital de la zona. Cuando subieron las aguas, se cortó la electricidad y el calor se disparó, los exhaustos trabajadores de un hospital de Nueva Orleans se vieron obligados a tomar decisiones que después los perseguirían durante muchos años...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900441",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37848:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-26",
+"episode_count": 1,
+"id": 460510029,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCMVwi0Js8UFSLj54IAXHvlWTlt.jpg"
+}
+],
+"info": {
+"name": "ES - El cielo (2025) (PL)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCMVwi0Js8UFSLj54IAXHvlWTlt.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900485",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1834935248",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-26",
+"plot": "Polonia, años 90. Sebastian busca sentido a su vida y lo encuentra en Piotr, el líder de una comunidad espiritual. Pero lo que era una promesa de iluminación pronto se convierte en manipulación, brutalidad y fanatismo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900485",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47220:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-27",
+"episode_count": 1,
+"id": 623442755,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePP8SWdRqaXTMEVXiN1wTJCjL1N.jpg"
+}
+],
+"info": {
+"name": "ES - Crimen por encargo (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePP8SWdRqaXTMEVXiN1wTJCjL1N.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900570",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "618275263",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-27",
+"plot": "Relata la trágica historia de Yalenis, una joven cubana atrapada en una relación tóxica con un empresario gallego. Su deseo de independencia desencadena una serie de eventos que llevan al doble asesinato de ella y un joven desconocido. A través de una investigación policial y testimonios reveladores, la serie desvela hasta dónde puede llegar la obsesión y el poder.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900570",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46741:1"
+}
+]
+}
+}

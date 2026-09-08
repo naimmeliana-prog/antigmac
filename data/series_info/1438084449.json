@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-29",
+"episode_count": 4,
+"id": 1778217236,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iT37zRlIJjcInCLOrcnJITcfh43.jpg"
+}
+],
+"info": {
+"name": "ES - Pombo (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iT37zRlIJjcInCLOrcnJITcfh43.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900626",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1649694418",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-29",
+"plot": "Una mirada intima a la vida de la creadora de contenido que promete ser un viaje revelador de los secretos más escondidos para los seguidores. \"Pombo\" relatará las etapas finales del embarazo y los primeros días de vida de Vega, su segunda hija con Pablo Castellano, tras su nacimiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTEwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37910:4"
+},
+{
+"id": "1304163029",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-29",
+"plot": "Una mirada intima a la vida de la creadora de contenido que promete ser un viaje revelador de los secretos más escondidos para los seguidores. \"Pombo\" relatará las etapas finales del embarazo y los primeros días de vida de Vega, su segunda hija con Pablo Castellano, tras su nacimiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTEwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37910:3"
+},
+{
+"id": "894990211",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-29",
+"plot": "Una mirada intima a la vida de la creadora de contenido que promete ser un viaje revelador de los secretos más escondidos para los seguidores. \"Pombo\" relatará las etapas finales del embarazo y los primeros días de vida de Vega, su segunda hija con Pablo Castellano, tras su nacimiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37910:1"
+},
+{
+"id": "1853961349",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-29",
+"plot": "Una mirada intima a la vida de la creadora de contenido que promete ser un viaje revelador de los secretos más escondidos para los seguidores. \"Pombo\" relatará las etapas finales del embarazo y los primeros días de vida de Vega, su segunda hija con Pablo Castellano, tras su nacimiento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37910:2"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-20",
+"episode_count": 1,
+"id": 649537220,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ZdWKpXo1Gz3xR1tRG2eD5Y8sD.jpg"
+}
+],
+"info": {
+"name": "ES - Dentro de las pirámides (2024) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ZdWKpXo1Gz3xR1tRG2eD5Y8sD.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900572",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1217840348",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-20",
+"plot": "Más de 4.500 años después de que se construyera la primera pirámide, los expertos todavía las analizan y desarrollan teorías sobre cómo se levantaron. Desde el origen de las piedras utilizadas, hasta cómo los egipcios pudieron apilarlas, los científicos todavía formulan varias hipótesis. Pero, si bien estas preguntas aún fascinan a los investigadores, son las tumbas reales de los faraones y nobles, con sus pasadizos secretos y cámaras ocultas, las que siguen siendo las más misteriosas.\r\n\r\nPara ello, un equipo internacional de expertos realiza un escaneo de alta precisión en el interior de las fascinantes pirámides. Buscarán pistas escondidas en los textos inscritos en la pirámide de Keops, analizarán si la misteriosa pirámide negra oculta un error de construcción e investigarán por qué la pirámide inacabada del sur de Saqqara tiene el interior más complejo. Los científicos han intentado durante décadas descubrir los secretos de estas gigantescas construcciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34533:1"
+}
+]
+}
+}

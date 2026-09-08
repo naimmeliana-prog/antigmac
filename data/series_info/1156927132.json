@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-11",
+"episode_count": 1,
+"id": 372014342,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArfIbN2lwV7gJZkN9Y3lDDEsq9U.jpg"
+}
+],
+"info": {
+"name": "ES - Yo (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArfIbN2lwV7gJZkN9Y3lDDEsq9U.jpg",
+"plot": "",
+"cast": "",
+"director": "Barry Levy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900472",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "208017386",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-11",
+"plot": "Colegio nuevo. Familia nueva. Superpoder nuevo. Ben Vasani, un chico de 12 años, está en época de cambios, ya que acaba de descubrir que puede transformarse en cualquier persona que conozca. Así que tendrá que descubrir quién es y quién quiere ser.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35011:1"
+}
+]
+}
+}

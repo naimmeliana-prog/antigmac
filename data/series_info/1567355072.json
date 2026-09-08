@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-18",
+"episode_count": 1,
+"id": 1011181274,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZC1Z3OnknhYRMMCR8N1XwFVElG.jpg"
+}
+],
+"info": {
+"name": "ES - Superestar (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZC1Z3OnknhYRMMCR8N1XwFVElG.jpg",
+"plot": "",
+"cast": "",
+"director": "Nacho Vigalondo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900349",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1731934197",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-18",
+"plot": "Con el cambio de siglo un cometa atravesó el cielo de España desmontando las leyes de la fama y el éxito, desintegrando la frontera entre lo popular y lo underground. Durante un par de años las portadas y las horas de prime time fueron conquistadas por famosos de otra dimensión. Criaturas que hasta entonces parecían condenadas a la burla y el desprecio y que acapararon nuestra atención sin adaptarse a ninguna normalidad. Un relato mágico donde caben conspiraciones esotéricas, noches eternas, ladrillos cuánticos, supervillanos multicolores y una improbabilidad hecha estrella: Tamara.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900349",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0Mzk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44396:1"
+}
+]
+}
+}

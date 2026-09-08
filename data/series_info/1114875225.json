@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-06",
+"episode_count": 1,
+"id": 679924659,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBA7chH5bN5VTRfpU4cHFZ807De.jpg"
+}
+],
+"info": {
+"name": "Tiempo de victoria: La dinastía de los Lakers (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBA7chH5bN5VTRfpU4cHFZ807De.jpg",
+"plot": "",
+"cast": "",
+"director": "Max Borenstein, Jim Hecht",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900517",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1964690793",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-06",
+"plot": "Crónica de las vidas personales y profesionales de los jugadores de Los Ángeles Lakers en los años ochenta, una de las dinastías más veneradas del deporte y un equipo que definió una era dentro y fuera de la pista.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900517",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42791:1"
+}
+]
+}
+}

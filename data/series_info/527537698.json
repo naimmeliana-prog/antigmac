@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-05-31",
+"episode_count": 3,
+"id": 487063203,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/p5BTqkWN2Ole6ADRBo5jh6q16Wr.jpg"
+}
+],
+"info": {
+"name": "ES - Good Omens",
+"cover": "https://image.tmdb.org/t/p/w154/p5BTqkWN2Ole6ADRBo5jh6q16Wr.jpg",
+"plot": "",
+"cast": "",
+"director": "Neil Gaiman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900416",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1154915485",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-31",
+"plot": "Se acerca el fin del mundo y eso significa que un ángel quisquilloso y un demonio juerguista encantados con la vida en la Tierra deberán unir sus fuerzas para detener el apocalipsis. Pero han perdido al anticristo, un chico de 11 años que no sabe que su destino es acabar con la vida, y se ven obligados a embarcarse en una aventura para encontrarlo y salvar al mundo antes de que sea tarde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTM3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29937:3"
+},
+{
+"id": "1340387928",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-31",
+"plot": "Se acerca el fin del mundo y eso significa que un ángel quisquilloso y un demonio juerguista encantados con la vida en la Tierra deberán unir sus fuerzas para detener el apocalipsis. Pero han perdido al anticristo, un chico de 11 años que no sabe que su destino es acabar con la vida, y se ven obligados a embarcarse en una aventura para encontrarlo y salvar al mundo antes de que sea tarde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTM3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29937:2"
+},
+{
+"id": "1737971161",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-31",
+"plot": "Se acerca el fin del mundo y eso significa que un ángel quisquilloso y un demonio juerguista encantados con la vida en la Tierra deberán unir sus fuerzas para detener el apocalipsis. Pero han perdido al anticristo, un chico de 11 años que no sabe que su destino es acabar con la vida, y se ven obligados a embarcarse en una aventura para encontrarlo y salvar al mundo antes de que sea tarde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29937:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-20",
+"episode_count": 1,
+"id": 1324275567,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj1oN9iRqqsX5PpVVCWsMPA2YP.jpg"
+}
+],
+"info": {
+"name": "ES - ¿A qué estás esperando? (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj1oN9iRqqsX5PpVVCWsMPA2YP.jpg",
+"plot": "",
+"cast": "",
+"director": "Natalia Durán",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900268",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "104124857",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-20",
+"plot": "Can, un atractivo piloto aéreo de ascendencia turca, respetuoso con la voluntad de un padre tradicional, asiste mensualmente a unas cenas en las que le presentan posibles candidatas para casarse. En una de ellas conoce a Sonia, una madre soltera que se presenta, sin avisar, a la cena que su madre ha organizado para que sus otras dos hermanas conozcan al rico heredero. Can y Sonia descubrirán, sin saberlo, que tienen mucho en común. Disfrutan del sexo sin ataduras, frecuentan clubs donde dan rienda suelta a sus placeres y mantienen a raya sus emociones para evitar enamorarse. Por otro lado, Daryl, íntimo amigo de Can y, también piloto, está dispuesto a renunciar a su soltería al enamorarse de Carol, una azafata con mucho desparpajo que pondrá su vida del revés, pero los miedos que ambos arrastran y sus diferencias les obligarán a cuestionarse sus sentimientos y a valorar si pueden superar lo que les separa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900268",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38210:1"
+}
+]
+}
+}

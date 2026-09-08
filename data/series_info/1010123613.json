@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2016-03-26",
+"episode_count": 1,
+"id": 1689653995,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJ0NZpjcMALBxhttC2SVcn0IoI4.jpg"
+}
+],
+"info": {
+"name": "ES - Dulce venganza (2016)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJ0NZpjcMALBxhttC2SVcn0IoI4.jpg",
+"plot": "",
+"cast": "",
+"director": "Barış Erçetin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900648",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "1747774294",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-26",
+"plot": "Pelin tiene una vida perfecta: es bella, inteligente, tiene un excelente trabajo y está a punto de casarse con el hombre de sus sueños. Pero cuando Tolga, su novio, la abandona en el altar, todo parece derrumbarse. Un día, por la calle, una mujer le dice que su mala suerte en el amor se debe a que ella hizo daño a otra persona en el pasado, y que hasta obtener su perdón no logrará ser feliz. Haciendo un esfuerzo, Pelin recuerda a Tankut, un compañero de facultad tímido y poco agradaciado que estaba enamorado de ella, y del cual Pelin se aprovechaba para obtener favores y regalos. Tras ser rechazado cruelmente por ella, Tankut decidió abandonar la universidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900648",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35671:1"
+}
+]
+}
+}

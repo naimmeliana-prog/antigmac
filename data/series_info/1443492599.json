@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-18",
+"episode_count": 1,
+"id": 1062064960,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGiSOjVJHrgD25BVdXGuDhANCXL.jpg"
+}
+],
+"info": {
+"name": "ES - El camino estrecho (2025) (AU)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGiSOjVJHrgD25BVdXGuDhANCXL.jpg",
+"plot": "",
+"cast": "",
+"director": "Shaun Grant, Justin Kurzel",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900413",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1888494601",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-18",
+"plot": "Miniserie de TV (2025). 5 episodios. Año 1943. II Guerra Mundial, frente del Pacífico. Dorrigo Evans, oficial médico australiano, es capturado por los japoneses como prisionero de guerra y obligado a trabajar en la construcción del ferrocarril entre Tailandia y Birmania. Pasa los días intentando conservar la vida alentado y atormentado a la vez por el recuerdo de su aventura con la esposa de su tío, Amy. Su amor comenzó por casualidad cuando se conocieron en una librería. Desde ese momento, los pensamientos sobre Amy han inundado constantemente la mente de Dorrigo, a pesar de llevar mucho tiempo casado con otra mujer. Adaptación de la novela homónima de Richard Flanagan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900413",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44352:1"
+}
+]
+}
+}

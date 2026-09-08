@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-05-24",
+"episode_count": 1,
+"id": 79715623,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E8dss6fwga7isLvuHn6BvKo5Z8.jpg"
+}
+],
+"info": {
+"name": "ES - Lo que la verdad esconde: Caso Asunta",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E8dss6fwga7isLvuHn6BvKo5Z8.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900263",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1423642525",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-05-24",
+"plot": "Domingo, 22 de septiembre del 2013. 01:40 horas de la madrugada. A las afueras de Santiago de Compostela se encontró el cuerpo sin vida de Asunta Yong Fang Basterra Porto. Los padres de la niña, Rosario Porto y Alfonso Basterra, fueron los principales sospechosos desde un primer momento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900263",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34447:1"
+}
+]
+}
+}

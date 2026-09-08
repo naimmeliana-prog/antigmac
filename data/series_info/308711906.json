@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-06",
+"episode_count": 1,
+"id": 1753445095,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppj95ijirOWDZVa3fYPv4xr7Ak1.jpg"
+}
+],
+"info": {
+"name": "ES - Segunda muerte (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppj95ijirOWDZVa3fYPv4xr7Ak1.jpg",
+"plot": "",
+"cast": "",
+"director": "Agustín Martínez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900249",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1571008823",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-06",
+"plot": "Una auxiliar de policía, cuyo padre es una leyenda de la UCO recién jubilado, se ve envuelta en una investigación criminal en un tranquilo pueblo pasiego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900249",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37030:1"
+}
+]
+}
+}

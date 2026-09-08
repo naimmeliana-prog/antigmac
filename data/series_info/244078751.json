@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2014-11-11",
+"episode_count": 1,
+"id": 684851907,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxfdZDHklInmrK0gnRhPdFrrcd.jpg"
+}
+],
+"info": {
+"name": "ES - Halo: Nightfall (Mini-Serie) (2014)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxfdZDHklInmrK0gnRhPdFrrcd.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul T. Scheuring",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900529",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1834779581",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-11-11",
+"plot": "Halo: Nightfall presenta un un nuevo personaje esencial, Jameson Locke, un legendario detective y agente de la Oficina de Inteligencia Naval (ONI), la rama militar más poderosa y secreta de la Tierra. Cuando él y su equipo quedan atrapados en un ataque biológico horroroso, ellos descifran una trama que los lleva a un antiguo y diábolico artefacto, donde son forzados a luchar por su supervivencia, cuestionando todo, y finalmente eligiendo entre su lealtad o sus vidas.\r\n\r\nTomando lugar entre los eventos de Halo 4 y Halo 5: Guardians, Halo: Nightfall es la historia del origen de Locke que dará una visión y comprensión al personaje que se convierte en Halo 5: Guardians. La serie se ubica en un fragmento que esta en funcionamiento de la Instalación 04, el Halo que destruyo el Jefe maestro en Halo: Combat Evolved, El fragmento del Halo a comenzado a orbitar en una proximidad muy cerca a un gigante rojo, cuando el fragmento rota en su orbita dando cara al gigante rojo, su habitable suelo se vuelve un infierno por las extremas temperaturas para un ser humano, el ecosistema del fragmento solo es habitable durante 16 horas cuando la parte habitable está dando cara contraria a la gigante roja, es decir, cuando es de noche, de hay proviene el nombre de la serie, forzando al equipo a completar su misión en ese lapso de tiempo, una grave presencia en las antiguas estructuras convertirá la misión en una desesperada lucha por la supervivencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900529",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34861:1"
+}
+]
+}
+}

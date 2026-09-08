@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-28",
+"episode_count": 1,
+"id": 1926433305,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8uCc246KwiODy1M4Jc7MeimB96.jpg"
+}
+],
+"info": {
+"name": "ES - Estamos muertos (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8uCc246KwiODy1M4Jc7MeimB96.jpg",
+"plot": "",
+"cast": "",
+"director": "Chun Sung-il, JQ Lee, Kim Nam-su",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900299",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1845922303",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Un grupo de estudiantes se da cuenta de que tienen que enfrentarse con las pocas existencias que tienen a una situación de crisis extrema. Estos quedan atrapados en el instituto donde estudian mientras que un virus zombie se propaga por todo el mundo.\r\n\r\nLa escuela está llena de infectados, pero nadie puede salir de allí. El gupo de amigos deberá hacer todo lo posible para sobrevivir y salir del colegio sanos y salvos cuando el apocalipsis zombie termine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900299",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38011:1"
+}
+]
+}
+}

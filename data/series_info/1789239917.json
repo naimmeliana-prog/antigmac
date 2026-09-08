@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-18",
+"episode_count": 1,
+"id": 292596903,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg"
+}
+],
+"info": {
+"name": "ES - OceanXplorers (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Catalina",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900621",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "247886013",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-18",
+"plot": "El equipo, formado por James Cameron (productor ejecutivo/narrador), la Unidad de Historia Natural de los Estudios de la BBC y OceanX, se sumergió en las profundidades de los océanos del mundo, explorando zonas que nunca antes se habían tocado. Con la avanzada tecnología de OceanX, el equipo de exploradores y científicos se propuso resolver algunos de los mayores misterios del océano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35742:1"
+}
+]
+}
+}

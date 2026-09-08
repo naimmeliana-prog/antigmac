@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-23",
+"episode_count": 1,
+"id": 424376790,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EwJlwOKHlGEIfN2lUhIx6kaj8N.jpg"
+}
+],
+"info": {
+"name": "ES - Soy Zodiac (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EwJlwOKHlGEIfN2lUhIx6kaj8N.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900348",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "783030364",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-23",
+"plot": "En esta docuserie sobre crímenes reales, una familia en busca de respuestas comparte pistas y testimonios reveladores sobre el principal sospechoso de los asesinatos del Zodíaco.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900348",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3NDczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37473:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-30",
+"episode_count": 2,
+"id": 1731907618,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyfKzPxKNVW4WV2xXjm3uBx00I.jpg"
+}
+],
+"info": {
+"name": "ES - Las azules (LQ) (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyfKzPxKNVW4WV2xXjm3uBx00I.jpg",
+"plot": "",
+"cast": "",
+"director": "Pablo Aramendi, Fernando Rovzar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900459",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "627904931",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-30",
+"plot": "En 1971, cuatro mujeres desafían las normas ultraconservadoras y se unen a la primera fuerza policial femenina de México, pero descubren que se trata de un truco publicitario para distraer a los medios de un asesino en serie. A medida que aumenta el número de cadáveres, hacen un pacto para llevar al asesino ante la justicia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900459",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNjAzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50603:2"
+},
+{
+"id": "254720769",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-30",
+"plot": "En 1971, cuatro mujeres desafían las normas ultraconservadoras y se unen a la primera fuerza policial femenina de México, pero descubren que se trata de un truco publicitario para distraer a los medios de un asesino en serie. A medida que aumenta el número de cadáveres, hacen un pacto para llevar al asesino ante la justicia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900459",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNjAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50603:1"
+}
+]
+}
+}

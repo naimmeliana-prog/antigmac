@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-01-18",
+"episode_count": 2,
+"id": 936028267,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg"
+}
+],
+"info": {
+"name": "ES - El embarcadero - (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg",
+"plot": "",
+"cast": "",
+"director": "Álex Pina, Esther Martínez Lobato",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900235",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1612466907",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-18",
+"plot": "La joven arquitecta Alejandra acaba de ganar junto a su socia la obra de un rascacielos millonario. Llama a su marido, Óscar, para contárselo; él está en Frankfurt. Horas después, un guardia civil le dice que han encontrado el coche de su marido hundido en L’Albufera... con él dentro. ¿Se ha suicidado? ¿Estaba en Frankfurt? Entre sus pertenencias, un segundo móvil que escondía su segunda vida con otra mujer, Verónica...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900235",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22844:2"
+},
+{
+"id": "1433428120",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-18",
+"plot": "La joven arquitecta Alejandra acaba de ganar junto a su socia la obra de un rascacielos millonario. Llama a su marido, Óscar, para contárselo; él está en Frankfurt. Horas después, un guardia civil le dice que han encontrado el coche de su marido hundido en L’Albufera... con él dentro. ¿Se ha suicidado? ¿Estaba en Frankfurt? Entre sus pertenencias, un segundo móvil que escondía su segunda vida con otra mujer, Verónica...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900235",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22844:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2013-07-11",
+"episode_count": 3,
+"id": 397195872,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg"
+}
+],
+"info": {
+"name": "ES - Orange Is the New Black",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+"plot": "",
+"cast": "",
+"director": "Jenji Kohan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900335",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1385212204",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-07-11",
+"plot": "Las consecuencias de un antiguo delito le pasan factura a una rica neoyorquina que acaba en una cárcel para mujeres. Allí hace amistades y algún que otro enemigo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900335",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyMDMsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7203:4"
+},
+{
+"id": "1126372297",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-07-11",
+"plot": "Las consecuencias de un antiguo delito le pasan factura a una rica neoyorquina que acaba en una cárcel para mujeres. Allí hace amistades y algún que otro enemigo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900335",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyMDMsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7203:5"
+},
+{
+"id": "174584509",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-07-11",
+"plot": "Las consecuencias de un antiguo delito le pasan factura a una rica neoyorquina que acaba en una cárcel para mujeres. Allí hace amistades y algún que otro enemigo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900335",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyMDMsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7203:3"
+}
+]
+}
+}

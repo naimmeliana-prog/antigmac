@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-06-25",
+"episode_count": 1,
+"id": 1087382963,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lntklpEsUbySdXn7LDlxdmscxgd.jpg"
+}
+],
+"info": {
+"name": "ES - Las noches de Tefía",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lntklpEsUbySdXn7LDlxdmscxgd.jpg",
+"plot": "",
+"cast": "",
+"director": "Miguel del Arco",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900262",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1238240415",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-25",
+"plot": "Entre 1954 y 1966 existió, en un paraje desértico de Fuerteventura, un campo de concentración franquista conocido con el eufemístico nombre de Colonia Agrícola Penitenciaria de Tefía, uno de tantos lugares donde el régimen enviaba a los condenados por la ley de vagos y maleantes que, a partir del 54, fue implementada para incluir también a los homosexuales. En el año 2004 Airam Betancor, uno de aquellos presos homosexuales, se ve obligado a recordar los diecisiete meses de trabajo forzado que padeció en la colonia cuando apenas tenía veinte años. Las investigaciones de un documentalista que intenta dar voz a la historia de silencio de la colonia penitenciaria fuerzan a Airam a hacer un doloroso ejercicio de memoria que provocará muchos problemas en su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900262",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34446:1"
+}
+]
+}
+}

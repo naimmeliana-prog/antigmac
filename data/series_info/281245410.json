@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-04",
+"episode_count": 3,
+"id": 169815148,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak7NFISSaROyoWjSOIjamhpt1LB.jpg"
+}
+],
+"info": {
+"name": "ES - Silo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+"plot": "",
+"cast": "",
+"director": "Graham Yost",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900467",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1082791155",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-04",
+"plot": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900467",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDMwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32030:3"
+},
+{
+"id": "312539167",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-04",
+"plot": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900467",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDMwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32030:2"
+},
+{
+"id": "1970724457",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-04",
+"plot": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900467",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32030:1"
+}
+]
+}
+}

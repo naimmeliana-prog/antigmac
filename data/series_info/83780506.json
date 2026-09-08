@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-06",
+"episode_count": 1,
+"id": 1703894692,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN2oCVmMh8ey0vh0EfqcGA5X7UI.jpg"
+}
+],
+"info": {
+"name": "ES - Sin piedad para nadie (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN2oCVmMh8ey0vh0EfqcGA5X7UI.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900346",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1391365365",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-06",
+"plot": "Tras cortar lazos con su banda, un antiguo gánster vuelve para descubrir la verdad sobre la muerte de su hermano, pero su búsqueda lo llevará por un camino de venganza sin retorno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900346",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43856:1"
+}
+]
+}
+}

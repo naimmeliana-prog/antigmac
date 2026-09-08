@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-02-14",
+"episode_count": 1,
+"id": 1492818690,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRXl99OqcxBNBi7EinzUlPq3U0d.jpg"
+}
+],
+"info": {
+"name": "ES - Stanley Tucci. Recorriendo Italia (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRXl99OqcxBNBi7EinzUlPq3U0d.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900633",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1626837282",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-14",
+"plot": "Stanley Tucci viaja por Italia para descubrir los secretos y las delicias de las cocinas regionales del país.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900633",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNjAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43601:1"
+}
+]
+}
+}

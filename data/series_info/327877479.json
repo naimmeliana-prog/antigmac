@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-07",
+"episode_count": 1,
+"id": 413075007,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbK6ihOGl52mWqrzstOsLMu5s3d.jpg"
+}
+],
+"info": {
+"name": "ES - My Hero Academia: Vigilantes (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbK6ihOGl52mWqrzstOsLMu5s3d.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900364",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "1902852433",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-07",
+"plot": "Koichi Haimawari es un estudiante aburrido que aspiraba a ser un héroe pero abandonó su sueño. Aunque el 80% de la población mundial tenga poderes sobrehumanos llamados Dones, pocos son elegidos para convertirse en héroes y proteger a las personas. ¡Todo cambia para Koichi cuando él y Pop☆Step son salvados por el vigilante Knuckleduster y son reclutados para convertirse en vigilantes!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900364",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43598:1"
+}
+]
+}
+}

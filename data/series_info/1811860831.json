@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-07-04",
+"episode_count": 2,
+"id": 1323908939,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyvNM8I96XtQwvaFWWUrlQa82IF.jpg"
+}
+],
+"info": {
+"name": "ES - Poquita fe (2023) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyvNM8I96XtQwvaFWWUrlQa82IF.jpg",
+"plot": "",
+"cast": "",
+"director": "Pepón Montero, Juan Maidagán",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900246",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "219426867",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-04",
+"plot": "La serie se centra en un año de las vidas de Berta y José Ramón, quienes viven sus vidas lo mejor que pueden a pesar de que sus emociones, esperanzas y pasiones están atenuadas por el constante ruido de su día a día.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900246",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1OTc3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45977:2"
+},
+{
+"id": "593812651",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-04",
+"plot": "La serie se centra en un año de las vidas de Berta y José Ramón, quienes viven sus vidas lo mejor que pueden a pesar de que sus emociones, esperanzas y pasiones están atenuadas por el constante ruido de su día a día.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900246",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1OTc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45977:1"
+}
+]
+}
+}

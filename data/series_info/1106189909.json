@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-19",
+"episode_count": 1,
+"id": 1924400891,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHE48oJaLb9da91kghWSMWA6ywj.jpg"
+}
+],
+"info": {
+"name": "ES - Construyendo Un Caballero (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHE48oJaLb9da91kghWSMWA6ywj.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1681368719",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-19",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47628:1"
+}
+]
+}
+}

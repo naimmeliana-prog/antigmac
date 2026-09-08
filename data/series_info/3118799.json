@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-01",
+"episode_count": 5,
+"id": 587969193,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5vmnIJvXJgstbjCW9Jxhd4GoRJ.jpg"
+}
+],
+"info": {
+"name": "ES - Para toda la humanidad",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5vmnIJvXJgstbjCW9Jxhd4GoRJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Ronald D. Moore, Ben Nedivi, Matt Wolpert",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900464",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "270311092",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "Imagina un mundo donde la carrera espacial global nunca terminó. Entra en un cautivante \"qué pasaría si\" en la historia, donde el programa espacial de la NASA sigue siendo la pieza central cultural de las esperanzas y sueños de Estados Unidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900464",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQ0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19244:5"
+},
+{
+"id": "1508387287",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "Imagina un mundo donde la carrera espacial global nunca terminó. Entra en un cautivante \"qué pasaría si\" en la historia, donde el programa espacial de la NASA sigue siendo la pieza central cultural de las esperanzas y sueños de Estados Unidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900464",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQ0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19244:4"
+},
+{
+"id": "101278925",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "Imagina un mundo donde la carrera espacial global nunca terminó. Entra en un cautivante \"qué pasaría si\" en la historia, donde el programa espacial de la NASA sigue siendo la pieza central cultural de las esperanzas y sueños de Estados Unidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900464",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQ0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19244:3"
+},
+{
+"id": "1597243234",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "Imagina un mundo donde la carrera espacial global nunca terminó. Entra en un cautivante \"qué pasaría si\" en la historia, donde el programa espacial de la NASA sigue siendo la pieza central cultural de las esperanzas y sueños de Estados Unidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900464",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19244:2"
+},
+{
+"id": "1149755852",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "Imagina un mundo donde la carrera espacial global nunca terminó. Entra en un cautivante \"qué pasaría si\" en la historia, donde el programa espacial de la NASA sigue siendo la pieza central cultural de las esperanzas y sueños de Estados Unidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900464",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MjQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19244:1"
+}
+]
+}
+}

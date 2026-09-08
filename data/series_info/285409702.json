@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-13",
+"episode_count": 1,
+"id": 1586253982,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbzhVJE84wJXhe2kY42LIcOVC2j.jpg"
+}
+],
+"info": {
+"name": "ES - New Look (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbzhVJE84wJXhe2kY42LIcOVC2j.jpg",
+"plot": "",
+"cast": "",
+"director": "Todd A. Kessler",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900463",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "580567182",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-13",
+"plot": "Esta emocionante serie revela la impactante historia de cómo el icono de la moda Christian Dior y sus contemporáneos, como Coco Chanel, Pierre Balmain y Cristóbal Balenciaga, se enfrentaron a los horrores de la Segunda Guerra Mundial y crearon la moda moderna.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36008:1"
+}
+]
+}
+}

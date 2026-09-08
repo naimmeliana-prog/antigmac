@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-23",
+"episode_count": 1,
+"id": 217417741,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0xZhU8ZwYzSbVPUwGHLor49oqp.jpg"
+}
+],
+"info": {
+"name": "ES - El homenaje (LQ) (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0xZhU8ZwYzSbVPUwGHLor49oqp.jpg",
+"plot": "",
+"cast": "",
+"director": "Sergio Cánovas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900525",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1062044263",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-23",
+"plot": "Adolfo Novak, patriarca de una de las familias más poderosas del país, convoca a su familia y allegados para celebrar su 80 cumpleaños. La velada acabará saltando por los aires y desvelará una verdad que, cuando finalmente sale a luz, será mucho más inesperada y sorprendente que cualquier sospecha previa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900525",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49088:1"
+}
+]
+}
+}

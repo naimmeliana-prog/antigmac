@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2019-10-20",
+"episode_count": 4,
+"id": 1857769887,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9iQjEw4efAUWRpZpYBw28Ghp1j.jpg"
+}
+],
+"info": {
+"name": "ES - Control de carreteras",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9iQjEw4efAUWRpZpYBw28Ghp1j.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900569",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1896690569",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-20",
+"plot": "Todos somos conductores, peatones, ciclistas o pasajeros susceptibles de cometer una infracción en la carretera o de ser víctimas de un accidente de tráfico. Los espectadores se pondrán en la piel de los agentes y vivirán historias de todo tipo que se producen a diario en torno a una carretera, accediendo como nunca antes a imágenes que solo alcanzan a captar las cámaras de vigilancia de la Guardia Civil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAyLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34302:4"
+},
+{
+"id": "776575280",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-20",
+"plot": "Todos somos conductores, peatones, ciclistas o pasajeros susceptibles de cometer una infracción en la carretera o de ser víctimas de un accidente de tráfico. Los espectadores se pondrán en la piel de los agentes y vivirán historias de todo tipo que se producen a diario en torno a una carretera, accediendo como nunca antes a imágenes que solo alcanzan a captar las cámaras de vigilancia de la Guardia Civil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34302:3"
+},
+{
+"id": "564606378",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-20",
+"plot": "Todos somos conductores, peatones, ciclistas o pasajeros susceptibles de cometer una infracción en la carretera o de ser víctimas de un accidente de tráfico. Los espectadores se pondrán en la piel de los agentes y vivirán historias de todo tipo que se producen a diario en torno a una carretera, accediendo como nunca antes a imágenes que solo alcanzan a captar las cámaras de vigilancia de la Guardia Civil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34302:2"
+},
+{
+"id": "1552475104",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-20",
+"plot": "Todos somos conductores, peatones, ciclistas o pasajeros susceptibles de cometer una infracción en la carretera o de ser víctimas de un accidente de tráfico. Los espectadores se pondrán en la piel de los agentes y vivirán historias de todo tipo que se producen a diario en torno a una carretera, accediendo como nunca antes a imágenes que solo alcanzan a captar las cámaras de vigilancia de la Guardia Civil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34302:1"
+}
+]
+}
+}

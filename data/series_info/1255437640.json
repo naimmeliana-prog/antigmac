@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-15",
+"episode_count": 2,
+"id": 626513313,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg"
+}
+],
+"info": {
+"name": "ES - El swing perfecto",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+"plot": "",
+"cast": "",
+"director": "James Gay-Rees",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900580",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "899805800",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-15",
+"plot": "Esta fascinante docuserie sigue a un diverso grupo de golfistas profesionales (dentro y fuera del campo) a lo largo de una extenuante temporada de torneos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTcwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30970:2"
+},
+{
+"id": "215167689",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-15",
+"plot": "Esta fascinante docuserie sigue a un diverso grupo de golfistas profesionales (dentro y fuera del campo) a lo largo de una extenuante temporada de torneos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30970:1"
+}
+]
+}
+}

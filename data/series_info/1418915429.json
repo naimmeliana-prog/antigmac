@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-07-31",
+"episode_count": 1,
+"id": 1216853891,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FgTuGZNSay7K4rXp2WgxyK9Pnc.jpg"
+}
+],
+"info": {
+"name": "ES - Mother, May I Murder? (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FgTuGZNSay7K4rXp2WgxyK9Pnc.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900618",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1981633637",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-07-31",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900618",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36077:1"
+}
+]
+}
+}

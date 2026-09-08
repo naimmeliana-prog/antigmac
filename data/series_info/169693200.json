@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-15",
+"episode_count": 1,
+"id": 300397654,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r75AR6Ow2JFOIbXGVmf9JpCC2e6.jpg"
+}
+],
+"info": {
+"name": "ES - Un asesino entre nosotros (2025) (SE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r75AR6Ow2JFOIbXGVmf9JpCC2e6.jpg",
+"plot": "",
+"cast": "",
+"director": "Jesper Harrie",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900402",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1551408055",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-15",
+"plot": "Norte de Suecia, 1852, un pastor y su familia llegan a Kengis, un pueblecito que ha sucumbido a la inmoralidad. El pastor quiere mejorar la comunidad, pero algunos vecinos se oponen al cambio. Cuando tienen lugar una serie de asesinatos, el pastor y su hijo adopotivo sami, Jussi, investigan, pero aquellos que controlan el pueblo les ponen trabas. La tensión aumenta, se ponen a prueba lealtades y el pastor se ve obligado a proteger a su familia mientras busca a un asesino que no piensa parar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900402",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47925:1"
+}
+]
+}
+}

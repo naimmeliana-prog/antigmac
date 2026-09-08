@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-14",
+"episode_count": 1,
+"id": 382025243,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg"
+}
+],
+"info": {
+"name": "ES - Lucky (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonathan Tropper",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900461",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "150750993",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-14",
+"plot": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y buscar una salida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900461",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwOTA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50907:1"
+}
+]
+}
+}

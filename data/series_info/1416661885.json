@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-20",
+"episode_count": 1,
+"id": 161038668,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/285ow3eWdUV4ApB64axKmxn1MBJ.jpg"
+}
+],
+"info": {
+"name": "ES - Día cero (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/285ow3eWdUV4ApB64axKmxn1MBJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Eric Newman, Noah Oppenheim, Michael S. Schmidt",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900286",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "362030833",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-20",
+"plot": "Encomiendan a un expresidente de Estados Unidos jubilado encontrar el origen de un ciberataque mortal, pero se encuentra con una gran red de mentiras y conspiraciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900286",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41814:1"
+}
+]
+}
+}

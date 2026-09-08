@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-24",
+"episode_count": 4,
+"id": 1923351231,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/z2NjHSmbiOwblJveq8JUpJlmcRC.jpg"
+}
+],
+"info": {
+"name": "ES - Beyond Paradise (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/z2NjHSmbiOwblJveq8JUpJlmcRC.jpg",
+"plot": "",
+"cast": "",
+"director": "Robert Thorogood",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900231",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1052831204",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-24",
+"plot": "Después de dejar el paraíso y buscar una vida más tranquila, Humphrey ha aceptado un trabajo como Detective Inspector en la ciudad natal de su prometida Martha. Pero con la alta tasa de criminalidad, tal vez las cosas sean más ruidosas de lo esperado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900231",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjEzLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28213:4"
+},
+{
+"id": "449585307",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-24",
+"plot": "Después de dejar el paraíso y buscar una vida más tranquila, Humphrey ha aceptado un trabajo como Detective Inspector en la ciudad natal de su prometida Martha. Pero con la alta tasa de criminalidad, tal vez las cosas sean más ruidosas de lo esperado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900231",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjEzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28213:3"
+},
+{
+"id": "1928072463",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-24",
+"plot": "Después de dejar el paraíso y buscar una vida más tranquila, Humphrey ha aceptado un trabajo como Detective Inspector en la ciudad natal de su prometida Martha. Pero con la alta tasa de criminalidad, tal vez las cosas sean más ruidosas de lo esperado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900231",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjEzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28213:2"
+},
+{
+"id": "941439992",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-24",
+"plot": "Después de dejar el paraíso y buscar una vida más tranquila, Humphrey ha aceptado un trabajo como Detective Inspector en la ciudad natal de su prometida Martha. Pero con la alta tasa de criminalidad, tal vez las cosas sean más ruidosas de lo esperado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900231",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28213:1"
+}
+]
+}
+}

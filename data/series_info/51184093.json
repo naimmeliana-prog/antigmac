@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-25",
+"episode_count": 1,
+"id": 1931928606,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubqAev8CzCZemfu7yOPl9CzEoS9.jpg"
+}
+],
+"info": {
+"name": "ES - The Studio (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubqAev8CzCZemfu7yOPl9CzEoS9.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Huyck, Alex Gregory, Seth Rogen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900471",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "581912668",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-25",
+"plot": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900471",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42753:1"
+}
+]
+}
+}

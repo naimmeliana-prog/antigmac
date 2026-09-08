@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-06",
+"episode_count": 1,
+"id": 736846200,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mP8iPfEt8pfL87y7r3AVO37ASkm.jpg"
+}
+],
+"info": {
+"name": "ES - Gangnam, bajos fondos (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mP8iPfEt8pfL87y7r3AVO37ASkm.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900379",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1864512726",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-06",
+"plot": "Cuando una escort de un club de Gangnam desaparece, el inspector Kang Dongwoo decide regresar para investigar el caso. Junto con la fiscal Min Seojin, desentrañará una red de conexiones y secretos detrás del caso.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900379",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3OTgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37982:1"
+}
+]
+}
+}

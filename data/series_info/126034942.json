@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-07",
+"episode_count": 1,
+"id": 731814761,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGolRiSf6rbIoj2HmwgapJj43DD.jpg"
+}
+],
+"info": {
+"name": "ES - Smothered",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGolRiSf6rbIoj2HmwgapJj43DD.jpg",
+"plot": "",
+"cast": "",
+"director": "Monica Heisey",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900540",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1620664090",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-07",
+"plot": "Sammy es una joven independiente que está harta de las aplicaciones de citas. Tom es un hombre de gran corazón con una enorme carga psicológica. Una noche, los dos se conocen, salta la chispa y acaban cantando borrachos en un karaoke. Acuerdan mantener un lío sin compromiso, pero la situación se complica cada vez más a medida que se van intensificando los sentimientos. Sammy pronto descubre que hay otra en la vida de Tom: su hija de seis años.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900540",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36013:1"
+}
+]
+}
+}

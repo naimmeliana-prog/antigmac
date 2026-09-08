@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "N/A",
+"episode_count": 1,
+"id": 1740368107,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4298418"
+}
+],
+"info": {
+"name": "ES - Animales Zombis",
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4298418",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900560",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1967766512",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "Algunas criaturas no se detienen ante nada cuando se trata de utilizar a otros animales para salir adelante. Desde alces que actúan como zombis hasta parásitos que toman el mando de los pedúnculos oculares de los caracoles.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900560",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37269:1"
+}
+]
+}
+}

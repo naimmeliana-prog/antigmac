@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-11",
+"episode_count": 1,
+"id": 853868983,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD0EqKxwLD29UxtjFmbeZvQWQx8.jpg"
+}
+],
+"info": {
+"name": "ES - Real Madrid, la leyenda blanca (LQ) (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD0EqKxwLD29UxtjFmbeZvQWQx8.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900428",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1256333354",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-11",
+"plot": "El Real Madrid es un club centenario que ha sabido formar un equipo ganador en todas las épocas y generaciones. Ningún otro club ha igualado el récord de este eterno campeón. Es un modelo a seguir en el mundo del deporte. Los jugadores y aficionados del club reviven los hitos y las pruebas históricas que convirtieron al Real Madrid en el mejor equipo del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5Mzc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49375:1"
+}
+]
+}
+}

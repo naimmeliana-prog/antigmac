@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-06-15",
+"episode_count": 1,
+"id": 123030864,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8fWtFF3KM0iLWgCO2qUJgjwneqt.jpg"
+}
+],
+"info": {
+"name": "ES - Sólo una mirada - (2017)",
+"cover": "https://image.tmdb.org/t/p/w154/8fWtFF3KM0iLWgCO2qUJgjwneqt.jpg",
+"plot": "",
+"cast": "",
+"director": "Sydney Gallonde",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900430",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "937792965",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-06-15",
+"plot": "Eva Beaufils lleva una vida tranquila con su esposo Bastien y sus dos hijos, Salome y Max. Una mañana, Eva encuentra una foto donde reconoce a marido de joven, pero él niega que sea él y, de pronto, desaparece. Eva sólo tiene una cosa en mente: encontrarlo a toda costa.\r\n\r\nThriller de acción basado en el libro homónimo de Harlan Coben, también creador de la serie. Coben es el autor de éxitos editoriales como “Última oportunidad” o “No se lo digas nadie” (llevada al cine por Guillaume Canet).",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900430",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22890:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-04",
+"episode_count": 1,
+"id": 1468498210,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+}
+],
+"info": {
+"name": "ES - Todo sobre Roland‑Garros (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900635",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "617952889",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-04",
+"plot": "Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.\r\n\r\nRoland-Garros es mucho más que un torneo de tenis: es un escenario global donde se celebra la pasión, la presión y la perfección deportiva. Durante tres semanas, el mundo entero observa París. Sin embargo, esta serie revela lo que nadie ve: el funcionamiento interno del torneo. De la mano de la extenista y actual directora, Amélie Mauresmo, descubrimos cómo ella y su equipo gestionan cada detalle y afrontan cada crisis. Desde las canchas, junto a figuras como Carlos Alcaraz, hasta los pasillos donde se toman las decisiones clave, esta serie nos sumerge en ambos mundos: el de los atletas en busca del triunfo y el del equipo que hace posible el espectáculo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900635",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49963:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-04",
+"episode_count": 1,
+"id": 655308753,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/bsAh7FTKzfVopecurnyl8JkVTXO.jpg"
+}
+],
+"info": {
+"name": "ES - Los hermanos Sun",
+"cover": "https://image.tmdb.org/t/p/w154/bsAh7FTKzfVopecurnyl8JkVTXO.jpg",
+"plot": "",
+"cast": "",
+"director": "Brad Falchuk, Byron Wu",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900325",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "735661919",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-04",
+"plot": "Cuando un misterioso enemigo pone a su familia en el punto de mira, un miembro de una tríada de Taipéi va a Los Ángeles para proteger a su madre y a su hermano menor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900325",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29717:1"
+}
+]
+}
+}

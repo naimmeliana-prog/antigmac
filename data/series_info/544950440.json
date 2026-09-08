@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-29",
+"episode_count": 1,
+"id": 1269431271,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/3eCJd7gk6tVWCBKK2eCzXZ7ocwc.jpg"
+}
+],
+"info": {
+"name": "ES - The Artful Dodger",
+"cover": "https://image.tmdb.org/t/p/w154/3eCJd7gk6tVWCBKK2eCzXZ7ocwc.jpg",
+"plot": "",
+"cast": "",
+"director": "David Maher, David Taylor, James McNamara",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900399",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1841585256",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-29",
+"plot": "\"The Artful Dodger\" explora la doble vida del famoso príncipe de los ladrones de Charles Dickens, que ahora es cirujano en la Australia de 1850, pero aún tentado por la delincuencia. Es una historia irreverente de reinvención, traición y amor, todo con un toque innovador.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900399",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29740:1"
+}
+]
+}
+}

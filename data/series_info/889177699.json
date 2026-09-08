@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-01-22",
+"episode_count": 2,
+"id": 702032428,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmXe8yBJJ9WdyYIXxJ3unmwH7v2.jpg"
+}
+],
+"info": {
+"name": "ES - Destino: La saga Winx",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmXe8yBJJ9WdyYIXxJ3unmwH7v2.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Young",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900285",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1805002952",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-22",
+"plot": "Sigue el día a día de cinco hadas que empiezan a estudiar en Alfea, un internado en el que aprenderán a dominar sus poderes mágicos además de enfrentarse a problemas más terrenales como el amor, la rivalidad y unos monstruos que amenazan su existencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900285",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjc3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32277:2"
+},
+{
+"id": "8391388",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-22",
+"plot": "Sigue el día a día de cinco hadas que empiezan a estudiar en Alfea, un internado en el que aprenderán a dominar sus poderes mágicos además de enfrentarse a problemas más terrenales como el amor, la rivalidad y unos monstruos que amenazan su existencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900285",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32277:1"
+}
+]
+}
+}

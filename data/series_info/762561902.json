@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-04",
+"episode_count": 1,
+"id": 781600087,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myq5lrVqlc0H8ADnxjO1RPaxFOY.jpg"
+}
+],
+"info": {
+"name": "ES - Las Voces de la Radio (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myq5lrVqlc0H8ADnxjO1RPaxFOY.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900605",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1014908612",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-04",
+"plot": "Las grandes estrellas de la radio de nuestro país hacen un recorrido emocional con sus historias al frente del micrófono, a la vez que reflejan la evolución del medio con algunas de las grandes coberturas informativas de los últimos años.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900605",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3ODUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37851:1"
+}
+]
+}
+}

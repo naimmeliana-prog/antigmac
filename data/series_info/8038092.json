@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-27",
+"episode_count": 1,
+"id": 270384737,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1ea0WQV1iT6oziHgSVaMmKIEEJ.jpg"
+}
+],
+"info": {
+"name": "ES - La edad de la ira",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1ea0WQV1iT6oziHgSVaMmKIEEJ.jpg",
+"plot": "",
+"cast": "",
+"director": "J. M. Ruiz Córdoba",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900261",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1646241206",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-27",
+"plot": "Arranca con el brutal asesinato de un hombre, presuntamente, a manos de su hijo Marcos, un adolescente sin problemas aparentes. El incidente cae como un jarro de agua fría en el día a día de un instituto en donde alumnos y profesores se preguntan qué ha fallado para que un chico popular, casi perfecto, haya acabado cometiendo semejante crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900261",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34443:1"
+}
+]
+}
+}

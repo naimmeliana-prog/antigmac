@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-21",
+"episode_count": 1,
+"id": 654261653,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RXYDPM6l1gxhuwGyMQWiUfvYVu.jpg"
+}
+],
+"info": {
+"name": "ES - Desaparecido (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RXYDPM6l1gxhuwGyMQWiUfvYVu.jpg",
+"plot": "",
+"cast": "",
+"director": "Xabi Zabaleta, Marta Grau",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900284",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1793441772",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-21",
+"plot": "Tras pasar una noche en el monte con su grupo de amigos, Jon, un joven vasco, desaparece sin dejar rastro. La única pista es un inquietante vídeo que él mismo publica en redes sociales minutos antes de perderse su pista.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900284",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44393:1"
+}
+]
+}
+}

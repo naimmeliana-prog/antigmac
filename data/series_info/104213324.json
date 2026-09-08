@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-27",
+"episode_count": 1,
+"id": 88533771,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/outynTksfSbBoVxBdr73rfhAfFK.jpg"
+}
+],
+"info": {
+"name": "ES - Lucrecia: Un crimen de odio (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/outynTksfSbBoVxBdr73rfhAfFK.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900611",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1369012704",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-27",
+"plot": "Una mujer negra, pobre y extranjera es asesinada a tiros en Madrid. El crimen provoca una reacción social sin precedentes. ¿Quién mató a Lucrecia? ¿Por qué? Los primeros indicios apuntan a grupos de ultraderecha. Tres décadas después, la historia de Lucrecia se convierte en un viaje a las raíces del odio. Un relato emocionante, con material de archivo inédito, de un crimen que pasó a la historia como el primer asesinato racista de España.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900611",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NjgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34683:1"
+}
+]
+}
+}

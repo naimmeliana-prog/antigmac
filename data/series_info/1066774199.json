@@ -1,0 +1,209 @@
+{
+"seasons": [
+{
+"air_date": "2013-09-17",
+"episode_count": 8,
+"id": 1773814328,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/hgRMSOt7a1b8qyQR68vUixJPang.jpg"
+}
+],
+"info": {
+"name": "ES - Brooklyn Nine-Nine",
+"cover": "https://image.tmdb.org/t/p/w154/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Schur, Daniel J. Goor",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900279",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1547747870",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjo4LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:8"
+},
+{
+"id": "723316796",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:7"
+},
+{
+"id": "1589553402",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:6"
+},
+{
+"id": "282594697",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:5"
+},
+{
+"id": "1551532184",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:4"
+},
+{
+"id": "44932332",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:3"
+},
+{
+"id": "1768027308",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:2"
+},
+{
+"id": "342744803",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-17",
+"plot": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30293:1"
+}
+]
+}
+}

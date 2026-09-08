@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-18",
+"episode_count": 1,
+"id": 374887588,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUd957QtHo2TVY7k17o3nZ6DmzM.jpg"
+}
+],
+"info": {
+"name": "ES - Black Rabbit (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUd957QtHo2TVY7k17o3nZ6DmzM.jpg",
+"plot": "",
+"cast": "",
+"director": "Zach Baylin, Kate Susman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900278",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "278031823",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-18",
+"plot": "El dueño de un restaurante de moda se ve arrastrado al hampa neoyorquina cuando su hermano, un imán para los problemas, vuelve a la ciudad con unos usureros pisándole los talones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900278",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45631:1"
+}
+]
+}
+}

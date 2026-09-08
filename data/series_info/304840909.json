@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-12",
+"episode_count": 1,
+"id": 1559438206,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIrtJMuUfp4sbUJwrtOtOK1ZrMt.jpg"
+}
+],
+"info": {
+"name": "ES - Śleboda (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIrtJMuUfp4sbUJwrtOtOK1ZrMt.jpg",
+"plot": "",
+"cast": "",
+"director": "Małgorzata Fugiel-Kuźmińska, Michał Kuźmiński",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900554",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "62568723",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-12",
+"plot": "Anka Serafin, un joven antropólogo de Krakow, que escapa a las montañas en busca de sí misma y descubre accidentalmente un cadáver. Anka rápidamente se enreda en resolver un misterio de asesinato, y su destino está inextricablemente entrelazado con Sebastian, un periodista que busca sensaciones, y Jędrek, un policía local con el que era cercana cuando era adolescente.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900554",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41819:1"
+}
+]
+}
+}

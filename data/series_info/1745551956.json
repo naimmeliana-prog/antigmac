@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-21",
+"episode_count": 2,
+"id": 1483116934,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg"
+}
+],
+"info": {
+"name": "ES - Star Wars: Andor",
+"cover": "https://image.tmdb.org/t/p/w154/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+"plot": "",
+"cast": "",
+"director": "Tony Gilroy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900397",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1582550407",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-21",
+"plot": "Las aventuras del espía rebelde Cassian Andor durante los años de formación de la Rebelión antes de los eventos de Rogue One: A Star Wars Story. La serie explora historias llenas de espionaje y atrevidas misiones para devolver la esperanza a una galaxia dominada por un imperio despiadado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900397",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29916:2"
+},
+{
+"id": "459651614",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-21",
+"plot": "Las aventuras del espía rebelde Cassian Andor durante los años de formación de la Rebelión antes de los eventos de Rogue One: A Star Wars Story. La serie explora historias llenas de espionaje y atrevidas misiones para devolver la esperanza a una galaxia dominada por un imperio despiadado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900397",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29916:1"
+}
+]
+}
+}

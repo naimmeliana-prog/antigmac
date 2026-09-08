@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-07",
+"episode_count": 1,
+"id": 1084233560,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzFhFv100URxjZyBBLcMXu18WLJ.jpg"
+}
+],
+"info": {
+"name": "ES - Newtopia (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzFhFv100URxjZyBBLcMXu18WLJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Han Jin-won, Ji Ho-jin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900425",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1581353262",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-07",
+"plot": "Un soldado se enfrenta a un brote de zombis durante el servicio militar. Su novia, una ingeniera, navega por Seúl, plagada de zombis. Ambos luchan por la ciudad infestada de muertos vivientes, esforzándose por reunirse en medio del caos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41608:1"
+}
+]
+}
+}

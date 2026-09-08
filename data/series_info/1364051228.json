@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-29",
+"episode_count": 1,
+"id": 1179709198,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/scEEfSn1sNXpaERoESYSOtC9o33.jpg"
+}
+],
+"info": {
+"name": "ES - Fiasco total: Asalto al Área 51 (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/scEEfSn1sNXpaERoESYSOtC9o33.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900584",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1012460372",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-29",
+"plot": "En esta extraña historia real, una broma viral sobre el asalto a una base secreta de EE. UU desata una locura mediática con muchos memes y pone a los militares en alerta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44517:1"
+}
+]
+}
+}

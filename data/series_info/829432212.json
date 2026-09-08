@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-20",
+"episode_count": 1,
+"id": 1041240802,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AJK8pdTc2g8h21P8I7mvyLBKcx.jpg"
+}
+],
+"info": {
+"name": "ES - Courtois, La vuelta del número 1 (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AJK8pdTc2g8h21P8I7mvyLBKcx.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900569",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1387867067",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-20",
+"plot": "Un retrato que muestra el espectacular trabajo de Thibaut Courtois para llegar al tramo decisivo de la temporada tras la grave lesión sufrida justo antes del inicio de LaLiga. Experimentaremos la incertidumbre de pasar por el quirófano, el sacrificio que hizo para volver a su mejor nivel, su día a día con Mishel, sus hijos y familia, su intensa agenda y otras facetas hasta ahora desconocidas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NTYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36562:1"
+}
+]
+}
+}

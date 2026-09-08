@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-18",
+"episode_count": 1,
+"id": 1062224624,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg"
+}
+],
+"info": {
+"name": "ES - El caballero de los Siete Reinos (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg",
+"plot": "",
+"cast": "",
+"director": "George R. R. Martin, Ira Parker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900485",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "133812662",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-18",
+"plot": "Un siglo antes de los acontecimientos de \"Juego de Tronos\", dos héroes improbables vagaban por Poniente: un joven e ingenuo, pero valiente caballero, Ser Duncan el Alto, y su pequeño escudero, Egg. Ambientada en una época en la que el linaje Targaryen aún ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, poderosos enemigos y peligrosas hazañas aguardan a estos improbables e incomparables amigos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900485",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47621:1"
+}
+]
+}
+}

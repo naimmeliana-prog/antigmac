@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-21",
+"episode_count": 3,
+"id": 1534990034,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/xiB0hsxMpgxpJehYxUDhiUkg2w.jpg"
+}
+],
+"info": {
+"name": "ES - La casa del dragón",
+"cover": "https://image.tmdb.org/t/p/w154/xiB0hsxMpgxpJehYxUDhiUkg2w.jpg",
+"plot": "",
+"cast": "",
+"director": "George R. R. Martin, Ryan Condal",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900496",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1816871967",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-21",
+"plot": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMDEwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21010:3"
+},
+{
+"id": "770614440",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-21",
+"plot": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMDEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21010:2"
+},
+{
+"id": "46535859",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-21",
+"plot": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900496",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMDEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21010:1"
+}
+]
+}
+}

@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2008-09-09",
+"episode_count": 5,
+"id": 1618367497,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/cp1T5g1bVkxFciXR10kiiS381qt.jpg"
+}
+],
+"info": {
+"name": "ES - Fringe (Al límite)",
+"cover": "https://image.tmdb.org/t/p/w154/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+"plot": "",
+"cast": "",
+"director": "J.J. Abrams, Alex Kurtzman, Roberto Orci",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900491",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "385115190",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2008-09-09",
+"plot": "Fringe (en España Fringe: Al límite, también conocida por sus títulos alternativos Fringe: La gran conspiración y Ciencia al límite) es una serie de ciencia ficción estadounidense creada por J. J. Abrams, Alex Kurtzman y Roberto Orci. Se estrenó a través de Fox Broadcasting Company el 9 de septiembre de 2008 y terminó el 18 de enero de 2013 después de cien episodios recopilados en cinco temporadas. La serie sigue a Olivia Dunham (Anna Torv), Peter Bishop (Joshua Jackson) y Walter Bishop (John Noble), quienes son miembros de la División Fringe de la Oficina Federal de Investigación cuya base se encuentra en Boston, Estados Unidos, bajo órdenes del Departamento de Seguridad Nacional. El equipo utiliza métodos de la ciencia fringe para ayudar al FBI a investigar diversos casos inexplicables, a menudo horribles, que están relacionados con un misterioso universo paralelo. La serie ha sido considerada como una mezcla entre The X-Files, Altered States y The Twilight Zone.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900491",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODkwLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29890:5"
+},
+{
+"id": "273744922",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2008-09-09",
+"plot": "Fringe (en España Fringe: Al límite, también conocida por sus títulos alternativos Fringe: La gran conspiración y Ciencia al límite) es una serie de ciencia ficción estadounidense creada por J. J. Abrams, Alex Kurtzman y Roberto Orci. Se estrenó a través de Fox Broadcasting Company el 9 de septiembre de 2008 y terminó el 18 de enero de 2013 después de cien episodios recopilados en cinco temporadas. La serie sigue a Olivia Dunham (Anna Torv), Peter Bishop (Joshua Jackson) y Walter Bishop (John Noble), quienes son miembros de la División Fringe de la Oficina Federal de Investigación cuya base se encuentra en Boston, Estados Unidos, bajo órdenes del Departamento de Seguridad Nacional. El equipo utiliza métodos de la ciencia fringe para ayudar al FBI a investigar diversos casos inexplicables, a menudo horribles, que están relacionados con un misterioso universo paralelo. La serie ha sido considerada como una mezcla entre The X-Files, Altered States y The Twilight Zone.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900491",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODkwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29890:4"
+},
+{
+"id": "260956868",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2008-09-09",
+"plot": "Fringe (en España Fringe: Al límite, también conocida por sus títulos alternativos Fringe: La gran conspiración y Ciencia al límite) es una serie de ciencia ficción estadounidense creada por J. J. Abrams, Alex Kurtzman y Roberto Orci. Se estrenó a través de Fox Broadcasting Company el 9 de septiembre de 2008 y terminó el 18 de enero de 2013 después de cien episodios recopilados en cinco temporadas. La serie sigue a Olivia Dunham (Anna Torv), Peter Bishop (Joshua Jackson) y Walter Bishop (John Noble), quienes son miembros de la División Fringe de la Oficina Federal de Investigación cuya base se encuentra en Boston, Estados Unidos, bajo órdenes del Departamento de Seguridad Nacional. El equipo utiliza métodos de la ciencia fringe para ayudar al FBI a investigar diversos casos inexplicables, a menudo horribles, que están relacionados con un misterioso universo paralelo. La serie ha sido considerada como una mezcla entre The X-Files, Altered States y The Twilight Zone.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900491",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODkwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29890:3"
+},
+{
+"id": "1221769460",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2008-09-09",
+"plot": "Fringe (en España Fringe: Al límite, también conocida por sus títulos alternativos Fringe: La gran conspiración y Ciencia al límite) es una serie de ciencia ficción estadounidense creada por J. J. Abrams, Alex Kurtzman y Roberto Orci. Se estrenó a través de Fox Broadcasting Company el 9 de septiembre de 2008 y terminó el 18 de enero de 2013 después de cien episodios recopilados en cinco temporadas. La serie sigue a Olivia Dunham (Anna Torv), Peter Bishop (Joshua Jackson) y Walter Bishop (John Noble), quienes son miembros de la División Fringe de la Oficina Federal de Investigación cuya base se encuentra en Boston, Estados Unidos, bajo órdenes del Departamento de Seguridad Nacional. El equipo utiliza métodos de la ciencia fringe para ayudar al FBI a investigar diversos casos inexplicables, a menudo horribles, que están relacionados con un misterioso universo paralelo. La serie ha sido considerada como una mezcla entre The X-Files, Altered States y The Twilight Zone.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900491",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODkwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29890:2"
+},
+{
+"id": "181403107",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2008-09-09",
+"plot": "Fringe (en España Fringe: Al límite, también conocida por sus títulos alternativos Fringe: La gran conspiración y Ciencia al límite) es una serie de ciencia ficción estadounidense creada por J. J. Abrams, Alex Kurtzman y Roberto Orci. Se estrenó a través de Fox Broadcasting Company el 9 de septiembre de 2008 y terminó el 18 de enero de 2013 después de cien episodios recopilados en cinco temporadas. La serie sigue a Olivia Dunham (Anna Torv), Peter Bishop (Joshua Jackson) y Walter Bishop (John Noble), quienes son miembros de la División Fringe de la Oficina Federal de Investigación cuya base se encuentra en Boston, Estados Unidos, bajo órdenes del Departamento de Seguridad Nacional. El equipo utiliza métodos de la ciencia fringe para ayudar al FBI a investigar diversos casos inexplicables, a menudo horribles, que están relacionados con un misterioso universo paralelo. La serie ha sido considerada como una mezcla entre The X-Files, Altered States y The Twilight Zone.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900491",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29890:1"
+}
+]
+}
+}

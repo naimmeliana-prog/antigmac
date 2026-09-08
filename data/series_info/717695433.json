@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-01",
+"episode_count": 1,
+"id": 810096631,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kBDuliocr9cjiNQ6oCc371pKSC.jpg"
+}
+],
+"info": {
+"name": "ES - El turista",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kBDuliocr9cjiNQ6oCc371pKSC.jpg",
+"plot": "",
+"cast": "",
+"director": "Jack Williams, Harry Williams",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900489",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "117760033",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-01",
+"plot": "Cuando un hombre se despierta en el interior de Australia sin memoria, debe usar las pocas pistas que tiene para descubrir su identidad antes de que su pasado lo alcance.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900489",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30144:2"
+}
+]
+}
+}

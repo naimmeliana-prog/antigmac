@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-12",
+"episode_count": 1,
+"id": 1358564916,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fy35XZoMEBBjw8Nl1fgPpfVe5e.jpg"
+}
+],
+"info": {
+"name": "ES - Riot Women (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fy35XZoMEBBjw8Nl1fgPpfVe5e.jpg",
+"plot": "",
+"cast": "",
+"director": "Sally Wainwright",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900248",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "21900042",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-12",
+"plot": "Un grupo de mujeres de mediana edad forman una banda de punk-rock para participar en un concurso de talentos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900248",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48655:1"
+}
+]
+}
+}

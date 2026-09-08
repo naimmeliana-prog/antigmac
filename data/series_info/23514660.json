@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-27",
+"episode_count": 1,
+"id": 1286116969,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/rGZ7Hv2VvPHKM0Pav6cHyX4jaLN.jpg"
+}
+],
+"info": {
+"name": "ES - Super Pumped",
+"cover": "https://image.tmdb.org/t/p/w154/rGZ7Hv2VvPHKM0Pav6cHyX4jaLN.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Koppelman, David Levien",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900546",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "818342658",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-27",
+"plot": "El visionario Travis Kalanick lo arriesga todo guiado por una idea revolucionaria. Con el apoyo de Bill Gurley y Ariana Huffington, Kalanick no dudará en trapasar cualquier límite para convertir su 'start-up' Uber en un coloso multimillonario. Una ambición llena de agujeros y escándalos que no tardan en salir a la luz para convertir este prodigio en una bestia difícil de domar. En mitad de la agitación generada dentro de la meca mundial de la tecnología, Uber se revelaba como un prodigio y también como una amenaza: una fábula llena de batallas internas y externas con inesperadas consecuencias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900546",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29767:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-14",
+"episode_count": 1,
+"id": 1409210638,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJxfVRzKveiPrULbZ3PIqV1S8Pp.jpg"
+}
+],
+"info": {
+"name": "ES - Más allá del adiós (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJxfVRzKveiPrULbZ3PIqV1S8Pp.jpg",
+"plot": "",
+"cast": "",
+"director": "Hiroshi Kurosaki",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900332",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "24081391",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-14",
+"plot": "Saeko pierde a su prometido en un accidente y empieza a tener una conexión inexplicable con un extraño... y es que en él viven el corazón y los recuerdos del amor de su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900332",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38016:1"
+}
+]
+}
+}

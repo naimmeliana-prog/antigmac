@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-12",
+"episode_count": 1,
+"id": 213527536,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l28KTQLjtuwce7FVrlKis5INL3V.jpg"
+}
+],
+"info": {
+"name": "ES - Desde el mañana",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l28KTQLjtuwce7FVrlKis5INL3V.jpg",
+"plot": "",
+"cast": "",
+"director": "Daniel Écija",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900374",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1687405363",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-12",
+"plot": "Gabriela (Marta Hazas) acaba de mudarse a una nueva casa con su familia y, poco después de instalarse, descubre una veta de un mineral desconocido dentro de la vivienda. Al tocarlo, Gabriela vive una experiencia sobrenatural: de repente, verá fragmentos del futuro y en uno de ellos ve la muerte de su propia hija, Emma. Tras asegurarse de que estos episodios no están motivados por ningún desequilibrio mental, Gabriela empieza a tratar de cambiar el futuro de su hija con la ayuda de Andrés (Álex González), un inspector de policía cuya esposa tenía esas mismas visiones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900374",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34303:1"
+}
+]
+}
+}

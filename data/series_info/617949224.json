@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-19",
+"episode_count": 1,
+"id": 130686055,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGriSSNgdwTBR6choEELNKJIueL.jpg"
+}
+],
+"info": {
+"name": "ES - El futuro de la naturaleza (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGriSSNgdwTBR6choEELNKJIueL.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900576",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1316522113",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-19",
+"plot": "Las fuerzas de la naturaleza son todo un misterio. ¿Y si pudiéramos ver sus fuerzas invisibles en plena acción? ¿Cómo podríamos canalizar el poder de la naturaleza para restaurar nuestro planeta y revertir el cambio climático?\r\n\r\nHa llegado el momento de ver nuestro planeta de una manera completamente nueva. El ciclo del carbono en la naturaleza es uno de los ladrillos que conforman la vida y se encuentra en nuestros bosques, océanos y praderas en cantidades inconmensurables. Sin embargo, hemos liberado demasiado a la atmósfera poniendo en riesgo así nuestro futuro. Aun así, está en nuestras manos detener las emisiones y devolver este carbono a su lugar. Nuestra mejor aliada: la naturaleza. Restaurar su abundancia es el mayor reto de nuestra era, pero no es imposible. Si el futuro de la naturaleza mejora, nuestro destino también lo hará.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900576",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41821:1"
+}
+]
+}
+}

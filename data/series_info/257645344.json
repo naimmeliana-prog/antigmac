@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-31",
+"episode_count": 2,
+"id": 1239791032,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFE6eGE9WSENeFjLRQTHjYnp4Az.jpg"
+}
+],
+"info": {
+"name": "ES - Luz en la oscuridad (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFE6eGE9WSENeFjLRQTHjYnp4Az.jpg",
+"plot": "",
+"cast": "",
+"director": "Carles Porta",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900242",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1978109211",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-31",
+"plot": "'Luz en la oscuridad' de Carles Porta es un paso más en el género que aúna la experiencia de Carles Porta y su respeto por las víctimas y los implicados en los casos con una narración elegante y sutil y un rodaje y montaje muy cuidados. El título de la serie es el concepto narrativo y formal que dirige los capítulos: poner luz en las partes oscuras de nuestra sociedad con el relato de crímenes que han sucedido en los últimos años en España.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900242",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NjgyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34682:2"
+},
+{
+"id": "1023149891",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-31",
+"plot": "'Luz en la oscuridad' de Carles Porta es un paso más en el género que aúna la experiencia de Carles Porta y su respeto por las víctimas y los implicados en los casos con una narración elegante y sutil y un rodaje y montaje muy cuidados. El título de la serie es el concepto narrativo y formal que dirige los capítulos: poner luz en las partes oscuras de nuestra sociedad con el relato de crímenes que han sucedido en los últimos años en España.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900242",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NjgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34682:1"
+}
+]
+}
+}

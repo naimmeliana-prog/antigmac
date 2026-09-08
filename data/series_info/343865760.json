@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-29",
+"episode_count": 1,
+"id": 253592163,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg"
+}
+],
+"info": {
+"name": "ES - Furioso (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+"plot": "",
+"cast": "",
+"director": "Igor Verde, Gustavo Bragança",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900301",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1690461095",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-29",
+"plot": "Un hombre herido y amnésico encuentra refugio en un entrenador de MMA. Atrapado entre la esperanza de un nuevo futuro y el tormento de un pasado peligroso, empieza a luchar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900301",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51178:1"
+}
+]
+}
+}

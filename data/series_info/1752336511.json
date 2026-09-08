@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-10-04",
+"episode_count": 1,
+"id": 1036203587,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg"
+}
+],
+"info": {
+"name": "ES - The Walking Dead: World Beyond",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg",
+"plot": "",
+"cast": "",
+"director": "Scott M. Gimple, Matthew Negrete",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900434",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1886712177",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-10-04",
+"plot": "Dos hermanas y sus amigos dejarán atrás un hogar cómodo y seguro para enfrentarse a diferentes peligros -tanto vivos como muertos- en esta aventura. Perseguidos por aquellos que intentan protegerlos y otros que intentan hacerles daño, los protagonistas experimentarán una transformación personal en un terreno peligroso, poniendo en duda todo lo que conocen sobre el mundo y ellos mismos. Unos se convertirán en héroes y otros, en villanos, pero al final, todos encontrarán las respuestas que buscan.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900434",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8238:1"
+}
+]
+}
+}

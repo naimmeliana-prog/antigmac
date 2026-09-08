@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-22",
+"episode_count": 1,
+"id": 1943305138,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqLcyZ2vkWVmCzODU6vtc71RHBr.jpg"
+}
+],
+"info": {
+"name": "ES - Prime Target (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqLcyZ2vkWVmCzODU6vtc71RHBr.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Thompson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900465",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "568449450",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-22",
+"plot": "Un brillante estudiante de matemáticas está a punto de lograr un hito cuando un misterioso enemigo le para los pies. Para encontrar respuestas y salvar su vida, se alía con una agente del gobierno y, juntos, tratarán de destapar una conspiración de alto riesgo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900465",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41286:1"
+}
+]
+}
+}

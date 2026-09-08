@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-08-06",
+"episode_count": 3,
+"id": 551556964,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzwFdjfh0TvkmDEBe5orhQ95JXz.jpg"
+}
+],
+"info": {
+"name": "ES - Star Trek: Lower Decks",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzwFdjfh0TvkmDEBe5orhQ95JXz.jpg",
+"plot": "",
+"cast": "",
+"director": "Mike McMahan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900541",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "682855370",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-08-06",
+"plot": "Las vidas de la tripulación de apoyo que sirve en uno de los barcos menos importantes de la Flota Estelar, el U.S.S. Cerritos, en 2380. Alférez Mariner, Boimler, Rutherford y Tendi tienen que mantenerse al día con sus deberes y sus vidas sociales, a menudo mientras el barco se ve sacudido por una multitud de anomalías de ciencia ficción.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzExLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34311:3"
+},
+{
+"id": "1614550994",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-08-06",
+"plot": "Las vidas de la tripulación de apoyo que sirve en uno de los barcos menos importantes de la Flota Estelar, el U.S.S. Cerritos, en 2380. Alférez Mariner, Boimler, Rutherford y Tendi tienen que mantenerse al día con sus deberes y sus vidas sociales, a menudo mientras el barco se ve sacudido por una multitud de anomalías de ciencia ficción.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzExLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34311:2"
+},
+{
+"id": "1009727508",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-08-06",
+"plot": "Las vidas de la tripulación de apoyo que sirve en uno de los barcos menos importantes de la Flota Estelar, el U.S.S. Cerritos, en 2380. Alférez Mariner, Boimler, Rutherford y Tendi tienen que mantenerse al día con sus deberes y sus vidas sociales, a menudo mientras el barco se ve sacudido por una multitud de anomalías de ciencia ficción.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34311:1"
+}
+]
+}
+}

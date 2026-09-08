@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2012-06-26",
+"episode_count": 6,
+"id": 1265360681,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ysGUKnnR1pGYIndjXWcjupGbWpS.jpg"
+}
+],
+"info": {
+"name": "ES - Line of Duty",
+"cover": "https://image.tmdb.org/t/p/w154/ysGUKnnR1pGYIndjXWcjupGbWpS.jpg",
+"plot": "",
+"cast": "",
+"director": "Jed Mercurio",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900323",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "925850951",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-26",
+"plot": "DS Steve Arnott es transferido a la unidad de policía anti-corrupción después de la muerte del hombre equivocado en un tiroteo durante una operación antiterrorista por otro policía. La nueva unidad, AC12, liderada por Ted Hastings, se ocupa de los casos de corrupción que dentro del cuerpo de policía. El inspector jefe Tony Gates, recientemente galardonado con un premio anual, entró en la mira de los agentes de la unidad especial. Poco a poco van descubriendo que la corrupción puede llegar más allá de lo que pensaban.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29894:5"
+},
+{
+"id": "1900364031",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-26",
+"plot": "DS Steve Arnott es transferido a la unidad de policía anti-corrupción después de la muerte del hombre equivocado en un tiroteo durante una operación antiterrorista por otro policía. La nueva unidad, AC12, liderada por Ted Hastings, se ocupa de los casos de corrupción que dentro del cuerpo de policía. El inspector jefe Tony Gates, recientemente galardonado con un premio anual, entró en la mira de los agentes de la unidad especial. Poco a poco van descubriendo que la corrupción puede llegar más allá de lo que pensaban.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk0LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29894:6"
+},
+{
+"id": "69095482",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-26",
+"plot": "DS Steve Arnott es transferido a la unidad de policía anti-corrupción después de la muerte del hombre equivocado en un tiroteo durante una operación antiterrorista por otro policía. La nueva unidad, AC12, liderada por Ted Hastings, se ocupa de los casos de corrupción que dentro del cuerpo de policía. El inspector jefe Tony Gates, recientemente galardonado con un premio anual, entró en la mira de los agentes de la unidad especial. Poco a poco van descubriendo que la corrupción puede llegar más allá de lo que pensaban.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29894:4"
+},
+{
+"id": "317725822",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-26",
+"plot": "DS Steve Arnott es transferido a la unidad de policía anti-corrupción después de la muerte del hombre equivocado en un tiroteo durante una operación antiterrorista por otro policía. La nueva unidad, AC12, liderada por Ted Hastings, se ocupa de los casos de corrupción que dentro del cuerpo de policía. El inspector jefe Tony Gates, recientemente galardonado con un premio anual, entró en la mira de los agentes de la unidad especial. Poco a poco van descubriendo que la corrupción puede llegar más allá de lo que pensaban.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29894:3"
+},
+{
+"id": "1153443785",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-26",
+"plot": "DS Steve Arnott es transferido a la unidad de policía anti-corrupción después de la muerte del hombre equivocado en un tiroteo durante una operación antiterrorista por otro policía. La nueva unidad, AC12, liderada por Ted Hastings, se ocupa de los casos de corrupción que dentro del cuerpo de policía. El inspector jefe Tony Gates, recientemente galardonado con un premio anual, entró en la mira de los agentes de la unidad especial. Poco a poco van descubriendo que la corrupción puede llegar más allá de lo que pensaban.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29894:2"
+},
+{
+"id": "523395197",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-06-26",
+"plot": "DS Steve Arnott es transferido a la unidad de policía anti-corrupción después de la muerte del hombre equivocado en un tiroteo durante una operación antiterrorista por otro policía. La nueva unidad, AC12, liderada por Ted Hastings, se ocupa de los casos de corrupción que dentro del cuerpo de policía. El inspector jefe Tony Gates, recientemente galardonado con un premio anual, entró en la mira de los agentes de la unidad especial. Poco a poco van descubriendo que la corrupción puede llegar más allá de lo que pensaban.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900323",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29894:1"
+}
+]
+}
+}

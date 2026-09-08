@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-11",
+"episode_count": 1,
+"id": 323004768,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbvIjTvlBoFLeODc4IvgtwiIKWv.jpg"
+}
+],
+"info": {
+"name": "ES - Dentro de la CIA: secretos y espías (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbvIjTvlBoFLeODc4IvgtwiIKWv.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900572",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1629371278",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-11",
+"plot": "Esta serie recoge relatos asombrosos, poco difundidos y que influyeron de forma decisiva en la historia, revelando lo que realmente supone operar como espía más allá del peligro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NDI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49429:1"
+}
+]
+}
+}

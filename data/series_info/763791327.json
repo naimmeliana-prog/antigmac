@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2012-09-27",
+"episode_count": 7,
+"id": 691044611,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg"
+}
+],
+"info": {
+"name": "ES - Elementary (2012)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+"plot": "",
+"cast": "",
+"director": "Robert Doherty",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900527",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "746387017",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-09-27",
+"plot": "Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900527",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ5LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35549:7"
+},
+{
+"id": "884203518",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-09-27",
+"plot": "Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900527",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ5LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35549:6"
+},
+{
+"id": "890731208",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-09-27",
+"plot": "Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900527",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ5LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35549:5"
+},
+{
+"id": "37558859",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-09-27",
+"plot": "Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900527",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35549:4"
+},
+{
+"id": "1508912478",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-09-27",
+"plot": "Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900527",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35549:3"
+},
+{
+"id": "817689583",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-09-27",
+"plot": "Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900527",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35549:2"
+},
+{
+"id": "18842366",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-09-27",
+"plot": "Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900527",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35549:1"
+}
+]
+}
+}

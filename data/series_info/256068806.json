@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2004-03-21",
+"episode_count": 3,
+"id": 179930091,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg"
+}
+],
+"info": {
+"name": "ES - Deadwood",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg",
+"plot": "",
+"cast": "",
+"director": "David Milch",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900478",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "837441780",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2004-03-21",
+"plot": "Deadwood recrea la historia de la ciudad homónima del Estado de Montana durante el siglo XIX. El pueblo de Deadwood, existente en la realidad, aún hoy mantiene vivo el recuerdo de sus primeros colonos buscadores de oro. La serie ofrece una buena combinación de personajes reales, tramas noveladas y leyendas que narran las vivencias de una ciudad sin ley en un territorio robado. La serie presenta temas clásicos del género del western: juegos de azar, tiroteos, ahorcamientos, duelos, indios y colonos, nómadas buscadores de o y las chicas del Salloon; sin dejar de lado a los míticos personajes sacados de la vida real como Calamity Jane o Wild Bill.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900478",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34231:3"
+},
+{
+"id": "1796140923",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2004-03-21",
+"plot": "Deadwood recrea la historia de la ciudad homónima del Estado de Montana durante el siglo XIX. El pueblo de Deadwood, existente en la realidad, aún hoy mantiene vivo el recuerdo de sus primeros colonos buscadores de oro. La serie ofrece una buena combinación de personajes reales, tramas noveladas y leyendas que narran las vivencias de una ciudad sin ley en un territorio robado. La serie presenta temas clásicos del género del western: juegos de azar, tiroteos, ahorcamientos, duelos, indios y colonos, nómadas buscadores de o y las chicas del Salloon; sin dejar de lado a los míticos personajes sacados de la vida real como Calamity Jane o Wild Bill.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900478",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34231:2"
+},
+{
+"id": "1372980814",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2004-03-21",
+"plot": "Deadwood recrea la historia de la ciudad homónima del Estado de Montana durante el siglo XIX. El pueblo de Deadwood, existente en la realidad, aún hoy mantiene vivo el recuerdo de sus primeros colonos buscadores de oro. La serie ofrece una buena combinación de personajes reales, tramas noveladas y leyendas que narran las vivencias de una ciudad sin ley en un territorio robado. La serie presenta temas clásicos del género del western: juegos de azar, tiroteos, ahorcamientos, duelos, indios y colonos, nómadas buscadores de o y las chicas del Salloon; sin dejar de lado a los míticos personajes sacados de la vida real como Calamity Jane o Wild Bill.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900478",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34231:1"
+}
+]
+}
+}

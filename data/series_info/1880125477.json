@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-04-14",
+"episode_count": 2,
+"id": 254319258,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPYvsVSKnguG1ebIlW8MBNjgKCh.jpg"
+}
+],
+"info": {
+"name": "ES - Tierras de nadie",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPYvsVSKnguG1ebIlW8MBNjgKCh.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Watkins",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900434",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "170475332",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-14",
+"plot": "Un ranchero que lucha por su tierra y su familia se topa con un misterio insondable al borde del desierto de Wyoming, lo que lo obliga a enfrentarse con lo Desconocido de manera íntima y cósmica en el indómito oeste americano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900434",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNDE1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33415:2"
+},
+{
+"id": "1580024150",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-04-14",
+"plot": "Un ranchero que lucha por su tierra y su familia se topa con un misterio insondable al borde del desierto de Wyoming, lo que lo obliga a enfrentarse con lo Desconocido de manera íntima y cósmica en el indómito oeste americano.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900434",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33415:1"
+}
+]
+}
+}

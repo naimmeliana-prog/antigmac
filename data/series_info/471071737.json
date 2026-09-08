@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-02",
+"episode_count": 1,
+"id": 9638920,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AmJZd2W7Sv8O6p7bA1CdQHWuuj.jpg"
+}
+],
+"info": {
+"name": "ES - Piedone: A Cop in Naples (2024) (IT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AmJZd2W7Sv8O6p7bA1CdQHWuuj.jpg",
+"plot": "",
+"cast": "",
+"director": "Salvatore Esposito, Peppe Fiore",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900538",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "112756228",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-02",
+"plot": "De vuelta al cuerpo de policía tras ser suspendido, Vicenzo Palmieri, famoso por su rudo encanto, adopta formas creativas para llevar a los criminales ante la justicia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900538",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44411:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-23",
+"episode_count": 3,
+"id": 1842041368,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYNgC4Zd9NMcpMVug9NTgeIqfTy.jpg"
+}
+],
+"info": {
+"name": "ES - El agente nocturno (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYNgC4Zd9NMcpMVug9NTgeIqfTy.jpg",
+"plot": "",
+"cast": "",
+"director": "Shawn Ryan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900288",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1255929715",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-23",
+"plot": "Unidos por una llamada a medianoche, un agente del FBI y una experta en ciberseguridad deben desentrañar una intrincada red de conspiraciones políticas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900288",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjgyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41282:3"
+},
+{
+"id": "1939070227",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-23",
+"plot": "Unidos por una llamada a medianoche, un agente del FBI y una experta en ciberseguridad deben desentrañar una intrincada red de conspiraciones políticas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900288",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjgyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41282:2"
+},
+{
+"id": "106869262",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-23",
+"plot": "Unidos por una llamada a medianoche, un agente del FBI y una experta en ciberseguridad deben desentrañar una intrincada red de conspiraciones políticas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900288",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41282:1"
+}
+]
+}
+}

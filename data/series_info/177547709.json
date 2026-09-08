@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-01",
+"episode_count": 1,
+"id": 118227976,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx4pWzSDyIQJ3SKJo68tHmDdPS6.jpg"
+}
+],
+"info": {
+"name": "ES - Matthew Shardlake",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx4pWzSDyIQJ3SKJo68tHmDdPS6.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Butchard, C.J. Sansom",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900390",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1056695231",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-01",
+"plot": "Corre el año 1536. La vida del abogado Matthew Shardlake da un vuelco cuando Thomas Cromwell le envía a investigar una muerte sospechosa en el remoto monasterio de Scarnsea. El engaño y la corrupción están a la orden del día y pronto queda claro que el asesinato no es el primero. Shardlake se ve envuelto en una red de mentiras que amenaza no solo su integridad, sino también su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900390",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyNTM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32538:1"
+}
+]
+}
+}

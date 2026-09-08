@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-15",
+"episode_count": 1,
+"id": 1688616131,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/75A6h6ZcMomjwOcePtx00MphydP.jpg"
+}
+],
+"info": {
+"name": "ES - La mujer del asesino (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/75A6h6ZcMomjwOcePtx00MphydP.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900533",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1443912319",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-15",
+"plot": "El marido de Beth, Tom, el médico del pueblo, es arrestado bajo sospecha de ser un asesino en serie. A medida que su esposa, incrédula, investiga con la ayuda su mejor amigo, descubre oscuros secretos que la llevan a preguntarse si realmente conoce al hombre con el que se casó.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900533",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42310:1"
+}
+]
+}
+}

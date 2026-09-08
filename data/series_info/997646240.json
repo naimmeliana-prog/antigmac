@@ -1,0 +1,253 @@
+{
+"seasons": [
+{
+"air_date": "2013-09-23",
+"episode_count": 10,
+"id": 45449793,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg"
+}
+],
+"info": {
+"name": "ES - The Blacklist - (2013)",
+"cover": "https://image.tmdb.org/t/p/w154/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Bokenkamp",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900352",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1137602727",
+"episode_num": 1,
+"title": "Season 10",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjoxMCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "25424:10"
+},
+{
+"id": "1513118693",
+"episode_num": 1,
+"title": "Season 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjo5LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:9"
+},
+{
+"id": "270421920",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjo4LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:8"
+},
+{
+"id": "922381835",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:7"
+},
+{
+"id": "1722500765",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:6"
+},
+{
+"id": "1011430491",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:5"
+},
+{
+"id": "191408177",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:4"
+},
+{
+"id": "892562845",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:3"
+},
+{
+"id": "1332674990",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:2"
+},
+{
+"id": "13937414",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-09-23",
+"plot": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900352",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25424:1"
+}
+]
+}
+}

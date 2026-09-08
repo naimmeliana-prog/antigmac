@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-20",
+"episode_count": 1,
+"id": 1319814872,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myTlch3h2jr3Ue6QUGkfWgCp6JH.jpg"
+}
+],
+"info": {
+"name": "ES - La residencia (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myTlch3h2jr3Ue6QUGkfWgCp6JH.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul William Davies",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900313",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "407581743",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-20",
+"plot": "Una excéntrica y brillante inspectora investiga un crimen en la Casa Blanca, donde todos los empleados e invitados a la cena de Estado esconden un secreto y podrían ser el asesino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900313",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42397:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-27",
+"episode_count": 1,
+"id": 161159426,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGjq6Jjd4fEYRmq5rdUNGX0uVqf.jpg"
+}
+],
+"info": {
+"name": "ES - Érase una vez en el espacio (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGjq6Jjd4fEYRmq5rdUNGX0uVqf.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900642",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1356825927",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-27",
+"plot": "Han pasado 63 años desde que Yuri Gagarin se convirtió en el primer ser humano en ir al espacio. Desde entonces, solo 676 personas lo han seguido. Pero esa cifra está a punto de cambiar. Nuestra visión del espacio y nuestra relación con él están cambiando, y esos cambios nos impactarán a todos. Esta serie documental cuenta la extraordinaria, emocionante y conmovedora historia de la humanidad en el espacio.\r\n\r\nEstamos al borde de una nueva carrera espacial y una nueva era para la humanidad. Aquel que controle el espacio, controlará el mundo. Para prepararnos para el futuro, debemos fijarnos en el pasado, y en las historias de todos aquellos que nos han llevado hasta esta nueva frontera.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900642",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47734:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-25",
+"episode_count": 1,
+"id": 1660925604,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXo98MnspyLXYUfU2SfviYxwvk8.jpg"
+}
+],
+"info": {
+"name": "ES - Caminando entre dinosaurios (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXo98MnspyLXYUfU2SfviYxwvk8.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900565",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "686410079",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-25",
+"plot": "Seis excavaciones. Seis historias. Seis dinosaurios prehistóricos que nos harán redescubrir como eran los animales más grandes que han habitado La Tierra. Esta producción de BBC Studios, para BBC y PBS coproducida con dos grandes cadenas europeas ZDF, France TV, nos descubre la increíble vida de los dinosaurios, desenterrados en excavaciones reales, en una reinvención de la icónica serie documental de 1999.\r\n\r\nPaleontólogos de renombre mundial se encuentran en excavaciones de todo el mundo, desde las dunas de Marruecos, pasando por Portugal y llegando hasta las impresionantes montañas de Canadá. Allí descubren nuevos huesos de dinosaurios que revelan momentos clave en la vida de estas criaturas. Desde el Triceratops hasta el mayor depredador que ha existido, el Spinosaurus, nos permiten imaginar cómo pudieron vivir estas criaturas extraordinarias para que podamos narrar sus historias y ellos puedan volver a caminar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900565",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44392:1"
+}
+]
+}
+}

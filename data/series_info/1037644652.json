@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-15",
+"episode_count": 1,
+"id": 144510097,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YjZ2U8m5hphz7RmEYmegQB0oTt.jpg"
+}
+],
+"info": {
+"name": "ES - Coppola, el representante (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YjZ2U8m5hphz7RmEYmegQB0oTt.jpg",
+"plot": "",
+"cast": "",
+"director": "Ariel Winograd",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900372",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "233600885",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-15",
+"plot": "Sigue la increíble y polémica vida de Guillermo Coppola, el legendario representante del futbolista Diego Armando Maradona.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900372",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35679:1"
+}
+]
+}
+}

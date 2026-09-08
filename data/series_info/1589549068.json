@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-31",
+"episode_count": 1,
+"id": 440610596,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qISSENUWqr5S0ZVacTMOMpeVVTZ.jpg"
+}
+],
+"info": {
+"name": "ES - Los Borbones: Una familia real",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qISSENUWqr5S0ZVacTMOMpeVVTZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Aitor Gabilondo, Ana Pastor",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900608",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1217089533",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-31",
+"plot": "'Los Borbones: una familia real' cuenta la historia reciente de la corona española, una de las monarquías más antiguas de Europa y pone el foco en la sucesión y en el reinado de Juan Carlos I, que concluyó con la abdicación del monarca. 'Los Borbones: una familia real' muestra una mirada única y sin precedentes sobre la Familia Real Española, con imágenes y testimonios de gran impacto e interés público. El relato de 'Los Borbones: una familia real' se construye a partir del archivo histórico, imágenes y documentos inéditos, recreaciones y los testimonios de historiadores, escritores, periodistas, colaboradores y personas cercanas a la Casa Real.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900608",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34433:1"
+}
+]
+}
+}

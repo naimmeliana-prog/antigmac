@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-25",
+"episode_count": 1,
+"id": 601040012,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKq35wAuFRcwDXnO854LE3nzUE0.jpg"
+}
+],
+"info": {
+"name": "ES - [MX] Los Reyes de oriente (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKq35wAuFRcwDXnO854LE3nzUE0.jpg",
+"plot": "",
+"cast": "",
+"director": "Leticia López Margalli",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900360",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "581754111",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-25",
+"plot": "Un trío muy unido reina en un bullicioso barrio de la Ciudad de México, hasta que una repentina tragedia rompe sus coronas y convierte a dos de ellos en rivales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900360",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NzQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36740:1"
+}
+]
+}
+}

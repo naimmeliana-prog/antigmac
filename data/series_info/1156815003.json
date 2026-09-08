@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-14",
+"episode_count": 1,
+"id": 1909654082,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpbYZbnHpWYI2gMICnenCuAXmCS.jpg"
+}
+],
+"info": {
+"name": "ES - Celeste (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpbYZbnHpWYI2gMICnenCuAXmCS.jpg",
+"plot": "",
+"cast": "",
+"director": "Diego San José",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900233",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "921246317",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-14",
+"plot": "Sara Santano es una inspectora de hacienda que ha dedicado toda su vida a la recaudación de impuestos. Después de más de treinta años entregados a la Agencia Tributaria, decide prejubilarse. Sin embargo, el último día recibe el encargo más importante de su carrera: demostrar que Celeste, la gran estrella musical latina, reside en España y tiene que pagar aquí sus impuestos. Para ello, Sara tendrá que aparcar su vida para recorrer la de Celeste y demostrar que pasó 184 días en el país.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900233",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38018:1"
+}
+]
+}
+}

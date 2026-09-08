@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-07-28",
+"episode_count": 3,
+"id": 942752199,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEHMfWe7pCWMelEkdrtRvVULopT.jpg"
+}
+],
+"info": {
+"name": "ES - Pennyworth: The Origin of Batman's Butler",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEHMfWe7pCWMelEkdrtRvVULopT.jpg",
+"plot": "",
+"cast": "",
+"director": "Bruno Heller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900506",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1101692030",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-28",
+"plot": "La historia original del legendario mayordomo de Bruce Wayne, Alfred Pennyworth, un ex soldado británico de SAS que forma una compañía de seguridad y va a trabajar con Thomas Wayne, el padre multimillonario de Bruce, en la década de 1960 en Londres.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31641:3"
+},
+{
+"id": "1330722634",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-28",
+"plot": "La historia original del legendario mayordomo de Bruce Wayne, Alfred Pennyworth, un ex soldado británico de SAS que forma una compañía de seguridad y va a trabajar con Thomas Wayne, el padre multimillonario de Bruce, en la década de 1960 en Londres.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31641:2"
+},
+{
+"id": "238916977",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-28",
+"plot": "La historia original del legendario mayordomo de Bruce Wayne, Alfred Pennyworth, un ex soldado británico de SAS que forma una compañía de seguridad y va a trabajar con Thomas Wayne, el padre multimillonario de Bruce, en la década de 1960 en Londres.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31641:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-13",
+"episode_count": 1,
+"id": 141859739,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9EuDaqFRui2nVqE4CixB7Umx9AO.jpg"
+}
+],
+"info": {
+"name": "ES - Jane - (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/9EuDaqFRui2nVqE4CixB7Umx9AO.jpg",
+"plot": "",
+"cast": "",
+"director": "J.J. Johnson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900451",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1998360334",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-13",
+"plot": "La ecologista en ciernes Jane es una niña de 9 años en una búsqueda para salvar animales en peligro de extinción. Usando su poderosa imaginación, Jane lleva a sus mejores amigos David y Greybeard el chimpancé a aventuras épicas para ayudar a proteger a los animales salvajes de todo el mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900451",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0Njg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24685:1"
+}
+]
+}
+}

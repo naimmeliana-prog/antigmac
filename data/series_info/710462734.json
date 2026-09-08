@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-24",
+"episode_count": 1,
+"id": 945985182,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmMd8VAWtCHn9SK8LAYSTsFGtx.jpg"
+}
+],
+"info": {
+"name": "ES - Custodia repartida (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmMd8VAWtCHn9SK8LAYSTsFGtx.jpg",
+"plot": "",
+"cast": "",
+"director": "Juanjo Moscardó Rius, María Mínguez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900373",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "368488017",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-24",
+"plot": "Cris y Diego, una pareja que acaba de separarse, intentarán solventar la situación de la manera más adulta posible por el bien de su hija, que tiene 5 años. Sin embargo, no será nada fácil, ya que ambos volverán a vivir a casa de sus padres, ya que Cris pasa mucho tiempo en el trabajo y Diego no cuenta con un salario fijo. La dura realidad hará que separación deje de ser amistosa de un momento para otro, aunque los abuelos estarán encantados.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900373",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41281:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-05",
+"episode_count": 1,
+"id": 1989616715,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
+}
+],
+"info": {
+"name": "ES - Ligas (LQ) (2026) (IT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZJsHSCcS42IK1SA9sR0Un10coE.jpg",
+"plot": "",
+"cast": "",
+"director": "Federico Baccomo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900534",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "494052883",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-05",
+"plot": "Lorenzo Ligas es una mente jurídica brillante, reconocido por su estilo irónico y controvertido se enfrenta a un repentino declive en su carrera debido a un escándalo que le obliga a abandonar el prestigioso bufete del que era socio. Decidido a recuperar s u estatus en la escena legal de Milán, se sumerge en casos complejos y de gran repercusión mediática. Ligas afronta estos desafíos utilizando su excepcional capacidad analítica para interpretar a las personas a través de su comportamiento, su forma de hablar y de vestir. Mientras comienza a disfrutar de nuevo del dulce sabor del éxito, su vida personal da un giro complicado cuando su exmujer solicita la custodia de su hija de ocho años. Luca Argentero protagoniza la serie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900534",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50088:1"
+}
+]
+}
+}

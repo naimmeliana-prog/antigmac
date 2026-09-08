@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-30",
+"episode_count": 1,
+"id": 474643359,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZQUJiG2scf8APdnMnMilB8A9GS.jpg"
+}
+],
+"info": {
+"name": "ES - Under Salt Marsh (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZQUJiG2scf8APdnMnMilB8A9GS.jpg",
+"plot": "",
+"cast": "",
+"director": "Claire Oakley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900552",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "748688042",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-30",
+"plot": "Morfa Halen is a tight-knit Welsh town precariously nestled between towering mountains and a fast-encroaching sea that threatens its very existence. As a once-in-a-generation storm begins to gather far out at sea, former detective turned teacher Jackie Ellis discovers the body of her 8-year-old pupil, Cefin, seemingly drowned. The discovery sends shockwaves through the community, reviving the ghost of an unsolved cold case that rocked the town three years prior - the disappearance of Jackie’s niece, Nessa, which cost her career.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900552",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49083:1"
+}
+]
+}
+}

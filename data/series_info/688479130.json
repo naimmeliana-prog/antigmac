@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-19",
+"episode_count": 1,
+"id": 1932490009,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSaPOors7XFNRtP9qsIZ7oeLgkh.jpg"
+}
+],
+"info": {
+"name": "ES - El refugio atómico (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSaPOors7XFNRtP9qsIZ7oeLgkh.jpg",
+"plot": "",
+"cast": "",
+"director": "Álex Pina, Esther Martínez Lobato",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900294",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1389739068",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-19",
+"plot": "Tras refugiarse en un búnker de lujo para millonarios, dos familias deben hacer frente a la herida que las separó mientras crece la amenaza de un conflicto global sin precedentes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900294",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45632:1"
+}
+]
+}
+}

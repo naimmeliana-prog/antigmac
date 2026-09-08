@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2007-07-19",
+"episode_count": 7,
+"id": 1322800080,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg"
+}
+],
+"info": {
+"name": "ES - Mad Men",
+"cover": "https://image.tmdb.org/t/p/w154/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+"plot": "",
+"cast": "",
+"director": "Matthew Weiner",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900423",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "62830399",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-07-19",
+"plot": "Lo que eres, lo que quieres o lo que amas, no importa. Se trata todo de como lo vendes. Creada por el productor y guionista de Los Soprano, Matthew Weiner, Mad Men, es una provocativa serie acerca de como vender la verdad. Ambientada en el Nueva York de los años 60, la serie gira en torno a las vidas de unos hombres y mujeres sin piedad y muy competitivos que trabajan en el mundo de la publicidad, ubicado en Madison Avenue, un mundo guiado por el ego y el amor propio de sus protagonistas, acostumbrados a hacer un arte de la venta mientras sus vidas privadas quedan bastante apartadas de sus prioridades. La serie refleja además de forma auténtica y realista los roles de hombres y mujeres en esta época, mientras exploran la verdadera naturaleza humana bajo la fachada de los valores familiares tradicionales de la década de los sesenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ1LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29445:7"
+},
+{
+"id": "458879441",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-07-19",
+"plot": "Lo que eres, lo que quieres o lo que amas, no importa. Se trata todo de como lo vendes. Creada por el productor y guionista de Los Soprano, Matthew Weiner, Mad Men, es una provocativa serie acerca de como vender la verdad. Ambientada en el Nueva York de los años 60, la serie gira en torno a las vidas de unos hombres y mujeres sin piedad y muy competitivos que trabajan en el mundo de la publicidad, ubicado en Madison Avenue, un mundo guiado por el ego y el amor propio de sus protagonistas, acostumbrados a hacer un arte de la venta mientras sus vidas privadas quedan bastante apartadas de sus prioridades. La serie refleja además de forma auténtica y realista los roles de hombres y mujeres en esta época, mientras exploran la verdadera naturaleza humana bajo la fachada de los valores familiares tradicionales de la década de los sesenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ1LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29445:6"
+},
+{
+"id": "1232426560",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-07-19",
+"plot": "Lo que eres, lo que quieres o lo que amas, no importa. Se trata todo de como lo vendes. Creada por el productor y guionista de Los Soprano, Matthew Weiner, Mad Men, es una provocativa serie acerca de como vender la verdad. Ambientada en el Nueva York de los años 60, la serie gira en torno a las vidas de unos hombres y mujeres sin piedad y muy competitivos que trabajan en el mundo de la publicidad, ubicado en Madison Avenue, un mundo guiado por el ego y el amor propio de sus protagonistas, acostumbrados a hacer un arte de la venta mientras sus vidas privadas quedan bastante apartadas de sus prioridades. La serie refleja además de forma auténtica y realista los roles de hombres y mujeres en esta época, mientras exploran la verdadera naturaleza humana bajo la fachada de los valores familiares tradicionales de la década de los sesenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ1LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29445:5"
+},
+{
+"id": "1439538297",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-07-19",
+"plot": "Lo que eres, lo que quieres o lo que amas, no importa. Se trata todo de como lo vendes. Creada por el productor y guionista de Los Soprano, Matthew Weiner, Mad Men, es una provocativa serie acerca de como vender la verdad. Ambientada en el Nueva York de los años 60, la serie gira en torno a las vidas de unos hombres y mujeres sin piedad y muy competitivos que trabajan en el mundo de la publicidad, ubicado en Madison Avenue, un mundo guiado por el ego y el amor propio de sus protagonistas, acostumbrados a hacer un arte de la venta mientras sus vidas privadas quedan bastante apartadas de sus prioridades. La serie refleja además de forma auténtica y realista los roles de hombres y mujeres en esta época, mientras exploran la verdadera naturaleza humana bajo la fachada de los valores familiares tradicionales de la década de los sesenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29445:4"
+},
+{
+"id": "1679341181",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-07-19",
+"plot": "Lo que eres, lo que quieres o lo que amas, no importa. Se trata todo de como lo vendes. Creada por el productor y guionista de Los Soprano, Matthew Weiner, Mad Men, es una provocativa serie acerca de como vender la verdad. Ambientada en el Nueva York de los años 60, la serie gira en torno a las vidas de unos hombres y mujeres sin piedad y muy competitivos que trabajan en el mundo de la publicidad, ubicado en Madison Avenue, un mundo guiado por el ego y el amor propio de sus protagonistas, acostumbrados a hacer un arte de la venta mientras sus vidas privadas quedan bastante apartadas de sus prioridades. La serie refleja además de forma auténtica y realista los roles de hombres y mujeres en esta época, mientras exploran la verdadera naturaleza humana bajo la fachada de los valores familiares tradicionales de la década de los sesenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29445:3"
+},
+{
+"id": "1690197672",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-07-19",
+"plot": "Lo que eres, lo que quieres o lo que amas, no importa. Se trata todo de como lo vendes. Creada por el productor y guionista de Los Soprano, Matthew Weiner, Mad Men, es una provocativa serie acerca de como vender la verdad. Ambientada en el Nueva York de los años 60, la serie gira en torno a las vidas de unos hombres y mujeres sin piedad y muy competitivos que trabajan en el mundo de la publicidad, ubicado en Madison Avenue, un mundo guiado por el ego y el amor propio de sus protagonistas, acostumbrados a hacer un arte de la venta mientras sus vidas privadas quedan bastante apartadas de sus prioridades. La serie refleja además de forma auténtica y realista los roles de hombres y mujeres en esta época, mientras exploran la verdadera naturaleza humana bajo la fachada de los valores familiares tradicionales de la década de los sesenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29445:2"
+},
+{
+"id": "1290469355",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-07-19",
+"plot": "Lo que eres, lo que quieres o lo que amas, no importa. Se trata todo de como lo vendes. Creada por el productor y guionista de Los Soprano, Matthew Weiner, Mad Men, es una provocativa serie acerca de como vender la verdad. Ambientada en el Nueva York de los años 60, la serie gira en torno a las vidas de unos hombres y mujeres sin piedad y muy competitivos que trabajan en el mundo de la publicidad, ubicado en Madison Avenue, un mundo guiado por el ego y el amor propio de sus protagonistas, acostumbrados a hacer un arte de la venta mientras sus vidas privadas quedan bastante apartadas de sus prioridades. La serie refleja además de forma auténtica y realista los roles de hombres y mujeres en esta época, mientras exploran la verdadera naturaleza humana bajo la fachada de los valores familiares tradicionales de la década de los sesenta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NDQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29445:1"
+}
+]
+}
+}

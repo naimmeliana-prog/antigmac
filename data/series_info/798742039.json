@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-28",
+"episode_count": 1,
+"id": 784099337,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR8ldiTmgeZ2JBJTdvSdzPE37KO.jpg"
+}
+],
+"info": {
+"name": "ES - Zombies: La serie re-animada (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR8ldiTmgeZ2JBJTdvSdzPE37KO.jpg",
+"plot": "",
+"cast": "",
+"director": "Disney",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900405",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1797104872",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-28",
+"plot": "En el último año de instituto de Zed y Addison, Seabrook se ha convertido en un refugio para monstruos y humanos, pero cuando unos forasteros intergalácticos aparecen para competir en el Cheer-Off, Seabrook sospecha que pueden querer algo más que una competición amistosa",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900405",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35626:1"
+}
+]
+}
+}

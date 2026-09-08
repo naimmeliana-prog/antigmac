@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-01",
+"episode_count": 1,
+"id": 1505980259,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9hCegIMzouCsbnEuhoDBPSUj0gP.jpg"
+}
+],
+"info": {
+"name": "ES - Black Cake",
+"cover": "https://image.tmdb.org/t/p/w154/9hCegIMzouCsbnEuhoDBPSUj0gP.jpg",
+"plot": "",
+"cast": "",
+"director": "Marissa Jo Cerar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900370",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1972371467",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-01",
+"plot": "Eleanor Bennett pierde su batalla contra el cáncer y deja a sus hijos una memoria USB que contiene historias no contadas de su viaje desde el Caribe a América; las historias conmocionan a sus hijos y desafían todo lo que saben sobre el origen de su familia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900370",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30060:1"
+}
+]
+}
+}

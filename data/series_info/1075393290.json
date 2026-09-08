@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-31",
+"episode_count": 2,
+"id": 461042804,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/lZzzHJG9BKKJJ7Sl6085SlmaVhf.jpg"
+}
+],
+"info": {
+"name": "ES - C.A.E.M.: La forja del rescate",
+"cover": "https://image.tmdb.org/t/p/w154/lZzzHJG9BKKJJ7Sl6085SlmaVhf.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900564",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "869540317",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-31",
+"plot": "Diecinueve alumnos llegan a la escuela de Candanchú con un mismo objetivo: convertirse en rescatadores de montaña. La exigencia es máxima y sus instructores solo van a tolerar la excelencia. Durante nueve meses seguiremos su formación como socorristas en las localizaciones de montaña más espectaculares, con paisajes tan increíbles como los de Pirineos, Picos de Europa o los Alpes franceses.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900564",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30294:2"
+},
+{
+"id": "1334621383",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-31",
+"plot": "Diecinueve alumnos llegan a la escuela de Candanchú con un mismo objetivo: convertirse en rescatadores de montaña. La exigencia es máxima y sus instructores solo van a tolerar la excelencia. Durante nueve meses seguiremos su formación como socorristas en las localizaciones de montaña más espectaculares, con paisajes tan increíbles como los de Pirineos, Picos de Europa o los Alpes franceses.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900564",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMjk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30294:1"
+}
+]
+}
+}

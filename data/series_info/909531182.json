@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2005-08-28",
+"episode_count": 2,
+"id": 305468289,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eqyFY5rjtMiEQEj6IG9J8z9AGz.jpg"
+}
+],
+"info": {
+"name": "ES - Roma",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eqyFY5rjtMiEQEj6IG9J8z9AGz.jpg",
+"plot": "",
+"cast": "",
+"director": "John Milius, William J. MacDonald, Bruno Heller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900508",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "350093245",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-08-28",
+"plot": "Cuatro siglos después de la fundación de la República (509 a.C.), Roma es la ciudad más poderosa del mundo, una metrópoli cosmopolita de un millón de personas, el epicentro de un imperio en expansión. La República se basó en la separación de poderes y creó los mecanismos necesarios para evitar que un solo hombre acumulara demasiado poder. Sin embargo, con el paso del tiempo, la corrupción, el lujo y los excesos fueron carcomiendo esos principios.\r\n\r\nLa serie es una historia sobre la vida tanto de romanos ilustres como ordinarios, situada en los últimos días de la República Romana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900508",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzIyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34322:2"
+},
+{
+"id": "1258173442",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-08-28",
+"plot": "Cuatro siglos después de la fundación de la República (509 a.C.), Roma es la ciudad más poderosa del mundo, una metrópoli cosmopolita de un millón de personas, el epicentro de un imperio en expansión. La República se basó en la separación de poderes y creó los mecanismos necesarios para evitar que un solo hombre acumulara demasiado poder. Sin embargo, con el paso del tiempo, la corrupción, el lujo y los excesos fueron carcomiendo esos principios.\r\n\r\nLa serie es una historia sobre la vida tanto de romanos ilustres como ordinarios, situada en los últimos días de la República Romana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900508",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34322:1"
+}
+]
+}
+}

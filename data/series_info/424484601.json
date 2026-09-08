@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-04",
+"episode_count": 1,
+"id": 244886736,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMKCeTCLwvl4ej4v2xL9r45P4nZ.jpg"
+}
+],
+"info": {
+"name": "ES - Light Shop (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMKCeTCLwvl4ej4v2xL9r45P4nZ.jpg",
+"plot": "",
+"cast": "",
+"director": "강풀, 김희원",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900385",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "860415852",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-04",
+"plot": "Cada noche, la tienda de luces ilumina el callejón oscuro y da la bienvenida a clientes misteriosos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900385",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42725:1"
+}
+]
+}
+}

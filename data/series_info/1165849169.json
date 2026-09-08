@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "1997-07-12",
+"episode_count": 6,
+"id": 1950613434,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg"
+}
+],
+"info": {
+"name": "ES - Oz",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Fontana",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900506",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1638085862",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-07-12",
+"plot": "En el estado de Nueva York se encuentra la Penitenciaría Oswald, a la que casi todo el mundo conoce como Oz. No es una cárcel cualquiera, sino una prisión de máxima seguridad en la que existe una unidad experimental, la Ciudad Esmeralda, con la que se pretende conseguir la rehabilitación de los presos. Limpia, pulcra, moderna y hasta hermosa, la Ciudad Esmeralda no deja de ser, sin embargo, una prisión y, como todas, peligrosa. A pesar de las modernas instalaciones y del énfasis en la recompensa de la rehabilitación, la prioridad allí sigue siendo la supervivencia... y el miedo es el compañero constante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAwLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34300:6"
+},
+{
+"id": "1592860606",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-07-12",
+"plot": "En el estado de Nueva York se encuentra la Penitenciaría Oswald, a la que casi todo el mundo conoce como Oz. No es una cárcel cualquiera, sino una prisión de máxima seguridad en la que existe una unidad experimental, la Ciudad Esmeralda, con la que se pretende conseguir la rehabilitación de los presos. Limpia, pulcra, moderna y hasta hermosa, la Ciudad Esmeralda no deja de ser, sin embargo, una prisión y, como todas, peligrosa. A pesar de las modernas instalaciones y del énfasis en la recompensa de la rehabilitación, la prioridad allí sigue siendo la supervivencia... y el miedo es el compañero constante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAwLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34300:5"
+},
+{
+"id": "92537917",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-07-12",
+"plot": "En el estado de Nueva York se encuentra la Penitenciaría Oswald, a la que casi todo el mundo conoce como Oz. No es una cárcel cualquiera, sino una prisión de máxima seguridad en la que existe una unidad experimental, la Ciudad Esmeralda, con la que se pretende conseguir la rehabilitación de los presos. Limpia, pulcra, moderna y hasta hermosa, la Ciudad Esmeralda no deja de ser, sin embargo, una prisión y, como todas, peligrosa. A pesar de las modernas instalaciones y del énfasis en la recompensa de la rehabilitación, la prioridad allí sigue siendo la supervivencia... y el miedo es el compañero constante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34300:4"
+},
+{
+"id": "1336478728",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-07-12",
+"plot": "En el estado de Nueva York se encuentra la Penitenciaría Oswald, a la que casi todo el mundo conoce como Oz. No es una cárcel cualquiera, sino una prisión de máxima seguridad en la que existe una unidad experimental, la Ciudad Esmeralda, con la que se pretende conseguir la rehabilitación de los presos. Limpia, pulcra, moderna y hasta hermosa, la Ciudad Esmeralda no deja de ser, sin embargo, una prisión y, como todas, peligrosa. A pesar de las modernas instalaciones y del énfasis en la recompensa de la rehabilitación, la prioridad allí sigue siendo la supervivencia... y el miedo es el compañero constante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34300:3"
+},
+{
+"id": "1054597038",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-07-12",
+"plot": "En el estado de Nueva York se encuentra la Penitenciaría Oswald, a la que casi todo el mundo conoce como Oz. No es una cárcel cualquiera, sino una prisión de máxima seguridad en la que existe una unidad experimental, la Ciudad Esmeralda, con la que se pretende conseguir la rehabilitación de los presos. Limpia, pulcra, moderna y hasta hermosa, la Ciudad Esmeralda no deja de ser, sin embargo, una prisión y, como todas, peligrosa. A pesar de las modernas instalaciones y del énfasis en la recompensa de la rehabilitación, la prioridad allí sigue siendo la supervivencia... y el miedo es el compañero constante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34300:2"
+},
+{
+"id": "271018462",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-07-12",
+"plot": "En el estado de Nueva York se encuentra la Penitenciaría Oswald, a la que casi todo el mundo conoce como Oz. No es una cárcel cualquiera, sino una prisión de máxima seguridad en la que existe una unidad experimental, la Ciudad Esmeralda, con la que se pretende conseguir la rehabilitación de los presos. Limpia, pulcra, moderna y hasta hermosa, la Ciudad Esmeralda no deja de ser, sin embargo, una prisión y, como todas, peligrosa. A pesar de las modernas instalaciones y del énfasis en la recompensa de la rehabilitación, la prioridad allí sigue siendo la supervivencia... y el miedo es el compañero constante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzAwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34300:1"
+}
+]
+}
+}

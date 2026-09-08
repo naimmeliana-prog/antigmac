@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-01",
+"episode_count": 1,
+"id": 126112506,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg"
+}
+],
+"info": {
+"name": "ES - Marshals: Una historia de Yellowstone (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+"plot": "",
+"cast": "",
+"director": "Spencer Hudnut",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900534",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "706904033",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-01",
+"plot": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900534",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48654:1"
+}
+]
+}
+}

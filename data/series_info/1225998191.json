@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-06",
+"episode_count": 1,
+"id": 1956319690,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvmNQMsXJJvkxKrutUI59fHPKhg.jpg"
+}
+],
+"info": {
+"name": "ES - Zorro (2024) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvmNQMsXJJvkxKrutUI59fHPKhg.jpg",
+"plot": "",
+"cast": "",
+"director": "Benjamin Charbit, Noé Debré",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900554",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "717932301",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-06",
+"plot": "Ambientada en 1821, cuando Don Diego de la Vega se convierte en alcalde de Los Ángeles para mejorar su ciudad. Sin embargo, la avaricia de un empresario local, Don Emmanuel, pone en riesgo el bienestar y sus poderes como alcalde no son suficientes para luchar contra la injusticia. Aunque no ha usado su identidad de Zorro en 20 años, parece que Diego no tiene otra opción que traer de vuelta al Zorro por un bien mayor. Mientras intenta mantener su doble identidad como Zorro y alcalde, crecen las tensiones en su matrimonio con Gabriella, quien desconoce su secreto. ¿Podrá Diego salvar su matrimonio y su cordura en medio del caos?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900554",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NDI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47425:1"
+}
+]
+}
+}

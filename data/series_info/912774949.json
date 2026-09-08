@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-27",
+"episode_count": 1,
+"id": 1216447248,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYz66iyll5q5yImMnzVkvUOxBho.jpg"
+}
+],
+"info": {
+"name": "ES - Su majestad (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYz66iyll5q5yImMnzVkvUOxBho.jpg",
+"plot": "",
+"cast": "",
+"director": "Borja Cobeaga, Diego San José",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900430",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "982301534",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-27",
+"plot": "Cuando se ve salpicado por un escándalo financiero, el rey Alfonso XIV decide apartarse de la primera línea pública durante unos meses. Pero alguien debe quedarse al frente de la institución. No hay más alternativa que su única hija, Pilar. Ahora la princesa tendrá que demostrarle al país que no es la irresponsable, vaga e inútil que todos creen. Lo que pasa es que igual tienen razón.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900430",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42355:1"
+}
+]
+}
+}

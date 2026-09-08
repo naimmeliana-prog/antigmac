@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-02",
+"episode_count": 1,
+"id": 1652528944,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEv086rMND3fwKRsEJyiLVURZPO.jpg"
+}
+],
+"info": {
+"name": "ES - Planeta Violento con Liev Schreiber (2024) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEv086rMND3fwKRsEJyiLVURZPO.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900625",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "131830973",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-02",
+"plot": "Violent Earth con Liev Schreiber explora la increíble ciencia detrás de los épicos desastres naturales. Con increíbles imágenes y entrevistas con científicos, cazadores de tormentas y supervivientes, esta serie examina nuestro clima cambiante.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900625",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49049:1"
+}
+]
+}
+}

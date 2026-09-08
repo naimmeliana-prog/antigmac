@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-03-29",
+"episode_count": 1,
+"id": 1479660236,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXVbEJ88JmIkibl84F80irRVe6.jpg"
+}
+],
+"info": {
+"name": "ES - Veneno",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+"plot": "",
+"cast": "",
+"director": "Javier Ambrossi, Javier Calvo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900435",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "873971008",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-29",
+"plot": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900435",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31647:1"
+}
+]
+}
+}

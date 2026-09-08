@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-06",
+"episode_count": 1,
+"id": 1783807925,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nveV7OgMzL46hBe8K9kpFGFxjLK.jpg"
+}
+],
+"info": {
+"name": "ES - Cómo meterse en un jardín",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nveV7OgMzL46hBe8K9kpFGFxjLK.jpg",
+"plot": "",
+"cast": "",
+"director": "Ed Sinclair",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900477",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1452193675",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-06",
+"plot": "Una pareja británica aparentemente normal se convierte en el centro de una investigación extraordinaria cuando se descubren dos cadáveres en el jardín trasero de una casa en Nottingham.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900477",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3MDI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "17025:1"
+}
+]
+}
+}

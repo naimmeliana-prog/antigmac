@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-27",
+"episode_count": 1,
+"id": 1840626350,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvfi3cXy9zOJDtg30E5hqwKnvUl.jpg"
+}
+],
+"info": {
+"name": "ES - Small Town, Big Story (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvfi3cXy9zOJDtg30E5hqwKnvUl.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris O'Dowd",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900540",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1621668746",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-27",
+"plot": "A la localidad ficticia de Drumban, un pequeño pueblo de inadaptados sociales situado en la frontera de Irlanda, llega un equipo de rodaje de Hollywood liderado por Wendy Patterson (Hendricks), una chica del pueblo convertida en una célebre productora de televisión en Los Ángeles, que ahora regresa a su localidad natal. Saldrá a la luz un secreto que lleva décadas oculto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900540",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42396:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-13",
+"episode_count": 2,
+"id": 712774286,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8eZerQDLDkdvQ7vrv6Slkr36sHX.jpg"
+}
+],
+"info": {
+"name": "ES - Un lobo como yo",
+"cover": "https://image.tmdb.org/t/p/w154/8eZerQDLDkdvQ7vrv6Slkr36sHX.jpg",
+"plot": "",
+"cast": "",
+"director": "Abe Forsythe",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900435",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "243610410",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-13",
+"plot": "Gary (Josh Gad) vive con su hija Emma (Ariel Donoghue) en los suburbios de Adelaida, en el sur de Australia. Ambos se están recuperando de la pérdida de la madre de Emma y luchan por conectar entre sí. Una mañana, el coche en el que van Gary y Emma es embestido por un Jeep que se salta un semáforo en rojo. Emma sufre un ataque de pánico y es consolada por Mary (Isla Fisher), la dueña del Jeep, que, para asombro de Gary, es capaz de calmar a Emma de una manera que él no es capaz. Esa misma semana, Gary y Mary empiezan a conocerse durante una cita, pero Mary se muestra reacia a compartir más sobre ella, sin saber ninguno de los dos que sus universos seguirán chocando y una fuerza mayor parece querer unirlos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900435",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNDYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30463:1"
+},
+{
+"id": "308629438",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-13",
+"plot": "Gary (Josh Gad) vive con su hija Emma (Ariel Donoghue) en los suburbios de Adelaida, en el sur de Australia. Ambos se están recuperando de la pérdida de la madre de Emma y luchan por conectar entre sí. Una mañana, el coche en el que van Gary y Emma es embestido por un Jeep que se salta un semáforo en rojo. Emma sufre un ataque de pánico y es consolada por Mary (Isla Fisher), la dueña del Jeep, que, para asombro de Gary, es capaz de calmar a Emma de una manera que él no es capaz. Esa misma semana, Gary y Mary empiezan a conocerse durante una cita, pero Mary se muestra reacia a compartir más sobre ella, sin saber ninguno de los dos que sus universos seguirán chocando y una fuerza mayor parece querer unirlos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900435",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNDYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30463:2"
+}
+]
+}
+}

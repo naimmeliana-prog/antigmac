@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-06",
+"episode_count": 1,
+"id": 834555815,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOhP6FrBPUJ40ZMg2jf5fDt3Pnn.jpg"
+}
+],
+"info": {
+"name": "ES - Yakarta (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOhP6FrBPUJ40ZMg2jf5fDt3Pnn.jpg",
+"plot": "",
+"cast": "",
+"director": "Diego San José",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900254",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1566680010",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-06",
+"plot": "Un ex jugador olímpico de bádminton descubre a una joven competidora a la que podría convertir en la gran estrella mundial de su deporte… si consigue llevarla a Yakarta, Indonesia, donde el bádminton es el deporte rey y los ex jugadores son tratados como celebridades.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900254",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NDMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46431:1"
+}
+]
+}
+}

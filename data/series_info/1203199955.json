@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-04",
+"episode_count": 1,
+"id": 1078348455,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEih5Hz1DeNHg0WBK9s8OpKbxF4.jpg"
+}
+],
+"info": {
+"name": "ES - Dime quién soy (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEih5Hz1DeNHg0WBK9s8OpKbxF4.jpg",
+"plot": "",
+"cast": "",
+"director": "José Manuel Lorenzo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900234",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1963231419",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-04",
+"plot": "A través de un libro que recibe en su pequeña editorial, Javier conocerá la turbulenta biografía de Amelia Garayoa, una mujer que, movida por sus ideales, es capaz de dejar toda su vida atrás para luchar por la libertad. A través del encuentro con los cuatro hombres que marcan su vida: Santiago (su marido), Pierre, Albert y Max; Amelia se verá involucrada en los acontecimientos más relevantes de la historia del siglo XX, desde el alzamiento franquista hasta la liberación de Berlín; pasando por el auge comunista en el Moscú de Stalin, la barbarie de la Varsovia de los guetos, la Roma de los últimos años del Duce o el declive de la Alemania Nazi en la Atenas ocupada. Con un ojo en el pasado y otro en el futuro, 'Dime quién soy' cuenta la historia de la Europa reciente personificada en una mujer que nunca terminará de pagar el precio de sus propias contradicciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900234",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37033:1"
+}
+]
+}
+}

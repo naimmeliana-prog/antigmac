@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-17",
+"episode_count": 1,
+"id": 1863952886,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RAmN8pN40ZGDT8tYp3savTrqPs.jpg"
+}
+],
+"info": {
+"name": "ES - Sin límites",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RAmN8pN40ZGDT8tYp3savTrqPs.jpg",
+"plot": "",
+"cast": "",
+"director": "Patxi Amezcua",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900429",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1758852022",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-17",
+"plot": "237 hombres parten de España con Fernando de Magallanes como su capitán. Buscan riquezas, reconocimiento y fama. Solo 18 de ellos regresan con vida, liderados por Juan Sebastián Elcano, un personaje noble y carismático. Les esperan tres años de motines, traiciones, hambre y muerte. Una historia llena de aventuras y emociones, en la cual dos personajes opuestos luchan por el mismo objetivo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31632:1"
+}
+]
+}
+}

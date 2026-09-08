@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-07",
+"episode_count": 1,
+"id": 1676606560,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/a5aJyals0dAgh1hogPhczimsXBB.jpg"
+}
+],
+"info": {
+"name": "ES - Raël: El profeta de los extraterrestres",
+"cover": "https://image.tmdb.org/t/p/w154/a5aJyals0dAgh1hogPhczimsXBB.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900627",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1845142690",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-07",
+"plot": "Mediante entrevistas con seguidores, detractores y el mismo Raël, esta docuserie analiza cómo una religión basada en los ovnis se convirtió en una polémica secta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900627",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNDMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30431:1"
+}
+]
+}
+}

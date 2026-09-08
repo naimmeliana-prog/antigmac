@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-13",
+"episode_count": 1,
+"id": 1519019248,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPitfEJd1dXiq72bxRmYWd4GDXo.jpg"
+}
+],
+"info": {
+"name": "ES - Doctor Climax",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPitfEJd1dXiq72bxRmYWd4GDXo.jpg",
+"plot": "",
+"cast": "",
+"director": "Ekachai Uekrongtham",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900285",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "184380878",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-13",
+"plot": "En la Tailandia de los años 70, un dermatólogo inicia inesperadamente un despertar sexual masivo después de convertirse en Doctor Climax, un columnista de un periódico que desafía los tabúes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900285",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MzMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34333:1"
+}
+]
+}
+}

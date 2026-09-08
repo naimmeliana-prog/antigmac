@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-23",
+"episode_count": 1,
+"id": 598369250,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZwzUEFKKOwVjpFsXc13fJxWErN.jpg"
+}
+],
+"info": {
+"name": "ES - Yo siempre a veces (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZwzUEFKKOwVjpFsXc13fJxWErN.jpg",
+"plot": "",
+"cast": "",
+"director": "Marta Bassols, Marta Loza",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900254",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1848231017",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-23",
+"plot": "Cuenta la historia de una madre soltera por accidente que tiene dificultades para salir adelante en Barcelona.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900254",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49142:1"
+}
+]
+}
+}

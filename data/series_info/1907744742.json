@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-17",
+"episode_count": 2,
+"id": 1891651678,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"
+}
+],
+"info": {
+"name": "ES - Separación (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Erickson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900467",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1447542627",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-17",
+"plot": "Mark dirige un equipo de oficinistas cuyos recuerdos se han separado quirúrgicamente entre los de su trabajo y los de su vida personal. Cuando un misterioso colega aparece fuera del trabajo, empieza un viaje para descubrir la verdad sobre sus empleos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900467",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDEyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37012:2"
+},
+{
+"id": "1678138187",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-17",
+"plot": "Mark dirige un equipo de oficinistas cuyos recuerdos se han separado quirúrgicamente entre los de su trabajo y los de su vida personal. Cuando un misterioso colega aparece fuera del trabajo, empieza un viaje para descubrir la verdad sobre sus empleos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900467",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37012:1"
+}
+]
+}
+}

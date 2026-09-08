@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-08-28",
+"episode_count": 1,
+"id": 922382879,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLvaV4GS5561SbYvO80eUvOe00j.jpg"
+}
+],
+"info": {
+"name": "ES - Hijas del fuego",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLvaV4GS5561SbYvO80eUvOe00j.jpg",
+"plot": "",
+"cast": "",
+"director": "Magaly Richard-Serrano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900239",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "18442003",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-28",
+"plot": "En 1609, en el País Vasco, tres hermanas de una larga estirpe de abortistas y curanderas ven peligrar sus vidas con la llegada del juez Pierre De Lancre. Atemorizado por las mujeres, dirige una de las cazas de brujas más mortíferas de Francia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900239",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMjA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31205:1"
+}
+]
+}
+}

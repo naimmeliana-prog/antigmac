@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-18",
+"episode_count": 1,
+"id": 999032518,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hivKDIIopzwVCTJHbTAGQ0DWXWa.jpg"
+}
+],
+"info": {
+"name": "ES - Medina: El estafador de famosos (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hivKDIIopzwVCTJHbTAGQ0DWXWa.jpg",
+"plot": "",
+"cast": "",
+"director": "Jorge Ponce, Javier Valera",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900615",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "862976438",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-18",
+"plot": "Un misterioso personaje ha conseguido engañar a distintas personalidades del mundo de la cultura y el espectáculo en España. El cómico Jorge Ponce, también estafado, inicia una investigación para encontrar a este hombre que durante 20 años engañó a muchas personas. La investigación se intercala con los testimonios de las víctimas, además de con recreaciones dramáticas de los timos y eventos que nadie tiene claro si realmente llegaron a suceder.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3Mzg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37388:1"
+}
+]
+}
+}

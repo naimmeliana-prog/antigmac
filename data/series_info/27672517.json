@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-20",
+"episode_count": 3,
+"id": 1905598598,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W8eE78eYyaBOEPhvyyIE7VyB9F.jpg"
+}
+],
+"info": {
+"name": "ES - Una historia de crímenes (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W8eE78eYyaBOEPhvyyIE7VyB9F.jpg",
+"plot": "",
+"cast": "",
+"director": "Jorge Cassinello, Fran X. Rodríguez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900637",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1403210526",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-20",
+"plot": "Una historia de crímenes dedicará cada episodio a analizar en profundidad un crimen junto a los expertos invitados, quienes intentarán esclarecer las posibles razones que llevaron a los asesinos a cometer dichos actos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38017:3"
+},
+{
+"id": "826153505",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-20",
+"plot": "Una historia de crímenes dedicará cada episodio a analizar en profundidad un crimen junto a los expertos invitados, quienes intentarán esclarecer las posibles razones que llevaron a los asesinos a cometer dichos actos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38017:2"
+},
+{
+"id": "425590634",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-20",
+"plot": "Una historia de crímenes dedicará cada episodio a analizar en profundidad un crimen junto a los expertos invitados, quienes intentarán esclarecer las posibles razones que llevaron a los asesinos a cometer dichos actos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38017:1"
+}
+]
+}
+}

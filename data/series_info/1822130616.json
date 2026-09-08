@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-07",
+"episode_count": 1,
+"id": 1931551601,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJWeWljObubFcEQzcXFKqRkmSiA.jpg"
+}
+],
+"info": {
+"name": "ES - Jerry Springer: Peleas, cámara, ¡acción! (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJWeWljObubFcEQzcXFKqRkmSiA.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900592",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "393595094",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-07",
+"plot": "Este documental ofrece una mirada exclusiva a los entresijos del programa de entrevistas más polémico de Estados Unidos y expone sus mayores escándalos, dentro y fuera de cámaras.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5OTMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39930:1"
+}
+]
+}
+}

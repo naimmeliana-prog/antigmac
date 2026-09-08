@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-25",
+"episode_count": 1,
+"id": 911125434,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/sAMGJre6uL0NHdMAtfUYKIIdwep.jpg"
+}
+],
+"info": {
+"name": "ES - No me gusta conducir - (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/sAMGJre6uL0NHdMAtfUYKIIdwep.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900503",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1353883791",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-25",
+"plot": "Pablo, un profesor de universidad sabelotodo, quiere aprender a conducir. Pero sacarse el carné con 40 le descubre cosas de las que no tiene ni idea.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900503",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzMDg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23084:1"
+}
+]
+}
+}

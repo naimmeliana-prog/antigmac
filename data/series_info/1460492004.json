@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2011-01-14",
+"episode_count": 2,
+"id": 1777317256,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhWWixh49iLqR61YCoTR4JXNOf.jpg"
+}
+],
+"info": {
+"name": "ES - El secreto de Feriha (2011)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhWWixh49iLqR61YCoTR4JXNOf.jpg",
+"plot": "",
+"cast": "",
+"director": "Fatih Aksoy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "161518194",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-01-14",
+"plot": "Feriha Yılmaz vive junto a su familia como inquilinos en el sótano de un lujoso edificio de Etiler, un barrio de clase alta de Estambul. La joven obtiene una beca completa para estudiar en una universidad privada y rápidamente pasa a ser el centro de atención, incluso el chico más popular y conocido de la universidad, Emir Sarrafoğlu, se interesa en ella. Feriha mentirá sobre su vida y se hará pasar por una joven millonaria, quedando atrapada en sus propias mentiras y su familia la humilla.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njc4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35678:2"
+},
+{
+"id": "395431000",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-01-14",
+"plot": "Feriha Yılmaz vive junto a su familia como inquilinos en el sótano de un lujoso edificio de Etiler, un barrio de clase alta de Estambul. La joven obtiene una beca completa para estudiar en una universidad privada y rápidamente pasa a ser el centro de atención, incluso el chico más popular y conocido de la universidad, Emir Sarrafoğlu, se interesa en ella. Feriha mentirá sobre su vida y se hará pasar por una joven millonaria, quedando atrapada en sus propias mentiras y su familia la humilla.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35678:1"
+}
+]
+}
+}

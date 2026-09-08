@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-30",
+"episode_count": 1,
+"id": 543842670,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg"
+}
+],
+"info": {
+"name": "ES - Prisoner (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Charman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900538",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "136719703",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-30",
+"plot": "Amber Todd, una funcionaria de prisiones comprometida y con un gran sentido de la ética, tiene la misión de escoltar a Tibor al juzgado para que testifique contra Pegasus, una poderosa organización criminal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900538",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MzIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49321:1"
+}
+]
+}
+}

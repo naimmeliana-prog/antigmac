@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-16",
+"episode_count": 1,
+"id": 1856228719,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtFmcR0kh8CQsqYxGuxHwidNmYK.jpg"
+}
+],
+"info": {
+"name": "ES - Física o química: La nueva generación (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtFmcR0kh8CQsqYxGuxHwidNmYK.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlos García Miranda",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900260",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "297422033",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-16",
+"plot": "En el Zurbarán, ocho adolescentes se unen en un grupo de apoyo tras la pérdida de una alumna, confrontando sus diferencias y descubriendo el amor y la vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900260",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41834:1"
+}
+]
+}
+}

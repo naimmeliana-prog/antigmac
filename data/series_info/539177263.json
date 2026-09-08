@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-08",
+"episode_count": 1,
+"id": 1555719559,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Zu8esokkvPBCc8CA6aqfp0Jt0C.jpg"
+}
+],
+"info": {
+"name": "ES - Un año con los Red Sox: Dentro del club (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Zu8esokkvPBCc8CA6aqfp0Jt0C.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900637",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1689523025",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-08",
+"plot": "Esta fascinante serie documental se cuela en el banquillo del campo de béisbol para seguir de cerca a los Boston Red Sox durante su vertiginosa temporada 2024.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42921:1"
+}
+]
+}
+}

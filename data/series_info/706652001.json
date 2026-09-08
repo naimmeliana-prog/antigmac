@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-21",
+"episode_count": 1,
+"id": 1492488685,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HaPE9JjSjwQpXunsq5otOA8Hdj.jpg"
+}
+],
+"info": {
+"name": "ES - Las esposas cazadoras (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HaPE9JjSjwQpXunsq5otOA8Hdj.jpg",
+"plot": "",
+"cast": "",
+"director": "Rebecca Perry Cutter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900321",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "48976436",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-21",
+"plot": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MjY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47268:1"
+}
+]
+}
+}

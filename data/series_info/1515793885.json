@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-03",
+"episode_count": 1,
+"id": 883515353,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30DGwOyFu1em2Z9PWMlQlS5aFcG.jpg"
+}
+],
+"info": {
+"name": "ES - R.J. Decker (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30DGwOyFu1em2Z9PWMlQlS5aFcG.jpg",
+"plot": "",
+"cast": "",
+"director": "Carl Hiaasen, Rob Doherty",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900507",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "208899313",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-03",
+"plot": "El fotógrafo ex convicto RJ Decker trabaja como investigador privado en Florida del Sur, resolviendo casos extraños con su ex periodista, su esposa policía y una misteriosa mujer de su pasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900507",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MzIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49323:1"
+}
+]
+}
+}

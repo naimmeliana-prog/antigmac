@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-06-04",
+"episode_count": 1,
+"id": 9247649,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uiXk4GEJUXmCN1ytQm2f81W18V.jpg"
+}
+],
+"info": {
+"name": "ES - La historia de Lisey",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uiXk4GEJUXmCN1ytQm2f81W18V.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen King",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900458",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1005446239",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-06-04",
+"plot": "Este thriller cuenta las inquietantes vivencias de Lisey, una mujer atormentada por los fantasmas de su difunto marido, el escritor Scott Landon. Basado en la novela de Stephen King.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900458",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34238:1"
+}
+]
+}
+}

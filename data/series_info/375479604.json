@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-24",
+"episode_count": 2,
+"id": 1767067904,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg"
+}
+],
+"info": {
+"name": "ES - Halo: La serie (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Kane, Kyle Killen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900529",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1367721257",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-24",
+"plot": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900529",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34862:2"
+},
+{
+"id": "1055741539",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-24",
+"plot": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900529",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34862:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-20",
+"episode_count": 1,
+"id": 127732786,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spUCi2OYsaDBMTB3MQknCV13d49.jpg"
+}
+],
+"info": {
+"name": "ES - El loco. Los silencios de Quintero (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spUCi2OYsaDBMTB3MQknCV13d49.jpg",
+"plot": "",
+"cast": "",
+"director": "María Recarte, Sergio Oksman, José Rueda",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900577",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "35231112",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-20",
+"plot": "¿Quién era en realidad Jesús Quintero? ¿Era El Loco o era Jesús? Dos años después de su muerte, RTVE estrena El loco. Los silencios de Quintero. Un documental de dos capítulos en el que, gracias a las hijas de uno de los comunicadores más influyentes de nuestro país, se descubre los claroscuros del hombre y del personaje",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900577",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MzEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38312:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-06-28",
+"episode_count": 1,
+"id": 1681699880,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg"
+}
+],
+"info": {
+"name": "ES - Secuestro en el aire",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Jim Field Smith, George Kay",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900466",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "8747788",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-28",
+"plot": "Cuando el vuelo KA29 sufre un secuestro durante su trayecto de siete horas de Dubái a Londres, Sam Nelson, consumado negociador corporativo, intenta echar mano de su pericia profesional para salvar a todos los pasajeros. Pero su estrategia de alto riesgo podría ser su ruina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900466",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32026:1"
+}
+]
+}
+}

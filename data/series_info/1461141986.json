@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-12",
+"episode_count": 1,
+"id": 1408295349,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iwJ62wkZnAssbMPo7fBI53ILll.jpg"
+}
+],
+"info": {
+"name": "ES - Vampirina: Un insti de miedo (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iwJ62wkZnAssbMPo7fBI53ILll.jpg",
+"plot": "",
+"cast": "",
+"director": "Randi Barnes",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900403",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "60090976",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-12",
+"plot": "Una vampiresa adolescente asiste a una escuela de artes escénicas ocultando su identidad. Un padre sobreprotector le asigna un guardián fantasmal para que la vigile mientras persigue su pasión por la música.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46168:1"
+}
+]
+}
+}

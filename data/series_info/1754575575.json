@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2014-02-16",
+"episode_count": 1,
+"id": 886704578,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tx3rQXH5DL9dxP5EfPm0JmasP1u.jpg"
+}
+],
+"info": {
+"name": "ES - Me robó mi vida (2014)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tx3rQXH5DL9dxP5EfPm0JmasP1u.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "182683136",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-02-16",
+"plot": "Bahar no sabe que es adoptada. En el pasado, su abuelo materno no aceptó la relación de sus padres y los separó ocultando el embarazo de su hija. La recién nacida fue entregada a los sirvientes de la casa quienes la criaron como a su hija. Durante años, el abuelo de Bahar vivió atormentado por la culpa, pero cuando por fin decide contar toda la verdad, el anciano fallece complicando aún más el futuro de su verdadera nieta.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5MjE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39216:1"
+}
+]
+}
+}

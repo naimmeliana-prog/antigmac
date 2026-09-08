@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-12",
+"episode_count": 1,
+"id": 249783640,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZGTCe5Jl01JQ4zdfjhnXy4WBgo.jpg"
+}
+],
+"info": {
+"name": "ES - Tráfico aéreo (LQ) (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZGTCe5Jl01JQ4zdfjhnXy4WBgo.jpg",
+"plot": "",
+"cast": "",
+"director": "Mike Walden, Adam Randall",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900551",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1767888302",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-12",
+"plot": "El hijo de Jo Conran está encarcelado por un asesinato que él niega. Una banda la chantajea para que haga contrabando, empujándola a un mundo de corrupción y violencia para salvar la vida de su hijo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900551",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMDg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50089:1"
+}
+]
+}
+}

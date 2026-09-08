@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-10",
+"episode_count": 1,
+"id": 1892407701,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkoeGB6qZM7WgdUWZNkWkTfh6wK.jpg"
+}
+],
+"info": {
+"name": "ES - Real Madrid: Cómo no te voy a querer (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkoeGB6qZM7WgdUWZNkWkTfh6wK.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900627",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1491876301",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-10",
+"plot": "En el Real Madrid la ambición y la exigencia de conquistar todos los títulos pone a prueba a directivos, cuerpo técnico y jugadores cada año. En la temporada 2023-24 el equipo se ha reforzado para formar una plantilla a la altura del desafío: completar una década que puede convertir al equipo en leyenda y escribir una nueva página dorada del club en la historia del fútbol. Sin embargo, apenas comenzada LaLiga, el equipo pierde a dos de sus jugadores más importantes para el resto de la temporada apurando los recursos de la defensa y multiplicando la dificultad del reto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900627",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNzQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41749:1"
+}
+]
+}
+}

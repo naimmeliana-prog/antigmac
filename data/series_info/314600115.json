@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-25",
+"episode_count": 2,
+"id": 1774029935,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/fSa1OPyE95Zgu1lufOBIpqv8U2K.jpg"
+}
+],
+"info": {
+"name": "ES - FUBAR - (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/fSa1OPyE95Zgu1lufOBIpqv8U2K.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Santora",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900300",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "429830230",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-25",
+"plot": "Cuando un padre y una hija descubren que ambos trabajan en secreto para la CIA, una misión encubierta que ya era arriesgada se convierte en un asunto familiar disfuncional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900300",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDMwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25430:2"
+},
+{
+"id": "1690615258",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-25",
+"plot": "Cuando un padre y una hija descubren que ambos trabajan en secreto para la CIA, una misión encubierta que ya era arriesgada se convierte en un asunto familiar disfuncional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900300",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1NDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25430:1"
+}
+]
+}
+}

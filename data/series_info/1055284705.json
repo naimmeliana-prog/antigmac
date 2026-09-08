@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-01",
+"episode_count": 2,
+"id": 276220995,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWGQaZ9BntXIDT1WKHrbSAVuShk.jpg"
+}
+],
+"info": {
+"name": "ES - La agencia (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWGQaZ9BntXIDT1WKHrbSAVuShk.jpg",
+"plot": "",
+"cast": "",
+"director": "Jez Butterworth, John-Henry Butterworth",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900533",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "154489008",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-01",
+"plot": "El agente encubierto de la CIA, Martian, recibe la orden de abandonar su vida encubierta y regresar a la estación de Londres. Cuando el amor que dejó atrás reaparece inesperadamente, su romance se reaviva, enfrentando su carrera, su verdadera identidad y su misión contra su corazón, mientras ambos se ven envueltos en un juego mortal de intriga y espionaje internacional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900533",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODI0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41824:2"
+},
+{
+"id": "375533295",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-01",
+"plot": "El agente encubierto de la CIA, Martian, recibe la orden de abandonar su vida encubierta y regresar a la estación de Londres. Cuando el amor que dejó atrás reaparece inesperadamente, su romance se reaviva, enfrentando su carrera, su verdadera identidad y su misión contra su corazón, mientras ambos se ven envueltos en un juego mortal de intriga y espionaje internacional.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900533",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41824:1"
+}
+]
+}
+}

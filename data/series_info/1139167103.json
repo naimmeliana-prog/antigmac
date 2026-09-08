@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-04-07",
+"episode_count": 2,
+"id": 1125225971,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg"
+}
+],
+"info": {
+"name": "ES - Dinero fácil: La serie - (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg",
+"plot": "",
+"cast": "",
+"director": "Oskar Söderlund, Jesper Ganslandt, Jens Lapidus",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900285",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1405203056",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-07",
+"plot": "Las vidas de una ambiciosa empresaria, un mafioso encantador y un adolescente problemático se encuentran en una búsqueda frenética con un solo fin: hacer dinero.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900285",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22994:2"
+},
+{
+"id": "591566902",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-07",
+"plot": "Las vidas de una ambiciosa empresaria, un mafioso encantador y un adolescente problemático se encuentran en una búsqueda frenética con un solo fin: hacer dinero.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900285",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22994:1"
+}
+]
+}
+}

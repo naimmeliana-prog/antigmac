@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-27",
+"episode_count": 2,
+"id": 199989851,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubJLcy2JjU0g2AIYPcpAgChgGQo.jpg"
+}
+],
+"info": {
+"name": "ES - Memento Mori (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubJLcy2JjU0g2AIYPcpAgChgGQo.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900424",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "550353754",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-27",
+"plot": "Cuando el cadáver de una joven con los párpados amputados aparece en Valladolid, el inspector Sancho (Francisco Ortiz) presagia una cadena de homicidios y, con el apoyo de “Carapocha” (Juan Echanove), uno de los mayores expertos en asesinos en serie, sigue el rastro de cadáveres que Augusto (Yon González), un sociópata de gustos refinados, va dejando por la ciudad. Pronto descubren que se encuentran ante un asesino que comete crímenes con banda sonora y firma los cuerpos de sus víctimas con poemas. Lo que no sabe Sancho es que la persecución se convertirá en un duelo muy personal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNDAzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42403:2"
+},
+{
+"id": "1357931725",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-27",
+"plot": "Cuando el cadáver de una joven con los párpados amputados aparece en Valladolid, el inspector Sancho (Francisco Ortiz) presagia una cadena de homicidios y, con el apoyo de “Carapocha” (Juan Echanove), uno de los mayores expertos en asesinos en serie, sigue el rastro de cadáveres que Augusto (Yon González), un sociópata de gustos refinados, va dejando por la ciudad. Pronto descubren que se encuentran ante un asesino que comete crímenes con banda sonora y firma los cuerpos de sus víctimas con poemas. Lo que no sabe Sancho es que la persecución se convertirá en un duelo muy personal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNDAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42403:1"
+}
+]
+}
+}

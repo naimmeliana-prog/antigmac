@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-09-27",
+"episode_count": 1,
+"id": 1576134703,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTvhNt0QxXG7ww5hrUQwFtQoKIw.jpg"
+}
+],
+"info": {
+"name": "ES - Patria",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTvhNt0QxXG7ww5hrUQwFtQoKIw.jpg",
+"plot": "",
+"cast": "",
+"director": "Aitor Gabilondo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900506",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1997767526",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-27",
+"plot": "La historia de Patria transcurre a lo largo de tres décadas en Euskadi. A través de sus protagonistas, dos familias divididas por las consecuencias del terrorismo, Patria nos habla de cómo vive la gente corriente en el contexto de un conflicto que pese a ser local tiene numerosos elementos comunes con cualquier enfrentamiento en muchos lugares del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900506",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32020:1"
+}
+]
+}
+}

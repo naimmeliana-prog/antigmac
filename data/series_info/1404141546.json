@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-30",
+"episode_count": 1,
+"id": 1530789924,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6wBfUWEmhbxgNRHbqBghDz66Wb.jpg"
+}
+],
+"info": {
+"name": "ES - No tenéis ni **** idea (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6wBfUWEmhbxgNRHbqBghDz66Wb.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900620",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "461803982",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-30",
+"plot": "Luis Enrique es uno de los entrenadores más fascinantes del panorama futbolístico contemporáneo por su visión radical del fútbol, de las relaciones personales, la vida pública y la vida en general. Su amplio recorrido como futbolista internacional en el Real Madrid y el FC Barcelona, sus grandes éxitos como entrenador del Barça de Messi y Neymar y al frente de la Selección española, sus duras vivencias personales, su particular relación con la prensa… todo lo que tiene que ver con Luis Enrique aflora a lo largo de un año en el que afronta el reto más exigente de su trayectoria: ganar la Champions League con el PSG.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2OTIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36922:1"
+}
+]
+}
+}

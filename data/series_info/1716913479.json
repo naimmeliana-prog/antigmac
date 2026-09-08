@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-25",
+"episode_count": 1,
+"id": 1129520438,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+}
+],
+"info": {
+"name": "ES - The Walking Dead: The Ones Who Live",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrew Lincoln, Danai Gurira, Scott M. Gimple",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900434",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "121272326",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-25",
+"plot": "La historia de amor de Rick Grimes y Michonne cambia gracias a un mundo cambiado. Separados por la distancia. Por un poder imparable. ¿Podrán encontrarse y descubrir quiénes eran en una situación diferente a cualquier otra que hayan conocido?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900434",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwOTcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30972:1"
+}
+]
+}
+}

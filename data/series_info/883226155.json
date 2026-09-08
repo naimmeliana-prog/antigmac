@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-07-11",
+"episode_count": 3,
+"id": 648871042,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg"
+}
+],
+"info": {
+"name": "ES - The White Lotus (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg",
+"plot": "",
+"cast": "",
+"director": "Mike White",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900513",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "31495530",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-11",
+"plot": "Ingeniosa sátira social que sigue las andanzas de diferentes empleados y huéspedes de un exclusivo resort a lo largo de una semana de lo más transformativa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900513",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDQwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37040:3"
+},
+{
+"id": "1001026941",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-11",
+"plot": "Ingeniosa sátira social que sigue las andanzas de diferentes empleados y huéspedes de un exclusivo resort a lo largo de una semana de lo más transformativa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900513",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDQwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37040:2"
+},
+{
+"id": "1832664910",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-11",
+"plot": "Ingeniosa sátira social que sigue las andanzas de diferentes empleados y huéspedes de un exclusivo resort a lo largo de una semana de lo más transformativa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900513",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MDQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37040:1"
+}
+]
+}
+}

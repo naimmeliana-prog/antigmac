@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-07",
+"episode_count": 1,
+"id": 1936795104,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pp1gksd5DPLQkeZjvo098eZ4tM2.jpg"
+}
+],
+"info": {
+"name": "ES - The Lovers (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pp1gksd5DPLQkeZjvo098eZ4tM2.jpg",
+"plot": "",
+"cast": "",
+"director": "David Ireland",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900547",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "682884901",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-07",
+"plot": "Janet es una trabajadora de supermercado de Belfast malhablada y hilarante a la que no le importa nada, ni siquiera su vida. Seamus es un locutor político guapo y egocéntrico con lo que parece ser una vida perfecta en Londres y una novia famosa. Cuando se encuentran inesperadamente, chocan instantáneamente y, sin embargo, también se sienten inextricablemente atraídos el uno por el otro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900547",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MDE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36017:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-26",
+"episode_count": 1,
+"id": 778481957,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWY8Enu2FLIYNmFXxVLWPokLyZx.jpg"
+}
+],
+"info": {
+"name": "ES - Obesidad infantil. La pandemia ignorada (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWY8Enu2FLIYNmFXxVLWPokLyZx.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900621",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1566733201",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-26",
+"plot": "Documental impulsado por las estrellas de la NBA Marc y Pau Gasol para dar a conocer la realidad de la obesidad infantil, alertar de sus peligros y buscar soluciones desde todos los ámbitos, un trabajo que llevan realizando desde hace años desde la Gasol Foundation.\r\n\r\nRodado entre EEUU, España y los países nórdicos, el proyecto se adentra en el día a día de Oier, Andoni, María y Emily, niños que llevan toda su infancia luchando contra la obesidad y el estigma que la acompaña. A sus testimonios se suma la propia historia personal de Marc Gasol, que de adolescente sufrió las consecuencias de esta enfermedad.\r\n\r\nAdemás de Marc y Pau Gasol, expertos en nutrición, neurocientíficos y otros especialistas internacionales aportan su conocimiento sobre el tema para, entre todos, frenar una tendencia que, de no limitarla, podría afectar en los próximos años a casi 400 millones de niños en todo el mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzODU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43854:1"
+}
+]
+}
+}

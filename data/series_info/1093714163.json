@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-10",
+"episode_count": 1,
+"id": 1342595662,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
+}
+],
+"info": {
+"name": "ES - SkyMed",
+"cover": "https://image.tmdb.org/t/p/w154/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Julie Puckrin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900250",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "925851496",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-10",
+"plot": "Vida, muerte y drama a 20.000 pies. La serie entrelaza intensos viajes de personajes y rescates médicos de alto riesgo, mientras seguimos los triunfos, angustias y tribulaciones de enfermeras en ciernes y pilotos de ambulancias aéreas en el remoto norte de Canadá. Están por encima de sus cabezas, y solos, sin nadie en quien confiar más que entre ellos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900250",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDUwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30050:2"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-10",
+"episode_count": 2,
+"id": 322320992,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6enEBjSmYoQHHQCtSE9io7IlM8.jpg"
+}
+],
+"info": {
+"name": "ES - Sin cerrojos: Un experimento carcelario (2024) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6enEBjSmYoQHHQCtSE9io7IlM8.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900632",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1767371197",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-10",
+"plot": "En este reality, un sheriff pone en marcha un experimento social revolucionario que brinda ciertas libertades a los presos de un centro penitenciario de Arkansas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900632",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NDIzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47423:2"
+},
+{
+"id": "386723653",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-10",
+"plot": "En este reality, un sheriff pone en marcha un experimento social revolucionario que brinda ciertas libertades a los presos de un centro penitenciario de Arkansas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900632",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NDIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47423:1"
+}
+]
+}
+}

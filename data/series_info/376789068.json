@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-05",
+"episode_count": 1,
+"id": 119502837,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX0Kvvo6hj9feqS3JyFpVmscz2Y.jpg"
+}
+],
+"info": {
+"name": "ES - Unfamiliar (2026) (DE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX0Kvvo6hj9feqS3JyFpVmscz2Y.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul Coates",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900355",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1697610887",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-05",
+"plot": "Cuando el pasado alcanza a dos exespías, su mayor desafío no son las persecuciones en coche, los tiroteos ni las peleas: es decirse la verdad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900355",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3OTI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47926:1"
+}
+]
+}
+}

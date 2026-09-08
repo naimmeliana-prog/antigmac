@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-03",
+"episode_count": 1,
+"id": 176634783,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/inACOKbKfYXjegZTgBVrAfZT9bR.jpg"
+}
+],
+"info": {
+"name": "ES - Watching You (2025) (AU)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/inACOKbKfYXjegZTgBVrAfZT9bR.jpg",
+"plot": "",
+"cast": "",
+"director": "Alexei Mizin, Ryan van Dijk",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900403",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "21277787",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-03",
+"plot": "La vida de Lina se sumerge en el caos cuando una cámara oculta graba su apasionado encuentro con un desconocido. La confianza se resquebraja y la tensión aumenta en su círculo más íntimo, hasta que una muerte inesperada acaba con la detención de su prometido. Buscando consuelo en una nueva relación, Lina pronto se da cuenta de que está atrapada en una conspiración mayor. Con su vida en juego, Lina debe desenmascarar a un peligroso voyeur antes de perderlo todo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48325:1"
+}
+]
+}
+}

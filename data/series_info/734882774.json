@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-18",
+"episode_count": 1,
+"id": 696922411,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqj6heDrLpqjk0fLnRNLB3GFrGy.jpg"
+}
+],
+"info": {
+"name": "ES - Democracia en riesgo (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqj6heDrLpqjk0fLnRNLB3GFrGy.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900572",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "352098851",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-18",
+"plot": "Tras la derrota electoral de Trump y el asalto al Capitolio en enero de 2021, un comité del Congreso de EEUU acusó al expresidente de planificar un intento de golpe de Estado. El director Michael Kirk examina las pruebas contra Trump.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3Mzg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37387:1"
+}
+]
+}
+}

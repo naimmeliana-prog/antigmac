@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-08",
+"episode_count": 1,
+"id": 573262316,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsPqi2WbrFnPCCygjuZcffsUDuY.jpg"
+}
+],
+"info": {
+"name": "ES - Israel - Palestina: una paz imposible (2024) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsPqi2WbrFnPCCygjuZcffsUDuY.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900591",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "278026966",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-08",
+"plot": "El 7 de octubre de 2023, Hamás perpetró el mayor ataque terrorista de su historia contra Israel. El resultado: 1200 muertos y casi 250 rehenes. Veinte días después, el ejército israelí lanzó una operación militar en Gaza, que causó decenas de miles de muertos. La paz nunca había parecido tan lejana. ¿Cómo hemos llegado a esto?\r\n\r\n\"Israel-Palestina: una paz imposible\" disecciona la tumultuosa historia, a través de los siglos, de las relaciones entre Israel y Palestina. A través del testimonio de los protagonistas directos de los acontecimientos: responsables políticos israelíes y palestinos, diplomáticos, generales, miembros de los servicios secretos... este documental repasa una sucesión de oportunidades perdidas que empujaron a israelíes y palestinos al borde de un precipicio, y, quizás, a un punto de no retorno.\r\n\r\nUn documental esclarecedor que repasa la complejidad y la larga historia del conflicto para comprender mejor sus raíces y lo que está en juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900591",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44356:1"
+}
+]
+}
+}

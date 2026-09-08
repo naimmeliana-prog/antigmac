@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-24",
+"episode_count": 1,
+"id": 1851716947,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg"
+}
+],
+"info": {
+"name": "ES - Territorial (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben Davies, Timothy Lee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900351",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "281833545",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-24",
+"plot": "Cuando la mayor explotación ganadera del mundo se queda sin un claro sucesor, los clanes rivales se enfrentan en una lucha generacional que pone en peligro el futuro del terreno.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900351",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3NDcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37471:1"
+}
+]
+}
+}

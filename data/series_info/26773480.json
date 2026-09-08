@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-02",
+"episode_count": 1,
+"id": 1252236252,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Se5oHeTmA6NuDuYVP2nQWTjtU.jpg"
+}
+],
+"info": {
+"name": "ES - El beso de la sirena (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Se5oHeTmA6NuDuYVP2nQWTjtU.jpg",
+"plot": "",
+"cast": "",
+"director": "Lee Young",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900412",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "559168797",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-02",
+"plot": "El investigador de fraudes al seguro Cha Woo-seok recibe una misteriosa llamada de una informante que afirma tener pruebas de un asesinato relacionado con un fraude. Antes de revelar la verdad, la informante muere. La investigación de Woo-seok lo lleva a la Subastas Royal y a su subastadora principal, Han Seol-ah, cuyos tres prometidos han muerto en circunstancias sospechosas. Para revelar la verdad, o quizás para ponerla a prueba, Woo-seok propone fingir una relación. Al descubrir sus secretos, se da cuenta de que podría haber caído en una red de la que no puede escapar, y que escapar podría costarle todo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900412",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48650:1"
+}
+]
+}
+}

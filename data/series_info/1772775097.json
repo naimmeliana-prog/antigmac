@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-06",
+"episode_count": 1,
+"id": 106027941,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAmg2kMi44914N6BBplEG0TKFmY.jpg"
+}
+],
+"info": {
+"name": "ES - Mi tío es de otro mundo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAmg2kMi44914N6BBplEG0TKFmY.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900330",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1117281647",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-06",
+"plot": "En el Japón moderno, Takafumi Takaoka, un estudiante universitario, recoge a su tío que recientemente despertó de un coma de 17 años después de ser atropellado por un camión. El tío muestra la capacidad de usar hechizos mágicos y explica que en realidad fue enviado a otro mundo. Takafumi deja que su tío se mude con él, y ellos, junto con la amiga de la infancia de Takafumi, Sumika Fujimiya, pasan los días ayudando al tío a adaptarse a la sociedad moderna mientras observan sus recuerdos del otro mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900330",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34523:1"
+}
+]
+}
+}

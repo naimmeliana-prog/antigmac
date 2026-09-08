@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-04",
+"episode_count": 1,
+"id": 1386312217,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuMHxOyzEFjW5tyZmoDos0hfZQH.jpg"
+}
+],
+"info": {
+"name": "ES - Dying for Sex (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuMHxOyzEFjW5tyZmoDos0hfZQH.jpg",
+"plot": "",
+"cast": "",
+"director": "Elizabeth Meriwether, Kim Rosenstock",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900375",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "230678254",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-04",
+"plot": "Cuando le diagnostican a Molly cáncer de mama metastásico en estadio 4, decide dejar a su marido y empieza a explorar el alcance y la complejidad de sus deseos sexuales por primera vez en su vida, con el apoyo de su mejor amiga, Nikki.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900375",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42743:1"
+}
+]
+}
+}

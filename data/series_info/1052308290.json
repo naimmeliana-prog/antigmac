@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-13",
+"episode_count": 1,
+"id": 336521229,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZP4MGrihct1lUV54T2n7HrrnA.jpg"
+}
+],
+"info": {
+"name": "ES - Invisible (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZP4MGrihct1lUV54T2n7HrrnA.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900381",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1089621520",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-13",
+"plot": "Capi, un chico de 12 años, ha sufrido un terrible accidente que le ha ocasionado un severo estrés postraumático. Ni el colegio, ni sus amigos, ni su familia pueden explicar qué ha pasado. Sin embargo, el psicólogo que le trata sí está dispuesto a bucear en su historia y descubrir las razones que le han llevado a esa situación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900381",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38805:1"
+}
+]
+}
+}

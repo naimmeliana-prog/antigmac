@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-08-31",
+"episode_count": 2,
+"id": 1338892308,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/gCZ18cl7Pc4tgiwMPWHTgjABrhy.jpg"
+}
+],
+"info": {
+"name": "ES - ONE PIECE",
+"cover": "https://image.tmdb.org/t/p/w154/gCZ18cl7Pc4tgiwMPWHTgjABrhy.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Maeda, Matt Owens",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900365",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "718779748"
+},
+"episodes": {
+"1": [
+{
+"id": "636557458",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-31",
+"plot": "El joven pirata Monkey D. Luffy y su variopinta tripulación emprenden un viaje épico en busca de un tesoro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900365",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTczLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29173:2"
+},
+{
+"id": "604535524",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-31",
+"plot": "El joven pirata Monkey D. Luffy y su variopinta tripulación emprenden un viaje épico en busca de un tesoro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900365",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29173:1"
+}
+]
+}
+}

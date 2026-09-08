@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2009-02-15",
+"episode_count": 4,
+"id": 982903562,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://pics.filmaffinity.com/eastbound_down-950706866-mmed.jpg"
+}
+],
+"info": {
+"name": "ES - De culo y cuesta abajo (2009)",
+"cover": "https://pics.filmaffinity.com/eastbound_down-950706866-mmed.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben Best, Jody Hill, Danny McBride",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900478",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "155222233",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-15",
+"plot": "Kenny Powers es un famoso jugador de beisbol que por su carácter autodestructivo pierde su puesto en la liga de Beisbol. Ya retirado, tendrá que volver a su ciudad natal en Carolina del Norte, donde será designado como el nuevo entrenador de un equipo de instituto en el que estudió de joven.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900478",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzI3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41327:4"
+},
+{
+"id": "1990683954",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-15",
+"plot": "Kenny Powers es un famoso jugador de beisbol que por su carácter autodestructivo pierde su puesto en la liga de Beisbol. Ya retirado, tendrá que volver a su ciudad natal en Carolina del Norte, donde será designado como el nuevo entrenador de un equipo de instituto en el que estudió de joven.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900478",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzI3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41327:3"
+},
+{
+"id": "1289456071",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-15",
+"plot": "Kenny Powers es un famoso jugador de beisbol que por su carácter autodestructivo pierde su puesto en la liga de Beisbol. Ya retirado, tendrá que volver a su ciudad natal en Carolina del Norte, donde será designado como el nuevo entrenador de un equipo de instituto en el que estudió de joven.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900478",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41327:1"
+},
+{
+"id": "164872405",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-15",
+"plot": "Kenny Powers es un famoso jugador de beisbol que por su carácter autodestructivo pierde su puesto en la liga de Beisbol. Ya retirado, tendrá que volver a su ciudad natal en Carolina del Norte, donde será designado como el nuevo entrenador de un equipo de instituto en el que estudió de joven.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900478",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzI3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41327:2"
+}
+]
+}
+}

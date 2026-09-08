@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-03",
+"episode_count": 2,
+"id": 1317783006,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/gY2JkiLZVBPxCfpqK8FcoiCR2Em.jpg"
+}
+],
+"info": {
+"name": "ES - Found",
+"cover": "https://image.tmdb.org/t/p/w154/gY2JkiLZVBPxCfpqK8FcoiCR2Em.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900490",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "11275050",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-03",
+"plot": "En un año determinado, más de 600.000 personas son reportadas como desaparecidas en los EE. UU. De estos casos reportados, más de la mitad de las personas desaparecidas son personas de color, que el sistema ignora con demasiada facilidad. Gabi Mosely, una ex persona desaparecida, ahora se especializa en relaciones públicas y dirige un equipo de gestión de crisis que busca a estas personas desaparecidas. Pero sin que nadie lo sepa, Mosely esconde su propio oscuro secreto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900490",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30391:2"
+},
+{
+"id": "541577902",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-03",
+"plot": "En un año determinado, más de 600.000 personas son reportadas como desaparecidas en los EE. UU. De estos casos reportados, más de la mitad de las personas desaparecidas son personas de color, que el sistema ignora con demasiada facilidad. Gabi Mosely, una ex persona desaparecida, ahora se especializa en relaciones públicas y dirige un equipo de gestión de crisis que busca a estas personas desaparecidas. Pero sin que nadie lo sepa, Mosely esconde su propio oscuro secreto.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900490",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30391:1"
+}
+]
+}
+}

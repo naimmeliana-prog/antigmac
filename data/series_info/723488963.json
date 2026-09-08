@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-22",
+"episode_count": 1,
+"id": 83729993,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/n2oK85ih3E9YlLUadAYW0mDXC5d.jpg"
+}
+],
+"info": {
+"name": "ES - Noches en vela",
+"cover": "https://image.tmdb.org/t/p/w154/n2oK85ih3E9YlLUadAYW0mDXC5d.jpg",
+"plot": "",
+"cast": "",
+"director": "Steve Burge, Natalie Walter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900463",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "546561132",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-22",
+"plot": "Unidos por el insomnio, Lisa y Danny, que son muy buenos amigos, hablan hasta altas horas de la noche y descubren un mundo de sorpresas maravillosamente raras a medida que su relación se intensifica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28184:1"
+}
+]
+}
+}

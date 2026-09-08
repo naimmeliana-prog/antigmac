@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-23",
+"episode_count": 1,
+"id": 995935443,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/io3OzMHW5E2x1A26EKdLNqlcaT5.jpg"
+}
+],
+"info": {
+"name": "ES - Lucky Luke (2026) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/io3OzMHW5E2x1A26EKdLNqlcaT5.jpg",
+"plot": "",
+"cast": "",
+"director": "Thomas Mansuy, Mathieu Leblanc",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900387",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1949995944",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-23",
+"plot": "Lucky Luke debe ayudar a Louise a encontrar a su madre, desaparecida misteriosamente, mientras frustra un complot que podría cambiar el curso de la historia de Estados Unidos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900387",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MDQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49047:1"
+}
+]
+}
+}

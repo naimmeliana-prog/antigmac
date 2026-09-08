@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-02",
+"episode_count": 1,
+"id": 1207242430,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyyvHEJT5r5jUgPaGu9O9zF0Z8N.jpg"
+}
+],
+"info": {
+"name": "ES - Rubiales vs Hermoso: El beso de la Copa del Mundo (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyyvHEJT5r5jUgPaGu9O9zF0Z8N.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900628",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1191694346",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-02",
+"plot": "El expresidente de la Federación Española de Fútbol, Luis Rubiales, fue declarado culpable de agredir sexualmente a la jugadora Jenni Hermoso por besarla sin su consentimiento tras la final del Mundial Femenino de 2023. Rubiales declaró ante el tribunal que estaba \"absolutamente seguro\" de que la futbolista española Jenni Hermoso dio su consentimiento antes de que él la besara en Australia, pero el Tribunal Supremo español le condenó a pagar una multa de 10.800 euros. Hermoso ha declarado que recibió amenazas de muerte que la llevaron a trasladar a su familia a México, donde juega ahora. Tras negarse a dimitir, Rubiales fue suspendido y finalmente sancionado por la UEFA y la FIFA. Este documental cuenta toda la historia desde el principio hasta el final.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MzkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44390:1"
+}
+]
+}
+}

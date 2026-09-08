@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-20",
+"episode_count": 2,
+"id": 514794148,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/UgpZdpcVTW5QgJKopIwzG0Q30V.jpg"
+}
+],
+"info": {
+"name": "ES - Presidente por accidente (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/UgpZdpcVTW5QgJKopIwzG0Q30V.jpg",
+"plot": "",
+"cast": "",
+"director": "Jean-Pascal Zadi, François Uzan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900339",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1282708945",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-20",
+"plot": "Un monitor de un centro juvenil de los suburbios de París es finalista de las elecciones presidenciales. ¿Está Francia preparada para tener su primer presidente negro?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900339",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTIzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35923:2"
+},
+{
+"id": "1588444405",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-20",
+"plot": "Un monitor de un centro juvenil de los suburbios de París es finalista de las elecciones presidenciales. ¿Está Francia preparada para tener su primer presidente negro?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900339",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35923:1"
+}
+]
+}
+}

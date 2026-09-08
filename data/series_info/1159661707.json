@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-20",
+"episode_count": 1,
+"id": 664104890,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ze8CygLg40MubAjeISMzyyzV5q.jpg"
+}
+],
+"info": {
+"name": "ES - Nuñez (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ze8CygLg40MubAjeISMzyyzV5q.jpg",
+"plot": "",
+"cast": "",
+"director": "Jordi Call",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900621",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1670435384",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-20",
+"plot": "Docuserie de 4 capítulos que repasa la historia de Josep Lluís Nuñez, un hombre que llega con siete meses a Catalunya, sin apenas nada, y acaba siendo presidente del FC Barcelona. En medio de todo hay ambición, amor, enfrentamientos con la Generalitat, una relación tensa con la prensa, amigos que terminan siendo enemigos, enemigos que acaban siendo amigos, fútbol, ​​alegrías, fracasos y muchas lágrimas. La lucha de un hombre por hacer del Barça el mejor club de Europa y un retrato de la Cataluña y España de finales del siglo XX.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35226:1"
+}
+]
+}
+}

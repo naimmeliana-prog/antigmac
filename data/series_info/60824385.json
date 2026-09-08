@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-06-07",
+"episode_count": 2,
+"id": 347930927,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/mPCtR4myjwWtrlEoKDn3eOZ2yDf.jpg"
+}
+],
+"info": {
+"name": "ES - Hierro (2019)",
+"cover": "https://image.tmdb.org/t/p/w154/mPCtR4myjwWtrlEoKDn3eOZ2yDf.jpg",
+"plot": "",
+"cast": "",
+"director": "Pepe Coira",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900238",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1118881253",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-07",
+"plot": "Candela es una jueza que acaban de destinar a El Hierro, la isla más remota del archipiélago canario. No le va a resultar fácil adaptarse a la vida en una comunidad que, como ella misma, tiene un fuerte carácter. De hecho, la han enviado allí como castigo por su comportamiento heterodoxo.  Nada más llegar a la isla, Candela tiene que instruir un caso complicado: aparece asesinado Fran, un joven herreño, el mismo día en el que iba a casarse con la hija de Díaz, un oscuro empresario que enseguida se convierte en el principal sospechoso del crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTAxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22901:2"
+},
+{
+"id": "1318400535",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-07",
+"plot": "Candela es una jueza que acaban de destinar a El Hierro, la isla más remota del archipiélago canario. No le va a resultar fácil adaptarse a la vida en una comunidad que, como ella misma, tiene un fuerte carácter. De hecho, la han enviado allí como castigo por su comportamiento heterodoxo.  Nada más llegar a la isla, Candela tiene que instruir un caso complicado: aparece asesinado Fran, un joven herreño, el mismo día en el que iba a casarse con la hija de Díaz, un oscuro empresario que enseguida se convierte en el principal sospechoso del crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22901:1"
+}
+]
+}
+}

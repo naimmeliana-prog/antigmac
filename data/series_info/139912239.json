@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-28",
+"episode_count": 1,
+"id": 1179163127,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5C8WaWBSImmQ3LgMcgbvdoL3iz.jpg"
+}
+],
+"info": {
+"name": "ES - Los años nuevos (2024) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5C8WaWBSImmQ3LgMcgbvdoL3iz.jpg",
+"plot": "",
+"cast": "",
+"director": "Paula Fabra, Rodrigo Sorogoyen, Sara Cano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900242",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1982022881",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-28",
+"plot": "Óscar cumple treinta años el día de Nochevieja con la vida casi resuelta. Ana cumple treinta años el día de Año Nuevo con la vida aún por resolver. Se conocen, se enamoran, y comienzan una relación que durará diez años.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900242",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2OTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46994:1"
+}
+]
+}
+}

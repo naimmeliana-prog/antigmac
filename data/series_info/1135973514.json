@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2014-01-19",
+"episode_count": 1,
+"id": 257216881,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMIRpZUOXwZcDoGyRJnwrrZQYzW.jpg"
+}
+],
+"info": {
+"name": "ES - Looking",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMIRpZUOXwZcDoGyRJnwrrZQYzW.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Lannan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900500",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1044248842",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-01-19",
+"plot": "Narra las andanzas de un grupo de amigos gays de San Francisco. Los  protagonistas son: Patrick, un diseñador de videojuegos  de 29 años que, al enterarse del compromiso de su ex, ha vuelto al  mundo de las citas; Agustín, de 31 años, tiene  novio pero se está cuestionando la monogamia; y Dom,  de 39 años, que trabaja como eterno camarero y atraviesa una crisis  existencial.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900500",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34240:1"
+}
+]
+}
+}

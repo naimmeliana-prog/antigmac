@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-14",
+"episode_count": 1,
+"id": 990338569,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRSVRveIBlA7UomN5yoKaTRI9bQ.jpg"
+}
+],
+"info": {
+"name": "ES - Ángela (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRSVRveIBlA7UomN5yoKaTRI9bQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Sara Cano, Paula Fabra",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900269",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "77475949",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-14",
+"plot": "Ángela lleva una vida aparentemente idílica de puertas para afuera: tiene dos hijos fantásticos, un esposo encantador y una casa espectacular. Sin embargo, esta fachada es un fraude y cada vez le cuesta más esfuerzo mantenerla. Ángela es en realidad una mujer maltratada por un marido obsesivo que le ha convencido de que sin él no sería nada. Hasta que un día aparece Edu, un atractivo joven que le desvela sorprendentes secretos y que está dispuesto a ayudarla eliminándolo de su vida.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900269",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35229:1"
+}
+]
+}
+}

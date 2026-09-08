@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-19",
+"episode_count": 1,
+"id": 1365714181,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZR53Tr5jqYDMJYe5mV3jnbIIqi.jpg"
+}
+],
+"info": {
+"name": "ES - Hyper Knife (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZR53Tr5jqYDMJYe5mV3jnbIIqi.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Jung-hyun, 김선희",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900380",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1270406224",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-19",
+"plot": "Seok, una brillante y entusiasta neurocirujana, se reencuentra con Deokhee, el doctor que le arruinó la vida hace años. En su día, los dos tenían una relación muy especial, pero ahora solo se desprecian. Seok está furiosa de que haya vuelto a su vida y jura vengarse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900380",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42392:1"
+}
+]
+}
+}

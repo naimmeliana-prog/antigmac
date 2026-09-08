@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-06",
+"episode_count": 1,
+"id": 1165009688,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwGIOP0kK1b5mhXr8yxjdS7oy7Q.jpg"
+}
+],
+"info": {
+"name": "ES - La caída de la Hermandad Aria de Texas (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwGIOP0kK1b5mhXr8yxjdS7oy7Q.jpg",
+"plot": "",
+"cast": "",
+"director": "Neil Rawles",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900598",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "885079520",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-06",
+"plot": "Una mirada dentro del mundo de culto de la Hermandad Aria de Texas desde finales de la década de 2000 hasta la actualidad. Contada principalmente por el carismático agente federal Richard Boehning, la serie examina un grupo de delitos organizado basado en la ideología nazi y la violencia extrema que operan bajo el radar en los suburbios de Texas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900598",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41825:1"
+}
+]
+}
+}

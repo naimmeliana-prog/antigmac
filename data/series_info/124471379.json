@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2015-08-23",
+"episode_count": 5,
+"id": 1506396484,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdaB95H0qnBd2Y3j8FOjUkxBuBk.jpg"
+}
+],
+"info": {
+"name": "ES - Fear the Walking Dead",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdaB95H0qnBd2Y3j8FOjUkxBuBk.jpg",
+"plot": "",
+"cast": "",
+"director": "Robert Kirkman, Dave Erickson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900415",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "519623062",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-08-23",
+"plot": "En el seno de una ciudad a la que las personas acuden para escapar, esconder sus secretos y enterrar su pasado, un brote misterioso amenaza con perturbar la poca estabilidad que Madison Clark -asesora escolar de un instituto- y Travis Manawa –profesor de lengua- han conseguido alcanzar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzUsInNlYXNvbl9udW0iOjYsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8235:6"
+},
+{
+"id": "308615646",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-08-23",
+"plot": "En el seno de una ciudad a la que las personas acuden para escapar, esconder sus secretos y enterrar su pasado, un brote misterioso amenaza con perturbar la poca estabilidad que Madison Clark -asesora escolar de un instituto- y Travis Manawa –profesor de lengua- han conseguido alcanzar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzUsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8235:5"
+},
+{
+"id": "547537574",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-08-23",
+"plot": "En el seno de una ciudad a la que las personas acuden para escapar, esconder sus secretos y enterrar su pasado, un brote misterioso amenaza con perturbar la poca estabilidad que Madison Clark -asesora escolar de un instituto- y Travis Manawa –profesor de lengua- han conseguido alcanzar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzUsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8235:4"
+},
+{
+"id": "635091490",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-08-23",
+"plot": "En el seno de una ciudad a la que las personas acuden para escapar, esconder sus secretos y enterrar su pasado, un brote misterioso amenaza con perturbar la poca estabilidad que Madison Clark -asesora escolar de un instituto- y Travis Manawa –profesor de lengua- han conseguido alcanzar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8235:3"
+},
+{
+"id": "310833346",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-08-23",
+"plot": "En el seno de una ciudad a la que las personas acuden para escapar, esconder sus secretos y enterrar su pasado, un brote misterioso amenaza con perturbar la poca estabilidad que Madison Clark -asesora escolar de un instituto- y Travis Manawa –profesor de lengua- han conseguido alcanzar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyMzUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8235:2"
+}
+]
+}
+}

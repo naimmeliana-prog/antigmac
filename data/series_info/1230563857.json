@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-10",
+"episode_count": 1,
+"id": 1310699622,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg"
+}
+],
+"info": {
+"name": "ES - Alias Charlie Sheen (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrew Renzi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900559",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "34982407",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-10",
+"plot": "El actor Charlie Sheen narra su historia en este sincero documental de dos partes que recorre su deslumbrante ascenso en Hollywood, comentadísima caída y proceso de recuperación.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900559",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45625:1"
+}
+]
+}
+}

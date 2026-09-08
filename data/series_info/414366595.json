@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-21",
+"episode_count": 2,
+"id": 89137197,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GLyZMKs3ndDstAxomwRbFbnFBA.jpg"
+}
+],
+"info": {
+"name": "ES - Insiders - (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GLyZMKs3ndDstAxomwRbFbnFBA.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900305",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "819151234",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-21",
+"plot": "Doce personas piensan que están en la ronda final para participar en un reality. De hecho, los han estado filmando en secreto todo el tiempo, con cien mil euros en juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900305",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MzA0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18304:2"
+},
+{
+"id": "144284472",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-21",
+"plot": "Doce personas piensan que están en la ronda final para participar en un reality. De hecho, los han estado filmando en secreto todo el tiempo, con cien mil euros en juego.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900305",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MzA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18304:1"
+}
+]
+}
+}

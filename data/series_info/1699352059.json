@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-16",
+"episode_count": 1,
+"id": 1794502916,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOXaGAoGZZexkc9slglwxnyg4Tj.jpg"
+}
+],
+"info": {
+"name": "ES - Proyecto ovni (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOXaGAoGZZexkc9slglwxnyg4Tj.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900339",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "394360355",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-16",
+"plot": "Un presentador de televisión engreído y un ufólogo de un pequeño pueblo trabajan para descubrir los orígenes de un supuesto avistamiento de ovnis, dividiendo a la nación en una tormenta de dudas y creencias.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900339",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42917:1"
+}
+]
+}
+}

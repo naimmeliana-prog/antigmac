@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-03",
+"episode_count": 2,
+"id": 586861090,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXU7KUsE5OUbSRBzZKaQYZ7icFW.jpg"
+}
+],
+"info": {
+"name": "ES - Fuerzas especiales (LQ) (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXU7KUsE5OUbSRBzZKaQYZ7icFW.jpg",
+"plot": "",
+"cast": "",
+"director": "Ziad Doueiri, Duong Dang-Thai, Corinne Garfin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900416",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "690972655",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-03",
+"plot": "Las fuerzas especiales francesas se despliegan en Irak, en vísperas de la batalla de Mosul, en octubre de 2016. Los miembros de este comando tienen la misión de localizar y sacar del país a la hija y al nieto de un importante emir francés del Daesh que ha sido capturado y que solo cooperará con ellos si se cumple esta condición.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODA5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49809:2"
+},
+{
+"id": "976741701",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-03",
+"plot": "Las fuerzas especiales francesas se despliegan en Irak, en vísperas de la batalla de Mosul, en octubre de 2016. Los miembros de este comando tienen la misión de localizar y sacar del país a la hija y al nieto de un importante emir francés del Daesh que ha sido capturado y que solo cooperará con ellos si se cumple esta condición.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49809:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-12-04",
+"episode_count": 1,
+"id": 1565747794,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/45kPCZ0u6WDkIslRqNtEWXF1qxa.jpg"
+}
+],
+"info": {
+"name": "ES - Terra Alta (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/45kPCZ0u6WDkIslRqNtEWXF1qxa.jpg",
+"plot": "",
+"cast": "",
+"director": "Eligio R. Montero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900251",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1299353507",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-12-04",
+"plot": "Terra Alta, en Tarragona, es un lugar de una belleza salvaje, donde aún sangran las cicatrices de la Guerra Civil. Un territorio tranquilo hasta que el asesinato de Francisco y Rosa Adell, patriarcas de la familia más rica y poderosa del lugar, conmociona a todos. Este suceso hace que Melchor Marín, uno de los agentes a cargo de la investigación, reviva su oscuro, complejo y olvidado pasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900251",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46892:1"
+}
+]
+}
+}

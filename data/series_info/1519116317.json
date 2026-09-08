@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-29",
+"episode_count": 1,
+"id": 374998538,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLDtzHq6zv7gCem5jEOdiB4pLYq.jpg"
+}
+],
+"info": {
+"name": "ES - Paparazzi (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLDtzHq6zv7gCem5jEOdiB4pLYq.jpg",
+"plot": "",
+"cast": "",
+"director": "Santi Acosta, Nuria López Escribano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900622",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "560192807",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-29",
+"plot": "\"Paparazzi\" no solo relata la historia de estos fotógrafos, sino que también explora el impacto de sus imágenes en la sociedad. Las fotografías de los paparazzi no solo han capturado momentos de la vida social y política, sino que también han influido en la percepción pública de los famosos. Desde los primeros robados hasta las exclusivas más sonadas, la docuserie revela cómo la relación entre paparazzi y famosos ha evolucionado, pasando de ser una colaboración casi idílica a convertirse en una guerra abierta por proteger la intimidad.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900622",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37231:1"
+}
+]
+}
+}

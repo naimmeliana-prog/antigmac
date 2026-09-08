@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-22",
+"episode_count": 1,
+"id": 739149727,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgHnPBJiQluvoVuSKloO3ZNRQFm.jpg"
+}
+],
+"info": {
+"name": "ES - Oriana Fallaci (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgHnPBJiQluvoVuSKloO3ZNRQFm.jpg",
+"plot": "",
+"cast": "",
+"director": "Viola Rispoli, Tom Grieves",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900538",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1363837987",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-22",
+"plot": "Un retrato de la vida de la periodista italiana Oriana Fallaci durante su etapa en Hollywood en los años 50, donde trabajó como corresponsal de entretenimiento. Con una mirada crítica y desilusionada, Fallaci analiza la sociedad y los costumbres de la América de la época, fascinada por sus contradicciones y el brillo oculto tras el glamour de la meca del cine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900538",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMjg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41285:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-28",
+"episode_count": 1,
+"id": 23460344,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9GEONSrEYz8nUAqsFXRRu9GYtO.jpg"
+}
+],
+"info": {
+"name": "ES - La locura (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9GEONSrEYz8nUAqsFXRRu9GYtO.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Belber",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900311",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "89985612",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-28",
+"plot": "El experto en medios de comunicación Muncie Daniels (Colman Domingo) tiene que defender su inocencia (y su vida) tras tropezarse con un asesinato en los bosques de los montes Poconos (Pensilvania, EE. UU.). Acorralado, Muncie intentará recuperar a su familia, y sus ideales perdidos, para sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900311",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MzE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38314:1"
+}
+]
+}
+}

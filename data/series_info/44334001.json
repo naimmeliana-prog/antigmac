@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2014-05-06",
+"episode_count": 5,
+"id": 560846907,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
+}
+],
+"info": {
+"name": "ES - Gomorra (2014)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg",
+"plot": "",
+"cast": "",
+"director": "Roberto Saviano",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900492",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1645959799",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-05-06",
+"plot": "La mafia mata. Asesina, despedaza, quema, derrite en ácido y demás amabilidades. No hay espacio para el glamur del cine, al menos en la realidad italiana. No hay mafiosos de honor y líderes de atractivo irresistible sino capos sin piedad ni, a veces, alfabetización.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MTI1LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35125:5"
+},
+{
+"id": "1651066392",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-05-06",
+"plot": "La mafia mata. Asesina, despedaza, quema, derrite en ácido y demás amabilidades. No hay espacio para el glamur del cine, al menos en la realidad italiana. No hay mafiosos de honor y líderes de atractivo irresistible sino capos sin piedad ni, a veces, alfabetización.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MTI1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35125:4"
+},
+{
+"id": "492809966",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-05-06",
+"plot": "La mafia mata. Asesina, despedaza, quema, derrite en ácido y demás amabilidades. No hay espacio para el glamur del cine, al menos en la realidad italiana. No hay mafiosos de honor y líderes de atractivo irresistible sino capos sin piedad ni, a veces, alfabetización.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MTI1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35125:3"
+},
+{
+"id": "1089751564",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-05-06",
+"plot": "La mafia mata. Asesina, despedaza, quema, derrite en ácido y demás amabilidades. No hay espacio para el glamur del cine, al menos en la realidad italiana. No hay mafiosos de honor y líderes de atractivo irresistible sino capos sin piedad ni, a veces, alfabetización.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MTI1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35125:2"
+},
+{
+"id": "65782929",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-05-06",
+"plot": "La mafia mata. Asesina, despedaza, quema, derrite en ácido y demás amabilidades. No hay espacio para el glamur del cine, al menos en la realidad italiana. No hay mafiosos de honor y líderes de atractivo irresistible sino capos sin piedad ni, a veces, alfabetización.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35125:1"
+}
+]
+}
+}

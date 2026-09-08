@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-05",
+"episode_count": 1,
+"id": 1043381875,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcfpovydjIs6PnIPrc04A1SVCcx.jpg"
+}
+],
+"info": {
+"name": "ES - Nacho",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+"plot": "",
+"cast": "",
+"director": "Gema R. Neira, Teresa Fernández-Valdés, Diego Sotelo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900265",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1796760731",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-05",
+"plot": "1993. Ignacio Jordá, Nacho para todo el que le conoce, es un chaval alocado, magnético y con una energía desbordante, que ha decidido vivir su vida al límite. Nacido en una familia convencional y católica, a ojos de su padre, no es más que un joven sin futuro, carente de talento. Pero nada más lejos de la realidad. Nacho ha nacido con un “don”. Un “don” peculiar y gracias a Sara Bernat, el primer gran amor de su vida, Nacho apuesta por hacer carrera en el cine para adultos y convertirse en una estrella internacional. Por fin, ha llegado la hora de demostrar al mundo que puede ser alguien. Su viaje hacia el éxito y la fama no han hecho nada más que comenzar...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900265",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34449:1"
+}
+]
+}
+}

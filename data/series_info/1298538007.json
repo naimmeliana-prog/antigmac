@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-11",
+"episode_count": 2,
+"id": 777897604,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKmLCDudQXXOZr16bB7ApT7jXo3.jpg"
+}
+],
+"info": {
+"name": "ES - TED",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKmLCDudQXXOZr16bB7ApT7jXo3.jpg",
+"plot": "",
+"cast": "",
+"director": "Seth MacFarlane",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900250",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "300443558",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-11",
+"plot": "Ambientada en 1993, tras la secuencia inicial de la primera película, la serie narra los primeros años de vida de un osito de peluche sensible llamado Ted, que vive con John Bennett y su familia en Massachusetts. Además de John y Ted, en la casa de los Bennett viven Matty, el padre de John, Susan, su madre, y su prima Blaire, que vive con ellos mientras asiste a una universidad cercana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900250",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNjc5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30679:2"
+},
+{
+"id": "197233669",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-11",
+"plot": "Ambientada en 1993, tras la secuencia inicial de la primera película, la serie narra los primeros años de vida de un osito de peluche sensible llamado Ted, que vive con John Bennett y su familia en Massachusetts. Además de John y Ted, en la casa de los Bennett viven Matty, el padre de John, Susan, su madre, y su prima Blaire, que vive con ellos mientras asiste a una universidad cercana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900250",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNjc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30679:1"
+}
+]
+}
+}

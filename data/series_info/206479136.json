@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-12",
+"episode_count": 2,
+"id": 1298164070,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrTKIXx0GrE6yABJL829HBAs1Jy.jpg"
+}
+],
+"info": {
+"name": "ES - Velma",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrTKIXx0GrE6yABJL829HBAs1Jy.jpg",
+"plot": "",
+"cast": "",
+"director": "Charlie Grandy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900514",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1159647048",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-12",
+"plot": "Los orígenes de Velma Dinkley, la inteligente y gran olvidada integrante de Misterios S. A. de Scooby-Doo. Una serie divertida y original que descubre el complejo y peculiar pasado de una de las detectives más queridas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900514",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32276:1"
+},
+{
+"id": "1297800813",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-12",
+"plot": "Los orígenes de Velma Dinkley, la inteligente y gran olvidada integrante de Misterios S. A. de Scooby-Doo. Una serie divertida y original que descubre el complejo y peculiar pasado de una de las detectives más queridas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900514",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjc2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32276:2"
+}
+]
+}
+}

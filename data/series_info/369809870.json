@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-03",
+"episode_count": 1,
+"id": 973575604,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5QZ9ZN277TKpFKy2qpw0SR4pDS.jpg"
+}
+],
+"info": {
+"name": "ES - Waco Untold: The British Stories (2023) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5QZ9ZN277TKpFKy2qpw0SR4pDS.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900641",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1532421048",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-03",
+"plot": "Esta es la historia del asedio de Waco y de los británicos que murieron con David Koresh, el líder de la secta estadounidense. En este primer episodio conocemos a este autoproclamado profeta. A sus seguidores se les prometió la salvación como «pueblo elegido» de Dios, destinados a ser los eternos supervivientes de un apocalipsis bíblico que traería la segunda venida de Cristo. Sin embargo, lo único que le esperaba al grupo era la muerte, ya que agentes federales llevaron a cabo un asalto por almacenar armas de fuego ilegales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900641",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48343:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-19",
+"episode_count": 1,
+"id": 1587886251,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/E4LT4GOrFWgU3wAptvpqsQU2sH.jpg"
+}
+],
+"info": {
+"name": "ES - High Country (LQ) (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/E4LT4GOrFWgU3wAptvpqsQU2sH.jpg",
+"plot": "",
+"cast": "",
+"director": "Marcia Gardner, John Ridley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900238",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "143358120",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-19",
+"plot": "Una detective trasladada a Victorian High Country investiga la desaparición de cinco personas. Descubre una compleja red de asesinatos, engaños y venganzas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900238",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48653:1"
+}
+]
+}
+}

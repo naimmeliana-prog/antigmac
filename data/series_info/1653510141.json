@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2017-09-24",
+"episode_count": 5,
+"id": 1425082879,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDLjbZp93qaMhruz52sH0GsfcVr.jpg"
+}
+],
+"info": {
+"name": "ES - Star Trek: Discovery",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDLjbZp93qaMhruz52sH0GsfcVr.jpg",
+"plot": "",
+"cast": "",
+"director": "Alex Kurtzman, Bryan Fuller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900541",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "190075197",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-24",
+"plot": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29174:5"
+},
+{
+"id": "242365968",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-24",
+"plot": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29174:4"
+},
+{
+"id": "404245830",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-24",
+"plot": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29174:3"
+},
+{
+"id": "359072619",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-24",
+"plot": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29174:2"
+},
+{
+"id": "106099073",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-24",
+"plot": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900541",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29174:1"
+}
+]
+}
+}

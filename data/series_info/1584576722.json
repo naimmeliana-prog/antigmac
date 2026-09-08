@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-15",
+"episode_count": 1,
+"id": 494874451,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhsdv4rbDY1KzX54DcK5S5LmuxU.jpg"
+}
+],
+"info": {
+"name": "ES - No soy un monstruo Los crimenes de Lois Riess (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhsdv4rbDY1KzX54DcK5S5LmuxU.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900619",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "172387315",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-15",
+"plot": "En 2018, un asesinato en un pequeño pueblo de Minnesota conmociona a la comunidad cuando Lois Riess, esposa, madre y abuela de 56 años, mata a su marido David y huye de las autoridades. Años después, Lois se sienta con los cineastas para contar su historia por primera vez e intenta explicar sus reprobables acciones, que revelan una inquietante historia familiar y una adicción al juego. Lola te amo",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3MjU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37257:1"
+}
+]
+}
+}

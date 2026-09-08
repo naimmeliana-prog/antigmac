@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-02-07",
+"episode_count": 3,
+"id": 1720573446,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ggua9daH75BdaGS8GJ1SQKkZCk.jpg"
+}
+],
+"info": {
+"name": "ES - Mythic Quest",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ggua9daH75BdaGS8GJ1SQKkZCk.jpg",
+"plot": "",
+"cast": "",
+"director": "Rob McElhenney, Charlie Day, Megan Ganz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900463",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "769816999",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-02-07",
+"plot": "Conoce al equipo detrás del videojuego multijugador más grande de todos los tiempos. En una empresa con la misión de construir mundos, moldear héroes y crear leyendas, las batallas más difíciles no se libran en el juego sino en la oficina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32018:3"
+},
+{
+"id": "812656059",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-02-07",
+"plot": "Conoce al equipo detrás del videojuego multijugador más grande de todos los tiempos. En una empresa con la misión de construir mundos, moldear héroes y crear leyendas, las batallas más difíciles no se libran en el juego sino en la oficina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32018:1"
+},
+{
+"id": "107090133",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-02-07",
+"plot": "Conoce al equipo detrás del videojuego multijugador más grande de todos los tiempos. En una empresa con la misión de construir mundos, moldear héroes y crear leyendas, las batallas más difíciles no se libran en el juego sino en la oficina.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900463",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32018:2"
+}
+]
+}
+}

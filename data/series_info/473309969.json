@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-13",
+"episode_count": 3,
+"id": 1405766971,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/mGZpOEaLZTRzWeQMq5SZM5BbDZg.jpg"
+}
+],
+"info": {
+"name": "ES - Top Boy",
+"cover": "https://image.tmdb.org/t/p/w154/mGZpOEaLZTRzWeQMq5SZM5BbDZg.jpg",
+"plot": "",
+"cast": "",
+"director": "Ronan Bennett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900354",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "984430372",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-13",
+"plot": "Tras verse obligado a huir de sus propiedades en Londres, un exmafioso regresa a casa con la intención de recuperar su trono en el mundo del crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900354",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4Mjc4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28278:3"
+},
+{
+"id": "772229848",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-13",
+"plot": "Tras verse obligado a huir de sus propiedades en Londres, un exmafioso regresa a casa con la intención de recuperar su trono en el mundo del crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900354",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4Mjc4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28278:2"
+},
+{
+"id": "1026062123",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-13",
+"plot": "Tras verse obligado a huir de sus propiedades en Londres, un exmafioso regresa a casa con la intención de recuperar su trono en el mundo del crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900354",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4Mjc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28278:1"
+}
+]
+}
+}

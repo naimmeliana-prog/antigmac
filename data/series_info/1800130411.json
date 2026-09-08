@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-30",
+"episode_count": 1,
+"id": 1266439447,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK7Sg8lYc9oJaCoDGVDV41FYCE8.jpg"
+}
+],
+"info": {
+"name": "ES - El arte de la felicidad (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK7Sg8lYc9oJaCoDGVDV41FYCE8.jpg",
+"plot": "",
+"cast": "",
+"director": "Valeria Golino, Francesca Marciano, Valia Santella",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900524",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "735119523",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-30",
+"plot": "Muestra a una joven siciliana llamada Modesta, nacida en el seno de una familia empobrecida a principios de 1900 e impulsada por la firme creencia de que está destinada a una vida mejor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900524",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42744:1"
+}
+]
+}
+}

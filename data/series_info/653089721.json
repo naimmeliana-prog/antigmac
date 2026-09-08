@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-08",
+"episode_count": 1,
+"id": 1217651335,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg"
+}
+],
+"info": {
+"name": "ES - El cuerpo en llamas",
+"cover": "https://image.tmdb.org/t/p/w154/3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg",
+"plot": "",
+"cast": "",
+"director": "Laura Sarmiento",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900290",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1804827512",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-08",
+"plot": "Encuentran a un oficial de policía muerto, con el cuerpo calcinado. Todas las sospechas recaen sobre otros dos agentes: su novia y el amante de ella. Inspirada en hechos reales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900290",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4Njk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28697:1"
+}
+]
+}
+}

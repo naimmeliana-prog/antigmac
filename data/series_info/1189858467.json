@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-25",
+"episode_count": 1,
+"id": 33605077,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg"
+}
+],
+"info": {
+"name": "ES - Nautilus (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
+"plot": "",
+"cast": "",
+"director": "James Dormer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900425",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1530315985",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-25",
+"plot": "Un príncipe indio despojado de su derecho de nacimiento y de su familia, prisionero de la Compañía de las Indias Orientales y un hombre empeñado en vengarse de las fuerzas que le han quitado todo, Nemo zarpó con su tripulación heterogénea a bordo del impresionante barco, luchando contra  enemigos y descubrir mundos submarinos mágicos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42398:1"
+}
+]
+}
+}

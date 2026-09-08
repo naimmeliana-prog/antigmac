@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2012-05-28",
+"episode_count": 1,
+"id": 1483505048,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg"
+}
+],
+"info": {
+"name": "ES - Pablo Escobar, el patrón del mal",
+"cover": "https://image.tmdb.org/t/p/w154/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900336",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "286633834",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-05-28",
+"plot": "Versión libre del libro \"La parábola de Pablo\". Describe la vida del narco colombiano Pablo Escobar Gaviria desde su infancia, El uso de la violencia indiscriminada lo convirtió en el narcotraficante más temible y sanguinario de finales del siglo XX. Llegó incluso a desestabilizar al Gobierno colombiano hasta el punto de ser el criminal más buscado del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900336",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NjQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29641:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-29",
+"episode_count": 1,
+"id": 1156498839,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/11Una51BNTNUhNj4JkHgMCgfvKc.jpg"
+}
+],
+"info": {
+"name": "ES - El libro de Boba Fett",
+"cover": "https://image.tmdb.org/t/p/w154/11Una51BNTNUhNj4JkHgMCgfvKc.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Favreau",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900377",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "8099877",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-29",
+"plot": "El legendario cazarrecompensas Boba Fett y la mercenaria Fennec Shand deben navegar por el inframundo de la galaxia cuando regresen a las arenas de Tatooine para reclamar el territorio que una vez gobernó Jabba el Hutt y su sindicato del crimen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900377",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29917:1"
+}
+]
+}
+}

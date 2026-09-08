@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-29",
+"episode_count": 1,
+"id": 1394428472,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egnT9JzHHW4bhS5BBu4UUeYVkal.jpg"
+}
+],
+"info": {
+"name": "ES - Vuelven los magos de Waverly Place (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egnT9JzHHW4bhS5BBu4UUeYVkal.jpg",
+"plot": "",
+"cast": "",
+"director": "Todd J. Greenwald",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900403",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1545414348",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-29",
+"plot": "Han pasado algunos años y Justin Russo ha renunciado a todos sus poderes mágicos. Lleva una vida mortal con su esposa Giada y sus dos hijos Milo y Roman. Un día, Alex Russo, la hermana de Justin, le trae a Billie, que busca ayuda. La joven maga busca un mentor y maestro. Justin enfrenta su pasado para salvar el futuro del mundo mágico.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38725:1"
+}
+]
+}
+}

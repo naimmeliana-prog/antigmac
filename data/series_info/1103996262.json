@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-28",
+"episode_count": 1,
+"id": 709907204,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XeKdFxONDzITjPLD1ySGJ637M6.jpg"
+}
+],
+"info": {
+"name": "ES - Pura sangre (LQ) (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XeKdFxONDzITjPLD1ySGJ637M6.jpg",
+"plot": "",
+"cast": "",
+"director": "Virginia Yagüe, Nacho Faerna",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900266",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1192771802",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-28",
+"plot": "En La Galana, la finca familiar de los marqueses de Monteclaro, el más valioso semental aparece envenenado junto a varios potros de la cuadra. Este suceso sacude la aparente tranquilidad de la familia y desencadena una investigación que amenaza con destapar una compleja trama de secretos enterrados, lealtades cruzadas, tensiones económicas y heridas sin cerrar.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NzMxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49731:1"
+}
+]
+}
+}

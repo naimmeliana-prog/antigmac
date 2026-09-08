@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-30",
+"episode_count": 1,
+"id": 1391243878,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G9Gxt1tP4KM6cT87KeGpdrtW4p.jpg"
+}
+],
+"info": {
+"name": "ES - Pecados inconfesables (2025) (MX)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G9Gxt1tP4KM6cT87KeGpdrtW4p.jpg",
+"plot": "",
+"cast": "",
+"director": "Leticia López Margalli, Guillermo Ríos",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900337",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "598098037",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-30",
+"plot": "Una mujer atrapada en un matrimonio controlador encuentra consuelo y venganza en un joven amante, hasta que todo se convierte en una lucha desesperada por sobrevivir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900337",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44635:1"
+}
+]
+}
+}

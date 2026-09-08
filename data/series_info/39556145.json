@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-23",
+"episode_count": 1,
+"id": 1969331131,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwmTfYpEmXzRpty3pg5SezkX5X.jpg"
+}
+],
+"info": {
+"name": "ES - Tor : Una historia de Carles Porta(2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwmTfYpEmXzRpty3pg5SezkX5X.jpg",
+"plot": "",
+"cast": "",
+"director": "Carles Porta",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900267",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "542319206",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-23",
+"plot": "La serie documental más esperada. Carles Porta revive la leyenda negra de Tor, la montaña maldita",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900267",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34870:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-05",
+"episode_count": 1,
+"id": 1249277312,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykDva4WxCNzo8M1rYVEepoA5pFJ.jpg"
+}
+],
+"info": {
+"name": "ES - Hitler y los nazis: La maldad a juicio (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykDva4WxCNzo8M1rYVEepoA5pFJ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900587",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1299119010",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-05",
+"plot": "Esta fascinante docuserie analiza el ascenso y la caída de Adolf Hitler y los nazis, desde antes de la Segunda Guerra Mundial hasta el Holocausto y los juicios de Núremberg.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900587",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35683:1"
+}
+]
+}
+}

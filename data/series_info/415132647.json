@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-10",
+"episode_count": 2,
+"id": 1455407216,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uweQXfZrcK38sRh9Vtp2V6CzwN1.jpg"
+}
+],
+"info": {
+"name": "ES - Vicios ocultos (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uweQXfZrcK38sRh9Vtp2V6CzwN1.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonathan Tropper",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900472",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1738427776",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-10",
+"plot": "Cuando un titán financiero se encuentra de repente divorciado y en paro, empieza a robar a sus vecinos ricos para mantenerse a flote. Curiosamente, robar a su círculo social le entusiasma, pero poco a poco, va enredándose en una red mortal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42788:2"
+},
+{
+"id": "1734014750",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-10",
+"plot": "Cuando un titán financiero se encuentra de repente divorciado y en paro, empieza a robar a sus vecinos ricos para mantenerse a flote. Curiosamente, robar a su círculo social le entusiasma, pero poco a poco, va enredándose en una red mortal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900472",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNzg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42788:1"
+}
+]
+}
+}

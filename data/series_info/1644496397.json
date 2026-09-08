@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-12",
+"episode_count": 1,
+"id": 865164424,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rxfzU40Pisvqaa6FTxN7JeGNUr.jpg"
+}
+],
+"info": {
+"name": "ES - Ágata y Lola (LQ) (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rxfzU40Pisvqaa6FTxN7JeGNUr.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900269",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "1009960547",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-12",
+"plot": "Lola es una inspectora de policía extrovertida, impulsiva y poco amiga de seguir las normas, que se encuentra con Ágata, una documentalista brillante y meticulosa que tiene síndrome del espectro autista. Ágata posee una memoria excepcional y un talento único para analizar expedientes criminales, mientras que Lola aporta la intuición, la experiencia en el terreno y la empatía con las víctimas. A pesar de sus enormes diferencias de personalidad, ambas forjan un tándem perfecto y terminan convirtiéndose en amigas mientras resuelven todo tipo de complicados casos criminales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900269",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMTc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51174:1"
+}
+]
+}
+}

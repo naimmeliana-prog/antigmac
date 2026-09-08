@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-26",
+"episode_count": 1,
+"id": 1121402733,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZf7NJm0KjkTHbP8R6ieVpIm3V9.jpg"
+}
+],
+"info": {
+"name": "ES - Harry Hole (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZf7NJm0KjkTHbP8R6ieVpIm3V9.jpg",
+"plot": "",
+"cast": "",
+"director": "Jo Nesbø",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900303",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "492304513",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-26",
+"plot": "El brillante detective Harry Hole persigue asesinos mientras lucha contra sus propios demonios en esta emocionante serie basada en las famosas novelas policiacas de Jo Nesbø.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900303",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48693:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-25",
+"episode_count": 1,
+"id": 94515807,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwUuA7i5gW2fWUnjJ8hmpqxhgTT.jpg"
+}
+],
+"info": {
+"name": "ES - La última noche en Tremor (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwUuA7i5gW2fWUnjJ8hmpqxhgTT.jpg",
+"plot": "",
+"cast": "",
+"director": "Oriol Paulo, Jordi Vallejo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900320",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1447164060",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-25",
+"plot": "Cuando a un atormentado pianista le alcanza un rayo, empieza a tener inquietantes visiones acerca de su futuro y a sentir que una terrible amenaza acecha a sus seres queridos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3NDc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37478:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-01",
+"episode_count": 1,
+"id": 1566279467,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKSZ0HotUro3pUYOcy7xq3CDER6.jpg"
+}
+],
+"info": {
+"name": "ES - Olivia (LQ) (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKSZ0HotUro3pUYOcy7xq3CDER6.jpg",
+"plot": "",
+"cast": "",
+"director": "David Troncoso, Flipy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900392",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "46485407",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-01",
+"plot": "El hombre del tiempo más famoso del país debe refugiarse de una tormenta mediática junto a su hija Olivia en el olivar de su padre. Pero llevar 30 años sin hablarse con él no hará fácil la vuelta a sus raíces.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900392",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNDk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50497:1"
+}
+]
+}
+}

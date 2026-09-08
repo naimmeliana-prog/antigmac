@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-26",
+"episode_count": 1,
+"id": 1759218601,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8586epgllqKQ7WIwNPctkxvRxbB.jpg"
+}
+],
+"info": {
+"name": "ES - Por cien millones (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8586epgllqKQ7WIwNPctkxvRxbB.jpg",
+"plot": "",
+"cast": "",
+"director": "Nacho G. Velilla",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900247",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "487068246",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-26",
+"plot": "En 1981 tres mecánicos de Zaragoza, Alfonso, Jorge y Salva, agobiados por las deudas y tras meses sin trabajo, deciden secuestrar al máximo goleador de la Liga, Enrique Castro \"Quini\", el delantero del FC Barcelona. A cambio de su liberación piden 100 millones de pesetas. Pero pronto descubren, y por las malas, que la vida no es como las películas. Y que ser malo, cuando eres bueno, no es nada fácil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900247",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48692:1"
+}
+]
+}
+}

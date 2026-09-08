@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-16",
+"episode_count": 1,
+"id": 94396849,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQvgtkUZmMbzR7FSiteQZ498mT.jpg"
+}
+],
+"info": {
+"name": "ES - Fútbol en familia (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQvgtkUZmMbzR7FSiteQZ498mT.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900301",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "460665029",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-16",
+"plot": "Un grupo de padres entrometidos interfiere descaradamente en la carrera futbolística amateur de sus hijos. Lillian, cuyo hijo Levi es nuevo en el equipo, pronto se da cuenta de que quiere escapar de este peculiar grupo de padres, especialmente de Marenka, la última persona con la que querrías cruzarte un sábado por la mañana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900301",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43519:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-01-08",
+"episode_count": 3,
+"id": 1701400705,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/uWXtguMBhqmpSoJK7nSvsamJ96Y.jpg"
+}
+],
+"info": {
+"name": "ES - Lupin",
+"cover": "https://image.tmdb.org/t/p/w154/uWXtguMBhqmpSoJK7nSvsamJ96Y.jpg",
+"plot": "",
+"cast": "",
+"director": "George Kay, Marie Roussin, Florent Meyer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900327",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "159097149",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-08",
+"plot": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900327",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTcyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29172:2"
+},
+{
+"id": "352421608",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-08",
+"plot": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900327",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTcyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29172:3"
+},
+{
+"id": "1452553878",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-08",
+"plot": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900327",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29172:1"
+}
+]
+}
+}

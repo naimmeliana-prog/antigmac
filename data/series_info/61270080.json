@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-04-24",
+"episode_count": 1,
+"id": 39965269,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdmciOt5pf60miqSfFa818Ad4jD.jpg"
+}
+],
+"info": {
+"name": "ES - En tus manos",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdmciOt5pf60miqSfFa818Ad4jD.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900297",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "716534193",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-04-24",
+"plot": "Cuando los adolescentes Billy y Dogge son reclutados por una banda callejera, los dos amigos se adentran en un mundo violento del que aún no están preparados para protegerse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900297",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32270:1"
+}
+]
+}
+}

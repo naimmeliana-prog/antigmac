@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-11",
+"episode_count": 1,
+"id": 137594381,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/VMh3XiJPqCVa7Pa9UpDIxfXVkl.jpg"
+}
+],
+"info": {
+"name": "ES - Furia (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/VMh3XiJPqCVa7Pa9UpDIxfXVkl.jpg",
+"plot": "",
+"cast": "",
+"director": "Félix Sabroso",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900492",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "630030085",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-11",
+"plot": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900492",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0Njg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44687:1"
+}
+]
+}
+}

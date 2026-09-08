@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-15",
+"episode_count": 1,
+"id": 281184778,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/agiiwJX73nVI5OKxEw0b6gq1uU5.jpg"
+}
+],
+"info": {
+"name": "ES - Mano de hierro",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/agiiwJX73nVI5OKxEw0b6gq1uU5.jpg",
+"plot": "",
+"cast": "",
+"director": "Lluís Quílez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900328",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "900240240",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-15",
+"plot": "Joaquín Manchado gobierna con puño de hierro su emporio de la droga desde el puerto de Barcelona, hasta que un nuevo envío da un vuelco a su negocio y su familia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900328",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMTk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31198:1"
+}
+]
+}
+}

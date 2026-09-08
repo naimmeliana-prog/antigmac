@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2014-07-13",
+"episode_count": 4,
+"id": 718317481,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BWErT9QcADpf2G4BZ769eSnFTP.jpg"
+}
+],
+"info": {
+"name": "ES - The Strain",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BWErT9QcADpf2G4BZ769eSnFTP.jpg",
+"plot": "",
+"cast": "",
+"director": "Guillermo del Toro, Carlton Cuse",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900400",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1066014253",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-07-13",
+"plot": "Un avión Boeing 767 llega al aeropuerto neoyorquino JFK y, tras tomar tierra, para en seco en mitad de la pista de aterrizaje. No hay luces y los canales de comunicación no funcionan, es como si no hubiese vida dentro del avión. Al principio todo parece que es a causa de un virus mortal e incluso un atentado terrorista, pero pronto se descubre que es por algo mucho más aterrador. Todos los pasajeros afectados están sedientos y lo único que quieren consumir es sangre. El contagio avanza de forma vertiginosa y en pocos días todo Manhattan está infectado. Los antiguos vampiros han vuelto con un amenazador propósito, quieren hacerse con el control del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyMTIsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7212:4"
+},
+{
+"id": "765975651",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-07-13",
+"plot": "Un avión Boeing 767 llega al aeropuerto neoyorquino JFK y, tras tomar tierra, para en seco en mitad de la pista de aterrizaje. No hay luces y los canales de comunicación no funcionan, es como si no hubiese vida dentro del avión. Al principio todo parece que es a causa de un virus mortal e incluso un atentado terrorista, pero pronto se descubre que es por algo mucho más aterrador. Todos los pasajeros afectados están sedientos y lo único que quieren consumir es sangre. El contagio avanza de forma vertiginosa y en pocos días todo Manhattan está infectado. Los antiguos vampiros han vuelto con un amenazador propósito, quieren hacerse con el control del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyMTIsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7212:3"
+},
+{
+"id": "1967389781",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-07-13",
+"plot": "Un avión Boeing 767 llega al aeropuerto neoyorquino JFK y, tras tomar tierra, para en seco en mitad de la pista de aterrizaje. No hay luces y los canales de comunicación no funcionan, es como si no hubiese vida dentro del avión. Al principio todo parece que es a causa de un virus mortal e incluso un atentado terrorista, pero pronto se descubre que es por algo mucho más aterrador. Todos los pasajeros afectados están sedientos y lo único que quieren consumir es sangre. El contagio avanza de forma vertiginosa y en pocos días todo Manhattan está infectado. Los antiguos vampiros han vuelto con un amenazador propósito, quieren hacerse con el control del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyMTIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7212:2"
+},
+{
+"id": "1709846191",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-07-13",
+"plot": "Un avión Boeing 767 llega al aeropuerto neoyorquino JFK y, tras tomar tierra, para en seco en mitad de la pista de aterrizaje. No hay luces y los canales de comunicación no funcionan, es como si no hubiese vida dentro del avión. Al principio todo parece que es a causa de un virus mortal e incluso un atentado terrorista, pero pronto se descubre que es por algo mucho más aterrador. Todos los pasajeros afectados están sedientos y lo único que quieren consumir es sangre. El contagio avanza de forma vertiginosa y en pocos días todo Manhattan está infectado. Los antiguos vampiros han vuelto con un amenazador propósito, quieren hacerse con el control del mundo.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900400",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcyMTIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7212:1"
+}
+]
+}
+}

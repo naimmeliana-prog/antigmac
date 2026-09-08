@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-13",
+"episode_count": 1,
+"id": 995718845,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbaVqKQv6xN9zQOP7H7fdlXkYkG.jpg"
+}
+],
+"info": {
+"name": "ES - El Pacificador (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbaVqKQv6xN9zQOP7H7fdlXkYkG.jpg",
+"plot": "",
+"cast": "",
+"director": "James Gunn",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900480",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "881405848",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-13",
+"plot": "La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900480",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35202:1"
+}
+]
+}
+}

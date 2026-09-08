@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-23",
+"episode_count": 1,
+"id": 827865325,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7kMCkoxX5H8mLXba8GkR9apl7a.jpg"
+}
+],
+"info": {
+"name": "ES - Los reyes de la casa (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7kMCkoxX5H8mLXba8GkR9apl7a.jpg",
+"plot": "",
+"cast": "",
+"director": "Victor Rodenbach, Judith Havas",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900386",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1597315119",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-23",
+"plot": "La desaparición a plena luz del día de Kimmy Diore afecta a todo el entorno de la niña, no solo su familia. Kimmy no es una niña corriente de seis años, sino una estrella de Youtube cuyos vídeos ven millones de personas. Para salvarla, Sara Roussel tendrá que adentrarse en un mundo que desconoce y tan fascinante como aterrador. También se adentrará en el círculo cercano de la familia Diore e irá descubriendo, poco a poco, secretos que la devuelven al pasado.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900386",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3Mzg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37385:1"
+}
+]
+}
+}

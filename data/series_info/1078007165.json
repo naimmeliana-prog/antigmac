@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-25",
+"episode_count": 1,
+"id": 925316824,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/79EO16C4zs8fwxKEjRENVvIQHIB.jpg"
+}
+],
+"info": {
+"name": "ES - Memoria de un Asesino (LQ) (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/79EO16C4zs8fwxKEjRENVvIQHIB.jpg",
+"plot": "",
+"cast": "",
+"director": "Ed Whitmore, Tracey Malone",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900243",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1464936636",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-25",
+"plot": "Angelo lleva una doble vida, como asesino y como padre de familia, y todo funcionaba bien hasta que le sobrevino un principio de Alzheimer. Ahora sus mundos chocan, poniendo a su familia en peligro.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900243",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNTE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50515:1"
+}
+]
+}
+}

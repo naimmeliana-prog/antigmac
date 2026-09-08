@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2016-11-11",
+"episode_count": 2,
+"id": 1593338168,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvmcAdfUcgTFOF0l9toRUG4GP8u.jpg"
+}
+],
+"info": {
+"name": "ES - El sangriento Imperio Romano",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvmcAdfUcgTFOF0l9toRUG4GP8u.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900295",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "450064058",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-11",
+"plot": "Esta impactante mezcla de documental y espectacular epopeya histórica narra los tumultuosos y violentos reinados de Cómodo, Julio César y Calígula.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900295",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34241:2"
+},
+{
+"id": "179407826",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-11",
+"plot": "Esta impactante mezcla de documental y espectacular epopeya histórica narra los tumultuosos y violentos reinados de Cómodo, Julio César y Calígula.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900295",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34241:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2000-10-15",
+"episode_count": 1,
+"id": 1597583837,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZqWmSq1M61Jlre3furVDSXvdrN.jpg"
+}
+],
+"info": {
+"name": "ES - Larry David",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
+"plot": "",
+"cast": "",
+"director": "Larry David",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900499",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "445361173"
+},
+"episodes": {
+"1": [
+{
+"id": "1107525599",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2000-10-15",
+"plot": "Hay personas que parecen haber sido maldecidas con la ley de Murphy: si algo tiene la posibilidad de salir mal, saldrá mal. Larry David se considera una de ellas. El creador y productor de Seinfield, una de los programas más laureados de la historia de la televisión, se interpreta a sí mismo en esta rompedora serie donde, en un ambiguo punto entre la realidad y la ficción, seguimos su día a día que se desarrolla entre celebridades y gente de la calle que nunca sabemos si están o no interpretando un guión. Somos así testigos de su peculiar y ácida visión de todo lo que le rodea y de su don para convertir situaciones cotidianas como ir al cine o atender una llamada telefónica en verdaderos despropósitos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900499",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34230:1"
+}
+]
+}
+}

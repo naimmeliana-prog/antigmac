@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "N/A",
+"episode_count": 1,
+"id": 1950943866,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4333932?od[]=Z1V:MM3_V"
+}
+],
+"info": {
+"name": "ES - Tsunami - La ola que conmociono al mundo (2024)",
+"cover": "https://www.movistarplus.es/recorte/n/caratula5/F4333932?od[]=Z1V:MM3_V",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900636",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "256027481",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "El 26 de diciembre de 2004 el tercer terremoto más grande registrado, con una magnitud de 9,1, sacudió la costa de Sumatra, Indonesia, provocando el mayor desastre natural del siglo XXI. Ahora, 20 años después, este documental de Fremantle captura las historias de supervivencia de las personas atrapadas en el corazón de una tragedia que provocó más de 227.000 muertes.\r\n\r\nContado de primera mano por supervivientes de todo el mundo, desde Reino Unido, Sri Lanka, Tailandia, Francia o Indonesia. Personas que quedaron atrapadas bajo el agua en vagones de tren, arrastradas por olas gigantes mientras navegaban en un barco… Testimonios aterradores contados en primera persona a través de impactantes entrevistas y recuerdos personales, incluidas fotografías familiares y extractos de diarios, que ilustran su capacidad de valentía ante esa catástrofe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900636",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5MTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39117:1"
+}
+]
+}
+}

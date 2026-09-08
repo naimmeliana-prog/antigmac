@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-02-06",
+"episode_count": 3,
+"id": 254797947,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FSJNv8YN0gb1go74UEx4nJFB2h.jpg"
+}
+],
+"info": {
+"name": "ES - Mira lo que has hecho",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FSJNv8YN0gb1go74UEx4nJFB2h.jpg",
+"plot": "",
+"cast": "",
+"director": "Berto Romero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900244",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1331546176",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-06",
+"plot": "Berto y Sandra son una pareja que afronta la aventura de ser padres con la llegada de su primer hijo, Lucas. Una nueva vida que viene sin manual de instrucciones. Él es cómico y presentador de televisión de éxito. Ella es médico anestesista por tradición familiar. Juntos deberán conciliar esta nueva situación en la que su familia, amigos e incluso el mundo, no se lo pondrán fácil.  Una comedia romántica en la que el \"chico conoce chica\" se convierte en \"chica y chico conocen bebé\". Basada en experiencias propias y prestadas de Berto Romero, explica lo que casi nadie se atreve a decir: la locura y lo difícil que es ser padres. Una serie irónica, cercana, auténtica y con momentos dramáticos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900244",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjcyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32272:2"
+},
+{
+"id": "1138502604",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-06",
+"plot": "Berto y Sandra son una pareja que afronta la aventura de ser padres con la llegada de su primer hijo, Lucas. Una nueva vida que viene sin manual de instrucciones. Él es cómico y presentador de televisión de éxito. Ella es médico anestesista por tradición familiar. Juntos deberán conciliar esta nueva situación en la que su familia, amigos e incluso el mundo, no se lo pondrán fácil.  Una comedia romántica en la que el \"chico conoce chica\" se convierte en \"chica y chico conocen bebé\". Basada en experiencias propias y prestadas de Berto Romero, explica lo que casi nadie se atreve a decir: la locura y lo difícil que es ser padres. Una serie irónica, cercana, auténtica y con momentos dramáticos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900244",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32272:1"
+},
+{
+"id": "1587567597",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-06",
+"plot": "Berto y Sandra son una pareja que afronta la aventura de ser padres con la llegada de su primer hijo, Lucas. Una nueva vida que viene sin manual de instrucciones. Él es cómico y presentador de televisión de éxito. Ella es médico anestesista por tradición familiar. Juntos deberán conciliar esta nueva situación en la que su familia, amigos e incluso el mundo, no se lo pondrán fácil.  Una comedia romántica en la que el \"chico conoce chica\" se convierte en \"chica y chico conocen bebé\". Basada en experiencias propias y prestadas de Berto Romero, explica lo que casi nadie se atreve a decir: la locura y lo difícil que es ser padres. Una serie irónica, cercana, auténtica y con momentos dramáticos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900244",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjcyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32272:3"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-27",
+"episode_count": 1,
+"id": 449936156,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg"
+}
+],
+"info": {
+"name": "ES - Wonder Man (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrew Guest, Destin Daniel Cretton",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900404",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "122865837",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-27",
+"plot": "El actor de Hollywood Simon Williams se sumerge en el mundo de los superhéroes a medida que obtiene sus propios poderes y se convierte en el nuevo superhéroe Wonder Man.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900404",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47739:1"
+}
+]
+}
+}

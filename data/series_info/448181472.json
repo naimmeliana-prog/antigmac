@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-07-09",
+"episode_count": 1,
+"id": 35340936,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/uU2oftBNJjizWIiF4nctM1Az0PP.jpg"
+}
+],
+"info": {
+"name": "ES - Supernormal (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/uU2oftBNJjizWIiF4nctM1Az0PP.jpg",
+"plot": "",
+"cast": "",
+"director": "Olatz Arroyo, Marta Sánchez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900250",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "879047092"
+},
+"episodes": {
+"1": [
+{
+"id": "1467958070",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-09",
+"plot": "Patricia (Miren Ibarguren) ha venido a este mundo a ser la mejor dentro y fuera de su casa. El único problema es que las líneas que separan el trabajo de la familia son muy finas y Patricia acabará llevándose el trabajo a casa y la familia a la oficina, y eso nunca sale bien. Aún así, Patricia está dispuesta a morir en el intento... Bueno, ella y los que la rodean: su marido Alfonso (Diego Martín), su secretaria (Gracia Olayo), sus tres hijos, su madre y su hermana, que la adoran y odian a partes iguales. Entre todos intentarán apoyar a Patricia en su ambicioso plan de vida, cueste lo que cueste.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900250",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyOTA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22905:1"
+}
+]
+}
+}

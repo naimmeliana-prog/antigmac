@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-11",
+"episode_count": 1,
+"id": 178122349,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg"
+}
+],
+"info": {
+"name": "ES - Monarch",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg",
+"plot": "",
+"cast": "",
+"director": "Melissa London Hilfers",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900461",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1751205521",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-11",
+"plot": "The Romans, la primera familia de música country de Estados Unidos, tiene un gran talento, pero aunque su nombre es sinónimo de honestidad, la base misma de su éxito es una mentira. Cuando su reinado como realeza del país está en peligro, Nicky Roman, la heredera de la corona, que ya lucha contra una industria en su contra, no se detendrá ante nada para proteger el legado de su familia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900461",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "32017:1"
+}
+]
+}
+}

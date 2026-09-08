@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-06",
+"episode_count": 1,
+"id": 1260958098,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejGOUzzZU9tlfBTo3c7R2ZyWsBt.jpg"
+}
+],
+"info": {
+"name": "ES - Nails (2025) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejGOUzzZU9tlfBTo3c7R2ZyWsBt.jpg",
+"plot": "",
+"cast": "",
+"director": "Araceli Álvarez de Sotomayor",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900537",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "568172816"
+},
+"episodes": {
+"1": [
+{
+"id": "1206309620",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-06",
+"plot": "Lina, Vanessa, Irene y Marilís son cuatro mujeres que se conocen en un salón de manicura y, pese a sus diferentes orígenes y edades, acaban entablando una amistad que las llevará a dar un paso adelante y volver a ser mujeres como las de antes. Para ello, huirán de las expectativas impuestas por la sociedad y fundarán 'El Club de las Mujeres Libres', un espacio en el que las mujeres encontrarán apoyo en tiempos difíciles.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900537",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46541:1"
+}
+]
+}
+}

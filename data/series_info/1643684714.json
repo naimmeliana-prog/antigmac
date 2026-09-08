@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-27",
+"episode_count": 2,
+"id": 195055999,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJriODuJlYldrnuWjZtJ2BBojta.jpg"
+}
+],
+"info": {
+"name": "ES - La chica de nieve (2023)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJriODuJlYldrnuWjZtJ2BBojta.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900309",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "869118618",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-27",
+"plot": "Málaga, 2010. La cabalgata de los Reyes Magos, el momento más mágico del año, se torna en pesadilla para la familia Martín cuando su hija Amaya desaparece entre la multitud. Miren, una periodista en prácticas, comienza una investigación paralela a la de la inspectora Millán que despierta aspectos de su pasado que habría deseado olvidar. Con la ayuda de su antiguo profesor, Miren no parará hasta encontrar a la niña.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900309",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38205:2"
+},
+{
+"id": "1263746077",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-27",
+"plot": "Málaga, 2010. La cabalgata de los Reyes Magos, el momento más mágico del año, se torna en pesadilla para la familia Martín cuando su hija Amaya desaparece entre la multitud. Miren, una periodista en prácticas, comienza una investigación paralela a la de la inspectora Millán que despierta aspectos de su pasado que habría deseado olvidar. Con la ayuda de su antiguo profesor, Miren no parará hasta encontrar a la niña.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900309",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MjA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38205:1"
+}
+]
+}
+}

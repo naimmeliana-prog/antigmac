@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-28",
+"episode_count": 2,
+"id": 1234114701,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8XQNhJ3y8LT8guh7wwbzUgzuAi3.jpg"
+}
+],
+"info": {
+"name": "ES - Generación V",
+"cover": "https://image.tmdb.org/t/p/w154/8XQNhJ3y8LT8guh7wwbzUgzuAi3.jpg",
+"plot": "",
+"cast": "",
+"director": "Evan Goldberg, Eric Kripke, Craig Rosenberg",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900416",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "831600669",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-28",
+"plot": "Del universo de The Boys llega Gen V, una trepidante serie ambientada en la única universidad para superhéroes de EE. UU. Estos capacitados estudiantes fuerzan sus límites morales por estar entre los diez mejores y formar parte de Los Siete, la élite de superhéroes de Vought International. Cuando se revelan los secretos de la universidad, deben decidir qué clase de héroes quieren ser.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjAwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28200:2"
+},
+{
+"id": "546868218",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-28",
+"plot": "Del universo de The Boys llega Gen V, una trepidante serie ambientada en la única universidad para superhéroes de EE. UU. Estos capacitados estudiantes fuerzan sus límites morales por estar entre los diez mejores y formar parte de Los Siete, la élite de superhéroes de Vought International. Cuando se revelan los secretos de la universidad, deben decidir qué clase de héroes quieren ser.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900416",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MjAwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28200:1"
+}
+]
+}
+}

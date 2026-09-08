@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-25",
+"episode_count": 1,
+"id": 1641236380,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95RVeMWMvk97PBW0msryIJC32XD.jpg"
+}
+],
+"info": {
+"name": "ES - Sueños de libertad (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95RVeMWMvk97PBW0msryIJC32XD.jpg",
+"plot": "",
+"cast": "",
+"director": "Verónica Viñé, Beatriz Duque",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900267",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "481161310"
+},
+"episodes": {
+"1": [
+{
+"id": "8789192",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-25",
+"plot": "Año 1958. Begoña Montes huye a través del bosque junto a la pequeña Julia, su hijastra. Begoña es la nueva esposa de Jesús de la Reina, el viudo de oro de la comarca, dueño de una importante empresa de productos de tocador, Perfumerías de la Reina. Begoña corre con la niña, cuando Jesús las alcanza y dispara a sangre fría. ¿Habrá herido a Begoña? ¿Qué ha ocurrido para que Jesús pierda la cabeza y dispare a su propia mujer?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900267",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NDcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38471:1"
+}
+]
+}
+}

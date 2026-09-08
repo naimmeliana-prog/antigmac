@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-18",
+"episode_count": 1,
+"id": 1410000050,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RR6jkc35HOJcZG3modHZwh3J3J.jpg"
+}
+],
+"info": {
+"name": "ES - Bomba en el Pan Am 103 (LQ) (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RR6jkc35HOJcZG3modHZwh3J3J.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonathan Lee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900279",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1367332833",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-18",
+"plot": "El 21 de diciembre de 1988, el vuelo 103 de Pan Am explotó sobre la pequeña localidad escocesa de Lockerbie y acabó con la vida de 270 personas. El suceso desencadenó la mayor investigación por asesinato en la historia de la policía escocesa: la del atentado terrorista más letal perpetrado en suelo británico. Esta historia, basada en el testimonio de los que estuvieron allí, es el verdadero relato de la colaboración entre las autoridades escocesas y los cuerpos de seguridad de EE. UU., y de la lucha de las familias por la justicia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900279",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMTMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51132:1"
+}
+]
+}
+}

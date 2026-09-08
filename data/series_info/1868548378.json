@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-20",
+"episode_count": 1,
+"id": 1668699836,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/whKEwZcYVM0kzKHsS8LtS5SyD1c.jpg"
+}
+],
+"info": {
+"name": "ES - Sacrificio de sangre (LQ) (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/whKEwZcYVM0kzKHsS8LtS5SyD1c.jpg",
+"plot": "",
+"cast": "",
+"director": "George Kay",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900343",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1905466458"
+},
+"episodes": {
+"1": [
+{
+"id": "1495650112",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-20",
+"plot": "Tras el brutal asesinato de dos agentes de policía, un tenaz inspector se ve obligado a trabajar con su padre, un expolicía al que hace tiempo que no ve, para atrapar al asesino.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900343",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNDQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51449:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-25",
+"episode_count": 1,
+"id": 1966891277,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg"
+}
+],
+"info": {
+"name": "ES - Zorro",
+"cover": "https://image.tmdb.org/t/p/w154/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlos Portela",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900436",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "12629133"
+},
+"episodes": {
+"1": [
+{
+"id": "1347034726",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-25",
+"plot": "Diego de la Vega es elegido para ser el nuevo Zorro, pero su único propósito es desenmascarar a los asesinos de su padre y llevarlos ante la justicia. A medida que asume el papel de Zorro, Diego no solo lucha por la justicia en Los Ángeles, sino que también descubre los desafíos de ser un héroe y cómo su papel afecta a California en el siglo XIX.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900436",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30048:1"
+}
+]
+}
+}

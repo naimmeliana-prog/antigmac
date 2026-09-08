@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-16",
+"episode_count": 1,
+"id": 299986232,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/otoi4MOks45y577Nmajppiv6KJr.jpg"
+}
+],
+"info": {
+"name": "ES - Un futuro desafiante",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/otoi4MOks45y577Nmajppiv6KJr.jpg",
+"plot": "",
+"cast": "",
+"director": "Scott Z. Burns",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900471",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1672239684"
+},
+"episodes": {
+"1": [
+{
+"id": "1961201990",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-16",
+"plot": "Ocho historias interconectadas contadas a lo largo de 33 años analizan cómo el cambio climático en nuestro planeta afectará a la familia, el trabajo, la fe... y la supervivencia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900471",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MjQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34243:1"
+}
+]
+}
+}

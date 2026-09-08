@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-06-26",
+"episode_count": 1,
+"id": 1263608764,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N3KyU8FFa4NadLbtMmhE0pMlfL.jpg"
+}
+],
+"info": {
+"name": "ES - El hombre equivocado (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N3KyU8FFa4NadLbtMmhE0pMlfL.jpg",
+"plot": "",
+"cast": "",
+"director": "Deniz Yorulmazer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900648",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "945034114"
+},
+"episodes": {
+"1": [
+{
+"id": "983557769",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-26",
+"plot": "Özgür Atasoy es un joven adinerado que posee un restaurante y vive una vida algo alocada, ya que ha perdido la fe en el amor y en las mujeres. Por su parte, Ezgi İnal es una chica romántica que, tras haber sido traicionada por su último novio Soner, se harta de que sus relaciones no salgan bien y está decidida a conseguirlo y casarse. Así, al ver que no tiene éxito en sus conquistas, esta recurre a Özgür, su vecino, para que la oriente y le dé técnicas con el fin de conseguir al hombre que le gusta y que luego no la deje. A cambio, ella se compromete a acompañarle a la boda de su hermana fingiendo ser su novia, para ayudar a Özgür a deshacerse de las molestas peticiones de su madre, a quien le encantaría verlo casado y con hijos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900648",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Njc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35676:1"
+}
+]
+}
+}

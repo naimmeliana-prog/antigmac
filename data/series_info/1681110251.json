@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-12",
+"episode_count": 1,
+"id": 1773031013,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgxHq6RnjxQzaOc2ChdCTVEtgCt.jpg"
+}
+],
+"info": {
+"name": "ES - Los asesinatos de Breslavia (2025) (PL)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgxHq6RnjxQzaOc2ChdCTVEtgCt.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900386",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1164845165"
+},
+"episodes": {
+"1": [
+{
+"id": "1307597872",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-12",
+"plot": "Alemania 1936. Se acercan los undécimos Juegos Olímpicos y los ojos del mundo entero se centran en la capital del Tercer Reich. Mientras, en Breslavia, tiene lugar un brutal asesinato que puede echar a perder toda la campaña de propaganda y afectar al gran evento deportivo. El único que puede cerrar el caso a tiempo es el comisario de la policía Franz Podolsky, de origen polaco. Famoso por sus métodos polémicos pero efectivos, Podolsky se encuentra cara a cara contra un mal creciente. Mientras se enfrenta a sus propios demonios, inicia un peligroso juego del gato y el ratón contra el asesino que amenaza tanto su carrera como su vida personal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900386",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45626:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-07",
+"episode_count": 1,
+"id": 1279668563,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH2PWKRzqGK7PJc9m0mRXZk71ES.jpg"
+}
+],
+"info": {
+"name": "ES - Fuego y agua:  Cómo se hicieron las películas de Avatar (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH2PWKRzqGK7PJc9m0mRXZk71ES.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900585",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "1177917093",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-07",
+"plot": "Explora la creación de Avatar: La forma del agua y adelanta Avatar: Fuego y ceniza, con imágenes exclusivas y conversaciones con James Cameron, miembros del reparto y figuras clave de la producción",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46534:1"
+}
+]
+}
+}

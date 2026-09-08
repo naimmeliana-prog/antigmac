@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-29",
+"episode_count": 1,
+"id": 824751315,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uYSR8bAACzQ72950B6HEZK8fgt.jpg"
+}
+],
+"info": {
+"name": "ES - Brujas Mas alla de la leyenda (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uYSR8bAACzQ72950B6HEZK8fgt.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788900564",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "291316337"
+},
+"episodes": {
+"1": [
+{
+"id": "12437362",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-29",
+"plot": "Los juicios por brujería de Salem son famosos, pero a lo largo de la historia miles de personas fueron ejecutadas por el imposible delito de brujería. La mayoría de los sospechosos eran mujeres pobres, ancianos, indígenas o discapacitados, incapaces de defenderse. Recreaciones cinematográficas y entrevistas a expertos revelan la verdad que se esconde tras seis terroríficas historias reales de juicios de brujas en Alemania, Escocia, Inglaterra, América, Suecia e Irlanda.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788900564",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43381:1"
+}
+]
+}
+}
