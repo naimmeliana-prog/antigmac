@@ -347,56 +347,89 @@ class XtreamBuilder:
 
         if stalker_info and isinstance(stalker_info, dict):
             data = stalker_info.get("data", [])
-            if isinstance(data, list):
-                for item in data:
-                    # Detectar temporada y episodio
-                    season_num = int(item.get("season_number", item.get("season", 1)) or 1)
-                    episode_num = int(item.get("series_number", item.get("episode", 1)) or 1)
+            if not isinstance(data, list):
+                # Algunos portales devuelven directamente la lista
+                data = [stalker_info] if stalker_info else []
 
-                    # Crear temporada si no existe
-                    if str(season_num) not in seasons:
-                        seasons[str(season_num)] = {
-                            "air_date": item.get("year", ""),
-                            "episode_count": 0,
-                            "id": _stable_id(f"{series_id}_s{season_num}", self.portal_id),
-                            "name": f"Temporada {season_num}",
-                            "overview": "",
-                            "season_number": season_num,
-                            "cover": cover,
-                        }
-                        episodes[str(season_num)] = []
+            for item in data:
+                # ── Detectar número de temporada ──────────────────────────────
+                # Stalker puede usar: season_number, season, s, serie_season...
+                season_num = (
+                    item.get("season_number")
+                    or item.get("season")
+                    or item.get("serie_season")
+                    or item.get("s")
+                    or 1
+                )
+                try:
+                    season_num = int(season_num) or 1
+                except (ValueError, TypeError):
+                    season_num = 1
 
-                    seasons[str(season_num)]["episode_count"] += 1
+                # ── Detectar número de episodio ───────────────────────────────
+                # Stalker puede usar: series_number, episode, episode_num, e, num...
+                episode_num = (
+                    item.get("series_number")
+                    or item.get("episode_num")
+                    or item.get("episode")
+                    or item.get("num")
+                    or item.get("e")
+                    or item.get("order")
+                    or 1
+                )
+                try:
+                    episode_num = int(episode_num) or 1
+                except (ValueError, TypeError):
+                    episode_num = 1
 
-                    ep_id = _stable_id(
-                        item.get("id", f"{series_id}_s{season_num}_e{episode_num}"),
-                        f"{self.portal_id}_ep",
-                    )
-                    cmd = item.get("cmd", "")
-                    ext = item.get("container_extension", "mkv")
+                # Crear temporada si no existe
+                if str(season_num) not in seasons:
+                    seasons[str(season_num)] = {
+                        "air_date": item.get("year", ""),
+                        "episode_count": 0,
+                        "id": _stable_id(f"{series_id}_s{season_num}", self.portal_id),
+                        "name": f"Temporada {season_num}",
+                        "overview": "",
+                        "season_number": season_num,
+                        "cover": cover,
+                    }
+                    episodes[str(season_num)] = []
 
-                    episodes[str(season_num)].append({
-                        "id": str(ep_id),
-                        "episode_num": episode_num,
-                        "title": _clean_name(item.get("name", f"Episodio {episode_num}")),
-                        "container_extension": ext,
-                        "info": {
-                            "tmdb_id": "",
-                            "releasedate": item.get("year", ""),
-                            "plot": item.get("description", ""),
-                            "duration_secs": 0,
-                            "duration": "00:00:00",
-                            "video": {},
-                            "audio": {},
-                            "rating": item.get("rating", "0"),
-                        },
-                        "subtitles": [],
-                        "custom_sid": "",
-                        "added": str(int(time.time())),
-                        "season": season_num,
-                        "_stalker_cmd": cmd,
-                        "_stalker_id": str(item.get("id", "")),
-                    })
+                seasons[str(season_num)]["episode_count"] += 1
+
+                ep_id = _stable_id(
+                    item.get("id", f"{series_id}_s{season_num}_e{episode_num}"),
+                    f"{self.portal_id}_ep",
+                )
+                cmd = item.get("cmd", "")
+                ext = (
+                    item.get("container_extension")
+                    or item.get("ext")
+                    or (cmd.rsplit(".", 1)[-1].split("?")[0] if "." in str(cmd) else "mkv")
+                )
+
+                episodes[str(season_num)].append({
+                    "id": str(ep_id),
+                    "episode_num": episode_num,
+                    "title": _clean_name(item.get("name", f"Episodio {episode_num}")),
+                    "container_extension": ext,
+                    "info": {
+                        "tmdb_id": "",
+                        "releasedate": item.get("year", ""),
+                        "plot": item.get("description", item.get("desc", "")),
+                        "duration_secs": 0,
+                        "duration": "00:00:00",
+                        "video": {},
+                        "audio": {},
+                        "rating": item.get("rating", "0"),
+                    },
+                    "subtitles": [],
+                    "custom_sid": "",
+                    "added": str(int(time.time())),
+                    "season": season_num,
+                    "_stalker_cmd": cmd,
+                    "_stalker_id": str(item.get("id", "")),
+                })
 
         return {
             "seasons": list(seasons.values()),

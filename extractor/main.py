@@ -190,6 +190,9 @@ def process_portal(
     stalker_series_map = {s.get("_stalker_id", ""): s for s in filtered_series}
     xtream_series_map = {str(xs["series_id"]): xs for xs in xtream_series_list}
 
+    # Índice plano de episodios para que el Worker resuelva streams rápidamente
+    episodes_index = []
+
     for xs in xtream_series_list:
         stalker_id = xs.get("_stalker_id", "")
         series_id = xs["series_id"]
@@ -199,6 +202,21 @@ def process_portal(
             stalker_info = client.get_series_info(stalker_id) if stalker_id else None
             series_info = builder.build_series_info(series_id, stalker_serie, stalker_info)
             save_json(series_info, series_info_dir / f"{series_id}.json", indent=0)
+
+            # Añadir episodios al índice global
+            for season_eps in series_info.get("episodes", {}).values():
+                for ep in season_eps:
+                    episodes_index.append({
+                        "id": int(ep["id"]),
+                        "episode_id": int(ep["id"]),
+                        "series_id": series_id,
+                        "season": ep.get("season", 1),
+                        "episode_num": ep.get("episode_num", 1),
+                        "title": ep.get("title", ""),
+                        "container_extension": ep.get("container_extension", "mkv"),
+                        "_stalker_cmd": ep.get("_stalker_cmd", ""),
+                    })
+
         except Exception as e:
             logger.warning(f"  ⚠️  No se pudo obtener info de '{xs.get('name', series_id)}': {e}")
             # Guardar info mínima
@@ -206,6 +224,11 @@ def process_portal(
             save_json(minimal_info, series_info_dir / f"{series_id}.json", indent=0)
 
         time.sleep(0.1)  # Rate limiting educado
+
+    # Guardar índice de episodios (usado por el Worker para resolver streams de series)
+    if episodes_index:
+        save_json(episodes_index, portal_data_dir / "episodes_index.json", indent=0)
+        logger.info(f"  📋 Índice de episodios: {len(episodes_index)} episodios indexados")
 
     logger.info(f"\n✅ Portal '{portal_name}' procesado correctamente")
     return True
