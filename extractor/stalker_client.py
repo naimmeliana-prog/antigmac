@@ -341,8 +341,13 @@ class StalkerClient:
         for cat in categories:
             cat_id = str(cat.get("id", "*"))
             cat_name = cat.get("title", "")
+            # Omitir categorías comodín "All" / "*" si hay más categorías específicas
+            if (cat_id in ("*", "0") or cat_name.lower() in ("all", "todas")) and len(categories) > 1:
+                logger.info(f"  → Omitiendo categoría comodín '{cat_name}'")
+                continue
+
             page = 0
-            cat_count = 0  # ← contador POR CATEGORÍA (no acumulado)
+            cat_count = 0
 
             logger.info(f"  → Categoría VOD: '{cat_name}'")
             while True:
@@ -350,21 +355,19 @@ class StalkerClient:
                 if not movies:
                     break
 
+                new_in_page = 0
                 for movie in movies:
+                    cat_count += 1
                     movie_id = movie.get("id", "")
                     if movie_id and movie_id not in seen_ids:
                         seen_ids.add(movie_id)
                         movie["_category_id"] = cat_id
                         movie["_category_name"] = cat_name
                         all_movies.append(movie)
-                        cat_count += 1
+                        new_in_page += 1
 
                 page += 1
-                # Parar si ya tenemos todos los items de esta categoría
-                if total > 0 and cat_count >= total:
-                    break
-                # Parar si la página vino vacía (sin más datos)
-                if not movies:
+                if (total > 0 and cat_count >= total) or len(movies) < 14 or new_in_page == 0 or page >= 100:
                     break
 
         logger.info(f"  → {len(all_movies)} películas VOD totales")
@@ -457,8 +460,8 @@ class StalkerClient:
             total_items = int(js.get("total_items", len(all_episodes)))
             logger.debug(f"  Series {series_id} pág {page}: {len(data)} eps (total: {total_items})")
 
-            # Terminar si ya tenemos todos los episodios o si la página actual vino con menos elementos del tamaño estándar (14)
-            if (total_items > 0 and len(all_episodes) >= total_items) or len(data) < 14:
+            # Terminar si ya tenemos todos los episodios, si la página vino parcial (<14) o por seguridad de límite de páginas
+            if (total_items > 0 and len(all_episodes) >= total_items) or len(data) < 14 or page >= 50:
                 break
             page += 1
 
@@ -489,8 +492,13 @@ class StalkerClient:
         for cat in categories:
             cat_id = str(cat.get("id", "*"))
             cat_name = cat.get("title", "")
+            # Omitir categorías comodín "All" / "*" si hay más categorías específicas
+            if (cat_id in ("*", "0") or cat_name.lower() in ("all", "todas")) and len(categories) > 1:
+                logger.info(f"  → Omitiendo categoría comodín '{cat_name}'")
+                continue
+
             page = 0
-            cat_count = 0  # ← contador POR CATEGORÍA
+            cat_count = 0  # contador de items vistos en esta categoría
 
             logger.info(f"  → Categoría Series: '{cat_name}'")
             while True:
@@ -498,19 +506,19 @@ class StalkerClient:
                 if not series_list:
                     break
 
+                new_in_page = 0
                 for serie in series_list:
+                    cat_count += 1
                     serie_id = serie.get("id", "")
                     if serie_id and serie_id not in seen_ids:
                         seen_ids.add(serie_id)
                         serie["_category_id"] = cat_id
                         serie["_category_name"] = cat_name
                         all_series.append(serie)
-                        cat_count += 1
+                        new_in_page += 1
 
                 page += 1
-                if total > 0 and cat_count >= total:
-                    break
-                if not series_list:
+                if (total > 0 and cat_count >= total) or len(series_list) < 14 or new_in_page == 0 or page >= 100:
                     break
 
         logger.info(f"  → {len(all_series)} series totales")
