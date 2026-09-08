@@ -4,7 +4,7 @@
  * Implementa la API Xtream Codes completa leyendo datos desde GitHub.
  * Sirve como puente entre TiviPlayer (WebOS) y los datos IPTV generados
  * por el extractor Python.
- *
+ *a
  * Endpoints implementados:
  *   GET /player_api.php?username=X&password=X&action=get_live_categories
  *   GET /player_api.php?username=X&password=X&action=get_live_streams
@@ -113,16 +113,25 @@ function errorResponse(message, status = 400) {
 
 /**
  * Verifica si las credenciales son válidas.
- * Lee los usuarios desde data/users.json en GitHub.
+ *
+ * Solo valida el NOMBRE DE USUARIO — acepta cualquier contraseña.
+ * Esto permite tener contraseñas infinitas y aleatorias por usuario:
+ *   antigmac1 / cualquier-contraseña  → ✅ válido
+ *   antigmac2 / otra-contraseña-random → ✅ válido
+ *
+ * Lee los usernames válidos desde data/users.json en GitHub.
  */
 async function verifyCredentials(username, password) {
-  if (!username || !password) return null;
+  if (!username) return null;
 
   try {
     const users = await loadJson("users.json");
-    return users.find(
-      (u) => u.username === username && u.password === password
-    ) || null;
+    // Solo comprobamos que el username existe — la contraseña puede ser cualquier cosa
+    const user = users.find((u) => u.username === username);
+    if (!user) return null;
+    // Devolvemos el usuario con la contraseña que mandó el cliente
+    // (para que aparezca correctamente en la info de sesión)
+    return { ...user, password: password || user.password };
   } catch {
     return null;
   }
@@ -161,33 +170,102 @@ function buildUserInfo(user, workerUrl) {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// LOOKUP DE STREAMS (para proxy/redirect)
+// STALKER PORTAL — RESOLUCIÓN DINÁMICA DE STREAMS
 // ─────────────────────────────────────────────────────────────────────────────
 
 /**
- * Busca un stream por ID en una lista y devuelve su _stalker_cmd.
+ * Limpia el prefijo «ffrt», «ffrt1», etc. de un cmd Stalker
+ * y devuelve la URL directamente reproducible.
  */
-async function findStreamById(listFile, streamId) {
-  const streams = await loadJson(listFile);
-  const id = parseInt(streamId);
-  return streams.find(
-    (s) => s.stream_id === id || s.series_id === id
-  );
+function cleanStalkerCmd(cmd) {
+  if (!cmd) return null;
+  // Quitar prefijos: ffrt, ffrt1, ffrt2, auto, http (como prefijo extra)
+  return cmd.trim().replace(/^(ffrt\d*|auto)\s+/i, "").trim();
 }
 
 /**
- * Obtiene la URL real de un stream Stalker desde su cmd.
- * En modo redirect, simplemente devuelve el cmd o construye la URL.
+ * Construye la URL real desde un cmd Stalker.
+ * Si el cmd ya es una URL completa (tras limpiar prefijos), la devuelve.
+ * Si es una ruta relativa, la combina con portalUrl.
  */
-function buildStreamUrl(stalkerCmd, portalUrl) {
+function resolveRawUrl(stalkerCmd, portalUrl) {
+  const cleaned = cleanStalkerCmd(stalkerCmd);
+  if (!cleaned) return null;
+  if (cleaned.startsWith("http://") || cleaned.startsWith("https://") || cleaned.startsWith("rtmp://")) {
+    return cleaned;
+  }
+  const base = (portalUrl || "http://mag.greatott.me:80").replace(/\/$/, "");
+  const path = cleaned.startsWith("/") ? cleaned : `/${cleaned}`;
+  return `${base}${path}`;
+}
+
+/**
+ * Realiza el handshake con el portal Stalker y devuelve el token.
+ * Se usa para llamadas dinámicas de create_link desde el Worker.
+ */
+async function stalkerHandshake(portalUrl, mac) {
+  const base = portalUrl.replace(/\/$/, "");
+  const headers = {
+    "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
+    "X-User-Agent": "Model: MAG250; Link: WiFi",
+    "Cookie": `mac=${mac}; stb_lang=es; timezone=Europe/Madrid`,
+    "Accept": "*/*",
+  };
+  try {
+    const url = `${base}/portal.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml`;
+    const r = await fetch(url, { headers });
+    const data = await r.json();
+    return data?.js?.token || data?.js || null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Llama a create_link en el portal Stalker para obtener la URL real
+ * de un stream de VOD o serie. Devuelve la URL limpia o null.
+ */
+async function stalkerCreateLink(portalUrl, mac, cmd, isLive = false) {
+  const base = portalUrl.replace(/\/$/, "");
+  const token = await stalkerHandshake(portalUrl, mac);
+  const type = isLive ? "itv" : "vod";
+  const headers = {
+    "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
+    "X-User-Agent": "Model: MAG250; Link: WiFi",
+    "Cookie": `mac=${mac}; stb_lang=es; timezone=Europe/Madrid${token ? `; token=${token}` : ""}`,
+    "Accept": "*/*",
+  };
+  try {
+    const encodedCmd = encodeURIComponent(cmd);
+    const url = `${base}/portal.php?type=${type}&action=create_link&cmd=${encodedCmd}&series=0&forced_storage=undefined&disable_ad=0&download=0&force_ch_link_check=0&JsHttpRequest=1-xml`;
+    const r = await fetch(url, { headers });
+    const data = await r.json();
+    const resultCmd = data?.js?.cmd || data?.js?.url || data?.js || null;
+    if (resultCmd && typeof resultCmd === "string") {
+      return resolveRawUrl(resultCmd, portalUrl);
+    }
+  } catch (e) {
+    console.error("create_link error:", e.message);
+  }
+  return null;
+}
+
+/**
+ * Resuelve la URL final de un stream:
+ * 1. Intenta create_link dinámicamente en el portal.
+ * 2. Si falla, limpia el cmd almacenado y lo usa directamente.
+ */
+async function resolveStreamUrl(stalkerCmd, env, isLive = false) {
   if (!stalkerCmd) return null;
+  const portalUrl = (env?.PORTAL_URL || "http://mag.greatott.me:80").replace(/\/$/, "");
+  const mac = env?.PORTAL_MAC || "00:1A:79:74:B1:B9";
 
-  // El cmd puede ser una URL completa o un path relativo
-  if (stalkerCmd.startsWith("http")) return stalkerCmd;
+  // Primero intentar create_link dinámico
+  const dynamic = await stalkerCreateLink(portalUrl, mac, stalkerCmd, isLive);
+  if (dynamic) return dynamic;
 
-  // Intentar construir URL desde el portal
-  const cmd = stalkerCmd.startsWith("/") ? stalkerCmd : `/${stalkerCmd}`;
-  return `${portalUrl}${cmd}`;
+  // Fallback: limpiar el cmd almacenado y usarlo directamente
+  return resolveRawUrl(stalkerCmd, portalUrl);
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -511,13 +589,12 @@ async function handleLiveStream([, username, password, streamId, ext], env) {
       return new Response("Stream no encontrado", { status: 404 });
     }
 
-    // Construir URL del stream Stalker
-    const stalkerUrl = resolveStreamUrl(stream._stalker_cmd, env);
+    // Resolución dinámica: create_link → fallback cmd limpio
+    const stalkerUrl = await resolveStreamUrl(stream._stalker_cmd, env, true);
     if (!stalkerUrl) {
       return new Response("URL de stream no disponible", { status: 503 });
     }
 
-    // Redirect 302 al stream original
     return Response.redirect(stalkerUrl, 302);
   } catch (e) {
     return new Response(`Error: ${e.message}`, { status: 500 });
@@ -537,7 +614,8 @@ async function handleMovieStream([, username, password, streamId, ext], env) {
       return new Response("Película no encontrada", { status: 404 });
     }
 
-    const stalkerUrl = resolveStreamUrl(stream._stalker_cmd, env);
+    // Resolución dinámica: create_link para obtener URL real del VOD
+    const stalkerUrl = await resolveStreamUrl(stream._stalker_cmd, env, false);
     if (!stalkerUrl) {
       return new Response("URL de stream no disponible", { status: 503 });
     }
@@ -549,19 +627,45 @@ async function handleMovieStream([, username, password, streamId, ext], env) {
 }
 
 /**
- * Maneja streams de Series → Redirect 302
+ * Índice de episodios: busca un episodio por ID en todos los series_info.
+ * Carga el índice precalculado si existe, o devuelve null.
+ */
+async function findEpisodeById(episodeId) {
+  try {
+    // Intentar cargar el índice de episodios si existe
+    const index = await loadJson("episodes_index.json");
+    const id = parseInt(episodeId);
+    return index.find((e) => e.id === id || e.episode_id === id) || null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Maneja streams de Series/Episodios → Redirect 302
  */
 async function handleSeriesStream([, username, password, episodeId, ext], env) {
   try {
-    // Buscar en todos los archivos de series_info
-    // Por simplicidad, el episodeId es el ID del episodio
+    const episode = await findEpisodeById(episodeId);
 
-    // Nota: Para una implementación completa se necesitaría un índice de episodios
-    // Por ahora devolvemos un redirect genérico
-    return new Response(
-      "Para acceder a episodios, usa el endpoint get_series_info y construye la URL desde el episode data",
-      { status: 501 }
-    );
+    if (!episode || !episode._stalker_cmd) {
+      // Fallback: intentar en vod_streams por si el episodio está ahí
+      const vodStreams = await loadJson("vod_streams.json");
+      const id = parseInt(episodeId);
+      const vodItem = vodStreams.find((s) => s.stream_id === id);
+      if (vodItem?._stalker_cmd) {
+        const url = await resolveStreamUrl(vodItem._stalker_cmd, env, false);
+        if (url) return Response.redirect(url, 302);
+      }
+      return new Response("Episodio no encontrado", { status: 404 });
+    }
+
+    const stalkerUrl = await resolveStreamUrl(episode._stalker_cmd, env, false);
+    if (!stalkerUrl) {
+      return new Response("URL de episodio no disponible", { status: 503 });
+    }
+
+    return Response.redirect(stalkerUrl, 302);
   } catch (e) {
     return new Response(`Error: ${e.message}`, { status: 500 });
   }
@@ -570,24 +674,6 @@ async function handleSeriesStream([, username, password, episodeId, ext], env) {
 // ─────────────────────────────────────────────────────────────────────────────
 // UTILIDADES
 // ─────────────────────────────────────────────────────────────────────────────
-
-/**
- * Resuelve la URL real de un stream desde su cmd Stalker.
- * Si el env tiene PORTAL_URL configurado, lo usa como base.
- */
-function resolveStreamUrl(stalkerCmd, env) {
-  if (!stalkerCmd) return null;
-
-  // Si ya es una URL completa
-  if (stalkerCmd.startsWith("http://") || stalkerCmd.startsWith("https://")) {
-    return stalkerCmd;
-  }
-
-  // Intentar con el portal URL del env
-  const portalUrl = env?.PORTAL_URL || "http://mag.greatott.me:80";
-  const path = stalkerCmd.startsWith("/") ? stalkerCmd : `/${stalkerCmd}`;
-  return `${portalUrl}${path}`;
-}
 
 /**
  * Limpia campos internos (prefijados con _) de un objeto stream
