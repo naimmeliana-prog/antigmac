@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "N/A",
+"episode_count": 1,
+"id": 303689468,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.moviemeter.nl/series/images/cover/30000/30231.jpg?cb=1712936958"
+}
+],
+"info": {
+"name": "NL - ALL IN BITCOIN FAMILY",
+"cover": "https://www.moviemeter.nl/series/images/cover/30000/30231.jpg?cb=1712936958",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908560",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "387519880",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "Is hij gek of zit er toch iets in? In 2017 verkochten Didi Taihuttu, zijn vrouw Romaine en hun drie jonge dochters Joli, Juna en Jessa al hun bezittingen en stopten het geld in bitcoins. Nu reizen ze de wereld over en iedereen kan via social media hun avonturen volgen. De familie werd beroemd en vader Didi werd een cultfiguur in de crypto wereld. Meer families, waaronder zijn eigen broer en zus, volgden hun voorbeeld. Hoe is het de afgelopen jaren met de familie gegaan terwijl de munt fluctueerde en hoe ziet hun dagelijks leven eruit?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908560",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzODE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33818:1"
+}
+]
+}
+}

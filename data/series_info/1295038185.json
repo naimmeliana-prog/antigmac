@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2006-03-12",
+"episode_count": 5,
+"id": 1756672585,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/195/19428.jpg"
+}
+],
+"info": {
+"name": "EN - Big Love (2006) (US)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/195/19428.jpg",
+"plot": "",
+"cast": "",
+"director": "Will Scheffer, Mark V. Olsen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908616",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "103363969",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2006-03-12",
+"plot": "The story of Bill Henrickson and his life in suburban Salt Lake City, balancing the needs of his three wives -- Barb, Nicki and Margene-- their seven kids, three new houses and the opening of his newest hardware store. When disturbing news arrives about Bill's father, he is forced to reconnect with his polygamist parents who live on a fundamentalist compound in rural Utah.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODkwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49890:4"
+},
+{
+"id": "714725296",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2006-03-12",
+"plot": "The story of Bill Henrickson and his life in suburban Salt Lake City, balancing the needs of his three wives -- Barb, Nicki and Margene-- their seven kids, three new houses and the opening of his newest hardware store. When disturbing news arrives about Bill's father, he is forced to reconnect with his polygamist parents who live on a fundamentalist compound in rural Utah.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODkwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49890:3"
+},
+{
+"id": "770019219",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2006-03-12",
+"plot": "The story of Bill Henrickson and his life in suburban Salt Lake City, balancing the needs of his three wives -- Barb, Nicki and Margene-- their seven kids, three new houses and the opening of his newest hardware store. When disturbing news arrives about Bill's father, he is forced to reconnect with his polygamist parents who live on a fundamentalist compound in rural Utah.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODkwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49890:2"
+},
+{
+"id": "72091597",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2006-03-12",
+"plot": "The story of Bill Henrickson and his life in suburban Salt Lake City, balancing the needs of his three wives -- Barb, Nicki and Margene-- their seven kids, three new houses and the opening of his newest hardware store. When disturbing news arrives about Bill's father, he is forced to reconnect with his polygamist parents who live on a fundamentalist compound in rural Utah.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49890:1"
+},
+{
+"id": "26188207",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2006-03-12",
+"plot": "The story of Bill Henrickson and his life in suburban Salt Lake City, balancing the needs of his three wives -- Barb, Nicki and Margene-- their seven kids, three new houses and the opening of his newest hardware store. When disturbing news arrives about Bill's father, he is forced to reconnect with his polygamist parents who live on a fundamentalist compound in rural Utah.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODkwLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49890:5"
+}
+]
+}
+}

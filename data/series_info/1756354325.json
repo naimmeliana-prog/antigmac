@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-10-13",
+"episode_count": 3,
+"id": 474181192,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg"
+}
+],
+"info": {
+"name": "FR -  Super Mini Monstres",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+"plot": "",
+"cast": "",
+"director": "Avi Arad",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908658",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "1430219910",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Leur parents étant les monstres les plus célèbres du monde, ces bambins tentent de maîtriser leurs super-pouvoirs tout en se préparant à entrer en maternelle.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908658",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcwMzYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7036:1"
+},
+{
+"id": "491589022",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Leur parents étant les monstres les plus célèbres du monde, ces bambins tentent de maîtriser leurs super-pouvoirs tout en se préparant à entrer en maternelle.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908658",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcwMzYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7036:2"
+},
+{
+"id": "1576177827",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Leur parents étant les monstres les plus célèbres du monde, ces bambins tentent de maîtriser leurs super-pouvoirs tout en se préparant à entrer en maternelle.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908658",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcwMzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7036:3"
+}
+]
+}
+}

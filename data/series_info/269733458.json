@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-01",
+"episode_count": 1,
+"id": 481572978,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jffJMsY4oQMJNP4iuaPMazWbRC.jpg"
+}
+],
+"info": {
+"name": "FR - Black Cake",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jffJMsY4oQMJNP4iuaPMazWbRC.jpg",
+"plot": "",
+"cast": "",
+"director": "Marissa Jo Cerar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908677",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "980084749",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-01",
+"plot": "Fin des années 1960, une jeune mariée en fuite nommée Covey disparaît dans les vagues au large de la Jamaïque. Cinquante ans plus tard, en Californie, Eleanor Bennett, une veuve d'une soixantaine d'années, perd son combat contre le cancer, laissant à ses deux enfants une clé USB qui contient des histoires de sa traversée des Caraïbes à l'Amérique. Ces nouveaux éléments remettent en question tout ce qu'ils pensaient savoir sur l'origine de leur famille.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30352:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2016-11-11",
+"episode_count": 2,
+"id": 1629166139,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/images/series/wgpC1QZK58yVaBOOQ606wuZA001.jpg"
+}
+],
+"info": {
+"name": "D+ - MECH-X4 (CA)",
+"cover": "http://51.158.145.100/images/series/wgpC1QZK58yVaBOOQ606wuZA001.jpg",
+"plot": "",
+"cast": "",
+"director": "Steve Marmel",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908602",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "1574959201",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-11",
+"plot": "Ryan Walker mysteriously awakens MECH-X4, a giant robot built to defend Bay City against impending doom. When monsters begin to descend, Ryan recruits his two best friends and his brother to help pilot the robot that is their only hope of saving their town from mass destruction.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908602",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY2MzEsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6631:2"
+},
+{
+"id": "1966882609",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-11",
+"plot": "Ryan Walker mysteriously awakens MECH-X4, a giant robot built to defend Bay City against impending doom. When monsters begin to descend, Ryan recruits his two best friends and his brother to help pilot the robot that is their only hope of saving their town from mass destruction.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908602",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY2MzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6631:1"
+}
+]
+}
+}

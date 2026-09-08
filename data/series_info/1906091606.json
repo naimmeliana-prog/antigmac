@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-24",
+"episode_count": 2,
+"id": 1286454707,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/x1j7QNwComArEIVm8gOwk6GqFA0.jpg"
+}
+],
+"info": {
+"name": "EN - Beyond The Gates (2025)",
+"cover": "https://image.tmdb.org/t/p/original/x1j7QNwComArEIVm8gOwk6GqFA0.jpg",
+"plot": "",
+"cast": "",
+"director": "Michele Val Jean",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908619",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "210450777",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-24",
+"plot": "In a leafy Maryland suburb just outside of Washington D.C. is one the most affluent African American counties in the United States. Here, you’ll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center  are the Duprees, a powerful and prestigious multi-generational family, the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have 'made it' and those who haven’t are all trying to navigate life... and some with more grace than others",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDc3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42077:2"
+},
+{
+"id": "1154849033",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-24",
+"plot": "In a leafy Maryland suburb just outside of Washington D.C. is one the most affluent African American counties in the United States. Here, you’ll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center  are the Duprees, a powerful and prestigious multi-generational family, the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have 'made it' and those who haven’t are all trying to navigate life... and some with more grace than others",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42077:1"
+}
+]
+}
+}

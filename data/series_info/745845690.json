@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-03-10",
+"episode_count": 1,
+"id": 1171657910,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg"
+}
+],
+"info": {
+"name": "FR - Caïd",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Ange Basterga, Nicolas Lopez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908643",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "220837015",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-10",
+"plot": "Dans cette série choc ultra réaliste, deux cameramen venus filmer un clip de rap dans une cité du sud de la France se retrouvent au cœur d'une guerre de gangs.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908643",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkxODAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9180:1"
+}
+]
+}
+}

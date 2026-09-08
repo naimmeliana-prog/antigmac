@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-21",
+"episode_count": 1,
+"id": 1328226854,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jnq2ltYkBVLJqMsoZ3Q7urouwI.jpg"
+}
+],
+"info": {
+"name": "FR - A Decent Man (2025) (PL)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jnq2ltYkBVLJqMsoZ3Q7urouwI.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908673",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "1999134497",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-21",
+"plot": "Paweł est un homme honnête, un mari dévoué, un père et un chirurgien compétent. Une décision hâtive change à jamais le cours de sa vie parfaite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908673",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNDIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42423:1"
+}
+]
+}
+}

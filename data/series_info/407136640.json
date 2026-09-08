@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-03-06",
+"episode_count": 1,
+"id": 1995141948,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/lmAKKLU0IroGJiQH4CsqfbmsjvO.jpg"
+}
+],
+"info": {
+"name": "A+ - Amazing Stories (2020)",
+"cover": "https://www.themoviedb.org/t/p/original/lmAKKLU0IroGJiQH4CsqfbmsjvO.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Spielberg, Edward Kitsis, Adam Horowitz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908592",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "15259292",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-06",
+"plot": "Each episode transports the audience to worlds of wonder through the lens of today’s most imaginative filmmakers, directors and writers. A reimagining of the original anthology series by Steven Spielberg.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU2NTcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5657:1"
+}
+]
+}
+}

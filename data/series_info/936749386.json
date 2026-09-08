@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-22",
+"episode_count": 1,
+"id": 792256572,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmj2nCslE1UJded94jgjYocL2k5.jpg"
+}
+],
+"info": {
+"name": "FR - 39-45 en Couleur: Vers la Victoire",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmj2nCslE1UJded94jgjYocL2k5.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908662",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "953149441",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-22",
+"plot": "Des séquences historiques captivantes et des commentaires d'experts donnent un aperçu détaillé des principaux personnages et des tournants décisifs de la Seconde Guerre mondiale.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908662",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NTk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14595:1"
+}
+]
+}
+}

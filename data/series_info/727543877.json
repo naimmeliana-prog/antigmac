@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-23",
+"episode_count": 2,
+"id": 1842171044,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/oBqI3Q2oYgzU45cdOLOTAE5ERdx.jpg"
+}
+],
+"info": {
+"name": "A+ - Wolfboy and The Everything Factory (2021)",
+"cover": "https://www.themoviedb.org/t/p/original/oBqI3Q2oYgzU45cdOLOTAE5ERdx.jpg",
+"plot": "",
+"cast": "",
+"director": "Toff Mazery, Edward Jesse",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908595",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "489873282",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-23",
+"plot": "William Wolfe is no ordinary human boy. Down in the magical spryte realm of the Everything Factory, he’s Wolfboy. And with his new spryte friends, he learns his vivid imagination and limitless creativity have the power to change the world.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908595",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NDk2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15496:2"
+},
+{
+"id": "1982253430",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-23",
+"plot": "William Wolfe is no ordinary human boy. Down in the magical spryte realm of the Everything Factory, he’s Wolfboy. And with his new spryte friends, he learns his vivid imagination and limitless creativity have the power to change the world.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908595",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NDk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15496:1"
+}
+]
+}
+}

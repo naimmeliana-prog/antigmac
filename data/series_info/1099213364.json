@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-06",
+"episode_count": 1,
+"id": 1600596859,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZO0mtTHAgg9QVscLVtwCcQ7Hgx.jpg"
+}
+],
+"info": {
+"name": "FR - Bienvenidos a Edén",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZO0mtTHAgg9QVscLVtwCcQ7Hgx.jpg",
+"plot": "",
+"cast": "",
+"director": "Joaquín Górriz, Guillermo López Sánchez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908641",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "152782579",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-06",
+"plot": "Bienvenidos a Edén est une série à suspense qui suit l'histoire d'un groupe de cinq jeunes et influenceurs séduisants qui sont invités à l'une des soirées les plus exclusives de l'histoire sur une île secrète organisée par une marque d'une nouvelle boisson.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908641",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NjEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "17612:1"
+}
+]
+}
+}

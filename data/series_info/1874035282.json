@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-06-12",
+"episode_count": 1,
+"id": 950079064,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3jSJcrXTcXK1ibq7vM4GPDGSrk.jpg"
+}
+],
+"info": {
+"name": "FR - Crossing Swords",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3jSJcrXTcXK1ibq7vM4GPDGSrk.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Root, John Harvatine IV",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908679",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "294577016",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-12",
+"plot": "Patrick est un paysan au bon cœur qui décroche un poste d'écuyer convoité au château royal.Cependant, son travail de rêve se transforme rapidement en cauchemar lorsqu'il apprend que son royaume bien-aimé est dirigé par un nid de frelons de monarques, d'escrocs et de charlatans excités. Pire encore, la vaillance de Patrick a fait de lui le mouton noir de sa famille, et maintenant ses frères et sœurs criminels sont revenus pour faire de sa vie un enfer. Guerre, meurtre, nudité frontale complète - Qui savait que les gens aux chevilles aux couleurs vives menaient des vies si excitantes?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908679",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY0OTAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6490:1"
+}
+]
+}
+}

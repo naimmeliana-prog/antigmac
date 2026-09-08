@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-09",
+"episode_count": 1,
+"id": 1825169618,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg"
+}
+],
+"info": {
+"name": "FR - Bandi (2026) (FR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+"plot": "",
+"cast": "",
+"director": "Éric Rochant, Capucine Rochant",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908633",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "1824862478",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-09",
+"plot": "À la suite de la mort de leur mère, leur pilier et leur repère, onze frères et sœurs âgés de 7 à 23 ans tentent de rester unis face à l’adversité. Mais pour certains d’entre eux, le trafic de drogue semble être la seule issue pour survivre. Une décision loin de faire l’unanimité et qui met à rude épreuve la solidité de leurs liens familiaux.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908633",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49158:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-19",
+"episode_count": 2,
+"id": 1845743966,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/inSe4HBqnwIoeqoChGlagVs0avG.jpg"
+}
+],
+"info": {
+"name": "FR - Avenue 5",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/inSe4HBqnwIoeqoChGlagVs0avG.jpg",
+"plot": "",
+"cast": "",
+"director": "Armando Iannucci",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908674",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "1094469927",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "A la fin du XXIème siècle, le tourisme spatial n’est plus un fantasme mais une réalité qui rapporte des milliards de dollars. Fleuron de cette industrie, le paquebot spatial Avenue 5 embarque pour Saturne, emmené par le capitaine Clark. Mais cette traversée de la galaxie ne sera pas de tout repos, et les nerfs de l’équipage vont être soumis à rude épreuve.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4838:1"
+},
+{
+"id": "145714854",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "A la fin du XXIème siècle, le tourisme spatial n’est plus un fantasme mais une réalité qui rapporte des milliards de dollars. Fleuron de cette industrie, le paquebot spatial Avenue 5 embarque pour Saturne, emmené par le capitaine Clark. Mais cette traversée de la galaxie ne sera pas de tout repos, et les nerfs de l’équipage vont être soumis à rude épreuve.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4838:2"
+}
+]
+}
+}

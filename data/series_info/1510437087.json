@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-20",
+"episode_count": 1,
+"id": 715982012,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://image.tmdb.org/t/p/w154/bh7OXB05LgElZDMOoxFNSJL9o4h.jpg"
+}
+],
+"info": {
+"name": "NL - AS WE SEE IT",
+"cover": "http://image.tmdb.org/t/p/w154/bh7OXB05LgElZDMOoxFNSJL9o4h.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Katims",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908561",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "292149846",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-20",
+"plot": "As We See It volgt Jack, Harrison en Violet, twintigers in het autismespectrum, terwijl ze ernaar streven om een ​​baan te krijgen en te houden, vrienden te maken, verliefd te worden en te navigeren in een wereld die hen ontgaat. Met de hulp van hun families, assistenten en soms zelfs elkaar, ervaren deze huisgenoten tegenslagen en vieren ze triomfen op hun eigen unieke reis naar onafhankelijkheid en acceptatie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908561",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15554:1"
+}
+]
+}
+}

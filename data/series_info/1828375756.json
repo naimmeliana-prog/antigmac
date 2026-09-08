@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-12",
+"episode_count": 2,
+"id": 1379526780,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/nVUVqKm0iyvDZ2VNLYBxbAeMxEe.jpg"
+}
+],
+"info": {
+"name": "EN - American Rust (2021)",
+"cover": "https://image.tmdb.org/t/p/original/nVUVqKm0iyvDZ2VNLYBxbAeMxEe.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Futterman, Philipp Meyer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908608",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "241330360",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-12",
+"plot": "A compelling family drama and a timeless story told through the eyes of complicated and compromised chief of police Del Harris of a Pennsylvania Rust Belt town full of good people making bad choices.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908608",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMzU1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31355:2"
+},
+{
+"id": "904908699",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-12",
+"plot": "A compelling family drama and a timeless story told through the eyes of complicated and compromised chief of police Del Harris of a Pennsylvania Rust Belt town full of good people making bad choices.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908608",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMzU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31355:1"
+}
+]
+}
+}

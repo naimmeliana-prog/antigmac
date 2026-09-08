@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-19",
+"episode_count": 2,
+"id": 911458150,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/kmGfuLocbzuPbl00LK9Kbp1pVTi.jpg"
+}
+],
+"info": {
+"name": "EN - Avenue 5 (2020)",
+"cover": "https://www.themoviedb.org/t/p/original/kmGfuLocbzuPbl00LK9Kbp1pVTi.jpg",
+"plot": "",
+"cast": "",
+"director": "Armando Iannucci",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908615",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "1076001745",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "40 years in the future, space captain Ryan Clark and the crew of the luxury space cruise ship Avenue 5 navigate disgruntled passengers and unexpected events after experiencing technical difficulties onboard.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNTUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3055:2"
+},
+{
+"id": "1965491869",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "40 years in the future, space captain Ryan Clark and the crew of the luxury space cruise ship Avenue 5 navigate disgruntled passengers and unexpected events after experiencing technical difficulties onboard.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNTUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3055:1"
+}
+]
+}
+}

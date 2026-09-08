@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-08",
+"episode_count": 1,
+"id": 762009878,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/299/29807.jpg"
+}
+],
+"info": {
+"name": "4K-DE - All or Nothing: Die Nationalmannschaft in Katar (2023) (DE)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/299/29807.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908692",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "1864804876",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-08",
+"plot": "Zurück an die Weltspitze will die deutsche Fußballnationalmannschaft bei der WM in Katar.N ach dem Aus in der WM-Vorrunde 2018 und der Niederlage im Achtelfinale bei der EM 2021 will der vierfache Weltmeister endlich wieder einen Titel. Doch Hansi Flick und sein Team scheiden in der Vorrunde. aus. Exklusive Einblicke hinter die Kulissen zeigen das dramatische Scheitern, wie es wirklich war.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908692",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45454:1"
+}
+]
+}
+}

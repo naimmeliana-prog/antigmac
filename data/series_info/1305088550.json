@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2016-07-22",
+"episode_count": 3,
+"id": 1333172875,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/se8bejjwLz56qm1gOCLpVjK8iVk.jpg"
+}
+],
+"info": {
+"name": "FR - Elena d'Avalor",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/se8bejjwLz56qm1gOCLpVjK8iVk.jpg",
+"plot": "",
+"cast": "",
+"director": "Craig Gerber",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908686",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "270780515"
+},
+"episodes": {
+"1": [
+{
+"id": "1913401570",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-07-22",
+"plot": "Elena n'est pas une adolescente comme les autres, elle est la princesse du royaume d'Avalor. Courageuse et aventurière, elle n'hésite pas à partir combattre une sorcière maléfique quand cette dernière attaque son royaume. Mais après avoir sauvé Avalor, il est décidé qu'il est temps pour elle de prendre ses responsabilités de princesse héritière et d'apprendre à gouverner le royaume jusqu’à ce qu'elle soit assez mature pour devenir reine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908686",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2847:3"
+},
+{
+"id": "432403291",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-07-22",
+"plot": "Elena n'est pas une adolescente comme les autres, elle est la princesse du royaume d'Avalor. Courageuse et aventurière, elle n'hésite pas à partir combattre une sorcière maléfique quand cette dernière attaque son royaume. Mais après avoir sauvé Avalor, il est décidé qu'il est temps pour elle de prendre ses responsabilités de princesse héritière et d'apprendre à gouverner le royaume jusqu’à ce qu'elle soit assez mature pour devenir reine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908686",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2847:2"
+},
+{
+"id": "1303093453",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-07-22",
+"plot": "Elena n'est pas une adolescente comme les autres, elle est la princesse du royaume d'Avalor. Courageuse et aventurière, elle n'hésite pas à partir combattre une sorcière maléfique quand cette dernière attaque son royaume. Mais après avoir sauvé Avalor, il est décidé qu'il est temps pour elle de prendre ses responsabilités de princesse héritière et d'apprendre à gouverner le royaume jusqu’à ce qu'elle soit assez mature pour devenir reine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908686",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2847:1"
+}
+]
+}
+}

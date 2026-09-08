@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-10-25",
+"episode_count": 1,
+"id": 1014201550,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/igGrWYT2iOK4umpXoIRNCwY0sA6.jpg"
+}
+],
+"info": {
+"name": "FR -  Brotherhood",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/igGrWYT2iOK4umpXoIRNCwY0sA6.jpg",
+"plot": "",
+"cast": "",
+"director": "Pedro Morelli",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908687",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "276010929",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-25",
+"plot": "Une avocate honnête se retrouve prise dans une spirale infernale quand elle apprend que son frère dirige une faction criminelle au Brésil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908687",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5ODIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6982:1"
+}
+]
+}
+}

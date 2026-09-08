@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-06",
+"episode_count": 1,
+"id": 64461975,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqvELiloDxYwAv1SF0Nkg7vmbfv.jpg"
+}
+],
+"info": {
+"name": "FR - Du génie sous la toque",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqvELiloDxYwAv1SF0Nkg7vmbfv.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908657",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "660797040"
+},
+"episodes": {
+"1": [
+{
+"id": "486482041",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-06",
+"plot": "De grands boulangers et ingénieurs s'allient pour réaliser des œuvres comestibles à la fois délicieuses et résistantes à des tests intensifs. À la clé : 100 000 dollars.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908657",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12920:1"
+}
+]
+}
+}

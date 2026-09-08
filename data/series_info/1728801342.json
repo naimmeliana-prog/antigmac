@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-06",
+"episode_count": 1,
+"id": 1038736522,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFffOCcrtf5mSoGKd2J31d2b5yg.jpg"
+}
+],
+"info": {
+"name": "FR - Au nom de la vengeance",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFffOCcrtf5mSoGKd2J31d2b5yg.jpg",
+"plot": "",
+"cast": "",
+"director": "Jimena Romero",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908650",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "385165832",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-06",
+"plot": "Cinq femmes avec la même tache de naissance décident de faire la lumière sur leur passé et découvrent un tragique tissu de mensonges élaboré par un politicien puissant.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12919:1"
+}
+]
+}
+}

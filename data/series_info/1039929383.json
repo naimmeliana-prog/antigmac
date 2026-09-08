@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-08-11",
+"episode_count": 1,
+"id": 994011043,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RE1VcCBSr4MWTgC9L0Rk5SbDIF.jpg"
+}
+],
+"info": {
+"name": "FR - Bake Squad",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RE1VcCBSr4MWTgC9L0Rk5SbDIF.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908655",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "660797040"
+},
+"episodes": {
+"1": [
+{
+"id": "797678433",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-11",
+"plot": "Les boulangers experts rehaussent les desserts avec des idées de niveau supérieur et une exécution épique. Maintenant, la bataille est lancée pour conquérir les clients qui ont besoin de friandises très spéciales.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908655",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNDY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11467:1"
+}
+]
+}
+}

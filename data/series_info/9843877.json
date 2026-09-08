@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-18",
+"episode_count": 2,
+"id": 133730103,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg"
+}
+],
+"info": {
+"name": "DE - 1923 (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908712",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "1485544287",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-18",
+"plot": "Der Familienpatriarch Jacob Dutton betreibt Anfang des 20. Jahrhunderts zu Beginn der wirtschaftlichen Depression auf seiner großen Farm in Montana Viehzucht.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908712",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTY2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28166:2"
+},
+{
+"id": "653989760",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-18",
+"plot": "Der Familienpatriarch Jacob Dutton betreibt Anfang des 20. Jahrhunderts zu Beginn der wirtschaftlichen Depression auf seiner großen Farm in Montana Viehzucht.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908712",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTY2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28166:1"
+}
+]
+}
+}

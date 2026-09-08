@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-21",
+"episode_count": 2,
+"id": 1312077886,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg"
+}
+],
+"info": {
+"name": "NL - A THOUSAND BLOWS (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Knight",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908563",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "585010650",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-21",
+"plot": "Hezekiah en Alec, twee vrienden uit Jamaica, belanden in de onderwereld van het Londense East End. Daar ontmoeten ze Mary Carr, koningin van een bende dievegges die bekendstaat als de Forty Elephants. Ze krijgen het aan de stok met Sugar Goodson, gangsterbaas en berucht bokser.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908563",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTYwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46160:2"
+},
+{
+"id": "1369834263",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-21",
+"plot": "Hezekiah en Alec, twee vrienden uit Jamaica, belanden in de onderwereld van het Londense East End. Daar ontmoeten ze Mary Carr, koningin van een bende dievegges die bekendstaat als de Forty Elephants. Ze krijgen het aan de stok met Sugar Goodson, gangsterbaas en berucht bokser.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908563",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MTYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46160:1"
+}
+]
+}
+}

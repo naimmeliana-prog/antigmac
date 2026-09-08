@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-29",
+"episode_count": 1,
+"id": 740131146,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awIufRN7dWaG813VWQWpKD2ErpP.jpg"
+}
+],
+"info": {
+"name": "FR - A Gentleman in Moscow",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awIufRN7dWaG813VWQWpKD2ErpP.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben Vanstone",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908688",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "110935925",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-29",
+"plot": "Au lendemain de la révolution russe, le comte Alexandre Rostov découvre que son statut de privilégié le place du mauvais côté de l'histoire. Même s’il échappe à une exécution immédiate, un tribunal soviétique le condamne à vivre retranché dans une chambre dans les combles du luxueux hôtel Metropol et le menace de mort si jamais il en sortait. Tandis que les années passent et que le pays traverse les décennies parmi les plus tumultueuses de son histoire, les conditions de vie restreintes de Rostov l’ouvrent sur un vaste monde de découverte émotionnelle. Alors qu'il se construit une nouvelle vie entre les murs de l'hôtel, il découvre la véritable valeur de l'amitié, de la famille et de l'amour.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908688",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzODg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33887:1"
+}
+]
+}
+}

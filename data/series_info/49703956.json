@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-17",
+"episode_count": 1,
+"id": 734796316,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnug9DhsenurS5dWCypjZSRFnH6.jpg"
+}
+],
+"info": {
+"name": "DE - DMZ (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnug9DhsenurS5dWCypjZSRFnH6.jpg",
+"plot": "",
+"cast": "",
+"director": "Roberto Patino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908720",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "741500315"
+},
+"episodes": {
+"1": [
+{
+"id": "1032466093",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-17",
+"plot": "Ein brutaler zweiter Bürgerkrieg erschüttert in nicht allzu ferner Zukunft die USA. Das zerstörte Manhattan wird zur \"Demilitarized Zone\" (DMZ) erklärt und ist von der Außenwelt abgeschnitten. Auch Sanitäterin Alma Ortega ist von hier vor Jahren bei Ausbruch des Krieges geflohen - und hat dabei ihren Sohn verloren. Sie setzt alles daran, in die gefährliche DMZ zurückzukehren, um ihn zu finden. Im gesetzlosen Niemandsland trifft sie auf Gangs, Milizen, Warlords und Demagogen wie Parco Delgaro, mit dem sie eine gemeinsame Vergangenheit verbindet. Der will um jeden Preis die Macht in der DMZ an sich reißen. Selbst wenn Alma ihren Sohn findet, wie hat ihn der jahrelange Überlebenskampf im Kriegsgebiet verändert?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908720",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NjEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24613:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-12",
+"episode_count": 1,
+"id": 50042583,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68jWgFipSRPeJkJxzqO51gZ4KYc.jpg"
+}
+],
+"info": {
+"name": "FR - Alphonse",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68jWgFipSRPeJkJxzqO51gZ4KYc.jpg",
+"plot": "",
+"cast": "",
+"director": "Nicolas Bedos",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908669",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "471214447",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-12",
+"plot": "Il s’appelle Alphonse et vit en France. \"Je suis là, Mesdames, pour satisfaire tous vos désirs, même les plus inavouables. Toutes. Je deviendrai qui vous voudrez : votre amour de jeunesse, votre idole, votre animal de compagnie ou votre bourreau. Quel que soit votre physique ou votre âge, vous serez la plus belle femme du monde\" promet-il selon un tarif, à négocier.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908669",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28186:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2016-09-10",
+"episode_count": 2,
+"id": 156409158,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4lVmcOiW7ybxVb1uo4dQX6j7g.jpg"
+}
+],
+"info": {
+"name": "D+ - Animal ER",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4lVmcOiW7ybxVb1uo4dQX6j7g.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908596",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "1744995311",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-10",
+"plot": "Follow the highly trained doctors and staff of Houston’s Gulf Coast Veterinary Specialists as they perform high-end, specialized veterinary medicine on domestic and exotic animals. Watch as they perform a double root canal on a Chimpanzee, a life-saving hysterectomy on a Bengal tiger, and dental surgery to restore functional living to a police dog.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908596",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MjUyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18252:2"
+},
+{
+"id": "651508398",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-10",
+"plot": "Follow the highly trained doctors and staff of Houston’s Gulf Coast Veterinary Specialists as they perform high-end, specialized veterinary medicine on domestic and exotic animals. Watch as they perform a double root canal on a Chimpanzee, a life-saving hysterectomy on a Bengal tiger, and dental surgery to restore functional living to a police dog.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908596",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MjUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18252:1"
+}
+]
+}
+}

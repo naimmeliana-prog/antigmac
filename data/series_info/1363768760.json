@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-05-29",
+"episode_count": 2,
+"id": 1961641554,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/300/29976.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Der Beischläfer (2020) (DE)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/300/29976.jpg",
+"plot": "",
+"cast": "",
+"director": "Murmel Clausen, Mike Viebrock",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908695",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "1430599723",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-29",
+"plot": "Autoschrauber Charlie Menzinger wird gegen seinen Willen zum Schöffen berufen. Am Gericht trifft er auf die Berufsrichterin Dr. Julia Kellermann, die so gar nicht auf Charlies Sinn für Gerechtigkeit steht. Doch das stachelt ihn erst recht an…",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908695",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1Njc1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45675:2"
+},
+{
+"id": "1703692434",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-29",
+"plot": "Autoschrauber Charlie Menzinger wird gegen seinen Willen zum Schöffen berufen. Am Gericht trifft er auf die Berufsrichterin Dr. Julia Kellermann, die so gar nicht auf Charlies Sinn für Gerechtigkeit steht. Doch das stachelt ihn erst recht an…",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908695",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1Njc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45675:1"
+}
+]
+}
+}

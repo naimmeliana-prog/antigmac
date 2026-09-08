@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-08",
+"episode_count": 1,
+"id": 745200507,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/qUfNlclG2SUetNPXImUv5akpbuR.jpg"
+}
+],
+"info": {
+"name": "NF - A Time Called You (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/qUfNlclG2SUetNPXImUv5akpbuR.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Jin-won, Choi Hyo-bi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908584",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "994057687",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-08",
+"plot": "A grieving woman magically travels through time to 1998, where she meets a man with an uncanny resemblance to her late love. (Korean remake of Taiwanese drama “Someday Or One Day”)",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3NzMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27732:1"
+}
+]
+}
+}

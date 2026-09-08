@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-15",
+"episode_count": 1,
+"id": 1729592032,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg"
+}
+],
+"info": {
+"name": "FR - Conversations with Friends",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908679",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "451749590",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-15",
+"plot": "Deux étudiants de Dublin, Frances et Bobbi, tissent des liens étranges avec un couple marié, Melissa et Nick. Adaptation de \"Conversations With Friends\", de Sally Rooney.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908679",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3ODUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "17852:1"
+}
+]
+}
+}

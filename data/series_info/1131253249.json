@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-13",
+"episode_count": 1,
+"id": 29104486,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkqJ2ra4ocWLzPNvq81ixM9Swjz.jpg"
+}
+],
+"info": {
+"name": "FR - Butterfly (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkqJ2ra4ocWLzPNvq81ixM9Swjz.jpg",
+"plot": "",
+"cast": "",
+"director": "Ken Woodruff, Steph Cha",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908643",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "336966614",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-13",
+"plot": "David Jung, un mystérieux ancien agent des services secrets américains vit caché en Corée du Sud. Un jour, il voit sa vie voler en éclats lorsque les conséquences d'une décision de son passé reviennent le hanter, et qu'il se retrouve traqué par Rebecca, une jeune assassin dangereuse, et Caddis, la sinistre organisation d'espionnage pour laquelle elle travaille.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908643",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44754:1"
+}
+]
+}
+}

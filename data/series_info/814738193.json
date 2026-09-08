@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2013-02-07",
+"episode_count": 2,
+"id": 692107753,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0brqNfJYNMNiPoPCw8DtKFIfFX.jpg"
+}
+],
+"info": {
+"name": "D+ - Car S.O.S. (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0brqNfJYNMNiPoPCw8DtKFIfFX.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908598",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "1761469614",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-07",
+"plot": "Meet car enthusiast and TV presenter Tim Shaw and master mechanic Fuzz Townshend as they join forces to rescue rusty classic vehicles from their garage prisons",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908598",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3MDcsInNlYXNvbl9udW0iOjcsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5707:7"
+},
+{
+"id": "1734506498",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-07",
+"plot": "Meet car enthusiast and TV presenter Tim Shaw and master mechanic Fuzz Townshend as they join forces to rescue rusty classic vehicles from their garage prisons",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908598",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3MDcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5707:1"
+}
+]
+}
+}

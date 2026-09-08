@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-09",
+"episode_count": 1,
+"id": 674270031,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8kRBJ5m2Av4py9Y6MUON5dXUHGZ.jpg"
+}
+],
+"info": {
+"name": "DE - Echo (2024)",
+"cover": "https://image.tmdb.org/t/p/w154/8kRBJ5m2Av4py9Y6MUON5dXUHGZ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908710",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "625769289",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-09",
+"plot": "Maya Lopez wird von Wilson Fisks Verbrecherbande verfolgt. Der Weg führt sie in ihre Heimatstadt, wo sie sich ihrer Familie und deren Vermächtnis stellen muss.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908710",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29943:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-30",
+"episode_count": 1,
+"id": 1060374304,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg"
+}
+],
+"info": {
+"name": "FR - Astérix & Obélix : Le Combat des chefs (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
+"plot": "",
+"cast": "",
+"director": "Alain Chabat",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908661",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "255669154",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-30",
+"plot": "Alors que Panoramix a oublié la recette de la potion magique, Astérix et Obélix doivent repousser César, qui compte bien arriver à ses fins grâce à une loi gauloise.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMTM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43134:1"
+}
+]
+}
+}

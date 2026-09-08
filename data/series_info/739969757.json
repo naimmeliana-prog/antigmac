@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-18",
+"episode_count": 2,
+"id": 235847890,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/74KLVTsUFkzOXRuWohGThXerWRR.jpg"
+}
+],
+"info": {
+"name": "4K-DE - 1923 (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/original/74KLVTsUFkzOXRuWohGThXerWRR.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908699",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "974888874"
+},
+"episodes": {
+"1": [
+{
+"id": "1240906870",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-18",
+"plot": "Der Familienpatriarch Jacob Dutton betreibt Anfang des 20. Jahrhunderts zu Beginn der wirtschaftlichen Depression auf seiner großen Farm in Montana Viehzucht. Das Familienerbe ist der größte Landbesitz in der Gegend. Eine lange Dürre hat dazu geführt, dass es auf den Weiden kaum mehr Gras gibt und das lebensnotwendige Futter für seine Tiere knapp wird. Auch gibt es immer mehr Heuschrecken in ihrer Gegend.\r\n\r\nWeil Banner Creighton, der die Schafhirten in der Gegend unter sich hat und zur Montana Livestock Association gehört, ebenfalls die Nahrung für seine Tiere fehlt, ihm jedoch viel weniger Land zur Verfügung steht, kommt es zwischen ihm und Jacob Dutton immer wieder zu Spannungen. Dutton jedoch würde absolut alles in seiner Macht stehende tun, um zu behalten, was ihnen gehört. Seine Frau Cara ist ebenso entschlossen und weiß eine Schrotflinte zu benutzen. Ihre Nachkommen Jack, John und zukünftig Spencer sind auf dem Land des Dutton-Clans ebenfalls vielbeschäftigt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908699",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzU2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46756:2"
+},
+{
+"id": "1487599623",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-18",
+"plot": "Der Familienpatriarch Jacob Dutton betreibt Anfang des 20. Jahrhunderts zu Beginn der wirtschaftlichen Depression auf seiner großen Farm in Montana Viehzucht. Das Familienerbe ist der größte Landbesitz in der Gegend. Eine lange Dürre hat dazu geführt, dass es auf den Weiden kaum mehr Gras gibt und das lebensnotwendige Futter für seine Tiere knapp wird. Auch gibt es immer mehr Heuschrecken in ihrer Gegend.\r\n\r\nWeil Banner Creighton, der die Schafhirten in der Gegend unter sich hat und zur Montana Livestock Association gehört, ebenfalls die Nahrung für seine Tiere fehlt, ihm jedoch viel weniger Land zur Verfügung steht, kommt es zwischen ihm und Jacob Dutton immer wieder zu Spannungen. Dutton jedoch würde absolut alles in seiner Macht stehende tun, um zu behalten, was ihnen gehört. Seine Frau Cara ist ebenso entschlossen und weiß eine Schrotflinte zu benutzen. Ihre Nachkommen Jack, John und zukünftig Spencer sind auf dem Land des Dutton-Clans ebenfalls vielbeschäftigt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908699",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46756:1"
+}
+]
+}
+}

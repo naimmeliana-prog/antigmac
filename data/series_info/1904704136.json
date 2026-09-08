@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-10",
+"episode_count": 1,
+"id": 725060637,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YgODvXTkNiYBbiqv56yHDVuZkZ.jpg"
+}
+],
+"info": {
+"name": "NF - Aranyak 4k (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YgODvXTkNiYBbiqv56yHDVuZkZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Rohan Sippy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908576",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "1239735628",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-10",
+"plot": "After a foreign teenage tourist goes missing in a misty village, Kasturi, a frazzled local cop, is forced to team up with her city-bred successor, Angad, on a high-profile case that unearths skeletons and resurrects a long-forgotten legend of a savage serial killer in the woods.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908576",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4Mzg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38389:1"
+}
+]
+}
+}

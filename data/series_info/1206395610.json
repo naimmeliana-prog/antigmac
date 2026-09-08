@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-13",
+"episode_count": 1,
+"id": 1923295548,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/xxc0D0NNFmAFxtB5T63CUjRSG9t.jpg"
+}
+],
+"info": {
+"name": "EN - Had I Not Seen The Sun (2025) (TW) (MULTI SUB)",
+"cover": "https://image.tmdb.org/t/p/original/xxc0D0NNFmAFxtB5T63CUjRSG9t.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908580",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "20123156",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-13",
+"plot": "Filmmaker Zhou Pin-yu interviews a serial killer in prison — an encounter that triggers a string of mysterious events tied to a buried past.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NDk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46494:1"
+}
+]
+}
+}

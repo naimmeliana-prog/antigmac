@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-12",
+"episode_count": 2,
+"id": 1580089785,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg"
+}
+],
+"info": {
+"name": "FR - American Rust",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Futterman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908689",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "1726952069",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-12",
+"plot": "Un drame familial captivant qui explore le rêve américain en lambeaux à travers les yeux du chef de police compliqué et compromis Del Harris dans une ville de Rust Belt dans le sud-ouest de la Pennsylvanie. Lorsque la femme qu'il aime vraiment voit son fils accusé de meurtre, Harris est obligé de décider ce qu'il est prêt à faire pour le protéger.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908689",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MDY0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14064:2"
+},
+{
+"id": "549785677",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-12",
+"plot": "Un drame familial captivant qui explore le rêve américain en lambeaux à travers les yeux du chef de police compliqué et compromis Del Harris dans une ville de Rust Belt dans le sud-ouest de la Pennsylvanie. Lorsque la femme qu'il aime vraiment voit son fils accusé de meurtre, Harris est obligé de décider ce qu'il est prêt à faire pour le protéger.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908689",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MDY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14064:1"
+}
+]
+}
+}

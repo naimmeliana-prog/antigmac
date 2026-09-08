@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-20",
+"episode_count": 2,
+"id": 640079931,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/iXPhIZje0X36uATfepGVcbx6vkA.jpg"
+}
+],
+"info": {
+"name": "EN - Big Hero 6 The Series (2017)",
+"cover": "https://image.tmdb.org/t/p/original/iXPhIZje0X36uATfepGVcbx6vkA.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark McCorkle, Bob Schooley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908630",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "824527091",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-20",
+"plot": "Picking up immediately following the events in the feature film, these are the continuing adventures and friendship of 14-year-old tech genius Hiro and his compassionate, cutting-edge robot Baymax. As the new prodigy at San Fransokyo Institute of Technology, Hiro now faces daunting academic challenges and the social trials of being the little man on campus. Off campus, the stakes are raised for the high-tech heroes as they must protect their city from an array of scientifically enhanced villains.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyODEsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8281:2"
+},
+{
+"id": "1423565467",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-20",
+"plot": "Picking up immediately following the events in the feature film, these are the continuing adventures and friendship of 14-year-old tech genius Hiro and his compassionate, cutting-edge robot Baymax. As the new prodigy at San Fransokyo Institute of Technology, Hiro now faces daunting academic challenges and the social trials of being the little man on campus. Off campus, the stakes are raised for the high-tech heroes as they must protect their city from an array of scientifically enhanced villains.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyODEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8281:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-07-25",
+"episode_count": 1,
+"id": 909510666,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg"
+}
+],
+"info": {
+"name": "NF - Another Life (US) (4K)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg",
+"plot": "",
+"cast": "",
+"director": "Aaron Martin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908575",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "536932096",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "After a massive alien artifact lands on Earth, Niko Breckinridge leads an interstellar mission to track down its source and make first contact.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY3NjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6762:1"
+}
+]
+}
+}

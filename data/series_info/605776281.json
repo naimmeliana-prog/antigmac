@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-22",
+"episode_count": 2,
+"id": 1283645249,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/gqD9hzY50KGHmVaLgr5SBvYzbJw.jpg"
+}
+],
+"info": {
+"name": "NL - STAR WARS VISIONS",
+"cover": "https://image.tmdb.org/t/p/w154/gqD9hzY50KGHmVaLgr5SBvYzbJw.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "1219861849",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-22",
+"plot": "Star Wars Visions is een eerbetoon aan Star Wars in de vorm van een bloemlezing van geanimeerde korte verhalen door de lens van 's werelds beste animemakers.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MjEzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25213:2"
+},
+{
+"id": "1600858108",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-22",
+"plot": "Star Wars Visions is een eerbetoon aan Star Wars in de vorm van een bloemlezing van geanimeerde korte verhalen door de lens van 's werelds beste animemakers.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MjEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25213:1"
+}
+]
+}
+}

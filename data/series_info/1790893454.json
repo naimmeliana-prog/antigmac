@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-24",
+"episode_count": 1,
+"id": 1768847023,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EDSx71ys4YnzMq1DBXjyQIbOkd.jpg"
+}
+],
+"info": {
+"name": "D+ - City of Angels | City of Death",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EDSx71ys4YnzMq1DBXjyQIbOkd.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908598",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "541085838",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-24",
+"plot": "Documents the chilling 1970s-80s era of rampant serial killers in Los Angeles with first-hand accounts from the detectives who tracked down the Freeway Killer, Hillside Strangler and Sunset Strip Killer, bringing justice for the victims and survivors",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908598",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MjUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18250:1"
+}
+]
+}
+}

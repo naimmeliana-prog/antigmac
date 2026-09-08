@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-28",
+"episode_count": 1,
+"id": 504267739,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg"
+}
+],
+"info": {
+"name": "DE - Half Man (2026) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+"plot": "",
+"cast": "",
+"director": "Richard Gadd",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908722",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "741500315"
+},
+"episodes": {
+"1": [
+{
+"id": "1373394797",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-28",
+"plot": "Ruben (Richard Gadd) und Nialls (Jamie Bell) waren seit ihrer Teenager-Zeit beste Freunde, hatten sich dann aber als Erwachsene zerstritten. Nun steht Nialls Hochzeit an, die von Ruben „gesprengt“ wird. Das gewaltsame Aufeinandertreffen der beiden führt für die Zuschauer zu einem Zeitsprung zurück in die 1980er, von wo aus die Höhen und Tiefpunkte der Freundschaft aufgearbeitet werden – die guten Zeiten, die schlechten, die schrecklichen, die lustigen, die wütenden und die herausfordernden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908722",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51672:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-04-14",
+"episode_count": 1,
+"id": 683860665,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uyHcbsxmJRUsFYL9qsbN3QwA7J.jpg"
+}
+],
+"info": {
+"name": "FR - Arrête Papa, tu me fais honte !",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uyHcbsxmJRUsFYL9qsbN3QwA7J.jpg",
+"plot": "",
+"cast": "",
+"director": "Bentley Kyle Evans",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908639",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "778065573",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-14",
+"plot": "Un père célibataire, propriétaire d'une marque de cosmétiques, découvre la paternité sur le tas lorsque sa fille adolescente au caractère bien trempé emménage avec lui.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908639",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkxMzMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9133:1"
+}
+]
+}
+}

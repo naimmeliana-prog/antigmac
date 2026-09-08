@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-11",
+"episode_count": 1,
+"id": 1406357966,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO6DNZlNX2IkIJyWZs9e2wYYElc.jpg"
+}
+],
+"info": {
+"name": "FR - 42 jours d'obscurité",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO6DNZlNX2IkIJyWZs9e2wYYElc.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908652",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1487237529"
+},
+"episodes": {
+"1": [
+{
+"id": "1239848642",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-11",
+"plot": "Une femme doit lutter contre la négligence des institutions de l'État et le harcèlement des médias après la disparition de sa sœur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908652",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NzQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "17745:1"
+}
+]
+}
+}

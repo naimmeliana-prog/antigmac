@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-09-04",
+"episode_count": 1,
+"id": 1143023225,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/qy5PrZELlmXOxLIYRXcqw7uiZ2I.jpg"
+}
+],
+"info": {
+"name": "D+ - Earth to Ned (2020)",
+"cover": "https://www.themoviedb.org/t/p/original/qy5PrZELlmXOxLIYRXcqw7uiZ2I.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908600",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "61484568",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-04",
+"plot": "Ned, a blue-skinned alien, and his lieutenant Cornelius, were sent to scout Earth for an eventual invasion — but instead became obsessed with popular culture. Now they host a talk show, broadcast from the bridge of their spaceship hidden deep underground, where they interview our most precious commodity — celebrities — to talk about Ned’s current pop culture obsessions.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908600",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3MDksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5709:1"
+}
+]
+}
+}

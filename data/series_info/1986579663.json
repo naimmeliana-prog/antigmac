@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-10-24",
+"episode_count": 1,
+"id": 1024741663,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/5GZgJAmVh6AxPtVYo5hifO8QkZO.jpg"
+}
+],
+"info": {
+"name": "EN - Before (2024)",
+"cover": "https://image.tmdb.org/t/p/original/5GZgJAmVh6AxPtVYo5hifO8QkZO.jpg",
+"plot": "",
+"cast": "",
+"director": "Sarah Thorp",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908611",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "17731180"
+},
+"episodes": {
+"1": [
+{
+"id": "414796148",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-10-24",
+"plot": "After tragically losing his wife, child psychiatrist Dr. Eli Adler encounters a troubled young boy who seems to have a haunting connection to Eli's past.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908611",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM3NTgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "37581:1"
+}
+]
+}
+}

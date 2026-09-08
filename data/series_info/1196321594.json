@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-08",
+"episode_count": 1,
+"id": 774561686,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QXirTPUQecr1BAEfgVSXPD1np0.jpg"
+}
+],
+"info": {
+"name": "FR - Cars : Sur la route",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QXirTPUQecr1BAEfgVSXPD1np0.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908684",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "270780515"
+},
+"episodes": {
+"1": [
+{
+"id": "58399256",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-08",
+"plot": "Flash McQueen et son meilleur ami Martin quittent Radiator Springs pour un voyage à travers le pays pour aller retrouver la sœur de Martin. En chemin, chaque arrêt est une aventure à part entière. Au programme : des attractions touristiques délirantes en bord de route et de nouveaux personnages hauts en couleur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908684",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5OTkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19993:1"
+}
+]
+}
+}

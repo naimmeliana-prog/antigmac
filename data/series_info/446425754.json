@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-08",
+"episode_count": 1,
+"id": 1409444476,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg"
+}
+],
+"info": {
+"name": "FR - A Time Called You",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Jin-won, Choi Hyo-bi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908652",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1487237529"
+},
+"episodes": {
+"1": [
+{
+"id": "374395693",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-08",
+"plot": "Une femme en deuil remonte le temps par magie jusqu'en 1998, où elle rencontre un homme qui ressemble étrangement à son défunt grand amour.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908652",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3NzI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27728:1"
+}
+]
+}
+}

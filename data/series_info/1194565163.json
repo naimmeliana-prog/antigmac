@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-06-01",
+"episode_count": 1,
+"id": 23960274,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TdpNQfW7VwUxIkrOxWzpOtlgun.jpg"
+}
+],
+"info": {
+"name": "FR - 13 novembre : Fluctuat nec mergitur",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TdpNQfW7VwUxIkrOxWzpOtlgun.jpg",
+"plot": "",
+"cast": "",
+"director": "Gédéon Naudet, Jules Naudet",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908662",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "1308006236",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-01",
+"plot": "Survivants et premiers intervenants racontent la nuit du 13 novembre 2015 et les actes de bienveillance et de bravoure dont ils ont été témoins dans les rues de Paris.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908662",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6932:1"
+}
+]
+}
+}

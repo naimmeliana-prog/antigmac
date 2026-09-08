@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-28",
+"episode_count": 1,
+"id": 1546875976,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J2jPfh45mOyXTiycPpfoiYQAfv.jpg"
+}
+],
+"info": {
+"name": "FR - Comme un rat (2026) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J2jPfh45mOyXTiycPpfoiYQAfv.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Hong-sun, 이재곤",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908635",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "1657097390",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-28",
+"plot": "Un écrivain reclus découvre à son réveil que son identité a été volée. Il doit alors s'allier avec un usurier impitoyable pour traquer le Rat, l'inconnu qui a saccagé sa vie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908635",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNTU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51557:1"
+}
+]
+}
+}

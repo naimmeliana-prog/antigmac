@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-11",
+"episode_count": 1,
+"id": 613211125,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30762.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Der Therapeut von nebenan (2021) (US)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30762.jpg",
+"plot": "",
+"cast": "",
+"director": "Georgia Pritchett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908697",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "987387581"
+},
+"episodes": {
+"1": [
+{
+"id": "1480305262",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-11",
+"plot": "Nach wahrer Begebenheit: Als Marty den Therapeuten Dr. Ike zum ersten Mal aufsucht, möchte er gern besser mit Grenzen umgehen können. In den folgenden 30 Jahren wird er alles über sie lernen – und was passiert, wenn man sie überschreitet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908697",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46085:1"
+}
+]
+}
+}

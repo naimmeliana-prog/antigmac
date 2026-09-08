@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-08-24",
+"episode_count": 1,
+"id": 1167555131,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLrRQiJfkqpldyIYuCNTMmR7QJv.jpg"
+}
+],
+"info": {
+"name": "NL -  THE INNOCENTS",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLrRQiJfkqpldyIYuCNTMmR7QJv.jpg",
+"plot": "",
+"cast": "",
+"director": "New Pictures",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908553",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1873917108"
+},
+"episodes": {
+"1": [
+{
+"id": "786393388",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-24",
+"plot": "Twee tieners lopen weg van huis om samen te zijn, maar door hun bijzondere gave komen er krachten vrij die hen voor altijd uit elkaar dreigen te drijven.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908553",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY3MCwic2Vhc29uX251bSI6MSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "670:1"
+}
+]
+}
+}

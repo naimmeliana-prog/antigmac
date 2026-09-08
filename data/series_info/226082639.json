@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-01",
+"episode_count": 1,
+"id": 337397932,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://photo-tmdb.com/stalker_portal/screenshots/352/35200.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Marshals: A Yellowstone Story (2026) (US)",
+"cover": "http://photo-tmdb.com/stalker_portal/screenshots/352/35200.jpg",
+"plot": "",
+"cast": "",
+"director": "Spencer Hudnut",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908701",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "974888874"
+},
+"episodes": {
+"1": [
+{
+"id": "609639889",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-01",
+"plot": "In der US-Serie Y: Marshals verlässt Kayce Dutton seine Heimat auf der Yellowstone Ranch und tritt einer Spezialeinheit der U.S. Marshals bei. Mit der Erfahrung als Cowboy und Navy SEAL wird er Teil einer Elitegruppe, die in Montana für Sicherheit sorgen soll. Dabei geht es nicht nur um den Einsatz von Waffen und Strategie, sondern auch um den psychologischen Druck, den dieser Dienst mit sich bringt. Kayce und seine Kollegen stehen an der letzten Front im Kampf gegen Gewalt, in einer Region, die von Konflikten und Kriminalität geprägt ist.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MzAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48302:1"
+}
+]
+}
+}

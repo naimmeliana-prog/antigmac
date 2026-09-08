@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-12-26",
+"episode_count": 1,
+"id": 886127696,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYfF6mK8DQIhi96kzOC9ULdDjTp.jpg"
+}
+],
+"info": {
+"name": "FR - ABC contre Poirot",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYfF6mK8DQIhi96kzOC9ULdDjTp.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908667",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "1805453582",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-12-26",
+"plot": "Hercule Poirot est confronté à un mystérieux tueur en série qui laisse pour seul indice un guide des chemins de fer \"A.B.C.\" sur les scènes de crime.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908667",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgzMjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8322:1"
+}
+]
+}
+}

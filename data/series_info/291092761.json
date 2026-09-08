@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-10",
+"episode_count": 1,
+"id": 469300622,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4rxVYDVCTeHAyZf1W8tlUMvd1.jpg"
+}
+],
+"info": {
+"name": "FR - AJ and the Queen",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4rxVYDVCTeHAyZf1W8tlUMvd1.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Patrick King, RuPaul",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908637",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "193341651",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-10",
+"plot": "Robert Lee a tout réussi : il a trouvé l'homme de sa vie, il a un joli appartement à New York, et après avoir trimé dur pendant des années sur les routes des États-Unis, il a enfin les moyens d'ouvrir son propre club. C'est Ruby Red, la célèbre drag queen incarnée par Robert, qui sera la reine de son nouveau royaume.\r\n\r\nSeulement voilà : le jour de la signature du bail des locaux de son club, sa moitié a disparu... et ses économies aussi !\r\n\r\nObligée de reprendre la route pour ce qui devait être sa dernière tournée avant l'ouverture de son club, Ruby découvre, cachée dans son camping-car, AJ, 10 ans, son encombrante et entêtée petite voisine. Robert n'est pas habitué à devoir s'occuper d'un enfant, et l'enfant en question n'a aucune envie qu'on s'occupe d'elle. Entre coups de gueule, leçons de morale tout droit sorties des show d'Oprah Winfrey, compromis et chantages, les deux acolytes vont devoir apprendre à vivre ensemble. Ce qui ne va pas se faire sans quelques anicroches...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMDYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5006:1"
+}
+]
+}
+}

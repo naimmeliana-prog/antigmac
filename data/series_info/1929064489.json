@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-13",
+"episode_count": 1,
+"id": 458400988,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30766.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Die Schlange von Essex (2022) (GB)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30766.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908698",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "987387581"
+},
+"episodes": {
+"1": [
+{
+"id": "1569437505",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-13",
+"plot": "Die Londoner Witwe Cora Seaborne zieht nach Essex, um den Gerüchten über eine mythische Schlange nachzugehen. Mit dem jungen Dorfvikar teilt sie die Sicht auf Wissenschaft und Skeptizismus, und eine überraschende Nähe entsteht. Doch als sich eine Tragödie ereignet, beschuldigen die Einheimischen sie, die Kreatur angelockt zu haben. Basierend auf dem Roman von Sarah Perry.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908698",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46088:1"
+}
+]
+}
+}

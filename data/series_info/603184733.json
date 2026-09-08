@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-10",
+"episode_count": 1,
+"id": 1924297015,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/wjwvJwoEGyPGTJ0QQF6UH7Sqt9j.jpg"
+}
+],
+"info": {
+"name": "DE - Criminal Record (2024)",
+"cover": "https://image.tmdb.org/t/p/w154/wjwvJwoEGyPGTJ0QQF6UH7Sqt9j.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul Rutman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908719",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1100179950"
+},
+"episodes": {
+"1": [
+{
+"id": "1273520260",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-10",
+"plot": "Im Herzen Londons zieht ein anonymer Anruf zwei brillante Detectives — eine junge Frau am Anfang ihrer Karriere und einen gut vernetzten Mann, entschlossen, sein Vermächtnis zu schützen — in einen Kampf um die Wiedergutmachung eines alten Justizirrtums hinein.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908719",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29999:1"
+}
+]
+}
+}

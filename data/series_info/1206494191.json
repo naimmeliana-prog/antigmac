@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2013-01-11",
+"episode_count": 4,
+"id": 1700724417,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg"
+}
+],
+"info": {
+"name": "NL - BANSHEE",
+"cover": "https://image.tmdb.org/t/p/w154/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
+"plot": "",
+"cast": "",
+"director": "David Schickler, Jonathan Tropper",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908557",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "86996227",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-01-11",
+"plot": "Banshee gaat over een voormalig veroordeelde meesterdief, Lucas Hood, die zich voordoet als de nieuwe sheriff van Banshee, Pennsylvania, een dorpje met een grote Amish-populatie. Als sheriff moet hij zorgen voor gerechtigheid, maar tegelijkertijd misbruikt hij zijn aangemeten positie om zijn criminele activiteiten verderzetten. In beide rollen krijgt hij af te rekenen met een reeks vijanden, waaronder de gangsters die hij jaren geleden verraadde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwODEyLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20812:4"
+},
+{
+"id": "1611989152",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-01-11",
+"plot": "Banshee gaat over een voormalig veroordeelde meesterdief, Lucas Hood, die zich voordoet als de nieuwe sheriff van Banshee, Pennsylvania, een dorpje met een grote Amish-populatie. Als sheriff moet hij zorgen voor gerechtigheid, maar tegelijkertijd misbruikt hij zijn aangemeten positie om zijn criminele activiteiten verderzetten. In beide rollen krijgt hij af te rekenen met een reeks vijanden, waaronder de gangsters die hij jaren geleden verraadde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwODEyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20812:3"
+},
+{
+"id": "120443438",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-01-11",
+"plot": "Banshee gaat over een voormalig veroordeelde meesterdief, Lucas Hood, die zich voordoet als de nieuwe sheriff van Banshee, Pennsylvania, een dorpje met een grote Amish-populatie. Als sheriff moet hij zorgen voor gerechtigheid, maar tegelijkertijd misbruikt hij zijn aangemeten positie om zijn criminele activiteiten verderzetten. In beide rollen krijgt hij af te rekenen met een reeks vijanden, waaronder de gangsters die hij jaren geleden verraadde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwODEyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20812:2"
+},
+{
+"id": "857284882",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-01-11",
+"plot": "Banshee gaat over een voormalig veroordeelde meesterdief, Lucas Hood, die zich voordoet als de nieuwe sheriff van Banshee, Pennsylvania, een dorpje met een grote Amish-populatie. Als sheriff moet hij zorgen voor gerechtigheid, maar tegelijkertijd misbruikt hij zijn aangemeten positie om zijn criminele activiteiten verderzetten. In beide rollen krijgt hij af te rekenen met een reeks vijanden, waaronder de gangsters die hij jaren geleden verraadde.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwODEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20812:1"
+}
+]
+}
+}

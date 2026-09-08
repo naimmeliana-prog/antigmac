@@ -1,0 +1,341 @@
+{
+"seasons": [
+{
+"air_date": "2010-09-24",
+"episode_count": 14,
+"id": 1547619035,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/ydZ8ZaHMs6WTlnvOc90ZLGEbSBi.jpg"
+}
+],
+"info": {
+"name": "EN - Blue Bloods (2010)",
+"cover": "https://image.tmdb.org/t/p/original/ydZ8ZaHMs6WTlnvOc90ZLGEbSBi.jpg",
+"plot": "",
+"cast": "",
+"director": "Mitchell Burgess, Robin Green",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908620",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "119984234",
+"episode_num": 1,
+"title": "Season 14",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjoxNCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "33668:14"
+},
+{
+"id": "688866291",
+"episode_num": 1,
+"title": "Season 13",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjoxMywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "33668:13"
+},
+{
+"id": "1086693097",
+"episode_num": 1,
+"title": "Season 12",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjoxMiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "33668:12"
+},
+{
+"id": "540501804",
+"episode_num": 1,
+"title": "Season 11",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjoxMSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "33668:11"
+},
+{
+"id": "454511590",
+"episode_num": 1,
+"title": "Season 10",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjoxMCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "33668:10"
+},
+{
+"id": "583911905",
+"episode_num": 1,
+"title": "Season 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjo5LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:9"
+},
+{
+"id": "835360480",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjo4LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:8"
+},
+{
+"id": "1221330973",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:7"
+},
+{
+"id": "668639269",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:6"
+},
+{
+"id": "1666595140",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:5"
+},
+{
+"id": "268215496",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:4"
+},
+{
+"id": "439752916",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:3"
+},
+{
+"id": "1246243311",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:2"
+},
+{
+"id": "805938071",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-09-24",
+"plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzNjY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33668:1"
+}
+]
+}
+}

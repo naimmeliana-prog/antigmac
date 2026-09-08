@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-10-13",
+"episode_count": 1,
+"id": 57554239,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYShWyYllx9DhOS6d92mN2yVsbA.jpg"
+}
+],
+"info": {
+"name": "NL - BABYLON BERLIN",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Tykwer, Achim von Borries, Hendrik Handloegten",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908565",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "76070536",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-10-13",
+"plot": "Babylon Berlin speelt zich af in de Weimar-republiek in 1929; de periode voor de sociale en politieke omwenteling van Duitsland. In dit misdaadverhaal staat de Duitse detective Gereon Rath centraal, die naar Berlijn wordt gestuurd om onderzoek te doen naar een Duitse pornoclub die door de Russische maffia wordt beheerd.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908565",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1530:1"
+}
+]
+}
+}

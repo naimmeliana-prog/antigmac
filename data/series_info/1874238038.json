@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-02",
+"episode_count": 1,
+"id": 1440961662,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30761.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Der Morgen davor und das Leben danach (2023) (US)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30761.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Katims",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908697",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "987387581"
+},
+"episodes": {
+"1": [
+{
+"id": "951354639",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-02",
+"plot": "Ein 12-jähriger Junge überlebt als Einziger eine Flugzeugkatastrophe. Während er und die Angehörigen der Opfer versuchen, die Tragödie zu verarbeiten, entstehen unerwartete Freundschaften, Allianzen und Romanzen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908697",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46084:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-19",
+"episode_count": 1,
+"id": 1254457492,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/m8U9FSfuWyNBCFWI8cFDzBYTEgs.jpg"
+}
+],
+"info": {
+"name": "EN - 1883 (2021)",
+"cover": "https://image.tmdb.org/t/p/original/m8U9FSfuWyNBCFWI8cFDzBYTEgs.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908618",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "817792996",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-19",
+"plot": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908618",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4Njg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28689:1"
+}
+]
+}
+}

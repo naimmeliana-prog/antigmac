@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-12-05",
+"episode_count": 1,
+"id": 878291633,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tHwIj1pxWFt576CZqgrJZrLd9O.jpg"
+}
+],
+"info": {
+"name": "FR - 72 animaux dangereux en Amérique latine",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tHwIj1pxWFt576CZqgrJZrLd9O.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908663",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "1022072069",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-12-05",
+"plot": "Félins redoutables, araignées indestructibles et crotales au venin toxique ouvrent le bal de cette série sur les créatures les plus dangereuses d'Amérique latine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908663",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6933:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-18",
+"episode_count": 1,
+"id": 1162326774,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg"
+}
+],
+"info": {
+"name": "NL - A KNIGHT OF THE SEVEN KINGDOMS",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
+"plot": "",
+"cast": "",
+"director": "George R. R. Martin, Ira Parker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908555",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "699379331",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-18",
+"plot": "Een eeuw vóór de gebeurtenissen van 'Game of Thrones' dwaalden twee onwaarschijnlijke helden door Westeros... een jonge, naïeve maar moedige ridder, Ser Duncan  the Tall,, en zijn kleine schildknaap, Egg. Het speelt zich af in een tijdperk waarin de Targaryen-linie nog steeds de ijzeren troon in handen heeft en de herinnering aan de laatste draak nog niet uit de levende herinnering is verdwenen. Grote lotsbestemmingen, krachtige vijanden en gevaarlijke heldendaden wachten allemaal op deze onwaarschijnlijke en onvergelijkbare vrienden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908555",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47565:1"
+}
+]
+}
+}

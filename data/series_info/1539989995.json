@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2015-01-18",
+"episode_count": 3,
+"id": 29770447,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tq8ao1v28f6DpNfUVMKyiruBwl.jpg"
+}
+],
+"info": {
+"name": "FR - Agent K.C.",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tq8ao1v28f6DpNfUVMKyiruBwl.jpg",
+"plot": "",
+"cast": "",
+"director": "Corinne Marshall",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908683",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "666577687",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-18",
+"plot": "K.C., élève brillante et ceinture noire de karaté, est recrutée par ses parents comme agent secret dans une agence gouvernementale secrète : L'Organisation. Mais K.C. a encore tout à apprendre pour être une espionne efficace, y compris ne rien dire à sa meilleure amie Marisa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908683",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzE3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11317:3"
+},
+{
+"id": "1178637886",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-18",
+"plot": "K.C., élève brillante et ceinture noire de karaté, est recrutée par ses parents comme agent secret dans une agence gouvernementale secrète : L'Organisation. Mais K.C. a encore tout à apprendre pour être une espionne efficace, y compris ne rien dire à sa meilleure amie Marisa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908683",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzE3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11317:2"
+},
+{
+"id": "888036632",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-18",
+"plot": "K.C., élève brillante et ceinture noire de karaté, est recrutée par ses parents comme agent secret dans une agence gouvernementale secrète : L'Organisation. Mais K.C. a encore tout à apprendre pour être une espionne efficace, y compris ne rien dire à sa meilleure amie Marisa.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908683",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11317:1"
+}
+]
+}
+}

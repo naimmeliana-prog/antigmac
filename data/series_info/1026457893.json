@@ -1,0 +1,209 @@
+{
+"seasons": [
+{
+"air_date": "2012-10-10",
+"episode_count": 8,
+"id": 1405626432,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+}
+],
+"info": {
+"name": "FR - Arrow",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+"plot": "",
+"cast": "",
+"director": "Berlanti Productions, DC Entertainment, Warner Bros. Television",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908640",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "1727183998",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:2"
+},
+{
+"id": "186330203",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:5"
+},
+{
+"id": "1030278205",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjgsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:8"
+},
+{
+"id": "41382623",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjYsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:6"
+},
+{
+"id": "348240939",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:3"
+},
+{
+"id": "1139594596",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:1"
+},
+{
+"id": "1327281931",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjcsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:7"
+},
+{
+"id": "267131935",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-10-10",
+"plot": "Adaptée du comic book \"Green Arrow\", la série raconte le destin d'un multimillionnaire insouciant devenu superhéros, déterminé à débarrasser la ville de ses criminels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODksInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1489:4"
+}
+]
+}
+}

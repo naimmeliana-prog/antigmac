@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-04-16",
+"episode_count": 2,
+"id": 986069639,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/s1kObeCtULG3GG0xtwOZrfxddP5.jpg"
+}
+],
+"info": {
+"name": "EN - Big Shot (2021)",
+"cover": "https://www.themoviedb.org/t/p/original/s1kObeCtULG3GG0xtwOZrfxddP5.jpg",
+"plot": "",
+"cast": "",
+"director": "Brad Garrett, David E. Kelley, Dean Lorey",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908627",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "592795540",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-16",
+"plot": "After getting ousted from his job in the NCAA for throwing a chair at a referee, a hothead men’s basketball coach Marvyn Korn must take a job at Westbrook School for Girls, a private all-girls high school, in an effort to redeem what's left of his career and reputation.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908627",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg4NzgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8878:2"
+},
+{
+"id": "42637572",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-16",
+"plot": "After getting ousted from his job in the NCAA for throwing a chair at a referee, a hothead men’s basketball coach Marvyn Korn must take a job at Westbrook School for Girls, a private all-girls high school, in an effort to redeem what's left of his career and reputation.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908627",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjg4NzgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8878:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-07",
+"episode_count": 1,
+"id": 650560397,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/1pBGNgO2g15FKzWfLCVKlKyVU7w.jpg"
+}
+],
+"info": {
+"name": "EN - Black Bird (2022)",
+"cover": "https://image.tmdb.org/t/p/original/1pBGNgO2g15FKzWfLCVKlKyVU7w.jpg",
+"plot": "",
+"cast": "",
+"director": "Dennis Lehane",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908612",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "17731180"
+},
+"episodes": {
+"1": [
+{
+"id": "1411086696",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-07",
+"plot": "As Jimmy Keene begins a 10-year prison sentence, he gets an incredible offer: If he can elicit a confession from suspected killer Larry Hall, Jimmy will be freed. Completing this mission becomes the challenge of a lifetime.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908612",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MDc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35076:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-09",
+"episode_count": 1,
+"id": 1726235253,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/gEIrHezGOp0xtIU7FLTMwt0ecIc.jpg"
+}
+],
+"info": {
+"name": "D+ - Candy",
+"cover": "https://image.tmdb.org/t/p/w154/gEIrHezGOp0xtIU7FLTMwt0ecIc.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Antosca, Robin Veith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908598",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "870618355",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-09",
+"plot": "Candy Montgomery is a 1980s housewife and mother who did everything right — but when the pressure of conformity builds within her, her actions scream for just a bit of freedom. Until someone tells her to shush. With deadly results.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908598",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwNTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20554:1"
+}
+]
+}
+}

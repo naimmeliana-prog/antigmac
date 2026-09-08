@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-05",
+"episode_count": 2,
+"id": 112420348,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/e6eILz4gPoRCpiJrG4Assa9EKjk.jpg"
+}
+],
+"info": {
+"name": "EN - Abominable And The Invisible City (2022)",
+"cover": "https://image.tmdb.org/t/p/original/e6eILz4gPoRCpiJrG4Assa9EKjk.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908624",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "861542004",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-05",
+"plot": "Through Everest, the yeti, Yi, Jin, and Peng know that there’s a whole magical world out there, and now it’s even closer than they think! When they discover that their surroundings are teeming with magical creatures in need of their help, the kids will set out on extraordinary and heartfelt adventures throughout their city and beyond.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwNDk1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20495:2"
+},
+{
+"id": "709545354",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-05",
+"plot": "Through Everest, the yeti, Yi, Jin, and Peng know that there’s a whole magical world out there, and now it’s even closer than they think! When they discover that their surroundings are teeming with magical creatures in need of their help, the kids will set out on extraordinary and heartfelt adventures throughout their city and beyond.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwNDk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20495:1"
+}
+]
+}
+}

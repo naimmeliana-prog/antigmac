@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-15",
+"episode_count": 1,
+"id": 951116450,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
+}
+],
+"info": {
+"name": "DE - Dutton Ranch (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+"plot": "",
+"cast": "",
+"director": "Chad Feehan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908713",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "133561139",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-15",
+"plot": "Die titelgebende Dutton-Ranch, das Zuhause von Beth Dutton (Kelly Reilly) und ihrem Ehemann Rip Wheeler (Cole Hauser), steht für den Frieden, den sie gesucht, für den sie gekämpft haben und für den sie beinahe gestorben wären. Nun wissen sie ihr ruhiges Leben auf ihrem gewaltigen Anwesen voll und ganz zu schätzen. In harten Zeiten und unter schwierigen Konkurrenzbedingungen tun die beiden ihr Möglichstes, um zu überleben – und achten dabei auch darauf, dass Ziehsohn Carter (Finn Little) zu dem Mann wird, der er sein soll",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908713",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NjIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49621:1"
+}
+]
+}
+}

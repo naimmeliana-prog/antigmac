@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-15",
+"episode_count": 1,
+"id": 1406186068,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY6ebATpiVBOeJ48uBPN3QFYm0b.jpg"
+}
+],
+"info": {
+"name": "DE - It Was Always Me (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY6ebATpiVBOeJ48uBPN3QFYm0b.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908711",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "1464735583",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-15",
+"plot": "Als Lupe 22 Jahre alt ist ändert sich plötzlich ihr Leben, nachdem sie erfahren hat, dass ihr Vater, ein berühmter kolumbianischer Singer-Songwriter, gestorben ist. Als sie in Kolumbien ankommt, trifft sie den mysteriösen Noah, der sich als Assistent ihres verstorbenen Vaters entpuppt. Lupe entscheidet sich zu bleiben, da sie vermutet, dass der Tod des Musikers kein Unfall war. Zusammen mit Noah begibt sie sich auf ein musikalisches Abenteuer voll von Gefahren, Geheimnissen und Romantik an der karibischen Küste Kolumbiens.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908711",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35506:1"
+}
+]
+}
+}

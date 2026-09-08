@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-14",
+"episode_count": 2,
+"id": 829482239,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://icon-tmdb.net/stalker_portal/screenshots/349/34837.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Alex Cross (2024) (US)",
+"cover": "http://icon-tmdb.net/stalker_portal/screenshots/349/34837.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben Watkins",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908691",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "726158988",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-14",
+"plot": "Washington D.C. ist der Schauplatz dieser Krimiserie um den genialen Mordermittler Alex Cross, dessen Leben und Karriere infolge eines persönlichen Traumas zu entgleisen drohen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908691",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MTUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48153:1"
+},
+{
+"id": "827502035",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-14",
+"plot": "Washington D.C. ist der Schauplatz dieser Krimiserie um den genialen Mordermittler Alex Cross, dessen Leben und Karriere infolge eines persönlichen Traumas zu entgleisen drohen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908691",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MTUzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48153:2"
+}
+]
+}
+}

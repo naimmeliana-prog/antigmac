@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-09-15",
+"episode_count": 2,
+"id": 1202849197,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZH8L0gMjeHJMT29mTXWn7mEliR.jpg"
+}
+],
+"info": {
+"name": "NF - American Vandal (US) (4K)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZH8L0gMjeHJMT29mTXWn7mEliR.jpg",
+"plot": "",
+"cast": "",
+"director": "Tony Yacenda, Dan Perrault",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908575",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "657638977",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-15",
+"plot": "A true-crime satire that explores the aftermath of a costly high school prank that left twenty-seven faculty cars vandalized with phallic images.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY3NjEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6761:1"
+},
+{
+"id": "1166303614",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-15",
+"plot": "A true-crime satire that explores the aftermath of a costly high school prank that left twenty-seven faculty cars vandalized with phallic images.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY3NjEsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6761:2"
+}
+]
+}
+}

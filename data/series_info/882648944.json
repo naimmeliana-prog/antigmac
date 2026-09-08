@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-23",
+"episode_count": 5,
+"id": 1593025859,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/7rCDh9XlV7LEnvRUF1jG1T8SkRd.jpg"
+}
+],
+"info": {
+"name": "EN - Bob Hearts Abishola (2019)",
+"cover": "https://www.themoviedb.org/t/p/original/7rCDh9XlV7LEnvRUF1jG1T8SkRd.jpg",
+"plot": "",
+"cast": "",
+"director": "Chuck Lorre",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908620",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "1134663542",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2ODQ1LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16845:5"
+},
+{
+"id": "279835058",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2ODQ1LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16845:4"
+},
+{
+"id": "1465614073",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2ODQ1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16845:2"
+},
+{
+"id": "208529880",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2ODQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16845:1"
+},
+{
+"id": "31597632",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908620",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2ODQ1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16845:3"
+}
+]
+}
+}

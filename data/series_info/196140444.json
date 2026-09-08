@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-28",
+"episode_count": 1,
+"id": 27574188,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg"
+}
+],
+"info": {
+"name": "NF - A Business Proposal",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
+"plot": "",
+"cast": "",
+"director": "Park Seon-ho, Han Sul-hee, Hong Bo-hui",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908582",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "109501699",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-28",
+"plot": "An ordinary office worker disguises herself and goes on a blind date with her attractive boss in the place of her friend to end this unwanted marriage blind date after her request.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908582",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NjM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "17637:1"
+}
+]
+}
+}

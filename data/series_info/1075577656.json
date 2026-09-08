@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2007-06-28",
+"episode_count": 7,
+"id": 983463698,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg"
+}
+],
+"info": {
+"name": "FR - Burn Notice",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Nix",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908677",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "271239902",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-06-28",
+"plot": "Lorsqu'un agent secret est viré, il ne reçoit pas une lettre des ressources humaines, mais une \"Burn Notice\". Sans en connaître la raison, l'ex-espion Michael Weston en a été victime et le gouvernement en a fait un indésirable. Aidé de son ex petite amie et de son ancien partenaire, Michael cherche à savoir pourquoi il a été mis sur la touche, pourquoi il a été ainsi éliminé. Pour parvenir à ses fins, il ne peut employer les méthodes habituelles et doit éviter à tout prix d'attirer l'attention de ses anciens collègues espions. Afin de financer son enquête personnelle, il propose ses services à ceux que le police ne peut pas, ou ne veut pas, aider...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDgsInNlYXNvbl9udW0iOjcsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4708:7"
+},
+{
+"id": "1114390034",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-06-28",
+"plot": "Lorsqu'un agent secret est viré, il ne reçoit pas une lettre des ressources humaines, mais une \"Burn Notice\". Sans en connaître la raison, l'ex-espion Michael Weston en a été victime et le gouvernement en a fait un indésirable. Aidé de son ex petite amie et de son ancien partenaire, Michael cherche à savoir pourquoi il a été mis sur la touche, pourquoi il a été ainsi éliminé. Pour parvenir à ses fins, il ne peut employer les méthodes habituelles et doit éviter à tout prix d'attirer l'attention de ses anciens collègues espions. Afin de financer son enquête personnelle, il propose ses services à ceux que le police ne peut pas, ou ne veut pas, aider...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDgsInNlYXNvbl9udW0iOjYsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4708:6"
+},
+{
+"id": "1930903178",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-06-28",
+"plot": "Lorsqu'un agent secret est viré, il ne reçoit pas une lettre des ressources humaines, mais une \"Burn Notice\". Sans en connaître la raison, l'ex-espion Michael Weston en a été victime et le gouvernement en a fait un indésirable. Aidé de son ex petite amie et de son ancien partenaire, Michael cherche à savoir pourquoi il a été mis sur la touche, pourquoi il a été ainsi éliminé. Pour parvenir à ses fins, il ne peut employer les méthodes habituelles et doit éviter à tout prix d'attirer l'attention de ses anciens collègues espions. Afin de financer son enquête personnelle, il propose ses services à ceux que le police ne peut pas, ou ne veut pas, aider...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDgsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4708:5"
+},
+{
+"id": "1215167344",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-06-28",
+"plot": "Lorsqu'un agent secret est viré, il ne reçoit pas une lettre des ressources humaines, mais une \"Burn Notice\". Sans en connaître la raison, l'ex-espion Michael Weston en a été victime et le gouvernement en a fait un indésirable. Aidé de son ex petite amie et de son ancien partenaire, Michael cherche à savoir pourquoi il a été mis sur la touche, pourquoi il a été ainsi éliminé. Pour parvenir à ses fins, il ne peut employer les méthodes habituelles et doit éviter à tout prix d'attirer l'attention de ses anciens collègues espions. Afin de financer son enquête personnelle, il propose ses services à ceux que le police ne peut pas, ou ne veut pas, aider...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDgsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4708:4"
+},
+{
+"id": "167012173",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-06-28",
+"plot": "Lorsqu'un agent secret est viré, il ne reçoit pas une lettre des ressources humaines, mais une \"Burn Notice\". Sans en connaître la raison, l'ex-espion Michael Weston en a été victime et le gouvernement en a fait un indésirable. Aidé de son ex petite amie et de son ancien partenaire, Michael cherche à savoir pourquoi il a été mis sur la touche, pourquoi il a été ainsi éliminé. Pour parvenir à ses fins, il ne peut employer les méthodes habituelles et doit éviter à tout prix d'attirer l'attention de ses anciens collègues espions. Afin de financer son enquête personnelle, il propose ses services à ceux que le police ne peut pas, ou ne veut pas, aider...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDgsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4708:3"
+},
+{
+"id": "275573965",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-06-28",
+"plot": "Lorsqu'un agent secret est viré, il ne reçoit pas une lettre des ressources humaines, mais une \"Burn Notice\". Sans en connaître la raison, l'ex-espion Michael Weston en a été victime et le gouvernement en a fait un indésirable. Aidé de son ex petite amie et de son ancien partenaire, Michael cherche à savoir pourquoi il a été mis sur la touche, pourquoi il a été ainsi éliminé. Pour parvenir à ses fins, il ne peut employer les méthodes habituelles et doit éviter à tout prix d'attirer l'attention de ses anciens collègues espions. Afin de financer son enquête personnelle, il propose ses services à ceux que le police ne peut pas, ou ne veut pas, aider...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4708:2"
+},
+{
+"id": "1703748504",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-06-28",
+"plot": "Lorsqu'un agent secret est viré, il ne reçoit pas une lettre des ressources humaines, mais une \"Burn Notice\". Sans en connaître la raison, l'ex-espion Michael Weston en a été victime et le gouvernement en a fait un indésirable. Aidé de son ex petite amie et de son ancien partenaire, Michael cherche à savoir pourquoi il a été mis sur la touche, pourquoi il a été ainsi éliminé. Pour parvenir à ses fins, il ne peut employer les méthodes habituelles et doit éviter à tout prix d'attirer l'attention de ses anciens collègues espions. Afin de financer son enquête personnelle, il propose ses services à ceux que le police ne peut pas, ou ne veut pas, aider...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908677",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4708:1"
+}
+]
+}
+}

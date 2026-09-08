@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2011-09-29",
+"episode_count": 3,
+"id": 151849235,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxyurGxioK0RoTaQvDDFIsRuEnF.jpg"
+}
+],
+"info": {
+"name": "D+ - Africa's Deadliest",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxyurGxioK0RoTaQvDDFIsRuEnF.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908595",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "1421019871",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-29",
+"plot": "Africa is a land sculpted by time where animals have evolved complex weapons to arm them in the battle to live another day. An elephant's tusks can defend, or attack. An octopus uses camouflage to find food, or hide from an enemy. A Cape Fur Seal's speed and agility are valuable tools to catch a penguin, but ineffectual against a Great White Shark. A single hippopotamus holds a pride of twelve lions at bay with his sheer bulk, but backs down when faced with the piercing teeth of another hippo. With lethal weapons wielded by fearsome predators and prey, animals walk a precarious path, here among Africa's Deadliest.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908595",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzY0LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15364:6"
+},
+{
+"id": "1265198855",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-29",
+"plot": "Africa is a land sculpted by time where animals have evolved complex weapons to arm them in the battle to live another day. An elephant's tusks can defend, or attack. An octopus uses camouflage to find food, or hide from an enemy. A Cape Fur Seal's speed and agility are valuable tools to catch a penguin, but ineffectual against a Great White Shark. A single hippopotamus holds a pride of twelve lions at bay with his sheer bulk, but backs down when faced with the piercing teeth of another hippo. With lethal weapons wielded by fearsome predators and prey, animals walk a precarious path, here among Africa's Deadliest.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908595",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzY0LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15364:5"
+},
+{
+"id": "438373351",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-29",
+"plot": "Africa is a land sculpted by time where animals have evolved complex weapons to arm them in the battle to live another day. An elephant's tusks can defend, or attack. An octopus uses camouflage to find food, or hide from an enemy. A Cape Fur Seal's speed and agility are valuable tools to catch a penguin, but ineffectual against a Great White Shark. A single hippopotamus holds a pride of twelve lions at bay with his sheer bulk, but backs down when faced with the piercing teeth of another hippo. With lethal weapons wielded by fearsome predators and prey, animals walk a precarious path, here among Africa's Deadliest.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908595",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzY0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15364:4"
+}
+]
+}
+}

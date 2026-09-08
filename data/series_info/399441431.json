@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-02-19",
+"episode_count": 2,
+"id": 487179706,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg"
+}
+],
+"info": {
+"name": "FR - Big Little Lies",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg",
+"plot": "",
+"cast": "",
+"director": "David E. Kelley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908676",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "1601407126",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-19",
+"plot": "Trois femmes, trois mères, à la vie apparemment parfaite, sont mêlées à une histoire de meurtre s'étant produit lors d'une soirée parents élèves dans une école.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908676",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNDgzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10483:1"
+},
+{
+"id": "1143265738",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-19",
+"plot": "Trois femmes, trois mères, à la vie apparemment parfaite, sont mêlées à une histoire de meurtre s'étant produit lors d'une soirée parents élèves dans une école.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908676",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNDgzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10483:2"
+}
+]
+}
+}

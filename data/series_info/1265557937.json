@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-21",
+"episode_count": 2,
+"id": 998784839,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r20sAdxSkpLdpB4ubO9CnrVqDEw.jpg"
+}
+],
+"info": {
+"name": "FR - Accidente (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r20sAdxSkpLdpB4ubO9CnrVqDEw.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908647",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "1535424572",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-21",
+"plot": "Une fête d'anniversaire tourne à la tragédie et divise une communauté jusqu'alors très soudée, déchirant les familles, détruisant les amitiés et ravageant les cœurs.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzUzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35753:2"
+},
+{
+"id": "1885365851",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-21",
+"plot": "Une fête d'anniversaire tourne à la tragédie et divise une communauté jusqu'alors très soudée, déchirant les familles, détruisant les amitiés et ravageant les cœurs.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35753:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-02",
+"episode_count": 1,
+"id": 1720528674,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg"
+}
+],
+"info": {
+"name": "FR - A Confession",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg",
+"plot": "",
+"cast": "",
+"director": "Jeff Pope",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908681",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "1693253753",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-02",
+"plot": "Déterminé à retrouver une jeune femme disparue, le policier Steve Fulcher enfreint la procédure pour coincer le coupable. Une décision va lui coûter sa carrière et sa réputation.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908681",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12035:1"
+}
+]
+}
+}

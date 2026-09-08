@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-02-10",
+"episode_count": 1,
+"id": 499959095,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuaELHfbwiDB12rFuInWPUWToDv.jpg"
+}
+],
+"info": {
+"name": "NF - Abstract: The Art Of Design 4K (2017)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuaELHfbwiDB12rFuInWPUWToDv.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908574",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "1601847426",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-10",
+"plot": "Step inside the minds of the most innovative designers in a variety of disciplines and learn how design impacts every aspect of life.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908574",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4ODksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5889:1"
+}
+]
+}
+}

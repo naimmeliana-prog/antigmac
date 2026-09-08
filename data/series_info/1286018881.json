@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-01",
+"episode_count": 1,
+"id": 1498688536,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5kT33XH2gX7xBFIK1uUJAvU5dj.jpg"
+}
+],
+"info": {
+"name": "FR - Bienvenue chez Doug",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5kT33XH2gX7xBFIK1uUJAvU5dj.jpg",
+"plot": "",
+"cast": "",
+"director": "Bob Peterson, Pete Docter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908684",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "270780515"
+},
+"episodes": {
+"1": [
+{
+"id": "1642861217",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-01",
+"plot": "Les aventures du chien parlant, Dug qui découvre les dangers de la ville comme les chiots, les feux d'artifice et les écureuils.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908684",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMDE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12018:1"
+}
+]
+}
+}

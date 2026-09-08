@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-15",
+"episode_count": 1,
+"id": 36684720,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXfuS4tZm51jfUz1RPNSwHYk8cX.jpg"
+}
+],
+"info": {
+"name": "FR - Berlin et La Dame à l'hermine (2026) (ES)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXfuS4tZm51jfUz1RPNSwHYk8cX.jpg",
+"plot": "",
+"cast": "",
+"director": "Álex Pina, Esther Martínez Lobato",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908633",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "18598513",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-15",
+"plot": "Avide d'un nouveau coup, Berlin réunit son équipe à Séville et fait d'un ambitieux duc la victime de son propre plan : voler un chef-d'œuvre de Léonard de Vinci.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908633",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NDUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49452:1"
+}
+]
+}
+}

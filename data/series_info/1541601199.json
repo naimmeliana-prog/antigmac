@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-02-05",
+"episode_count": 1,
+"id": 561439214,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/v3EJ2RZsoxlKJtiPflh4WuKjo9c.jpg"
+}
+],
+"info": {
+"name": "A+ - The Snoopy Show (US)",
+"cover": "https://www.themoviedb.org/t/p/original/v3EJ2RZsoxlKJtiPflh4WuKjo9c.jpg",
+"plot": "",
+"cast": "",
+"director": "Alex Galatis, Mark Evestaff, Rob Boutilier",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908595",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "800337747",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-02-05",
+"plot": "The world’s most iconic dog is ready for his close-up. Dive into new adventures with the happy-dancing, high-flying, big-dreaming beagle, who's joined by best friend Woodstock and rest of the Peanuts gang.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908595",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkzMTYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9316:1"
+}
+]
+}
+}

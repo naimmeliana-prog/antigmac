@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-31",
+"episode_count": 1,
+"id": 1122414279,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/wRKUkNV7w5MtZH1nSXtYl0qk8Ro.jpg"
+}
+],
+"info": {
+"name": "EN - Choir (2024)",
+"cover": "https://image.tmdb.org/t/p/original/wRKUkNV7w5MtZH1nSXtYl0qk8Ro.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908628",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "1110776881",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-31",
+"plot": "Cheer on the kids from the Detroit Youth Choir as they prepare for the performance of a lifetime!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMzcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30370:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-07",
+"episode_count": 1,
+"id": 531498317,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg"
+}
+],
+"info": {
+"name": "NL - DEKSTER: NEW BLOOD (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+"plot": "",
+"cast": "",
+"director": "Clyde Phillips",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908571",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "161879008",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-07",
+"plot": "Tien jaar nadat Dexter vermist werd in het oog van orkaan Laura, blijkt hij in het fictieve stadje Iron Lake, New York te wonen. Hij verbergt zijn identiteit door door het leven te gaan onder de naam Jim Lindsay, een plaatselijke winkelier. Hij heeft een relatie opgebouwd met Angela Bishop, de politiechef van de stad, en heeft zijn aandrang tot seriemoord onderdrukt. Een reeks incidenten rond Iron Lake zorgt er echter voor dat Dexter vreest dat de duistere kant in hem zich opnieuw zal openbaren.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908571",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTg5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35589:1"
+}
+]
+}
+}

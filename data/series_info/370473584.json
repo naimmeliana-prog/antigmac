@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-30",
+"episode_count": 1,
+"id": 1773216281,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/26SiShdhcZto61SQxVuxHqysF1f.jpg"
+}
+],
+"info": {
+"name": "FR - Amsterdam Empire (2025) (BE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/26SiShdhcZto61SQxVuxHqysF1f.jpg",
+"plot": "",
+"cast": "",
+"director": "Nico Moolenaar, Piet Matthys, Bart Uytdenhouwen",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908653",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1487237529"
+},
+"episodes": {
+"1": [
+{
+"id": "680347764",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-30",
+"plot": "Lorsque la liaison de Jack éclate au grand jour, sa femme Betty échafaude un plan cruel pour le priver de sa raison de vivre : le Jackal, son empire de coffee shops.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908653",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MzE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46319:1"
+}
+]
+}
+}

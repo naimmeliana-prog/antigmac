@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-09",
+"episode_count": 2,
+"id": 374069536,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/ahFca8RIGGY0kWieDwHzybi0sT1.jpg"
+}
+],
+"info": {
+"name": "NL - AND JUST LIKE THAT (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/ahFca8RIGGY0kWieDwHzybi0sT1.jpg",
+"plot": "",
+"cast": "",
+"director": "Darren Star",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908555",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "769959054",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Tien jaar na de laatste film en zeventien jaar na de stop van de populaire serie Sex and the City zijn onze favoriete New York ladies terug! In ‘And Just Like That...’ pikken we de draad weer op en ontdekken we hoe het met het drietal gesteld is op vlak van relaties, werk en natuurlijk... fashion! Hoe leven zij hun best life als vijftigers in the city that never sleeps?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908555",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MjU5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25259:2"
+},
+{
+"id": "114706744",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Tien jaar na de laatste film en zeventien jaar na de stop van de populaire serie Sex and the City zijn onze favoriete New York ladies terug! In ‘And Just Like That...’ pikken we de draad weer op en ontdekken we hoe het met het drietal gesteld is op vlak van relaties, werk en natuurlijk... fashion! Hoe leven zij hun best life als vijftigers in the city that never sleeps?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908555",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MjU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25259:1"
+}
+]
+}
+}

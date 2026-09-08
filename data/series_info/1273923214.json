@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-21",
+"episode_count": 1,
+"id": 1930749462,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/bCm3WuosTe5d7OqLzH77QJxvCOx.jpg"
+}
+],
+"info": {
+"name": "A+ - Best Foot Forward (2022)",
+"cover": "https://image.tmdb.org/t/p/original/bCm3WuosTe5d7OqLzH77QJxvCOx.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Fleckenstein",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908589",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "1124349207",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-21",
+"plot": "Josh Dubin is thrilled to switch from homeschool to public school, and being the only kid with a prosthetic leg is a challenge he’s ready to face. As he carves out a place among his peers, his friends and family are with him every step of the way.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908589",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NjA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28604:1"
+}
+]
+}
+}

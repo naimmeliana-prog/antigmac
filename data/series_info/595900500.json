@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2011-09-19",
+"episode_count": 6,
+"id": 517468621,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg"
+}
+],
+"info": {
+"name": "FR - 2 Broke Girls",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Patrick King, Whitney Cummings",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908666",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "1255423505",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-19",
+"plot": "Max est une serveuse un peu désabusée qui n'a jamais eu beaucoup d'argent mais assez de malice pour s'en sortir dans la vie. Caroline est une fille à papa d'apparence superficielle, qui se retrouve du jour au lendemain sans un sou mais qui reste optimiste. Ce drôle de duo va alors devoir travailler ensemble et partager un appartement pour le meilleur et pour le pire, en attendant de réaliser leurs rêves...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzEsInNlYXNvbl9udW0iOjYsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4771:6"
+},
+{
+"id": "618758166",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-19",
+"plot": "Max est une serveuse un peu désabusée qui n'a jamais eu beaucoup d'argent mais assez de malice pour s'en sortir dans la vie. Caroline est une fille à papa d'apparence superficielle, qui se retrouve du jour au lendemain sans un sou mais qui reste optimiste. Ce drôle de duo va alors devoir travailler ensemble et partager un appartement pour le meilleur et pour le pire, en attendant de réaliser leurs rêves...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4771:1"
+},
+{
+"id": "1668980708",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-19",
+"plot": "Max est une serveuse un peu désabusée qui n'a jamais eu beaucoup d'argent mais assez de malice pour s'en sortir dans la vie. Caroline est une fille à papa d'apparence superficielle, qui se retrouve du jour au lendemain sans un sou mais qui reste optimiste. Ce drôle de duo va alors devoir travailler ensemble et partager un appartement pour le meilleur et pour le pire, en attendant de réaliser leurs rêves...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzEsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4771:5"
+},
+{
+"id": "483071923",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-19",
+"plot": "Max est une serveuse un peu désabusée qui n'a jamais eu beaucoup d'argent mais assez de malice pour s'en sortir dans la vie. Caroline est une fille à papa d'apparence superficielle, qui se retrouve du jour au lendemain sans un sou mais qui reste optimiste. Ce drôle de duo va alors devoir travailler ensemble et partager un appartement pour le meilleur et pour le pire, en attendant de réaliser leurs rêves...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzEsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4771:4"
+},
+{
+"id": "1485795515",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-19",
+"plot": "Max est une serveuse un peu désabusée qui n'a jamais eu beaucoup d'argent mais assez de malice pour s'en sortir dans la vie. Caroline est une fille à papa d'apparence superficielle, qui se retrouve du jour au lendemain sans un sou mais qui reste optimiste. Ce drôle de duo va alors devoir travailler ensemble et partager un appartement pour le meilleur et pour le pire, en attendant de réaliser leurs rêves...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4771:3"
+},
+{
+"id": "5609416",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-09-19",
+"plot": "Max est une serveuse un peu désabusée qui n'a jamais eu beaucoup d'argent mais assez de malice pour s'en sortir dans la vie. Caroline est une fille à papa d'apparence superficielle, qui se retrouve du jour au lendemain sans un sou mais qui reste optimiste. Ce drôle de duo va alors devoir travailler ensemble et partager un appartement pour le meilleur et pour le pire, en attendant de réaliser leurs rêves...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzEsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4771:2"
+}
+]
+}
+}

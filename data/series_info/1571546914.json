@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-13",
+"episode_count": 1,
+"id": 512412875,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVkFNpY3U1yFL8sjErs6cJ6gHJ7.jpg"
+}
+],
+"info": {
+"name": "NL - BETTER",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVkFNpY3U1yFL8sjErs6cJ6gHJ7.jpg",
+"plot": "",
+"cast": "",
+"director": "Jonathan Brackley, Sam Vincent",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908558",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "397573421",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-13",
+"plot": "Nadat een familietragedie ternauwernood is afgewend, ondergaat een corrupte politiedetective een pijnlijk moreel ontwaken en besluit 20 jaar wangedrag recht te zetten. Het zal echter niet eenvoudig zijn haar hervonden geweten te bevredigen. Ze realiseert zich langzaamaan dat haar verlossing pas compleet zal zijn als ze de machtige gangster voor wie ze al die tijd heeft gewerkt ten val brengt. Dit is een man die ze hielp aan de macht te komen en van wie ze is gaan houden als een broer.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908558",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41627:1"
+}
+]
+}
+}

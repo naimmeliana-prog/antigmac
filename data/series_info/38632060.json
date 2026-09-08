@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2014-03-09",
+"episode_count": 1,
+"id": 1267458165,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg"
+}
+],
+"info": {
+"name": "D+ - Cosmos (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+"plot": "",
+"cast": "",
+"director": "Ann Druyan, Steven Soter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908599",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "311179432",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-03-09",
+"plot": "Famed astrophysicist Neil deGrasse Tyson provides clarity for the vision of the cosmos as he voyages across the universe with never-before-told stories that delve into the scientific concepts of the laws of gravity and the origins of space and time.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908599",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjYxNzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6171:1"
+}
+]
+}
+}

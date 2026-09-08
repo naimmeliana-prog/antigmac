@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-05",
+"episode_count": 1,
+"id": 1730246648,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/iMrFH5GNdjJtvSuUpCzunhdZcdT.jpg"
+}
+],
+"info": {
+"name": "EN -  (MULTI) Chespirito: Not Really On Purpose (2025) (MX)",
+"cover": "https://image.tmdb.org/t/p/original/iMrFH5GNdjJtvSuUpCzunhdZcdT.jpg",
+"plot": "",
+"cast": "",
+"director": "Roberto Gómez Fernández",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908614",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "952240100",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-05",
+"plot": "Miniseries that follow the life and career of Mexican actor, comedian and producer Roberto Gómez Bolaños, known for being the creator of El Chavo del 8, El Chapulín Colorado and Chespirito.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908614",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NjU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44658:1"
+}
+]
+}
+}

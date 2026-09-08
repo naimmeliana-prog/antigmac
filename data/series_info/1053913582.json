@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2016-02-15",
+"episode_count": 1,
+"id": 177421411,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/6WeO5QJbxlJHmf824AGTFsAZoBH.jpg"
+}
+],
+"info": {
+"name": "EN - 11.22.63 (2016)",
+"cover": "https://www.themoviedb.org/t/p/original/6WeO5QJbxlJHmf824AGTFsAZoBH.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908621",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "888121365",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-02-15",
+"plot": "An English teacher travels back in time to prevent the Kennedy assassination, but discovers he is attached to the life he has made in a bygone era.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MDg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15086:1"
+}
+]
+}
+}

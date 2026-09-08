@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-23",
+"episode_count": 3,
+"id": 794049705,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg"
+}
+],
+"info": {
+"name": "NL - FOUNDATION (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+"plot": "",
+"cast": "",
+"director": "David S. Goyer, Josh Friedman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908572",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "897223721",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-23",
+"plot": "Gebaseerd op de geprezen romans van Isaac Asimov. In Foundation strijdt een groep bannelingen om de mensheid te redden en een nieuwe beschaving op te bouwen tijdens de val van het Galactische Keizerrijk.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTEzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46513:3"
+},
+{
+"id": "95302875",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-23",
+"plot": "Gebaseerd op de geprezen romans van Isaac Asimov. In Foundation strijdt een groep bannelingen om de mensheid te redden en een nieuwe beschaving op te bouwen tijdens de val van het Galactische Keizerrijk.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTEzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46513:2"
+},
+{
+"id": "318275713",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-23",
+"plot": "Gebaseerd op de geprezen romans van Isaac Asimov. In Foundation strijdt een groep bannelingen om de mensheid te redden en een nieuwe beschaving op te bouwen tijdens de val van het Galactische Keizerrijk.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46513:1"
+}
+]
+}
+}

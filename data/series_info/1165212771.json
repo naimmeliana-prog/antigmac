@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-28",
+"episode_count": 2,
+"id": 705171192,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/200/19973.jpg"
+}
+],
+"info": {
+"name": "EN - Adults (2025) (US)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/200/19973.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben Kronengold, Rebecca Shaw",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908624",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "764834837",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-28",
+"plot": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNzEyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43712:2"
+},
+{
+"id": "967716400",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-28",
+"plot": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNzEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43712:1"
+}
+]
+}
+}

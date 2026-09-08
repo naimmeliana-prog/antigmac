@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-22",
+"episode_count": 1,
+"id": 878888255,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWRCBZ9YnKMnfRV8ZGED2H0ECBM.jpg"
+}
+],
+"info": {
+"name": "FR - Davey & Jonesie's Locker",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWRCBZ9YnKMnfRV8ZGED2H0ECBM.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908679",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "1898736808",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-22",
+"plot": "Les meilleurs amis Davey et Jonesie échappent à leur vie fade au lycée grâce à leur casier, qui est en fait un portail vers d'autres univers.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908679",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMzAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31302:1"
+}
+]
+}
+}

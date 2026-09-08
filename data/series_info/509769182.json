@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "1998-08-31",
+"episode_count": 2,
+"id": 988830104,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcFM3LHehsX2xw3AZNym8tU3umz.jpg"
+}
+],
+"info": {
+"name": "FR - Hercule",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcFM3LHehsX2xw3AZNym8tU3umz.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908687",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "270780515"
+},
+"episodes": {
+"1": [
+{
+"id": "634458006",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1998-08-31",
+"plot": "Dans la Grèce antique, Hadès, le seigneur des Enfers rêve de prendre sa revanche - et par la même le pouvoir - sur son rival de toujours, Zeus. Aussi, ne voit-il pas d'un très bon œil l'arrivée d'Hercule, fils de Zeus et d'Héra, et désormais unique héritier désigné du Dieu des Dieux. Dés lors, une seule idée occupe les pensées du Dieu des morts : se débarrasser coûte que coûte du bébé gênant ! Hadès ordonne aussitôt à deux de ses sous-fifres, Peine et Panique, de le faire passer de vie à trépas. Mais c'est sans compter sur les biens piètres compétences des deux sbires qui, tout juste parvenus à kidnapper le bébé, échouent lamentablement dans leur tentative criminelle finale. Hercule, abandonné sur terre, est alors recueilli par un couple de mortels...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908687",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTkzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15193:2"
+},
+{
+"id": "452121736",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1998-08-31",
+"plot": "Dans la Grèce antique, Hadès, le seigneur des Enfers rêve de prendre sa revanche - et par la même le pouvoir - sur son rival de toujours, Zeus. Aussi, ne voit-il pas d'un très bon œil l'arrivée d'Hercule, fils de Zeus et d'Héra, et désormais unique héritier désigné du Dieu des Dieux. Dés lors, une seule idée occupe les pensées du Dieu des morts : se débarrasser coûte que coûte du bébé gênant ! Hadès ordonne aussitôt à deux de ses sous-fifres, Peine et Panique, de le faire passer de vie à trépas. Mais c'est sans compter sur les biens piètres compétences des deux sbires qui, tout juste parvenus à kidnapper le bébé, échouent lamentablement dans leur tentative criminelle finale. Hercule, abandonné sur terre, est alors recueilli par un couple de mortels...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908687",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15193:1"
+}
+]
+}
+}

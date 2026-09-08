@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-21",
+"episode_count": 1,
+"id": 1424819720,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/eooXW4G3y7cJmyfKBd8wXwbprbz.jpg"
+}
+],
+"info": {
+"name": "EN - Big Beasts (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/eooXW4G3y7cJmyfKBd8wXwbprbz.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908611",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "17731180"
+},
+"episodes": {
+"1": [
+{
+"id": "831350935",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-21",
+"plot": "Travel from freezing poles to tropical rainforests to meet nature’s most captivating giants, who prove being big comes with enormous challenges.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908611",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MTg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25184:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-21",
+"episode_count": 1,
+"id": 185770207,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/ijXVjPPp3eG8qs0xagsMYAv3zHd.jpg"
+}
+],
+"info": {
+"name": "EN - Angry Birds Mystery Island (2024)",
+"cover": "https://image.tmdb.org/t/p/original/ijXVjPPp3eG8qs0xagsMYAv3zHd.jpg",
+"plot": "",
+"cast": "",
+"director": "Eric Rogers",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908609",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "1095075089",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-21",
+"plot": "Each day, the gang hatches a plan to get off the island, but is thwarted by unexpected twists and turns. They face extreme weather, challenging adventures and new creatures along the way, solving one mystery only to reveal another. The island tests Mia, Buddy, Rosie and Hamylton constantly. Only by passing these tests and going deep into the heart of darkness can our heroes find a way back home.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908609",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMzQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40343:1"
+}
+]
+}
+}

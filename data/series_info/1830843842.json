@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-10",
+"episode_count": 2,
+"id": 1703040691,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg"
+}
+],
+"info": {
+"name": "EX - A Good Girl's Guide to Murder (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
+"plot": "",
+"cast": "",
+"director": "Poppy Cogan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908773",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1569160013"
+},
+"episodes": {
+"1": [
+{
+"id": "1192352653",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-10",
+"plot": "Five years after the death of schoolgirl Andie Bell, Pippa Fitz-Amobi sets out to uncover what really happened to her. Sal Singh, Andie's boyfriend, admitted to the murder before taking his own life, but Pip doesn't believe he's responsible and teams up with Sal's brother Ravi to uncover the truth. If Sal Singh isn't a murderer and the real killer is still out there, how far will they go to keep Pip from finding out the truth?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908773",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTYxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40561:2"
+},
+{
+"id": "720029794",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-10",
+"plot": "Five years after the death of schoolgirl Andie Bell, Pippa Fitz-Amobi sets out to uncover what really happened to her. Sal Singh, Andie's boyfriend, admitted to the murder before taking his own life, but Pip doesn't believe he's responsible and teams up with Sal's brother Ravi to uncover the truth. If Sal Singh isn't a murderer and the real killer is still out there, how far will they go to keep Pip from finding out the truth?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908773",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40561:1"
+}
+]
+}
+}

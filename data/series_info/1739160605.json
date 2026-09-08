@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-03-01",
+"episode_count": 1,
+"id": 1392340300,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oqPaAiwflr1o4PlNvkAGRC9DCX.jpg"
+}
+],
+"info": {
+"name": "FR - Battle Creek",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oqPaAiwflr1o4PlNvkAGRC9DCX.jpg",
+"plot": "",
+"cast": "",
+"director": "Vince Gilligan, David Shore",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908671",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "403756026",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-03-01",
+"plot": "Dans le commissariat sous-équipé de Battle Creek dans le Michigan, le détective Russ Agnew n'a pas bonne réputation. On dit qu'il est méchant, insensible. Personne ne veut faire équipe avec lui. Personne jusqu'à ce que Milton Chamberlain, un agent du FBI qui vient tout juste de débarquer pour prêter main forte à l'équipe de bras cassés, le choisisse, lui, comme partenaire. Leurs visions très différentes de la vie ne vont pas faciliter leur entente, mais leur complémentarité ne peut qu'être un atout pour nettoyer efficacement les rues de la petite ville...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908671",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMzMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12330:1"
+}
+]
+}
+}

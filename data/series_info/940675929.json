@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-10",
+"episode_count": 1,
+"id": 231008536,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/1B9JsX4684BpDTGz60BewNyWlFF.jpg"
+}
+],
+"info": {
+"name": "A+ - Circuit Breakers (2022)",
+"cover": "https://image.tmdb.org/t/p/original/1B9JsX4684BpDTGz60BewNyWlFF.jpg",
+"plot": "",
+"cast": "",
+"director": "Melody Fox",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908591",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "927164059",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-10",
+"plot": "In this sci-fi anthology series, curiosity leads to chaos when students in the near future experience mysterious events.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908591",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28178:1"
+}
+]
+}
+}

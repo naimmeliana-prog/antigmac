@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-01-01",
+"episode_count": 2,
+"id": 1982137067,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbioiPregE2EZZK93H7KcRA8JXi.jpg"
+}
+],
+"info": {
+"name": "FR - Beyond",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbioiPregE2EZZK93H7KcRA8JXi.jpg",
+"plot": "",
+"cast": "",
+"director": "Adam Nussdorf",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908676",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "797285437",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-01-01",
+"plot": "Après douze ans de coma, un jeune homme se découvre des pouvoirs surnaturels. Il ne tarde pas à se retrouver au cœur d'un complot qui le dépasse...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908676",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgzNDcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8347:2"
+},
+{
+"id": "1503169367",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-01-01",
+"plot": "Après douze ans de coma, un jeune homme se découvre des pouvoirs surnaturels. Il ne tarde pas à se retrouver au cœur d'un complot qui le dépasse...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908676",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgzNDcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8347:1"
+}
+]
+}
+}

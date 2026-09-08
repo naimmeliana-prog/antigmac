@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-18",
+"episode_count": 1,
+"id": 240401171,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/55HZcAGmEU7gWrNxpQ2FGvaEeDf.jpg"
+}
+],
+"info": {
+"name": "EN - 56 Days (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/original/55HZcAGmEU7gWrNxpQ2FGvaEeDf.jpg",
+"plot": "",
+"cast": "",
+"director": "Lisa Zwerling, Karyn Usher",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908607",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "325144159",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-18",
+"plot": "When an unidentified body is found in a luxury apartment linked to Oliver Kennedy and his girlfriend Ciara Wyse, Detectives Lee Reardon and Karl Connolly reconstruct the couple's deadly romance across the past 56 days. Starring Dove Cameron, Avan Jogia, Karla Souza and Dorian Missick.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908607",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MjQ4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48248:1"
+}
+]
+}
+}

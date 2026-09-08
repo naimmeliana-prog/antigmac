@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-06-28",
+"episode_count": 1,
+"id": 1575094738,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOaufsMpt6oo4M04BaNuGVAY8CN.jpg"
+}
+],
+"info": {
+"name": "FR - American Gladiators : quand la télé faisait son cirque (VOSTFR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOaufsMpt6oo4M04BaNuGVAY8CN.jpg",
+"plot": "",
+"cast": "",
+"director": "Jared Hess, Tony Vainuku",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908665",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "1233040638",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-28",
+"plot": "Dans les années 90, American Gladiators a conquis les fans de cascades. Cette série documentaire revient sur le succès et les débuts difficiles du jeu télévisé.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2NDQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "26444:1"
+}
+]
+}
+}

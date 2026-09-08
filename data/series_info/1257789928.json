@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2020-05-19",
+"episode_count": 5,
+"id": 1383201820,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg"
+}
+],
+"info": {
+"name": "FR - A L'ombre Des Magnolias",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
+"plot": "",
+"cast": "",
+"director": "Sheryl J. Anderson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908647",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "1259704182",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Amies depuis toujours, Maddie, Helen et Dana Sue s'épaulent alors qu'elles essaient de concilier couple, famille et carrière dans une petite ville du Sud des États-Unis.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Nzk5LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15799:5"
+},
+{
+"id": "1661085425",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Amies depuis toujours, Maddie, Helen et Dana Sue s'épaulent alors qu'elles essaient de concilier couple, famille et carrière dans une petite ville du Sud des États-Unis.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Nzk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15799:1"
+},
+{
+"id": "1601666619",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Amies depuis toujours, Maddie, Helen et Dana Sue s'épaulent alors qu'elles essaient de concilier couple, famille et carrière dans une petite ville du Sud des États-Unis.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Nzk5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15799:4"
+},
+{
+"id": "574691451",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Amies depuis toujours, Maddie, Helen et Dana Sue s'épaulent alors qu'elles essaient de concilier couple, famille et carrière dans une petite ville du Sud des États-Unis.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Nzk5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15799:3"
+},
+{
+"id": "1330227739",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-19",
+"plot": "Amies depuis toujours, Maddie, Helen et Dana Sue s'épaulent alors qu'elles essaient de concilier couple, famille et carrière dans une petite ville du Sud des États-Unis.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Nzk5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15799:2"
+}
+]
+}
+}

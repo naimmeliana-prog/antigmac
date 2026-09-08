@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-11",
+"episode_count": 1,
+"id": 356330523,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/195/19484.jpg"
+}
+],
+"info": {
+"name": "EN - The Evil Lawyer (2026) (TH)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/195/19484.jpg",
+"plot": "",
+"cast": "",
+"director": "Nottapon Boonprakob",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908581",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "768799718",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-11",
+"plot": "Framed for a brutal crime he didn't commit, a young attorney puts his life in the hands of a callous defense lawyer to clear his name and find the truth.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908581",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMDMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50030:1"
+}
+]
+}
+}

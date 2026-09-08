@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-31",
+"episode_count": 1,
+"id": 80108982,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/3f6MAm9BnC4QTtYZgcgdaULn84x.jpg"
+}
+],
+"info": {
+"name": "EN - Chief Of War (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/original/3f6MAm9BnC4QTtYZgcgdaULn84x.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Momoa, Thomas Pa'a Sibbett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908613",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "17731180"
+},
+"episodes": {
+"1": [
+{
+"id": "286921774",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-31",
+"plot": "With Hawaii's four kingdoms divided by war, the ferocious warrior Kaʻiana embarks on an epic mission to unite his people—as an existential threat approaches their shores.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908613",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NTcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44572:1"
+}
+]
+}
+}

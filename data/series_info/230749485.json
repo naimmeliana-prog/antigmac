@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-09-04",
+"episode_count": 1,
+"id": 1323136311,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg"
+}
+],
+"info": {
+"name": "NF - Away (4K)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+"plot": "",
+"cast": "",
+"director": "Andrew Hinderaker",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908576",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "700121211",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-04",
+"plot": "American astronaut Emma Green must leave her husband and teenage daughter behind to command an international space crew embarking upon a treacherous mission. A series about hope, humanity and how we need one another if we are to achieve impossible things.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908576",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMDYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4306:1"
+}
+]
+}
+}

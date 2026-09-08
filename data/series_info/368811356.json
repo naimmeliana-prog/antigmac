@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-06-28",
+"episode_count": 2,
+"id": 680252844,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeGRd3ENc9vetozwDDMhl9S7l3G.jpg"
+}
+],
+"info": {
+"name": "FR - 7SEEDS",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeGRd3ENc9vetozwDDMhl9S7l3G.jpg",
+"plot": "",
+"cast": "",
+"director": "GONZO",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908659",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "135784778",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-28",
+"plot": "À son réveil, la timide Natsu découvre qu'elle fait partie d'un groupe choisi pour assurer la survie de l'humanité sur une Terre qui a radicalement changé.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908659",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MzQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2534:2"
+},
+{
+"id": "373114115",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-28",
+"plot": "À son réveil, la timide Natsu découvre qu'elle fait partie d'un groupe choisi pour assurer la survie de l'humanité sur une Terre qui a radicalement changé.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908659",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2534:1"
+}
+]
+}
+}

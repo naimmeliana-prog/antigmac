@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-16",
+"episode_count": 1,
+"id": 1524818435,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg"
+}
+],
+"info": {
+"name": "DE - Lanterns (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+"plot": "",
+"cast": "",
+"director": "Damon Lindelof, Tom King, Chris Mundy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908723",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "741500315"
+},
+"episodes": {
+"1": [
+{
+"id": "1378062867",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-16",
+"plot": "Zwei intergalaktische Polizisten, der Neuling John Stewart und die Green-Lantern-Legende Hal Jordan, werden in ein düsteres Geheimnis auf der Erde verwickelt, als sie einen Mordfall im Herzen Amerikas untersuchen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908723",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51653:1"
+}
+]
+}
+}

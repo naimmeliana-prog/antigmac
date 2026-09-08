@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-05",
+"episode_count": 3,
+"id": 1993944328,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/ihEzOG6XuDYquFq7o7J76TwQ5qn.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Bosch: Legacy (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/original/ihEzOG6XuDYquFq7o7J76TwQ5qn.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Bernardo, Eric Overmyer, Michael Connelly",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908693",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "991823646",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-05",
+"plot": "„Bosch: Legacy“ folgt dem früheren LAPD-Ermittler Harry Bosch (Titus Welliver) bei seinem nächsten Lebensabschnitt als Privatdetektiv. Dabei arbeitet er mit seiner früheren Feindin, der Top-Anwältin Honey „Money“ Chandler (Mimi Rogers), zusammen. Sein erster Auftrag führt Bosch zu dem angeschlagenen Milliardär Whitney Vance, für den er dessen einzigen möglichen Erben aufspüren soll. Als sich Bosch den Familienstammbaum genauer ansieht, entdeckt er ein schockierendes Geheimnis, das sich durch mehrere Generationen zieht. Da Bosch nach wie vor eher altmodische Ermittler-Taktiken einsetzt, kommt ihm das junge Technik-Genie Maurice „Mo“ Bassi (Stephen A. Chang) bei seinem neuen Berufsalltag gerade recht. Beide teilen die Vorliebe für Jazz und Gerechtigkeit.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1Njc2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45676:3"
+},
+{
+"id": "883387517",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-05",
+"plot": "„Bosch: Legacy“ folgt dem früheren LAPD-Ermittler Harry Bosch (Titus Welliver) bei seinem nächsten Lebensabschnitt als Privatdetektiv. Dabei arbeitet er mit seiner früheren Feindin, der Top-Anwältin Honey „Money“ Chandler (Mimi Rogers), zusammen. Sein erster Auftrag führt Bosch zu dem angeschlagenen Milliardär Whitney Vance, für den er dessen einzigen möglichen Erben aufspüren soll. Als sich Bosch den Familienstammbaum genauer ansieht, entdeckt er ein schockierendes Geheimnis, das sich durch mehrere Generationen zieht. Da Bosch nach wie vor eher altmodische Ermittler-Taktiken einsetzt, kommt ihm das junge Technik-Genie Maurice „Mo“ Bassi (Stephen A. Chang) bei seinem neuen Berufsalltag gerade recht. Beide teilen die Vorliebe für Jazz und Gerechtigkeit.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1Njc2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45676:2"
+},
+{
+"id": "1808739966",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-05",
+"plot": "„Bosch: Legacy“ folgt dem früheren LAPD-Ermittler Harry Bosch (Titus Welliver) bei seinem nächsten Lebensabschnitt als Privatdetektiv. Dabei arbeitet er mit seiner früheren Feindin, der Top-Anwältin Honey „Money“ Chandler (Mimi Rogers), zusammen. Sein erster Auftrag führt Bosch zu dem angeschlagenen Milliardär Whitney Vance, für den er dessen einzigen möglichen Erben aufspüren soll. Als sich Bosch den Familienstammbaum genauer ansieht, entdeckt er ein schockierendes Geheimnis, das sich durch mehrere Generationen zieht. Da Bosch nach wie vor eher altmodische Ermittler-Taktiken einsetzt, kommt ihm das junge Technik-Genie Maurice „Mo“ Bassi (Stephen A. Chang) bei seinem neuen Berufsalltag gerade recht. Beide teilen die Vorliebe für Jazz und Gerechtigkeit.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1Njc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45676:1"
+}
+]
+}
+}

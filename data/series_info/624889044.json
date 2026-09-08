@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2013-06-28",
+"episode_count": 4,
+"id": 1938903904,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://m.media-amazon.com/images/M/MV5BNTlmMTZlMzgtNzBiZi00YzJkLWFmODItNDc4MGExZGI0OTZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+}
+],
+"info": {
+"name": "D+ - Mickey Mouse (2013)",
+"cover": "https://m.media-amazon.com/images/M/MV5BNTlmMTZlMzgtNzBiZi00YzJkLWFmODItNDc4MGExZGI0OTZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul Rudish",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908628",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "1339247537",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-06-28",
+"plot": "In this series of cartoon shorts, Mickey Mouse finds himself in silly situations all around the world! From New York to Paris to Tokyo, Mickey experiences new adventures with his friends!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3NzIsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5772:4"
+},
+{
+"id": "376315023",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-06-28",
+"plot": "In this series of cartoon shorts, Mickey Mouse finds himself in silly situations all around the world! From New York to Paris to Tokyo, Mickey experiences new adventures with his friends!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3NzIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5772:2"
+},
+{
+"id": "1142064495",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-06-28",
+"plot": "In this series of cartoon shorts, Mickey Mouse finds himself in silly situations all around the world! From New York to Paris to Tokyo, Mickey experiences new adventures with his friends!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3NzIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5772:1"
+},
+{
+"id": "751340829",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-06-28",
+"plot": "In this series of cartoon shorts, Mickey Mouse finds himself in silly situations all around the world! From New York to Paris to Tokyo, Mickey experiences new adventures with his friends!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3NzIsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5772:3"
+}
+]
+}
+}

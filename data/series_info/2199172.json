@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-13",
+"episode_count": 1,
+"id": 1302997851,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDHWWReefmOOjBCJZUck8cNwssk.jpg"
+}
+],
+"info": {
+"name": "FR - Adolescence (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDHWWReefmOOjBCJZUck8cNwssk.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Graham, Jack Thorne",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908652",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1487237529"
+},
+"episodes": {
+"1": [
+{
+"id": "1043510133",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-13",
+"plot": "Lorsqu'un ado de 13 ans est accusé de meurtre, sa famille, une psychologue clinicienne et l'inspecteur chargé de l'affaire se demandent ce qui s'est vraiment passé.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908652",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "42272:1"
+}
+]
+}
+}

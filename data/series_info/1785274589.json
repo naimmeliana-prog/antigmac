@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2015-06-21",
+"episode_count": 5,
+"id": 1100753903,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/tVnQZDByPAmfpbZpE2kO7eNcl70.jpg"
+}
+],
+"info": {
+"name": "EN - Ballers",
+"cover": "https://www.themoviedb.org/t/p/original/tVnQZDByPAmfpbZpE2kO7eNcl70.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Levinson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908616",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "180144745",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "Looking at the lives of former and current football players, the show follows former superstar Spencer Strasmore as he gets his life on track in retirement while mentoring other current and former players through the daily grind of the business of football.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTgsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3598:3"
+},
+{
+"id": "1390366054",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "Looking at the lives of former and current football players, the show follows former superstar Spencer Strasmore as he gets his life on track in retirement while mentoring other current and former players through the daily grind of the business of football.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTgsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3598:4"
+},
+{
+"id": "1680586218",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "Looking at the lives of former and current football players, the show follows former superstar Spencer Strasmore as he gets his life on track in retirement while mentoring other current and former players through the daily grind of the business of football.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3598:1"
+},
+{
+"id": "826695281",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "Looking at the lives of former and current football players, the show follows former superstar Spencer Strasmore as he gets his life on track in retirement while mentoring other current and former players through the daily grind of the business of football.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTgsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3598:5"
+},
+{
+"id": "1766911172",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "Looking at the lives of former and current football players, the show follows former superstar Spencer Strasmore as he gets his life on track in retirement while mentoring other current and former players through the daily grind of the business of football.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1OTgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3598:2"
+}
+]
+}
+}

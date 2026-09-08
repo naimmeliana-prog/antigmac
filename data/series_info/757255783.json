@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-18",
+"episode_count": 2,
+"id": 715544118,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/4p79VNFUJwguuO5S43p5yzw8M8m.jpg"
+}
+],
+"info": {
+"name": "A+ - Harriet The Spy (2021-2023)",
+"cover": "https://www.themoviedb.org/t/p/original/4p79VNFUJwguuO5S43p5yzw8M8m.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908593",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "1645135817",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-18",
+"plot": "Outspoken and perpetually curious. That’s 11-year-old Harriet in a nutshell. But if she’s going to be Harriet M. Welsch, future writer, she’ll need to know everything. And to know everything means she’ll need to spy…on everyone.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908593",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTAyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15502:2"
+},
+{
+"id": "1242581536",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-18",
+"plot": "Outspoken and perpetually curious. That’s 11-year-old Harriet in a nutshell. But if she’s going to be Harriet M. Welsch, future writer, she’ll need to know everything. And to know everything means she’ll need to spy…on everyone.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908593",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15502:1"
+}
+]
+}
+}

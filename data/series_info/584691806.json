@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-06-07",
+"episode_count": 1,
+"id": 852153066,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCvFp3WxB2zIzj7X7BtoDHgf9db.jpg"
+}
+],
+"info": {
+"name": "NL - AFRICA'S HIDDEN WONDERS (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCvFp3WxB2zIzj7X7BtoDHgf9db.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908563",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "1624374030",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-07",
+"plot": "Van woeste woestijnen en actieve vulkanen tot immense meren en rivieren, Afrika is een land van uitersten. Over dit ontzagwekkende continent strijden de beesten van de natuur om te overleven in enkele van 's werelds zwaarste omstandigheden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908563",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMzQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40345:1"
+}
+]
+}
+}

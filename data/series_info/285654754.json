@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-07",
+"episode_count": 1,
+"id": 98319184,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/w6SpzCAWTFKcdUsqPFdfcP2ECgK.jpg"
+}
+],
+"info": {
+"name": "A+ - El Deafo (2022)",
+"cover": "https://www.themoviedb.org/t/p/original/w6SpzCAWTFKcdUsqPFdfcP2ECgK.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908593",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "14930602",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-07",
+"plot": "Going to school and making new friends can be tough. Having to do both while wearing a bulky hearing aid on your chest? That takes superpowers! With a little help from her superhero alter ego, El Deafo, Cece learns to embrace her differences.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908593",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15505:1"
+}
+]
+}
+}

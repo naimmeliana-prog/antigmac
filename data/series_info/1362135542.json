@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-18",
+"episode_count": 2,
+"id": 1231689350,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg"
+}
+],
+"info": {
+"name": "FR - Alchemy of Souls (KR) (VOSTFR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg",
+"plot": "",
+"cast": "",
+"director": "Hong Mi-ran, Hong Jeong-eun",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908644",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "1539809941",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-18",
+"plot": "Une puissante sorcière dans le corps d'une femme aveugle rencontre un homme d'une famille prestigieuse, qui veut son aide pour changer son destin.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzMDQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23044:2"
+},
+{
+"id": "1965856676",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-18",
+"plot": "Une puissante sorcière dans le corps d'une femme aveugle rencontre un homme d'une famille prestigieuse, qui veut son aide pour changer son destin.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzMDQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23044:1"
+}
+]
+}
+}

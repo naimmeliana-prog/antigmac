@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2020-09-22",
+"episode_count": 6,
+"id": 636510839,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gTMeeuiiAhiUmnyxwKeMSz5vcl.jpg"
+}
+],
+"info": {
+"name": "Mighty Express (2020) (CA)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gTMeeuiiAhiUmnyxwKeMSz5vcl.jpg",
+"plot": "",
+"cast": "",
+"director": "Keith Chapman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908584",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "649489206",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-22",
+"plot": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcxMjMsInNlYXNvbl9udW0iOjYsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7123:6"
+},
+{
+"id": "1684967547",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-22",
+"plot": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcxMjMsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7123:5"
+},
+{
+"id": "337463300",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-22",
+"plot": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcxMjMsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7123:4"
+},
+{
+"id": "544919893",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-22",
+"plot": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcxMjMsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7123:3"
+},
+{
+"id": "647363598",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-22",
+"plot": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcxMjMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7123:1"
+},
+{
+"id": "1734511567",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-22",
+"plot": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcxMjMsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7123:2"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-05-08",
+"episode_count": 3,
+"id": 668891515,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVObyxtNxuPbG5czuKvm7pW56EV.jpg"
+}
+],
+"info": {
+"name": "FR - 4 Blocks",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVObyxtNxuPbG5czuKvm7pW56EV.jpg",
+"plot": "",
+"cast": "",
+"director": "Hanno Hackfort, Bob Konrad, Richard Kropf",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908669",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "1138811968",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-05-08",
+"plot": "Présentée comme la “Gomorra’ allemande”, “4 Blocks” est présentée sur la nouvelle chaîne Warner TV. Elle met en scène la mafia libanaise de Berlin. \r\n\r\nToni prépare en cachette sa réorientation professionnelle pour sortir du trafic de drogues, de la prostitution et du blanchiment d’argent. Mais quand son beau-frère est arrêté lors d’un raid, impossible de quitter la tête du clan de Berlin-Neukölln. C’est une question d’honneur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908669",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3221:1"
+},
+{
+"id": "27946503",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-05-08",
+"plot": "Présentée comme la “Gomorra’ allemande”, “4 Blocks” est présentée sur la nouvelle chaîne Warner TV. Elle met en scène la mafia libanaise de Berlin. \r\n\r\nToni prépare en cachette sa réorientation professionnelle pour sortir du trafic de drogues, de la prostitution et du blanchiment d’argent. Mais quand son beau-frère est arrêté lors d’un raid, impossible de quitter la tête du clan de Berlin-Neukölln. C’est une question d’honneur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908669",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjEsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3221:2"
+},
+{
+"id": "392235516",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-05-08",
+"plot": "Présentée comme la “Gomorra’ allemande”, “4 Blocks” est présentée sur la nouvelle chaîne Warner TV. Elle met en scène la mafia libanaise de Berlin. \r\n\r\nToni prépare en cachette sa réorientation professionnelle pour sortir du trafic de drogues, de la prostitution et du blanchiment d’argent. Mais quand son beau-frère est arrêté lors d’un raid, impossible de quitter la tête du clan de Berlin-Neukölln. C’est une question d’honneur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908669",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMjEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3221:3"
+}
+]
+}
+}

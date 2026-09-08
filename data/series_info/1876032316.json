@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-06-30",
+"episode_count": 1,
+"id": 732874166,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqoJ698uVgN056N2dCRqRyPPJyx.jpg"
+}
+],
+"info": {
+"name": "FR - 548 jours (VOSTFR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqoJ698uVgN056N2dCRqRyPPJyx.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908680",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "580899587",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-06-30",
+"plot": "La jeune Patricia Aguilar disparaît et sa famille est anéantie. Des semaines d'angoisse s'ensuivent jusqu'à ce que Patricia donne des signes de vie. Mais cette dernière parle et agit étrangement, comme si elle était contrôlée par quelqu'un. La famille découvre qu'elle est partie au Pérou, séduite par le gourou d'une secte, et se bat pour la récupérer, même si Patricia résiste. En adoptant le point de vue des protagonistes, cette histoire est celle d'une famille qui surmonte une tragédie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908680",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2NDYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "26462:1"
+}
+]
+}
+}

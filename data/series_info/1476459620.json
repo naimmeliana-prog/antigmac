@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-13",
+"episode_count": 1,
+"id": 1194048566,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e1WdejyXdDNCfEHpMts7Q9EMsv.jpg"
+}
+],
+"info": {
+"name": "DE - Carl Hiaasen's Bad Monkey (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e1WdejyXdDNCfEHpMts7Q9EMsv.jpg",
+"plot": "",
+"cast": "",
+"director": "Bill Lawrence",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908718",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1100179950"
+},
+"episodes": {
+"1": [
+{
+"id": "1035074278",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-13",
+"plot": "Ein zum Restaurantinspektor gewordener Detective in Südflorida gerät in eine Welt voller Gier und Korruption, als ein Tourist beim Angeln einen abgetrennten Arm findet. Und, ja, ein Affe ist mit von der Partie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908718",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MTUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36153:1"
+}
+]
+}
+}

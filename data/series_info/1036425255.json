@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-15",
+"episode_count": 1,
+"id": 666479421,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIXpbkJcmMrqTAiLPopIYX0AeRK.jpg"
+}
+],
+"info": {
+"name": "DE - ACAB: La Serie (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIXpbkJcmMrqTAiLPopIYX0AeRK.jpg",
+"plot": "",
+"cast": "",
+"director": "Carlo Bonini, Filippo Gravino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908704",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "972452081"
+},
+"episodes": {
+"1": [
+{
+"id": "994660995",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-15",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908704",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNTI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40527:1"
+}
+]
+}
+}

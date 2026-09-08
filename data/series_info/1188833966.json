@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2003-11-02",
+"episode_count": 1,
+"id": 749382991,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMzwO952hMWQSCfHkp7IL20s4K7.jpg"
+}
+],
+"info": {
+"name": "FR - Arrested Development",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMzwO952hMWQSCfHkp7IL20s4K7.jpg",
+"plot": "",
+"cast": "",
+"director": "Imagine Television, The Hurwitz Company, 20th Century Fox Television",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908639",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "753337315",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-11-02",
+"plot": "Veuf avec un fils de 13 ans, Michael est parti s'installer en Arizona pour débuter une nouvelle vie loin de sa riche famille. En apprenant l'arrestation de son père suite à des magouilles financières, Michael est contraint de rentrer auprès des siens.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908639",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1371:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-23",
+"episode_count": 3,
+"id": 879109325,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72Npi0KAQALw0M2djkLTos6I47E.jpg"
+}
+],
+"info": {
+"name": "FR - All Rise",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72Npi0KAQALw0M2djkLTos6I47E.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908688",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "672164763",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "En dépit du dévouement de ses avocats, juges et autres procureurs chargés d'assurer le bon fonctionnement de la machine judiciaire, l'envers du décor de la justice américaine peut parfois se révéler absurde, voire chaotique. Et quand Lola Carmichael, adjointe respectée du procureur à Los Angeles, est fraîchement nommée juge, la jeune femme entend profiter de sa nouvelle position pour apporter sa pierre à l'édifice. Saura-t-elle composer avec les limites du système et se remettre en question ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908688",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwOTExLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10911:3"
+},
+{
+"id": "1796554673",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "En dépit du dévouement de ses avocats, juges et autres procureurs chargés d'assurer le bon fonctionnement de la machine judiciaire, l'envers du décor de la justice américaine peut parfois se révéler absurde, voire chaotique. Et quand Lola Carmichael, adjointe respectée du procureur à Los Angeles, est fraîchement nommée juge, la jeune femme entend profiter de sa nouvelle position pour apporter sa pierre à l'édifice. Saura-t-elle composer avec les limites du système et se remettre en question ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908688",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwOTExLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10911:2"
+},
+{
+"id": "323823009",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "En dépit du dévouement de ses avocats, juges et autres procureurs chargés d'assurer le bon fonctionnement de la machine judiciaire, l'envers du décor de la justice américaine peut parfois se révéler absurde, voire chaotique. Et quand Lola Carmichael, adjointe respectée du procureur à Los Angeles, est fraîchement nommée juge, la jeune femme entend profiter de sa nouvelle position pour apporter sa pierre à l'édifice. Saura-t-elle composer avec les limites du système et se remettre en question ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908688",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwOTExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10911:1"
+}
+]
+}
+}

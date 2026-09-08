@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "1997-10-20",
+"episode_count": 4,
+"id": 1616725549,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/b8J5aE6ePPk6GJ7aQVke9j3Ejd9.jpg"
+}
+],
+"info": {
+"name": "EN - Bear In The Big Blue House (1997)",
+"cover": "https://image.tmdb.org/t/p/original/b8J5aE6ePPk6GJ7aQVke9j3Ejd9.jpg",
+"plot": "",
+"cast": "",
+"director": "Mitchell Kriegman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908630",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "877735011",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-10-20",
+"plot": "The series provides children with valuable tools for growth in key areas of music, social skill development, and cognitive learning through integrated programs combining music, movement, and exploration. With Bear and all his friends, learn about cooperation, teamwork and more.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31518:4"
+},
+{
+"id": "705266439",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-10-20",
+"plot": "The series provides children with valuable tools for growth in key areas of music, social skill development, and cognitive learning through integrated programs combining music, movement, and exploration. With Bear and all his friends, learn about cooperation, teamwork and more.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31518:3"
+},
+{
+"id": "829699527",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-10-20",
+"plot": "The series provides children with valuable tools for growth in key areas of music, social skill development, and cognitive learning through integrated programs combining music, movement, and exploration. With Bear and all his friends, learn about cooperation, teamwork and more.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31518:2"
+},
+{
+"id": "1239430029",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1997-10-20",
+"plot": "The series provides children with valuable tools for growth in key areas of music, social skill development, and cognitive learning through integrated programs combining music, movement, and exploration. With Bear and all his friends, learn about cooperation, teamwork and more.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31518:1"
+}
+]
+}
+}

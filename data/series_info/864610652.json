@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-26",
+"episode_count": 1,
+"id": 742307499,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKJNWq4akdrviR9qEF6xPhzKQU.jpg"
+}
+],
+"info": {
+"name": "FR - Agent Kim Reactivated (2026) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+"plot": "",
+"cast": "",
+"director": "Nam Dae-joong",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908633",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "303087209",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-26",
+"plot": "Agent Kim Reactivated suit Kim Do-hyeon, un père célibataire et employé de banque. Pour retrouver sa fille kidnappée, il doit révéler son lourd secret : c'est un ancien agent d'élite et espion nord-sud-coréen",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908633",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNDU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50459:1"
+}
+]
+}
+}

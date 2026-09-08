@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-08-29",
+"episode_count": 2,
+"id": 109441747,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk3hVjfuKTrTK5Qukc78OWjbyJh.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Carnival Row (2019) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk3hVjfuKTrTK5Qukc78OWjbyJh.jpg",
+"plot": "",
+"cast": "",
+"director": "Travis Beacham, René Echevarria",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908693",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "1024811808",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-29",
+"plot": "In einer Zukunft, die eher wie eine neo-viktorianische Epoche aussieht, leben Menschen mit einer nicht unerheblichen Anzahl nicht-menschlicher Flüchtlingen zusammen, die von einem Krieg geflüchtet sind, der ihre Heimat in Schutt und Asche gelegt hat. Zwischen den Menschen und den „mystischen“ Kreaturen herrscht ein brüchiger Frieden, der ins Wanken gerät, als es zu einer Reihe von Morden unter den Neuankömmlingen kommt …",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45455:2"
+},
+{
+"id": "610623915",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-29",
+"plot": "In einer Zukunft, die eher wie eine neo-viktorianische Epoche aussieht, leben Menschen mit einer nicht unerheblichen Anzahl nicht-menschlicher Flüchtlingen zusammen, die von einem Krieg geflüchtet sind, der ihre Heimat in Schutt und Asche gelegt hat. Zwischen den Menschen und den „mystischen“ Kreaturen herrscht ein brüchiger Frieden, der ins Wanken gerät, als es zu einer Reihe von Morden unter den Neuankömmlingen kommt …",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45455:1"
+}
+]
+}
+}

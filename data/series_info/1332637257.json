@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-13",
+"episode_count": 2,
+"id": 1399825138,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMPLjSZYJEeeXfxeKQ7Ct7SEYuV.jpg"
+}
+],
+"info": {
+"name": "DE - 1670 (2023) (PL)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMPLjSZYJEeeXfxeKQ7Ct7SEYuV.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908702",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "972452081"
+},
+"episodes": {
+"1": [
+{
+"id": "114266727",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "In dieser lustigen Satire trotzt ein exzentrischer Adliger bei seinem törichten Versuch, Polens berühmteste Persönlichkeit zu werden, Familien- und Bauernfehden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908702",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDA3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45407:2"
+},
+{
+"id": "1965789583",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "In dieser lustigen Satire trotzt ein exzentrischer Adliger bei seinem törichten Versuch, Polens berühmteste Persönlichkeit zu werden, Familien- und Bauernfehden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908702",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45407:1"
+}
+]
+}
+}

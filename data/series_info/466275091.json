@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-24",
+"episode_count": 2,
+"id": 713025763,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+}
+],
+"info": {
+"name": "DE - Halo (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg",
+"plot": "",
+"cast": "",
+"director": "Kyle Killen, Steven Kane",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908713",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "1001881153",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-24",
+"plot": "Im 26. Jahrhundert wird die Menschheit von Aliens angegriffen. Master Chief kämpft mit seinem Team gegen die außerirdische Bedrohung, die den Namen Covenant tragen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908713",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2ODkwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16890:2"
+},
+{
+"id": "1380753500",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-24",
+"plot": "Im 26. Jahrhundert wird die Menschheit von Aliens angegriffen. Master Chief kämpft mit seinem Team gegen die außerirdische Bedrohung, die den Namen Covenant tragen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908713",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2ODkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16890:1"
+}
+]
+}
+}

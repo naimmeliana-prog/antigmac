@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-03-01",
+"episode_count": 1,
+"id": 591956982,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9stoLfNLtI4EBSFe3LgRX1kd3iD.jpg"
+}
+],
+"info": {
+"name": "NL - ALL-IN TEAM JUMBO VISMA (2023)",
+"cover": "https://image.tmdb.org/t/p/w154/9stoLfNLtI4EBSFe3LgRX1kd3iD.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908561",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "133119172",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-03-01",
+"plot": "Tom Dumoulin, Wout van Aert, Primož Roglič en Jonas Vingegaard zijn de aangewezen kopmannen om in 2022 Team Jumbo-Visma aan succes te helpen. Alle vier met een eigen, unieke achtergrond, levensverhaal en missie voor het nieuwe wielerseizoen, waarin Jumbo-Visma de absolute alleenheerser in het wielrennen wil worden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908561",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23599:1"
+}
+]
+}
+}

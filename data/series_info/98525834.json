@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-25",
+"episode_count": 1,
+"id": 1791366221,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/iEjENI3s7d4KgDbhwtSXqadU05V.jpg"
+}
+],
+"info": {
+"name": "EN - Bait (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/original/iEjENI3s7d4KgDbhwtSXqadU05V.jpg",
+"plot": "",
+"cast": "",
+"director": "Riz Ahmed",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908610",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "1028599049",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-25",
+"plot": "Shah Latif is a struggling actor on the cusp of landing the role of a lifetime, only to find himself thrust into a full blown existential crisis and trippy conspiracy thriller all at the same time.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908610",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NjY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48665:1"
+}
+]
+}
+}

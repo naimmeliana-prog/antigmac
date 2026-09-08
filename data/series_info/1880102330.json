@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-24",
+"episode_count": 2,
+"id": 692834358,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E6IPkHH541ii41NKpU5loI4fcr.jpg"
+}
+],
+"info": {
+"name": "FR - Braqueurs: La série",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E6IPkHH541ii41NKpU5loI4fcr.jpg",
+"plot": "",
+"cast": "",
+"director": "Julien Leclercq, Hamid Hlioua",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908642",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "1989144556",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-24",
+"plot": "Voulant protéger sa famille d’un baron de la drogue, un braqueur chevronné est happé dans une guerre de territoire sans merci, entraînant avec lui son équipe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908642",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12688:2"
+},
+{
+"id": "1089466514",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-24",
+"plot": "Voulant protéger sa famille d’un baron de la drogue, un braqueur chevronné est happé dans une guerre de territoire sans merci, entraînant avec lui son équipe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908642",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12688:1"
+}
+]
+}
+}

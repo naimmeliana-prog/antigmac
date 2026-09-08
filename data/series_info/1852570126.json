@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-09-25",
+"episode_count": 3,
+"id": 218348125,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy236cUbjkG0ncSmNeMz2f2OO9Q.jpg"
+}
+],
+"info": {
+"name": "FR - Absentia",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy236cUbjkG0ncSmNeMz2f2OO9Q.jpg",
+"plot": "",
+"cast": "",
+"director": "Matthew Cirulnick, Gaia Violo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908668",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "87147024",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "En enquêtant sur un serial killer, une jeune femme du FBI disparaît. Elle est retrouvée six ans plus tard dans une cabane, entre la vie et la mort.  Une fois rétablie, elle découvre que son mari a refait sa vie avec une femme qui élève son fils. C'est alors que les meurtres recommencent.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908668",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5366:2"
+},
+{
+"id": "782286777",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "En enquêtant sur un serial killer, une jeune femme du FBI disparaît. Elle est retrouvée six ans plus tard dans une cabane, entre la vie et la mort.  Une fois rétablie, elle découvre que son mari a refait sa vie avec une femme qui élève son fils. C'est alors que les meurtres recommencent.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908668",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5366:3"
+},
+{
+"id": "1624297440",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "En enquêtant sur un serial killer, une jeune femme du FBI disparaît. Elle est retrouvée six ans plus tard dans une cabane, entre la vie et la mort.  Une fois rétablie, elle découvre que son mari a refait sa vie avec une femme qui élève son fils. C'est alors que les meurtres recommencent.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908668",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5366:1"
+}
+]
+}
+}

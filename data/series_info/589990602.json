@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-20",
+"episode_count": 1,
+"id": 457881567,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp0VFyD7WcSLrCdoVHRhGU7Ik25.jpg"
+}
+],
+"info": {
+"name": "FR - #LoveArmy : Où es-tu Jérôme ?",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp0VFyD7WcSLrCdoVHRhGU7Ik25.jpg",
+"plot": "",
+"cast": "",
+"director": "Charles Villa",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908666",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "1930845334",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-20",
+"plot": "Il est le point commun entre les plus grandes stars américaines et les plus gros influenceurs français. Mister V, Natoo et Seb La Frite racontent comment Jérôme Jarre a joué un rôle clé dans leurs carrières et dans leurs vies. Influenceur, manager, grand frère, Jérôme est au centre du « game » grâce à Vine, une application oubliée aujourd’hui qui est l'ancêtre de TikTok.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxMzMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31330:1"
+}
+]
+}
+}

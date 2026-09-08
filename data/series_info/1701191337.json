@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-18",
+"episode_count": 1,
+"id": 1047618350,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg"
+}
+],
+"info": {
+"name": "NL - AGATHA ALL ALONG (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
+"plot": "",
+"cast": "",
+"director": "Jac Schaeffer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908563",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "1669576923",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-18",
+"plot": "De beruchte Agatha Harkness voelt zich machteloos nadat de verdachte goth Teen haar bevrijdt uit een verwrongen betovering. Haar interesse wordt gewekt als hij haar smeekt hem mee te nemen op de legendarische Witches' Road, een magische reeks beproevingen die, als ze worden overleefd, heksen beloont met wat ze nodig hebben. Samen vormen Agatha en Teen een wanhopige kring van heksen en gaan ze op weg naar de Witches' Road.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908563",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MTQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38145:1"
+}
+]
+}
+}

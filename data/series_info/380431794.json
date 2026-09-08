@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-08-21",
+"episode_count": 1,
+"id": 1629984499,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://image.tmdb.org/t/p/w154/aNFeBJn6WU4IxhZoJs5Z5XEuuiK.jpg"
+}
+],
+"info": {
+"name": "NL - BEFOREIGNERS",
+"cover": "http://image.tmdb.org/t/p/w154/aNFeBJn6WU4IxhZoJs5Z5XEuuiK.jpg",
+"plot": "",
+"cast": "",
+"director": "Anne Bjørnstad, Eilif Skodvin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908558",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "1442235500",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-21",
+"plot": "Beforeigners volgt een nieuw fenomeen dat zich overal ter wereld voordoet. Krachtige lichtflitsen doemen op in de oceaan en mensen uit het verleden verschijnen. Ze komen uit drie afzonderlijke perioden: het stenen tijdperk, het Viking-tijdperk en de late 19e eeuw. Niemand begrijpt hoe dit mogelijk is en de mensen uit het verleden, \"Beforeigners\" genoemd, hebben geen herinnering over wat er is gebeurd. Slechts één ding is zeker: ze blijven komen en er is geen weg terug. Een paar jaar later werkt Alfhildr, die uit de Vikingtijd komt, samen met de politieagent Lars Haaland als onderdeel van een integratieprogramma van de politie. Terwijl ze de moord op een b eforeigner onderzoeken, beginnen ze een grotere samenzwering te ontrafelen achter de oorsprong van de mysterieuze aankomsten.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908558",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk5NzAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9970:1"
+}
+]
+}
+}

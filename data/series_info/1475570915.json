@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-22",
+"episode_count": 1,
+"id": 1404061550,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/drRzj5fCk5ndIhQmS2dH0R4OLKG.jpg"
+}
+],
+"info": {
+"name": "FR - Adventure Beast",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/drRzj5fCk5ndIhQmS2dH0R4OLKG.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Gravas, Bradley Trevor Greive",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908659",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "1162933563",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-22",
+"plot": "Expert en faune et flore sauvages, Bradley Trevor Greive enchaîne voyages et mésaventures dingues pour nous livrer des faits curieux, merveilleux et vrais sur la nature.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908659",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMjc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13274:1"
+}
+]
+}
+}

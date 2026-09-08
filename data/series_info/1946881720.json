@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-08",
+"episode_count": 2,
+"id": 441497297,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/jaB0pfalh5rXxdATrsBbscYIqiQ.jpg"
+}
+],
+"info": {
+"name": "A+ - Acapulco (2021)",
+"cover": "https://image.tmdb.org/t/p/original/jaB0pfalh5rXxdATrsBbscYIqiQ.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Shuman, Austin Winsberg, Eduardo Cisneros",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908589",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "1270736618",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Twenty-something Máximo Gallardo's dreams comes true when he gets the job of a lifetime as a cabana boy at the hottest resort in Acapulco. He soon realizes the job is far more complicated than he ever imagined and in order to succeed, he must learn to navigate a demanding clientele, a mercurial mentor, and a complicated home life, without losing his way to shortcuts or temptations.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908589",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTA3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15507:2"
+},
+{
+"id": "952936628",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Twenty-something Máximo Gallardo's dreams comes true when he gets the job of a lifetime as a cabana boy at the hottest resort in Acapulco. He soon realizes the job is far more complicated than he ever imagined and in order to succeed, he must learn to navigate a demanding clientele, a mercurial mentor, and a complicated home life, without losing his way to shortcuts or temptations.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908589",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15507:1"
+}
+]
+}
+}

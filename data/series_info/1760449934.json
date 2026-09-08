@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-22",
+"episode_count": 2,
+"id": 289763772,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBYfsssn2DiuE5wZxAbZiUCQFnL.jpg"
+}
+],
+"info": {
+"name": "FR - Avatar : Le dernier maître de l'air",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBYfsssn2DiuE5wZxAbZiUCQFnL.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908646",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "500759112",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-22",
+"plot": "Les nations de l'Eau, de la Terre, du Feu et de l'Air vivaient autrefois en harmonie et l'Avatar, maître des quatre éléments, garantissait la paix entre elles. Mais tout a changé lorsque la Nation du feu a attaqué et décimé les Nomades de l'air dans une première manœuvre de conquête du monde. Alors que l'incarnation actuelle de l'Avatar tarde à émerger, le monde perd espoir. Cependant, l'espérance renaît comme une lumière dans la nuit lorsqu'Aang, un jeune Nomade de l'air et le dernier représentant de son peuple sort de son sommeil pour revendiquer sa place légitime de nouvel Avatar. Accompagné de ses nouveaux amis Sokka et Katara, un frère et une sœur membres de la Tribu de l'eau du pôle Sud, Aang se lance dans une quête où se mêlent le fantastique et l'action. Il lui faut sauver le monde et repousser la terrifiante offensive du seigneur du Feu Ozai, une mission d'autant plus difficile que le prince héritier Zuko est bien décidé à les capturer, lui et ses amis...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908646",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzA0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30704:2"
+},
+{
+"id": "539920235",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-22",
+"plot": "Les nations de l'Eau, de la Terre, du Feu et de l'Air vivaient autrefois en harmonie et l'Avatar, maître des quatre éléments, garantissait la paix entre elles. Mais tout a changé lorsque la Nation du feu a attaqué et décimé les Nomades de l'air dans une première manœuvre de conquête du monde. Alors que l'incarnation actuelle de l'Avatar tarde à émerger, le monde perd espoir. Cependant, l'espérance renaît comme une lumière dans la nuit lorsqu'Aang, un jeune Nomade de l'air et le dernier représentant de son peuple sort de son sommeil pour revendiquer sa place légitime de nouvel Avatar. Accompagné de ses nouveaux amis Sokka et Katara, un frère et une sœur membres de la Tribu de l'eau du pôle Sud, Aang se lance dans une quête où se mêlent le fantastique et l'action. Il lui faut sauver le monde et repousser la terrifiante offensive du seigneur du Feu Ozai, une mission d'autant plus difficile que le prince héritier Zuko est bien décidé à les capturer, lui et ses amis...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908646",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNzA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30704:1"
+}
+]
+}
+}

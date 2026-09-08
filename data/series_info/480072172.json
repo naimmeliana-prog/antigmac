@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2016-11-25",
+"episode_count": 3,
+"id": 1406198627,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbwjI8rp88XNA4fdEex3kOwbr9O.jpg"
+}
+],
+"info": {
+"name": "FR - 3%",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbwjI8rp88XNA4fdEex3kOwbr9O.jpg",
+"plot": "",
+"cast": "",
+"director": "Pedro Aguilera",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908644",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "708800300",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "Dans cette société futuriste, 3 % de chanceux forment l'élite. Les autres s'entassent dans des taudis, et leur espoir d'accéder aux richesses est maigre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzOTQsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3394:3"
+},
+{
+"id": "1205872017",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "Dans cette société futuriste, 3 % de chanceux forment l'élite. Les autres s'entassent dans des taudis, et leur espoir d'accéder aux richesses est maigre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzOTQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3394:2"
+},
+{
+"id": "1811621248",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "Dans cette société futuriste, 3 % de chanceux forment l'élite. Les autres s'entassent dans des taudis, et leur espoir d'accéder aux richesses est maigre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzOTQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3394:1"
+}
+]
+}
+}

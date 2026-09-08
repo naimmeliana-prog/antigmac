@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-05-04",
+"episode_count": 2,
+"id": 927027086,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/5Q6z9bjy8dHKA5T8kNmCd8hj6Gl.jpg"
+}
+],
+"info": {
+"name": "NL - STAR WARS THE BAD BATCH",
+"cover": "https://image.tmdb.org/t/p/w154/5Q6z9bjy8dHKA5T8kNmCd8hj6Gl.jpg",
+"plot": "",
+"cast": "",
+"director": "Dave Filoni",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "548165427",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-04",
+"plot": "Star Wars: The Bad Batch volgt de elite en experimentele klonen van de Bad Batch terwijl ze hun weg vinden naar een snel veranderend sterrenstelsel in de onmiddellijke nasleep van de Clone War. Leden van Bad Batch - een uniek team van klonen die genetisch verschillen van hun broers in het Clone leger - bezitten elk een uitzonderlijke vaardigheid die hen buitengewoon effectieve soldaten en tot een uitstekende bemanning maakt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDU4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25058:2"
+},
+{
+"id": "1635013410",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-04",
+"plot": "Star Wars: The Bad Batch volgt de elite en experimentele klonen van de Bad Batch terwijl ze hun weg vinden naar een snel veranderend sterrenstelsel in de onmiddellijke nasleep van de Clone War. Leden van Bad Batch - een uniek team van klonen die genetisch verschillen van hun broers in het Clone leger - bezitten elk een uitzonderlijke vaardigheid die hen buitengewoon effectieve soldaten en tot een uitstekende bemanning maakt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25058:1"
+}
+]
+}
+}

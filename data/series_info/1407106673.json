@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-17",
+"episode_count": 1,
+"id": 167048125,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/2kyNr1ey9tDMx1IrPMQ57MIxgPS.jpg"
+}
+],
+"info": {
+"name": "D+ - Marvel's Hit-Monkey (2021)",
+"cover": "https://image.tmdb.org/t/p/original/2kyNr1ey9tDMx1IrPMQ57MIxgPS.jpg",
+"plot": "",
+"cast": "",
+"director": "Josh Gordon, Will Speck",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908602",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "1713359196",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-17",
+"plot": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908602",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15971:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-13",
+"episode_count": 1,
+"id": 1655309409,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/brg7JhfiUDZWsKCMLi7nQK4rAi3.jpg"
+}
+],
+"info": {
+"name": "EX - 1992 (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/brg7JhfiUDZWsKCMLi7nQK4rAi3.jpg",
+"plot": "",
+"cast": "",
+"director": "Jorge Guerricaechevarría, Álex de la Iglesia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908772",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1569160013"
+},
+"episodes": {
+"1": [
+{
+"id": "886529864",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-13",
+"plot": "After the death of her husband, a grieving widow and a tormented ex-cop investigate a series of murders apparently related to the Universal Expo held in Seville in 1992.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908772",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM5OTQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "39949:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-04",
+"episode_count": 1,
+"id": 450470006,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg"
+}
+],
+"info": {
+"name": "NL - ALL'S FAIR (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Robin Baitz, Joe Baken, Ryan Murphy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908565",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "1868391285",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-04",
+"plot": "Een team topadvocates gespecialiseerd in echtscheidingen verlaat een mannenbolwerk om hun eigen kantoor te beginnen. Scherp, briljant en complex balanceren ze tussen spraakmakende scheidingen, schandalen en veranderende loyaliteiten, zowel in de rechtszaal als privé. In een wereld waar geld regeert en liefde een strijd is, spelen deze vrouwen het spel niet alleen, ze veranderen de regels.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908565",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NTExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46511:1"
+}
+]
+}
+}

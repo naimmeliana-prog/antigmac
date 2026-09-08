@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-13",
+"episode_count": 1,
+"id": 680022400,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1hDVstE3EZR4SyTS2KwKkZKh8tn.jpg"
+}
+],
+"info": {
+"name": "NL - 1670",
+"cover": "https://image.tmdb.org/t/p/w154/1hDVstE3EZR4SyTS2KwKkZKh8tn.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908553",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1873917108"
+},
+"episodes": {
+"1": [
+{
+"id": "705972939",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "De serie volgt de bezigheden van Jan Paweł Adamczewski, het hoofd van een szlachta-familie in het Pools-Litouwse Gemenebest in de 17e eeuw. [3] V40 [5]",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908553",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29773:1"
+}
+]
+}
+}

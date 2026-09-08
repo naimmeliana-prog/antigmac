@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-07-25",
+"episode_count": 2,
+"id": 1346304808,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg"
+}
+],
+"info": {
+"name": "FR - Castle Rock",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg",
+"plot": "",
+"cast": "",
+"director": "Dustin Thomason, Sam Shaw",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908678",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "955411791",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-07-25",
+"plot": "Cette adaptation unique en son genre pioche dans différentes oeuvres de Stephen King pour réunir d'une nouvelle façon les histoires les plus emblématiques et les plus aimées du célèbre écrivain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908678",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4762:1"
+},
+{
+"id": "185998815",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-07-25",
+"plot": "Cette adaptation unique en son genre pioche dans différentes oeuvres de Stephen King pour réunir d'une nouvelle façon les histoires les plus emblématiques et les plus aimées du célèbre écrivain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908678",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4762:2"
+}
+]
+}
+}

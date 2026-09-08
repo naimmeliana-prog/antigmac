@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-08",
+"episode_count": 1,
+"id": 1788627060,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8BvRkCj4llA5QlEFmb6oZjyUkM.jpg"
+}
+],
+"info": {
+"name": "EN - Cars on the Road (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8BvRkCj4llA5QlEFmb6oZjyUkM.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908631",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "1002242075",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-08",
+"plot": "Lightning McQueen and his best friend Mater head east from Radiator Springs on a cross-country road trip to meet up with Mater’s sister.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908631",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5OTkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19990:1"
+}
+]
+}
+}

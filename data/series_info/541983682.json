@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-26",
+"episode_count": 1,
+"id": 1887729433,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCa2Cdb3JNx2jka2LQJeaSTCIeH.jpg"
+}
+],
+"info": {
+"name": "FR - A Very British Scandal",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCa2Cdb3JNx2jka2LQJeaSTCIeH.jpg",
+"plot": "",
+"cast": "",
+"director": "Sarah Phelps",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908667",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "69186336",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-26",
+"plot": "La chronique du divorce du Duc et de la Duchesse d'Argyll, l'une des affaires judiciaires les plus notoires du XXème siècle. Célèbre pour son charisme, sa beauté et son style, Margaret, duchesse d'Argyll, a fait la une des journaux lors d'un divorce marqué par des accusations de falsification, de vol, de violence, de consommation de drogue, d'enregistrement secret, de corruption et d'une photo polaroid explicite, le tout sous le feu des projecteurs des médias britanniques des années 1960.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908667",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MDc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15076:1"
+}
+]
+}
+}

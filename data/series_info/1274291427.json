@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-25",
+"episode_count": 1,
+"id": 1124966390,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOokTRpnDr42f8kgvqMSkxnyQYz.jpg"
+}
+],
+"info": {
+"name": "DE - Genauso... aber anders (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOokTRpnDr42f8kgvqMSkxnyQYz.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908710",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "174428864",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-25",
+"plot": "Carol und ihre Freunde bereiten sich auf das kommende Schuljahr vor, genießen den Strand und haben eine schöne Zeit in ihrer Heimat Rio de Janeiro ... Doch dann wird die Freundschaft auf die Probe gestellt. Carol muss sich mit der Hochzeit ihrer Mutter, mit ihrem Stiefvater, der auch ihr Lehrer ist, ihrem unerträglichen Stiefbruder und mit den persönlichen Problemen ihrer Freundinnen herumschlagen. Aber sie werden zusammenhalten ... Oder auch nicht.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908710",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35505:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-09",
+"episode_count": 3,
+"id": 310816172,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckl3YTckH7JeeTx55NQMFf7pMRL.jpg"
+}
+],
+"info": {
+"name": "FR - And Just Like That…",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+"plot": "",
+"cast": "",
+"director": "Darren Star",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908674",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "278009223",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Un regard incisif, irrévérentieux et parfois bouleversant sur l'amour, le sexe et l'amitié à New York passé 50 ans. Entre l'Upper East Side de Manhattan et le quartier du Village, un groupe de femmes doit affronter les affres de la vieillesse, du temps qui passe, des mariages qui se transforment en divorces, des enfants qui grandissent, des pressions sociales sur l'apparence et la réussite...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTgwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15980:3"
+},
+{
+"id": "1216794047",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Un regard incisif, irrévérentieux et parfois bouleversant sur l'amour, le sexe et l'amitié à New York passé 50 ans. Entre l'Upper East Side de Manhattan et le quartier du Village, un groupe de femmes doit affronter les affres de la vieillesse, du temps qui passe, des mariages qui se transforment en divorces, des enfants qui grandissent, des pressions sociales sur l'apparence et la réussite...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTgwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15980:2"
+},
+{
+"id": "1399149040",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "Un regard incisif, irrévérentieux et parfois bouleversant sur l'amour, le sexe et l'amitié à New York passé 50 ans. Entre l'Upper East Side de Manhattan et le quartier du Village, un groupe de femmes doit affronter les affres de la vieillesse, du temps qui passe, des mariages qui se transforment en divorces, des enfants qui grandissent, des pressions sociales sur l'apparence et la réussite...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15980:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-10",
+"episode_count": 1,
+"id": 181659583,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30765.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Die letzten Tage des Ptolemy Grey (2022) (US)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30765.jpg",
+"plot": "",
+"cast": "",
+"director": "Walter Mosley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908698",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "987387581"
+},
+"episodes": {
+"1": [
+{
+"id": "18843792",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-10",
+"plot": "Als Ptolemy Grey plötzlich ohne seinen vertrauten Betreuer dasteht, kommt er in die Obhut der verwaisten Teenagerin Robyn. Als sie von einer Behandlung erfahren, die Ptolemys von Demenz geprägtes Erinnerungsvermögen wiederherstellt, beginnt eine Reise zu schockierenden Wahrheiten.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908698",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46087:1"
+}
+]
+}
+}

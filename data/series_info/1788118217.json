@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-06-01",
+"episode_count": 1,
+"id": 412041435,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5bKj5U2Z7AgkK3Mekji8xDHOuD.jpg"
+}
+],
+"info": {
+"name": "FR - Arthdal Chronicles",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5bKj5U2Z7AgkK3Mekji8xDHOuD.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Won-seok, Kim Young-hyun, Park Sang-yeon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "865608795",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-01",
+"plot": "Dans une contrée mythique, les habitants d'une ancienne cité et des régions alentour luttent pour le pouvoir alors qu'une nouvelle société se construit.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkyMjEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9221:1"
+}
+]
+}
+}

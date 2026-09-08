@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-08-11",
+"episode_count": 1,
+"id": 403149424,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/1doPOBs8n3QSfA5vMqbZcNW7yQ8.jpg"
+}
+],
+"info": {
+"name": "EN - Disney Presents Goofy In How To Stay At Home (2021)",
+"cover": "https://www.themoviedb.org/t/p/original/1doPOBs8n3QSfA5vMqbZcNW7yQ8.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908632",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "1966941785",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-11",
+"plot": "Leave it to Goofy to find the fun in staying home!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908632",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12575:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-10",
+"episode_count": 1,
+"id": 173260404,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/libvyWPKCL1OI0A5LsGIqSXNs3f.jpg"
+}
+],
+"info": {
+"name": "EN - Caroline Flack: Search for the Truth (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/libvyWPKCL1OI0A5LsGIqSXNs3f.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908628",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "1587321736",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-10",
+"plot": "Follow Caroline's mother, Christine, as she investigates the truth about her daughter's final months - uncovering new shocking details, asking difficult questions, and exposing the misrepresentations, pressures, and failures from institutions and decision makers that shaped Caroline's final days.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46820:1"
+}
+]
+}
+}

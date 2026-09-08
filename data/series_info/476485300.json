@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-11-09",
+"episode_count": 1,
+"id": 270143796,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/300/29977.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Beat (2018) (DE)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/300/29977.jpg",
+"plot": "",
+"cast": "",
+"director": "Marco Kreuzpaintner",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908692",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "333011375",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-09",
+"plot": "Niemand ist in der Berliner Technoszene besser vernetzt als der Club-Promoter Robert Schlag, genannt Beat. Um an die Hintermänner eines kriminellen Netzwerks zu kommen, wird Beat vom Europäischen Geheimdienst rekrutiert. Auf der Jagd nach den Drahtziehern des organisierten Organhandels wird Beat von seiner eigenen Vergangenheit eingeholt und gerät schnell an seine persönlichen Grenzen...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908692",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1Njc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45677:1"
+}
+]
+}
+}

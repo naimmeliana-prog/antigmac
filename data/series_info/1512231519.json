@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-16",
+"episode_count": 1,
+"id": 1507060259,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ol5mLd4a7oEPEQD6PtaonILToow.jpg"
+}
+],
+"info": {
+"name": "FR - Dandelion (2026) (JP)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ol5mLd4a7oEPEQD6PtaonILToow.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908635",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "1861292887",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-16",
+"plot": "Dans une agence de l'au-delà où des anges guident les âmes errantes, Tetsuo et Misaki relèvent tous les défis pour aider les morts à trouver la paix, à leur manière décalée.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908635",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49104:1"
+}
+]
+}
+}

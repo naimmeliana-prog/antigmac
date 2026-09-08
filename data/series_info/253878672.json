@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2016-03-21",
+"episode_count": 1,
+"id": 1409403927,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH9jZ2HWpkPDIXEKk5gMptWnkw0.jpg"
+}
+],
+"info": {
+"name": "FR - 72 lieux de vie les plus dangereux au monde",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH9jZ2HWpkPDIXEKk5gMptWnkw0.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908663",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "1413214892",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-03-21",
+"plot": "Rapprochez-vous des avalanches, des volcans enflammés et d'autres cataclysmes naturels et découvrez pourquoi certains choisissent de vivre sur leurs chemins destructeurs.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908663",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzOTQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13949:1"
+}
+]
+}
+}

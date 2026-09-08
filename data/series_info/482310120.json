@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-06",
+"episode_count": 1,
+"id": 1478116291,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8EoArDMQdCi18e9quLqTrTILnu.jpg"
+}
+],
+"info": {
+"name": "D+ - Among the Stars",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8EoArDMQdCi18e9quLqTrTILnu.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908596",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "835550696",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-06",
+"plot": "A six-part docuseries with fly on the wall access into the wider world of NASA, with cameras on Earth and in space. NASA astronaut Captain Chris Cassidy is on a quest to get back in his spacesuit for one last mission. This series follows Chris and the wider team who take on missions that risk life, limb and reputation for the greater good of humankind. Join them as their missions unfold.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908596",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15362:1"
+}
+]
+}
+}

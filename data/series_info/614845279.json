@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2001-11-06",
+"episode_count": 7,
+"id": 513593526,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg"
+}
+],
+"info": {
+"name": "NL - 24",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+"plot": "",
+"cast": "",
+"director": "Robert Cochran, Joel Surnow",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908562",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "1465859167",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-11-06",
+"plot": "24 draait om Jack Bauer en zijn werk bij de Counter Terrorist Unit (CTU), een fictieve Amerikaanse antiterreurorganisatie. Het doel van CTU is om terroristen in de gaten te houden, alsmede het opsporen van terroristencellen en deze te vernietigen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NDcsInNlYXNvbl9udW0iOjcsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1747:7"
+},
+{
+"id": "782473343",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-11-06",
+"plot": "24 draait om Jack Bauer en zijn werk bij de Counter Terrorist Unit (CTU), een fictieve Amerikaanse antiterreurorganisatie. Het doel van CTU is om terroristen in de gaten te houden, alsmede het opsporen van terroristencellen en deze te vernietigen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NDcsInNlYXNvbl9udW0iOjYsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1747:6"
+},
+{
+"id": "520827971",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-11-06",
+"plot": "24 draait om Jack Bauer en zijn werk bij de Counter Terrorist Unit (CTU), een fictieve Amerikaanse antiterreurorganisatie. Het doel van CTU is om terroristen in de gaten te houden, alsmede het opsporen van terroristencellen en deze te vernietigen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NDcsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1747:5"
+},
+{
+"id": "1997789439",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-11-06",
+"plot": "24 draait om Jack Bauer en zijn werk bij de Counter Terrorist Unit (CTU), een fictieve Amerikaanse antiterreurorganisatie. Het doel van CTU is om terroristen in de gaten te houden, alsmede het opsporen van terroristencellen en deze te vernietigen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NDcsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1747:4"
+},
+{
+"id": "174431594",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-11-06",
+"plot": "24 draait om Jack Bauer en zijn werk bij de Counter Terrorist Unit (CTU), een fictieve Amerikaanse antiterreurorganisatie. Het doel van CTU is om terroristen in de gaten te houden, alsmede het opsporen van terroristencellen en deze te vernietigen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NDcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1747:3"
+},
+{
+"id": "478579803",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-11-06",
+"plot": "24 draait om Jack Bauer en zijn werk bij de Counter Terrorist Unit (CTU), een fictieve Amerikaanse antiterreurorganisatie. Het doel van CTU is om terroristen in de gaten te houden, alsmede het opsporen van terroristencellen en deze te vernietigen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NDcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1747:2"
+},
+{
+"id": "476657191",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-11-06",
+"plot": "24 draait om Jack Bauer en zijn werk bij de Counter Terrorist Unit (CTU), een fictieve Amerikaanse antiterreurorganisatie. Het doel van CTU is om terroristen in de gaten te houden, alsmede het opsporen van terroristencellen en deze te vernietigen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NDcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1747:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-20",
+"episode_count": 1,
+"id": 20203613,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHALcHwGYDXMDIFsr88NeLYUfIG.jpg"
+}
+],
+"info": {
+"name": "DE - 20 Years (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHALcHwGYDXMDIFsr88NeLYUfIG.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos, Gema R. Neira, Teresa Fernández-Valdés",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908715",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1100179950"
+},
+"episodes": {
+"1": [
+{
+"id": "1044642172",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-20",
+"plot": "„20 Years“ ist ein vielschichtiger Thriller, der den Kontrast zwischen jugendlicher Hoffnung und Realität des Erwachsenseins beleuchtet. Die Leben einer Collegeclique ändern sich schlagartig, als eine/r von ihnen nach einem Partywochenende tot ist. Jetzt, 20 Jahre später, bringt eine Bedrohung ihre scheinbar perfekte Welt ins Wanken und führt die verbleibenden Fünf gegen ihren Willen wieder zusammen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908715",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36146:1"
+}
+]
+}
+}

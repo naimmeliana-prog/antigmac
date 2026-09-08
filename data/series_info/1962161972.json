@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-01-15",
+"episode_count": 1,
+"id": 1977219871,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg"
+}
+],
+"info": {
+"name": "EX - Agatha Christie's Seven Dials (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Chibnall",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908774",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1569160013"
+},
+"episodes": {
+"1": [
+{
+"id": "642201496",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-01-15",
+"plot": "England. 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths - the fizzingly inquisitive Lady Eileen 'Bundle' Brent - to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908774",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NDY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47468:1"
+}
+]
+}
+}

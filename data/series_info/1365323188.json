@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-22",
+"episode_count": 1,
+"id": 1438430137,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/aNkYvln58BJoNyBUvig417HJWZQ.jpg"
+}
+],
+"info": {
+"name": "NL - ACCUSED",
+"cover": "https://image.tmdb.org/t/p/w154/aNkYvln58BJoNyBUvig417HJWZQ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908555",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "1901103461",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-22",
+"plot": "In 'Binnen bij Oranje' gaat de oud Perschef van Oranje, Kees Jansma, in gesprek met spelers en coaches uit het roemrijke verleden van Oranje. Elke speler heeft de grote toernooien op zijn eigen manier beleefd.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908555",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0OTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24940:1"
+}
+]
+}
+}

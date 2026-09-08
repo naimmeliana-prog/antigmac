@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-09",
+"episode_count": 1,
+"id": 647796323,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/hrmcRsHrMuZyY0xy6ZwlsmfuDND.jpg"
+}
+],
+"info": {
+"name": "NF - A Killer Paradox (2024)",
+"cover": "https://image.tmdb.org/t/p/original/hrmcRsHrMuZyY0xy6ZwlsmfuDND.jpg",
+"plot": "",
+"cast": "",
+"director": "Lee Chang-hee, Kim Da-min",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908582",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "392376328",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-09",
+"plot": "When one accidental killing leads to another, an ordinary young man finds himself stuck in an endless cat-and-mouse chase with a shrewd detective.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908582",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMDA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33009:1"
+}
+]
+}
+}

@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-03-23",
+"episode_count": 3,
+"id": 302855044,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVLqM6g5vF63Zq650lNSgtDx6hW.jpg"
+}
+],
+"info": {
+"name": "FR - Alexa & Katie",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVLqM6g5vF63Zq650lNSgtDx6hW.jpg",
+"plot": "",
+"cast": "",
+"director": "Heather Wordham",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908638",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "251022558",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-23",
+"plot": "Tout en luttant contre un cancer, Alexa entre au lycée. Et avec Katie, sa meilleure amie, à ses côtés, elle est bien déterminée à faire front aux aléas à venir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908638",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzgsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6938:3"
+},
+{
+"id": "1156382902",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-23",
+"plot": "Tout en luttant contre un cancer, Alexa entre au lycée. Et avec Katie, sa meilleure amie, à ses côtés, elle est bien déterminée à faire front aux aléas à venir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908638",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6938:2"
+},
+{
+"id": "1430488964",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-23",
+"plot": "Tout en luttant contre un cancer, Alexa entre au lycée. Et avec Katie, sa meilleure amie, à ses côtés, elle est bien déterminée à faire front aux aléas à venir.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908638",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6938:1"
+}
+]
+}
+}

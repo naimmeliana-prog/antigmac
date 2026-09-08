@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-28",
+"episode_count": 1,
+"id": 961241892,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHoHuYdtCkQlj8UtqePjnvUZf80.jpg"
+}
+],
+"info": {
+"name": "FR - Ada Twist, la scientifique",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHoHuYdtCkQlj8UtqePjnvUZf80.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Nee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908659",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "515702283",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-28",
+"plot": "Cette série suit les aventures de la petite Ada Twist, 8 ans, une scientifique poids plume à la curiosité insatiable, qui veut tout savoir sur tout. Avec l'aide de ses complices, Rosie Revere et Iggy Peck, Ada dénoue et résout des mystères pour ses amis et sa famille. Mais trouver la clé du mystère n'est que le début de l'aventure ! En effet, la science ne se limite pas à répondre aux questions \"Comment ?\", \"Pourquoi ?\", \"Quoi ?\" Encore faut-il mettre ses connaissances en action pour rendre le monde meilleur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908659",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNzUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12750:1"
+}
+]
+}
+}

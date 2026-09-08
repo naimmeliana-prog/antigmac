@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-13",
+"episode_count": 3,
+"id": 179197076,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rpXPDCRDUDreordCidKlI1KkB8.jpg"
+}
+],
+"info": {
+"name": "FR - 1670",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rpXPDCRDUDreordCidKlI1KkB8.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908636",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "1882773983",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "Dans cette comédie satirique, un noble farfelu se heurte à des querelles familiales et paysannes dans sa quête pour devenir la personnalité la plus célèbre de Pologne.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908636",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTM5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29139:3"
+},
+{
+"id": "1890191305",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "Dans cette comédie satirique, un noble farfelu se heurte à des querelles familiales et paysannes dans sa quête pour devenir la personnalité la plus célèbre de Pologne.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908636",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTM5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29139:2"
+},
+{
+"id": "356559634",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "Dans cette comédie satirique, un noble farfelu se heurte à des querelles familiales et paysannes dans sa quête pour devenir la personnalité la plus célèbre de Pologne.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908636",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MTM5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29139:1"
+}
+]
+}
+}

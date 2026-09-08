@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-03-29",
+"episode_count": 1,
+"id": 1861793579,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mdI8BzNUzOmpmtcyJpngOjWdoa.jpg"
+}
+],
+"info": {
+"name": "NF - A Thousand Goodnights",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mdI8BzNUzOmpmtcyJpngOjWdoa.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908583",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "1740543680",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-03-29",
+"plot": "To carry out her dad's wish and discover her roots, Dai Tian-qing embarks on a journey around Taiwan and finds love and redemption on the way.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908583",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2116:1"
+}
+]
+}
+}

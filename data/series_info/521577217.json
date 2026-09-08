@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-06",
+"episode_count": 1,
+"id": 1289746607,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yFwwOlscIjCHrOV88A5rY2YWmH.jpg"
+}
+],
+"info": {
+"name": "FR - Boyfriend on Demand (2026) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yFwwOlscIjCHrOV88A5rY2YWmH.jpg",
+"plot": "",
+"cast": "",
+"director": "Namgung Do-young, Kim Jung-sik",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908634",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "190381801",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-06",
+"plot": "Épuisée par le travail, Seo Mi-rae ne pense pas à l'amour, jusqu’à ce qu'un site de rencontres éveille quelque chose en elle... Et si c'était le début d'une romance ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908634",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48385:1"
+}
+]
+}
+}

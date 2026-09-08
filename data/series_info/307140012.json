@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-14",
+"episode_count": 1,
+"id": 855900309,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/2oXhGm5Q02zw1xiQulOtdg6JJkt.jpg"
+}
+],
+"info": {
+"name": "EN - A Murder At The End Of The World (2023)",
+"cover": "https://image.tmdb.org/t/p/original/2oXhGm5Q02zw1xiQulOtdg6JJkt.jpg",
+"plot": "",
+"cast": "",
+"director": "Brit Marling, Zal Batmanglij",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908625",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "347563897",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-14",
+"plot": "Gen Z amateur sleuth and tech-savvy hacker Darby Hart and eight other guests are invited by a reclusive billionaire to participate in a retreat at a remote location. When one of the other guests is found dead, Darby must use her skills to prove it was murder before the killer takes another life.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908625",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NjQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28646:1"
+}
+]
+}
+}

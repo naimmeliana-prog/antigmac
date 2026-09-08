@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-15",
+"episode_count": 1,
+"id": 1145825107,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/4G477taMWoqLFMRvZGncnMOTOzb.jpg"
+}
+],
+"info": {
+"name": "NF - #NoFilter",
+"cover": "https://image.tmdb.org/t/p/w154/4G477taMWoqLFMRvZGncnMOTOzb.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908578",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "793709751"
+},
+"episodes": {
+"1": [
+{
+"id": "1186547430",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-15",
+"plot": "Marcely no longer feels like studying and quits to focus on a new goal: becoming an influencer. But life online is harder than it looks.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908578",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNzg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23784:1"
+}
+]
+}
+}

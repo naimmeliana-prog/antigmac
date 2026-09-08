@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-02-05",
+"episode_count": 1,
+"id": 748690302,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/57AQkQYW92wbqYoNqO0PqchdDjD.jpg"
+}
+],
+"info": {
+"name": "EN - 24: Legacy (2016)",
+"cover": "https://image.tmdb.org/t/p/original/57AQkQYW92wbqYoNqO0PqchdDjD.jpg",
+"plot": "",
+"cast": "",
+"director": "Manny Coto, Evan Katz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908622",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "345023377",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-05",
+"plot": "The story of  military hero Eric Carter’s return to the U.S. and the trouble that follows him back – compelling him to ask CTU for help in saving his life, and stopping what potentially could be one of the largest-scale terror attacks on American soil.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908622",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5ODYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29861:1"
+}
+]
+}
+}

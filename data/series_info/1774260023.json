@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-06",
+"episode_count": 2,
+"id": 392526418,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/170/16968.jpg"
+}
+],
+"info": {
+"name": "NF - Arcane (2021)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/170/16968.jpg",
+"plot": "",
+"cast": "",
+"director": "Christian Linke, Alex Yee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908587",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "337802564",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-06",
+"plot": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908587",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NDIxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15421:2"
+},
+{
+"id": "488293206",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-06",
+"plot": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908587",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NDIxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15421:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-17",
+"episode_count": 1,
+"id": 777144180,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxDaeEiH3JeACOTQdiZys8tse7.jpg"
+}
+],
+"info": {
+"name": "FR - Anatomie d’un divorce (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxDaeEiH3JeACOTQdiZys8tse7.jpg",
+"plot": "",
+"cast": "",
+"director": "Taffy Brodesser-Akner",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908676",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "1184716848",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-17",
+"plot": "Toby Fleishman, la quarantaine récemment séparé, se remet à la séduction via les applications de rencontre. Mais juste au début de son premier été de liberté sexuelle, son ex-femme, Rachel, disparaît, le laissant avec les enfants sans savoir où elle est ni si elle compte revenir. Alors qu'il doit concilier son rôle de parent, le retour de vieux amis, une promotion à l'hôpital qui se fait attendre, et toutes les femmes éligibles que Manhattan a à offrir, il se rend compte qu'il ne pourra jamais comprendre ce qui est arrivé à Rachel tant qu'il ne pourra pas jeter un regard plus honnête sur ce qui est arrivé à leur mariage en premier lieu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908676",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzMTM2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23136:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-11",
+"episode_count": 1,
+"id": 1733874597,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/gfEgy7HOQzvgZOyLE1wp42LhJs4.jpg"
+}
+],
+"info": {
+"name": "A+ - Me (2024)",
+"cover": "https://image.tmdb.org/t/p/original/gfEgy7HOQzvgZOyLE1wp42LhJs4.jpg",
+"plot": "",
+"cast": "",
+"director": "Barry Levy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908594",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "882735160",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-11",
+"plot": "New school. New family. New superpower. It's a season of change for 12-year-old Ben Vasani when he discovers that he can transform into anyone he meets. As a shapeshifter, Ben must figure out who he is and who he wants to be.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908594",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34974:1"
+}
+]
+}
+}

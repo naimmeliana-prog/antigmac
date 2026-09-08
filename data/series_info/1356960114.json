@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-10-09",
+"episode_count": 1,
+"id": 286346798,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6TsgxX1yKPES8cGLpsGcOeD7qm.jpg"
+}
+],
+"info": {
+"name": "DE - Die Helden der Nation (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6TsgxX1yKPES8cGLpsGcOeD7qm.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Lafferty",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908709",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "789159883",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-10-09",
+"plot": "„Die Helden der Nation“ basiert auf dem Sachbuch „The Right Stuff“ von Tom Wolfe, der darin die frühen Tage des US-Weltraumprogramms und das riskante Leben der ersten amerikanischen Astronauten schildert.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908709",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35520:1"
+}
+]
+}
+}

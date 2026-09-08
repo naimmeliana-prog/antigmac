@@ -1,7 +1,7 @@
 {
 "seasons": [
 {
-"air_date": "2026-05-08",
+"air_date": "2026-07-08",
 "episode_count": 14,
 "id": 1746988475,
 "name": "Temporada 1",
@@ -18,7 +18,7 @@
 "director": "Alethea Arnaquq-Baril, Stacey Aglok MacDonald",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788900273",
+"last_modified": "1788908738",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -28,6 +28,50 @@
 },
 "episodes": {
 "1": [
+{
+"id": "1040317314",
+"episode_num": 1,
+"title": "EX - Moana (2026)",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-08",
+"plot": "Tinejdžerka Moana se odaziva na poziv Okeana i, po prvi put, zajedno sa slavnim polubogom Mauijem, isplovljava izvan grebena svog ostrva Motunui na nezaboravno putovanje kako bi svom narodu vratila blagostanje.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908738",
+"season": 1,
+"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDkyIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
+"_stalker_id": "2143492"
+},
+{
+"id": "1729565716",
+"episode_num": 1,
+"title": "EX - Made in EU (2026)",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-19",
+"plot": "Iva radi u fabrici odeće u ruralnom delu Bugarske, boreći se sa upornom, a ipak misterioznom bolešću. Kada se sazna da je ona prvi slučaj zaraze virusom kovid u svom malom mestu, vest pokreće lavinu optužbi – najpre od strane vlasnika fabrike koji žele da prebace odgovornost, zatim od kolega, sina, pa i čitave zajednice, iako Iva godinama nije napuštala svoje mesto. Dok se javna hajka na Ivu pojačava sa pojavom prvih žrtava virusa, ona ubrzo postaje društveni izopštenik.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908738",
+"season": 1,
+"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDkxIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
+"_stalker_id": "2143491"
+},
 {
 "id": "296464715",
 "episode_num": 1,
@@ -45,7 +89,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDI2Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143426"
@@ -67,7 +111,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDI1Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143425"
@@ -89,7 +133,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDI0Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143424"
@@ -111,7 +155,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIzIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143423"
@@ -133,7 +177,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIyIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143422"
@@ -155,7 +199,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIxIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143421"
@@ -177,7 +221,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIwIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143420"
@@ -199,7 +243,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE5Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143419"
@@ -221,7 +265,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE4Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143418"
@@ -243,7 +287,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE3Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143417"
@@ -265,7 +309,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE2Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143416"
@@ -287,54 +331,10 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788900273",
+"added": "1788908738",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE1Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143415"
-},
-{
-"id": "1595897092",
-"episode_num": 1,
-"title": "ES - Furia de los Thunderman [UHD] (2026)",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2026-09-03",
-"plot": "Chloe, la hermana pequeña, desarrolla de repente un poder energético impredecible, y la Liga de Héroes exige enviarla a un internado de alta seguridad. La familia se divide: unos quieren entregarla por seguridad y otros deciden esconderla. Cuando la decana revela un plan oculto y peligroso, todos tendrán que unirse para salvarla y proteger la ciudad.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788900273",
-"season": 1,
-"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE0Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
-"_stalker_id": "2143414"
-},
-{
-"id": "458774110",
-"episode_num": 1,
-"title": "ES - El último gran guerrero (HQ) (2026)",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2026-04-09",
-"plot": "Mientras el Imperio Mongol se desmorona, un guerrero marcado por la guerra enfrenta su destino y rompe lealtades para proteger el futuro de la Ruta de la Seda.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788900273",
-"season": 1,
-"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDEzIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
-"_stalker_id": "2143413"
 }
 ]
 }

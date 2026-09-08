@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-05-08",
+"episode_count": 3,
+"id": 346006888,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://image.tmdb.org/t/p/w154/jVObyxtNxuPbG5czuKvm7pW56EV.jpg"
+}
+],
+"info": {
+"name": "NL - 4BLOCKS",
+"cover": "http://image.tmdb.org/t/p/w154/jVObyxtNxuPbG5czuKvm7pW56EV.jpg",
+"plot": "",
+"cast": "",
+"director": "Richard Kropf, Hanno Hackfort, Bob Konrad",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908558",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "942422358",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-05-08",
+"plot": "De Libanese Ali \"Toni\" Hamady woont al zesentwintig jaar met zijn gezin in Duitsland. Hij is de leider van een familieclan die in Berlijn-Neukölln woont. Om een leven zonder misdaad te leiden met zijn vrouw Kalila en zijn dochter Serin, wil hij zich terugtrekken uit deze rol. Nadat zijn zwager Latif is gearresteerd met negen kilo cocaïne in de auto, moet Toni reageren. Hij wil de controle over de Hamady-clan niet overlaten aan zijn onvoorspelbare broer Abbas. Toni zoekt Vince op; een oude vriend die hij vertrouwt en die aan zijn zijde staat.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908558",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4NDIyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18422:3"
+},
+{
+"id": "1302724321",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-05-08",
+"plot": "De Libanese Ali \"Toni\" Hamady woont al zesentwintig jaar met zijn gezin in Duitsland. Hij is de leider van een familieclan die in Berlijn-Neukölln woont. Om een leven zonder misdaad te leiden met zijn vrouw Kalila en zijn dochter Serin, wil hij zich terugtrekken uit deze rol. Nadat zijn zwager Latif is gearresteerd met negen kilo cocaïne in de auto, moet Toni reageren. Hij wil de controle over de Hamady-clan niet overlaten aan zijn onvoorspelbare broer Abbas. Toni zoekt Vince op; een oude vriend die hij vertrouwt en die aan zijn zijde staat.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908558",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4NDIyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18422:2"
+},
+{
+"id": "185025763",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-05-08",
+"plot": "De Libanese Ali \"Toni\" Hamady woont al zesentwintig jaar met zijn gezin in Duitsland. Hij is de leider van een familieclan die in Berlijn-Neukölln woont. Om een leven zonder misdaad te leiden met zijn vrouw Kalila en zijn dochter Serin, wil hij zich terugtrekken uit deze rol. Nadat zijn zwager Latif is gearresteerd met negen kilo cocaïne in de auto, moet Toni reageren. Hij wil de controle over de Hamady-clan niet overlaten aan zijn onvoorspelbare broer Abbas. Toni zoekt Vince op; een oude vriend die hij vertrouwt en die aan zijn zijde staat.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908558",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4NDIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18422:1"
+}
+]
+}
+}

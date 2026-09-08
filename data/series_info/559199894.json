@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-10-13",
+"episode_count": 2,
+"id": 66011455,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRluzzSBeJJNDqhnzKXOtaD6gyY.jpg"
+}
+],
+"info": {
+"name": "FR - Chair de poule 2023",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRluzzSBeJJNDqhnzKXOtaD6gyY.jpg",
+"plot": "",
+"cast": "",
+"director": "Nicholas Stoller, Rob Letterman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908678",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "569282080",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-13",
+"plot": "Cinq lycéens se lancent dans une terrible enquête pleine de rebondissements afin de cerner les circonstances du décès tragique, trente ans plus tôt, d’un adolescent, et découvrent au passage les lourds secrets de leurs parents.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908678",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28187:2"
+},
+{
+"id": "1004280047",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-10-13",
+"plot": "Cinq lycéens se lancent dans une terrible enquête pleine de rebondissements afin de cerner les circonstances du décès tragique, trente ans plus tôt, d’un adolescent, et découvrent au passage les lourds secrets de leurs parents.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908678",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28187:1"
+}
+]
+}
+}

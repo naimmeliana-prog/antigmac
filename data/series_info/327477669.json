@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-02-02",
+"episode_count": 1,
+"id": 1743326355,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66rKwpSexUZ3yTv5lBS1bjU4Ykk.jpg"
+}
+],
+"info": {
+"name": "NF - Altered Carbon 4K (2018)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66rKwpSexUZ3yTv5lBS1bjU4Ykk.jpg",
+"plot": "",
+"cast": "",
+"director": "Laeta Kalogridis",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908575",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "1526068275",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-02-02",
+"plot": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908575",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY3NTksInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6759:2"
+}
+]
+}
+}

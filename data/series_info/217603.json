@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-19",
+"episode_count": 1,
+"id": 1386933000,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/qduRygYeQc50UIxN3tNwtvwvqj5.jpg"
+}
+],
+"info": {
+"name": "DE - 1883 (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/qduRygYeQc50UIxN3tNwtvwvqj5.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908711",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "788081828",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-19",
+"plot": "Prequel-Serie zu „Yellowstone“ über die Dutton-Familie im Jahr 1883, die sich auf einen langen und beschwerlichen Weg durch die Great Plains in Richtung Westen auf der Suche nach einer besseren Zukunft begibt. Dabei lassen sie die Armut im Osten hinter sich mit dem Ziel, sich im wunderschönen Montana niederzulassen. In den Hauptrollen der Serie sind die Country-Stars Tim McGraw und Faith Hill zu sehen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908711",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyNDY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22467:1"
+}
+]
+}
+}

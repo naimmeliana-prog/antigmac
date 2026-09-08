@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-17",
+"episode_count": 1,
+"id": 799789248,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MBLVTRGXNOx5ZTSuuUZWFZmLpj.jpg"
+}
+],
+"info": {
+"name": "FR - Aaron Rodgers, quarterback insaisissable (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MBLVTRGXNOx5ZTSuuUZWFZmLpj.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908664",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "16858488",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-17",
+"plot": "Suivez le parcours du quarterback de NFL Aaron Rodgers après sa blessure au tendon d'Achille dans cette série sport qui retrace les moments clés de sa vie et de sa carrière.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908664",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4ODcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38870:1"
+}
+]
+}
+}

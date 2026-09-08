@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-12",
+"episode_count": 1,
+"id": 1082505925,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDq3avrUgFsAbTEJhRNtmo5aUWA.jpg"
+}
+],
+"info": {
+"name": "FR - Alien: Earth (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDq3avrUgFsAbTEJhRNtmo5aUWA.jpg",
+"plot": "",
+"cast": "",
+"director": "Noah Hawley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908683",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "1771166314",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-12",
+"plot": "Lorsqu'un mystérieux vaisseau spatial s'écrase sur la Terre, une jeune femme et un groupe hétéroclite de soldats tactiques font une découverte fatidique qui les amène à affronter la plus grande menace que la planète ait connue. Alors que les membres de l'équipe dépêchée pour récupérer l'épave recherchent des survivants, ils rencontrent des formes de vie prédatrices absolument terrifiantes. Face à cette nouvelle menace, l'équipe doit se battre pour survivre et faire des choix qui pourraient changer la Terre à jamais.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908683",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44751:1"
+}
+]
+}
+}

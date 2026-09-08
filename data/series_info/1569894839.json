@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-04-30",
+"episode_count": 1,
+"id": 891453,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffz1hS9PnGmJVnq98Mz1GVQklDu.jpg"
+}
+],
+"info": {
+"name": "NL - CARÊME (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffz1hS9PnGmJVnq98Mz1GVQklDu.jpg",
+"plot": "",
+"cast": "",
+"director": "Ian Kelly, Davide Serino",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908570",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "1404006750",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-04-30",
+"plot": "Beleef de opkomst van ’s werelds eerste beroemde chef-kok, Antonin Carême, en zijn val in de wereld van de spionage in Frankrijk ten tijde van Napoleon, waar manipulatie de boventoon voert. Als fijnproever en verleider is hij het perfecte wapen in een machtsstrijd.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908570",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNzc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43777:1"
+}
+]
+}
+}

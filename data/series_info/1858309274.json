@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-07-28",
+"episode_count": 1,
+"id": 568674398,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY9dQRKBKB0etZG2cmvvE833dJo.jpg"
+}
+],
+"info": {
+"name": "DE  - Chip und Chap: Das Leben im Park",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY9dQRKBKB0etZG2cmvvE833dJo.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908708",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "1721942400",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-28",
+"plot": "Zwei kleine Unruhestifter erleben Großes, während sie in einem Stadtpark ihr Leben genießen. Der nervöse, besorgte Chip und der gelassene Träumer Chap sind ein perfektes ungleiches Paar: Sie sind beste Freunde und treiben einander in den Wahnsinn. Diese ultimativen Außenseiter, die immer auf der Suche nach Eicheln sind, stellen sich mit der Hilfe von Pluto, Butch und anderen Disney-Kultfiguren vielen Bösewichten, groß und klein.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908708",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12975:1"
+}
+]
+}
+}

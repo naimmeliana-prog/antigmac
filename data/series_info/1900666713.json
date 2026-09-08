@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2016-11-25",
+"episode_count": 4,
+"id": 1656807658,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLBJSLuAQ8UqLIKZVWG3uNEXwjt.jpg"
+}
+],
+"info": {
+"name": "NF - 3%",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLBJSLuAQ8UqLIKZVWG3uNEXwjt.jpg",
+"plot": "",
+"cast": "",
+"director": "Pedro Aguilera",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908580",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "793709751"
+},
+"episodes": {
+"1": [
+{
+"id": "318238516",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNjksInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1069:4"
+},
+{
+"id": "1453045121",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNjksInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1069:2"
+},
+{
+"id": "1117162453",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNjksInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1069:3"
+},
+{
+"id": "591022898",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNjksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1069:1"
+}
+]
+}
+}

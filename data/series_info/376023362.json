@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-21",
+"episode_count": 2,
+"id": 278001422,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/206/20501.jpg"
+}
+],
+"info": {
+"name": "EN - A Man On The Inside (2024) (US)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/206/20501.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Schur",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908605",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "484638868"
+},
+"episodes": {
+"1": [
+{
+"id": "675786630",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-21",
+"plot": "A retired professor with a knack for snooping gets a new lease on life when a private investigator recruits him to go undercover and crack a case.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908605",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MTY1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38165:2"
+},
+{
+"id": "1052938147",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-21",
+"plot": "A retired professor with a knack for snooping gets a new lease on life when a private investigator recruits him to go undercover and crack a case.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908605",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38165:1"
+}
+]
+}
+}

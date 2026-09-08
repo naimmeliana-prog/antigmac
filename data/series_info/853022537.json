@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-25",
+"episode_count": 1,
+"id": 111019040,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW4HeeUUyTXRqHjxm3s9KIBkJ7t.jpg"
+}
+],
+"info": {
+"name": "NF - 800 Meters",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW4HeeUUyTXRqHjxm3s9KIBkJ7t.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908580",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "793709751"
+},
+"episodes": {
+"1": [
+{
+"id": "1534535896",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-25",
+"plot": "On Aug. 17, 2017, Spain suffers two terrorist attacks perpetrated by young people integrated into Spanish society. How could something like this happen?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908580",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE3NjM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "17638:1"
+}
+]
+}
+}

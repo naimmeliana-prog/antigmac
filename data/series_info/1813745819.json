@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2016-10-09",
+"episode_count": 3,
+"id": 1021625038,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1guXVT5XwvDTBjsvrFpk1p2E9Fd.jpg"
+}
+],
+"info": {
+"name": "DE - Divorce (2016) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1guXVT5XwvDTBjsvrFpk1p2E9Fd.jpg",
+"plot": "",
+"cast": "",
+"director": "Sharon Horgan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908721",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "741500315"
+},
+"episodes": {
+"1": [
+{
+"id": "712297755",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-09",
+"plot": "Im Mittelpunkt der Geschichte von Divorce befinden sich Frances und Robert. Gemeinsam lebt das Ehepaar in einer beschaulichen Wohnung in New York und hat eine kleine Tochter namens Lila. Wo einst Liebe und Einigkeit herrschten, haben mittlerweile Misstrauen und Eifersucht Einzug in die Beziehung gehalten. Unstimmigkeiten und Streitereien stehen bei Frances und Robert auf der Tagesordnung - genauso wie der wöchentliche Termin bei der Eheberatung. Ein Ausweg aus der Krise scheint jedoch nicht in Sicht. Also reicht Frances die Scheidung ein. Ab diesem Punkt beginnt der lange, beschwerliche Weg bis zur endgültigen Annullierung. Ob es dennoch Hoffnung für Frances' und Roberts Ehe gibt?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908721",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51671:3"
+},
+{
+"id": "1244395287",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-09",
+"plot": "Im Mittelpunkt der Geschichte von Divorce befinden sich Frances und Robert. Gemeinsam lebt das Ehepaar in einer beschaulichen Wohnung in New York und hat eine kleine Tochter namens Lila. Wo einst Liebe und Einigkeit herrschten, haben mittlerweile Misstrauen und Eifersucht Einzug in die Beziehung gehalten. Unstimmigkeiten und Streitereien stehen bei Frances und Robert auf der Tagesordnung - genauso wie der wöchentliche Termin bei der Eheberatung. Ein Ausweg aus der Krise scheint jedoch nicht in Sicht. Also reicht Frances die Scheidung ein. Ab diesem Punkt beginnt der lange, beschwerliche Weg bis zur endgültigen Annullierung. Ob es dennoch Hoffnung für Frances' und Roberts Ehe gibt?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908721",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51671:2"
+},
+{
+"id": "1236467193",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-09",
+"plot": "Im Mittelpunkt der Geschichte von Divorce befinden sich Frances und Robert. Gemeinsam lebt das Ehepaar in einer beschaulichen Wohnung in New York und hat eine kleine Tochter namens Lila. Wo einst Liebe und Einigkeit herrschten, haben mittlerweile Misstrauen und Eifersucht Einzug in die Beziehung gehalten. Unstimmigkeiten und Streitereien stehen bei Frances und Robert auf der Tagesordnung - genauso wie der wöchentliche Termin bei der Eheberatung. Ein Ausweg aus der Krise scheint jedoch nicht in Sicht. Also reicht Frances die Scheidung ein. Ab diesem Punkt beginnt der lange, beschwerliche Weg bis zur endgültigen Annullierung. Ob es dennoch Hoffnung für Frances' und Roberts Ehe gibt?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908721",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51671:1"
+}
+]
+}
+}

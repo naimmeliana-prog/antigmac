@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-06-30",
+"episode_count": 1,
+"id": 476804494,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNiI4TdbTb9Mc8ACKQnW9gHCxGZ.jpg"
+}
+],
+"info": {
+"name": "FR -  Gypsy",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNiI4TdbTb9Mc8ACKQnW9gHCxGZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Lisa Rubin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908647",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "883331223",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-06-30",
+"plot": "Jean Holloway est une thérapeute travaillant à New York et vivant une vie de famille tranquille en banlieue. Mais Jean s'ennuie dans cette vie sans surprise. Elle gère aussi très mal sa jalousie envers l’assistante de son mari et les jugements des mères du quartier suite au questionnement de sa fille concernant son identité sexuelle.\r\n\r\nJean utilise aussi des méthodes peu orthodoxes pour aider ses patients. En cachette et sous le pseudonyme \"Diane Hart\", elle fait connaissance des proches de ses patients pour connaître chaque point de vue, prenant même parfois le risque de se lier d'amitié avec eux. Malheureusement, sa méthode devient de plus en plus risquée quand elle tombe amoureuse et devient vite obsédée par l'attirante Sidney Pierce, l'ex-petite amie manipulatrice de l'un de ses patients.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908647",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5NzMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6973:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-12-05",
+"episode_count": 1,
+"id": 1626414718,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eZNjPQ9f0TQDHpsL2Ecktsv5v6.jpg"
+}
+],
+"info": {
+"name": "FR - Black Doves (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eZNjPQ9f0TQDHpsL2Ecktsv5v6.jpg",
+"plot": "",
+"cast": "",
+"director": "Joe Barton",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908641",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "698902610",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-12-05",
+"plot": "Helen Webb, épouse et mère à l'esprit vif, terre à terre, dévouée… et espionne professionnelle. Depuis dix ans, Helen transmet les secrets de son mari, homme politique, à l'organisation mystérieuse pour laquelle elle travaille. Lorsque son amant Jason est assassiné, sa mentore, l'énigmatique Reed, fait appel à un vieil ami d'Helen, Sam, pour la protéger. Ensemble, ils cherchent à savoir qui a tué Jason et pourquoi, s'embarquant dans une enquête qui les mènera à découvrir une vaste conspiration aux ramifications multiples. Entre la pègre londonienne et une crise géopolitique imminente, ils vont devoir remettre en cause les choix moraux qu'ils ont faits.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908641",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38654:1"
+}
+]
+}
+}

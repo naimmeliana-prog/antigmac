@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-19",
+"episode_count": 1,
+"id": 1311418460,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/gokkyt5nmzhtA9zHJFob2OhKmSp.jpg"
+}
+],
+"info": {
+"name": "A+ - Shape Island (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/gokkyt5nmzhtA9zHJFob2OhKmSp.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Klassen, Mac Barnett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908594",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "1235526122",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-19",
+"plot": "On a charming island, Square, Triangle, and Circle seek adventure and connection while learning how to navigate each other’s differences. Based on the internationally best-selling books by Mac Barnett and Jon Klassen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908594",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1Nzk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25799:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-20",
+"episode_count": 1,
+"id": 1016141227,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/vZpM6P8VSXR8W16X1J4LKfuCCIx.jpg"
+}
+],
+"info": {
+"name": "NL - AARON HERNANDEZ MURDER MYSTERY",
+"cover": "https://image.tmdb.org/t/p/w154/vZpM6P8VSXR8W16X1J4LKfuCCIx.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908563",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "1704219779",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-20",
+"plot": "Wanneer een vriend van Aaron Hernandez dood wordt aangetroffen in de buurt van zijn huis, richten rechercheurs hun blik op de New England Patriot. Tijdens het proces ontvouwt zich een sensationeel familiedrama terwijl Aaron vecht voor zijn leven. Later komen er links naar een andere brute moord naar voren.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908563",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3MzcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27370:1"
+}
+]
+}
+}

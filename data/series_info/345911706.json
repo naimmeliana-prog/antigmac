@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-21",
+"episode_count": 1,
+"id": 319825035,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg"
+}
+],
+"info": {
+"name": "DE - 3 Body Problem (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg",
+"plot": "",
+"cast": "",
+"director": "David Benioff, D. B. Weiss, Alexander Woo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908703",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "972452081"
+},
+"episodes": {
+"1": [
+{
+"id": "92528912",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-21",
+"plot": "Über Kontinente und Jahrzehnte hinweg entdecken fünf brillante Freunde Unglaubliches, während sich die Naturgesetze auflösen und eine existenzielle Bedrohung bevorsteht.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908703",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMzkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33392:1"
+}
+]
+}
+}

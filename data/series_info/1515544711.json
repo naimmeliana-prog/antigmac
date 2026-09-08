@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2015-01-14",
+"episode_count": 7,
+"id": 293853591,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pngTgBT5RqWfFGqrP9vvKwgiG19.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Bosch (2015) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pngTgBT5RqWfFGqrP9vvKwgiG19.jpg",
+"plot": "",
+"cast": "",
+"director": "Eric Overmyer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908693",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "341640078",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-14",
+"plot": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDk4LCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45498:6"
+},
+{
+"id": "137668823",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-14",
+"plot": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDk4LCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45498:7"
+},
+{
+"id": "554368666",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-14",
+"plot": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDk4LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45498:5"
+},
+{
+"id": "1106100532",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-14",
+"plot": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDk4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45498:4"
+},
+{
+"id": "1402440939",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-14",
+"plot": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDk4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45498:3"
+},
+{
+"id": "1809745742",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-14",
+"plot": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDk4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45498:2"
+},
+{
+"id": "70560353",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-01-14",
+"plot": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908693",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45498:1"
+}
+]
+}
+}

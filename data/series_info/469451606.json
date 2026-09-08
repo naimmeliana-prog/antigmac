@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-16",
+"episode_count": 1,
+"id": 69540702,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8MTaEQ0HoJHiF0TkSMhVZcA5X9c.jpg"
+}
+],
+"info": {
+"name": "NL - A PRIVATE AFFAIR",
+"cover": "https://image.tmdb.org/t/p/w154/8MTaEQ0HoJHiF0TkSMhVZcA5X9c.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos, Gema R. Neira, Teresa Fernández Valdés",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908559",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "330063040",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-16",
+"plot": "1940, Galicië. Marina Quiroga, een moedig meisje uit de hogere klasse, met de ziel van een rechercheur, besluit met behulp van Héctor, haar loyale butler, de moordenaar te vinden die haar stad terroriseert.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908559",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwNjg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20685:1"
+}
+]
+}
+}

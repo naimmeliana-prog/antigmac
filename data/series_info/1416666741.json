@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2012-05-05",
+"episode_count": 1,
+"id": 449791754,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/jmNaE5fD3a2yOy7k8ugk3uhbOXD.jpg"
+}
+],
+"info": {
+"name": "D+ - Fury Files (2012)",
+"cover": "https://image.tmdb.org/t/p/original/jmNaE5fD3a2yOy7k8ugk3uhbOXD.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908601",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "97553050",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-05-05",
+"plot": "The mysterious Fury gives viewers top-secret access to S.H.I.E.L.D. intel on key Marvel heroes and villains by bringing together a mix of animation and motion comic art.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMTk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11195:1"
+}
+]
+}
+}

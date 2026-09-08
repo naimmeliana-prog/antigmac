@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2001-09-09",
+"episode_count": 1,
+"id": 258889691,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7k5gQJ4vriLH4vSEPYP0pafs4z.jpg"
+}
+],
+"info": {
+"name": "NL - BAND OF BROTHERS",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7k5gQJ4vriLH4vSEPYP0pafs4z.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908556",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "1245859732",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-09-09",
+"plot": "Band of Brothers is een tiendelige televisieserie uit 2001 over de laatste maanden van de Tweede Wereldoorlog. Het is een co-productie van Steven Spielberg en Tom Hanks, waarin de rol van de Easy Company van het 506th Parachute Infantry Regiment, US 101st Airborne Division, in de oorlog wordt getoond. De serie begint met de training in Amerika voorafgaand aan de landing in Normandië en eindigt in het \"Adelaarsnest\" van Adolf Hitler, aan het einde van de oorlog. 'Band of Brothers' is gebaseerd op het gelijknamige boek van Stephen Ambrose.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908556",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1434:1"
+}
+]
+}
+}

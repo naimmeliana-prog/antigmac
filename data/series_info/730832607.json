@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-23",
+"episode_count": 3,
+"id": 482778238,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/1FVjzmjXC8T05nXioYEfX7UISAw.jpg"
+}
+],
+"info": {
+"name": "EN - All Rise (2019)",
+"cover": "https://image.tmdb.org/t/p/original/1FVjzmjXC8T05nXioYEfX7UISAw.jpg",
+"plot": "",
+"cast": "",
+"director": "Greg Spottiswood",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908619",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "1218560612",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A look at the personal and professional lives of the judges, lawyers, clerks, bailiffs and cops who work at an L.A. County courthouse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyNCwic2Vhc29uX251bSI6MiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "824:2"
+},
+{
+"id": "631838078",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A look at the personal and professional lives of the judges, lawyers, clerks, bailiffs and cops who work at an L.A. County courthouse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyNCwic2Vhc29uX251bSI6MSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "824:1"
+},
+{
+"id": "468715235",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-23",
+"plot": "A look at the personal and professional lives of the judges, lawyers, clerks, bailiffs and cops who work at an L.A. County courthouse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgyNCwic2Vhc29uX251bSI6MywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "824:3"
+}
+]
+}
+}

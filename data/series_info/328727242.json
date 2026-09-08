@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-06-22",
+"episode_count": 2,
+"id": 1977545684,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqyFaf0nuthVW914JbZHaWLp6Ds.jpg"
+}
+],
+"info": {
+"name": "FR -  Zoe et Raven",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqyFaf0nuthVW914JbZHaWLp6Ds.jpg",
+"plot": "",
+"cast": "",
+"director": "Vicki Lutas, Anna McCleery, Kirstie Falkous",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908658",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "967259469",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-06-22",
+"plot": "Une Californienne de 15 ans passe l'été sur une île au large de l'Angleterre, dans la maison d'enfance de sa mère, où elle se lie d'amitié avec un cheval mystérieux.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908658",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5NjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6968:2"
+},
+{
+"id": "1237424113",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-06-22",
+"plot": "Une Californienne de 15 ans passe l'été sur une île au large de l'Angleterre, dans la maison d'enfance de sa mère, où elle se lie d'amitié avec un cheval mystérieux.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908658",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5NjgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6968:1"
+}
+]
+}
+}

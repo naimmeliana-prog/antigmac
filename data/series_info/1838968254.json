@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-04-16",
+"episode_count": 2,
+"id": 537487509,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42bFOkD1eBDjyqn0uHSyAYuL2qv.jpg"
+}
+],
+"info": {
+"name": "DE - Big Shot (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42bFOkD1eBDjyqn0uHSyAYuL2qv.jpg",
+"plot": "",
+"cast": "",
+"director": "Brad Garrett, David E. Kelley, Dean Lorey",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908708",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "163488320",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-16",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908708",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMjY0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13264:2"
+},
+{
+"id": "1086781807",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-04-16",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908708",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMjY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13264:1"
+}
+]
+}
+}

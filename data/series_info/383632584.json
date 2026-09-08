@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2011-03-16",
+"episode_count": 1,
+"id": 957660157,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBwDrV7HFK0SNhwTyYaBVn5OiIz.jpg"
+}
+],
+"info": {
+"name": "NF - 49 Days",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBwDrV7HFK0SNhwTyYaBVn5OiIz.jpg",
+"plot": "",
+"cast": "",
+"director": "Choi Moon-seok",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908581",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "1349766825",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2011-03-16",
+"plot": "After an accident shatters her storybook life, a comatose woman gets a second chance at life when a reaper from above intervenes, at a cost.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908581",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjYyMzMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6233:1"
+}
+]
+}
+}

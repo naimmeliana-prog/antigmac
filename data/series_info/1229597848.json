@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-10",
+"episode_count": 1,
+"id": 1610906176,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GM9H5JEbkhrsiSOupx7nHWVonP.jpg"
+}
+],
+"info": {
+"name": "FR - Blazing Transfer Students",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GM9H5JEbkhrsiSOupx7nHWVonP.jpg",
+"plot": "",
+"cast": "",
+"director": "Toshio Lee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908642",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "1567204772",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-10",
+"plot": "Les garçons de Johnny's West incarnent une bande déjantée de lycéens transférés, recrutés pour une mystérieuse mission commanditée par leur énigmatique directeur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908642",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5NDUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6945:1"
+}
+]
+}
+}

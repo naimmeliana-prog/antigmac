@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-05",
+"episode_count": 3,
+"id": 502095006,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/bqFOiSOFig6lexqQxXeRS2ufvvp.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Star Trek: Strange New Worlds (2022) (US)",
+"cover": "https://image.tmdb.org/t/p/original/bqFOiSOFig6lexqQxXeRS2ufvvp.jpg",
+"plot": "",
+"cast": "",
+"director": "Akiva Goldsman, Alex Kurtzman, Jenny Lumet",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908701",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "974888874"
+},
+"episodes": {
+"1": [
+{
+"id": "233795459",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-05",
+"plot": "„Star Trek: Strange New Worlds“ folgt Captain Christopher Pike und seiner Crew auf der USS Enterprise NCC-1701, die neue Welten erkunden und Kontakt zu fremden Spezies aufnehmen. Dabei stehen Abenteuer, diplomatische Missionen und die Sicherung der Föderation im Mittelpunkt. Unterstützt wird Pike von seiner Ersten Offizierin Una Chin-Riley und dem Wissenschafts-Offizier Spock, die gemeinsam zahlreiche Herausforderungen meistern.\r\n\r\nDie Serie erzählt klassische, episodische Geschichten im Geist der ursprünglichen Star-Trek-Reihe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46763:3"
+},
+{
+"id": "1079068719",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-05",
+"plot": "„Star Trek: Strange New Worlds“ folgt Captain Christopher Pike und seiner Crew auf der USS Enterprise NCC-1701, die neue Welten erkunden und Kontakt zu fremden Spezies aufnehmen. Dabei stehen Abenteuer, diplomatische Missionen und die Sicherung der Föderation im Mittelpunkt. Unterstützt wird Pike von seiner Ersten Offizierin Una Chin-Riley und dem Wissenschafts-Offizier Spock, die gemeinsam zahlreiche Herausforderungen meistern.\r\n\r\nDie Serie erzählt klassische, episodische Geschichten im Geist der ursprünglichen Star-Trek-Reihe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46763:2"
+},
+{
+"id": "1626431509",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-05",
+"plot": "„Star Trek: Strange New Worlds“ folgt Captain Christopher Pike und seiner Crew auf der USS Enterprise NCC-1701, die neue Welten erkunden und Kontakt zu fremden Spezies aufnehmen. Dabei stehen Abenteuer, diplomatische Missionen und die Sicherung der Föderation im Mittelpunkt. Unterstützt wird Pike von seiner Ersten Offizierin Una Chin-Riley und dem Wissenschafts-Offizier Spock, die gemeinsam zahlreiche Herausforderungen meistern.\r\n\r\nDie Serie erzählt klassische, episodische Geschichten im Geist der ursprünglichen Star-Trek-Reihe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46763:1"
+}
+]
+}
+}

@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2018-09-26",
+"episode_count": 5,
+"id": 797757419,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/wi8HyIgWnqv6PfCWmncunRqnl5U.jpg"
+}
+],
+"info": {
+"name": "EN - A Million Little Things (2018)",
+"cover": "https://image.tmdb.org/t/p/original/wi8HyIgWnqv6PfCWmncunRqnl5U.jpg",
+"plot": "",
+"cast": "",
+"director": "D.J. Nash",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908623",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "1889445975",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-26",
+"plot": "A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friends dies unexpectedly.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDAsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4200:4"
+},
+{
+"id": "1412679092",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-26",
+"plot": "A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friends dies unexpectedly.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDAsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4200:2"
+},
+{
+"id": "1636144167",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-26",
+"plot": "A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friends dies unexpectedly.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDAsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4200:5"
+},
+{
+"id": "437769610",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-26",
+"plot": "A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friends dies unexpectedly.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4200:1"
+},
+{
+"id": "378788747",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-09-26",
+"plot": "A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friends dies unexpectedly.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDAsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4200:3"
+}
+]
+}
+}

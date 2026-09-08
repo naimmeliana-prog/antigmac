@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-19",
+"episode_count": 2,
+"id": 46052894,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/z63D1Y8udrrFOhLFCT9YElcTr0w.jpg"
+}
+],
+"info": {
+"name": "DE - Bad Sisters (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/z63D1Y8udrrFOhLFCT9YElcTr0w.jpg",
+"plot": "",
+"cast": "",
+"director": "Sharon Horgan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908717",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1100179950"
+},
+"episodes": {
+"1": [
+{
+"id": "288147311",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-19",
+"plot": "Die schwarzhumorige Comedyserie folgt dem Leben der fünf Garvey-Schwestern (mit Sharon Horgan, Anne-Marie Duff, Eva Birthistle, Sarah Greene, und Eve Hewson), die durch den frühen Tod ihrer Eltern und das Versprechen, sich immer gegenseitig zu beschützen, eng aneinander gebunden sind…",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908717",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMzYxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22361:2"
+},
+{
+"id": "401333232",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-19",
+"plot": "Die schwarzhumorige Comedyserie folgt dem Leben der fünf Garvey-Schwestern (mit Sharon Horgan, Anne-Marie Duff, Eva Birthistle, Sarah Greene, und Eve Hewson), die durch den frühen Tod ihrer Eltern und das Versprechen, sich immer gegenseitig zu beschützen, eng aneinander gebunden sind…",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908717",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMzYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22361:1"
+}
+]
+}
+}

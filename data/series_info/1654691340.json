@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2016-06-13",
+"episode_count": 1,
+"id": 781052781,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/glUWJyqN9EUO2kb8rB0T1PUmiJU.jpg"
+}
+],
+"info": {
+"name": "FR - BrainDead",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/glUWJyqN9EUO2kb8rB0T1PUmiJU.jpg",
+"plot": "",
+"cast": "",
+"director": "Michelle King, Robert King",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908672",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "279541944",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-06-13",
+"plot": "Laurel Healy fait ses premiers pas à Washington dans le cabinet de son frère, sénateur au sein de l'administration américaine. Alors que le gouvernement est en crise, des insectes venus de l'espace se nourrissent peu à peu des cerveaux des membres du Congrès et des employés de la Maison Blanche, prenant le contrôle du pays. La jeune débutante va-t-elle parvenir à enrayer le problème et sauver la nation ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908672",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMjg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10287:1"
+}
+]
+}
+}

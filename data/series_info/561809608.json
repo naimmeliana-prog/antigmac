@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-08-22",
+"episode_count": 1,
+"id": 1891189867,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/laCJxobHoPVaLQTKxc14Y2zV64J.jpg"
+}
+],
+"info": {
+"name": "NL - AHSOKA",
+"cover": "https://image.tmdb.org/t/p/w154/laCJxobHoPVaLQTKxc14Y2zV64J.jpg",
+"plot": "",
+"cast": "",
+"director": "Dave Filoni",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908564",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "1334711877",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-22",
+"plot": "Het Galactische Rijk is gevallen. De voormalige jedi-strijder Ahsoka Tano moet een opdoemende bedrijging voor een kwetsbaar heelal onderzoeken. Hiertoe reist ze van het ene einde van dit heelal nar het andere, op zoek naar grootadmiraal Thrawn, een voormalige commandant in het voormalige Galactische Rijk.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908564",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28104:1"
+}
+]
+}
+}

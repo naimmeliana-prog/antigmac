@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-08-08",
+"episode_count": 1,
+"id": 1557222769,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/wsV6zx4b61Mamp7LSMLVxUImaoR.jpg"
+}
+],
+"info": {
+"name": "A+ - Carpool Karaoke: The Series (2017)",
+"cover": "https://image.tmdb.org/t/p/original/wsV6zx4b61Mamp7LSMLVxUImaoR.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908590",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "204477889",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-08-08",
+"plot": "Celebrity pairings ride along in a car together as they sing tunes from their personal playlists and surprise fans who don’t expect to see big stars belting out tunes one lane over. Based on the segment on The Late Late Show with James Corden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908590",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzYxLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28761:5"
+}
+]
+}
+}

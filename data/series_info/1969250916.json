@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-21",
+"episode_count": 1,
+"id": 1236592562,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/wiUGKGKyRTsZnJvuCraAZ4HZnYv.jpg"
+}
+],
+"info": {
+"name": "D+ - Firebuds (2022)",
+"cover": "https://image.tmdb.org/t/p/original/wiUGKGKyRTsZnJvuCraAZ4HZnYv.jpg",
+"plot": "",
+"cast": "",
+"director": "Craig Gerber",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908601",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "1231415776",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-21",
+"plot": "Set in a fantastical world where talking vehicles live, work and play with the humans who drive them, the series follows a boy and his firetruck as they team up with their first responder friends to help others in their community with problems, both big and small.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwNTUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20551:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2013-02-02",
+"episode_count": 1,
+"id": 1853869246,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/jFiSOHu2YFfK9ZaLyDePoUg8XF.jpg"
+}
+],
+"info": {
+"name": "D+ - Dude, That's My Ghost! (2013)",
+"cover": "https://image.tmdb.org/t/p/original/jFiSOHu2YFfK9ZaLyDePoUg8XF.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908600",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "207549931",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2013-02-02",
+"plot": "Dude, That's My Ghost! is a French/British animated television series produced by French production company Gaumont Animation that airs on Disney XD in the United Kingdom. The series was created and designed by Jan Van Rijsselberge. Dude, That's My Ghost! has been greenlit for 52 x 11 minute episodes. The show premiered on February 2, 2013 on Disney XD.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908600",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNTAwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10500:1"
+}
+]
+}
+}

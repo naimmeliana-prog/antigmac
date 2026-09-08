@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-01-09",
+"episode_count": 1,
+"id": 1698029235,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggppcCM4Jcf3GLcPinaqo8fOPmD.jpg"
+}
+],
+"info": {
+"name": "FR - A l'aube de l'Amérique (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggppcCM4Jcf3GLcPinaqo8fOPmD.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark L. Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908640",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "609578393",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-01-09",
+"plot": "Fuyant leur passé, une mère et son fils font de nouvelles rencontres et affrontent les étendues hostiles du Far West américain, où règnent liberté et cruauté.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908640",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMDMzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40033:1"
+}
+]
+}
+}

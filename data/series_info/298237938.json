@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-05-21",
+"episode_count": 2,
+"id": 506751976,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbWqfPKBhqOZQEGq7HdDkX0Bjib.jpg"
+}
+],
+"info": {
+"name": "FR - Blood & Treasure",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbWqfPKBhqOZQEGq7HdDkX0Bjib.jpg",
+"plot": "",
+"cast": "",
+"director": "Matthew Federman, Stephen Scaia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908691",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "50378143",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-21",
+"plot": "Un brillant antiquaire et une trafiquante d'art rusée s'associent pour arrêter un terroriste qui finance ses attaques en pillant des trésors.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908691",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4704:2"
+},
+{
+"id": "492861598",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-21",
+"plot": "Un brillant antiquaire et une trafiquante d'art rusée s'associent pour arrêter un terroriste qui finance ses attaques en pillant des trésors.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908691",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4704:1"
+}
+]
+}
+}

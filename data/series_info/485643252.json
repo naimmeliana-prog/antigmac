@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-06",
+"episode_count": 1,
+"id": 1763947927,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/3k4J5hO9Z3w60F8ZEQvdnS7DEbh.jpg"
+}
+],
+"info": {
+"name": "EX - 6ixtynin9 the Series",
+"cover": "https://image.tmdb.org/t/p/w154/3k4J5hO9Z3w60F8ZEQvdnS7DEbh.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908773",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1569160013"
+},
+"episodes": {
+"1": [
+{
+"id": "1365613159",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-06",
+"plot": "After losing her job, a woman discovers a mysterious package on her apartment doorstep and her life takes a turn for the worse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908773",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28415:1"
+}
+]
+}
+}

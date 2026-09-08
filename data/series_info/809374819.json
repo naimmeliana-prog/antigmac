@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-07-16",
+"episode_count": 1,
+"id": 1328003202,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/74ud6xkbufch44JpwPiRqP7O5mR.jpg"
+}
+],
+"info": {
+"name": "D+ - Bug Juice: My Adventures At Camp (2018)",
+"cover": "https://image.tmdb.org/t/p/original/74ud6xkbufch44JpwPiRqP7O5mR.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908599",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "861667076",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-07-16",
+"plot": "Return to Camp Waziyatah for a contemporary new installment of the unscripted docu-series capturing the authentic adventures of a group of kids age 10-12 as they head to summer camp, join in exciting and challenging outdoor activities, establish tight bonds with bunkmates and create unforgettable memories.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908599",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3MDYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5706:1"
+}
+]
+}
+}

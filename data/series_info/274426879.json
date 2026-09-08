@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-23",
+"episode_count": 1,
+"id": 788407993,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/IW8fpq495IsRTuCMeTeiomLxbE.jpg"
+}
+],
+"info": {
+"name": "EN - CIA (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/original/IW8fpq495IsRTuCMeTeiomLxbE.jpg",
+"plot": "",
+"cast": "",
+"director": "Dick Wolf, David Hudgins",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908621",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "689998002",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-23",
+"plot": "When by-the-book FBI Special Agent Bill Goodman is loaned out to a clandestine CIA/FBI task force, he finds himself teamed up with secretive and roguish CIA case officer Colin Glass. Together they work covert operations in New York, uncovering international plots, terrorist cells, and geopolitical secrets.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48376:1"
+}
+]
+}
+}

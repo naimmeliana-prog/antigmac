@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-18",
+"episode_count": 3,
+"id": 221567297,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqha9y2eLTZEIR1WVY5O6TKQW5f.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Das Rad der Zeit (2021) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqha9y2eLTZEIR1WVY5O6TKQW5f.jpg",
+"plot": "",
+"cast": "",
+"director": "Rafe Judkins",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908694",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "1834444655",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-18",
+"plot": "Das Leben von fünf jungen Leuten ändert sich für immer, als eine fremde und mächtige Frau in ihr Dorf kommt und behauptet, einer entspräche einer alten Prophezeiung mit der Macht, die Balance zwischen Licht und Dunkel für immer zu kippen. Sie müssen sich entscheiden, ob sie der Fremden - und sich einander - trauen bevor der Dunkle König ausbricht und die Letzte Schlacht beginnt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45459:2"
+},
+{
+"id": "1366932114",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-18",
+"plot": "Das Leben von fünf jungen Leuten ändert sich für immer, als eine fremde und mächtige Frau in ihr Dorf kommt und behauptet, einer entspräche einer alten Prophezeiung mit der Macht, die Balance zwischen Licht und Dunkel für immer zu kippen. Sie müssen sich entscheiden, ob sie der Fremden - und sich einander - trauen bevor der Dunkle König ausbricht und die Letzte Schlacht beginnt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45459:3"
+},
+{
+"id": "790957913",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-18",
+"plot": "Das Leben von fünf jungen Leuten ändert sich für immer, als eine fremde und mächtige Frau in ihr Dorf kommt und behauptet, einer entspräche einer alten Prophezeiung mit der Macht, die Balance zwischen Licht und Dunkel für immer zu kippen. Sie müssen sich entscheiden, ob sie der Fremden - und sich einander - trauen bevor der Dunkle König ausbricht und die Letzte Schlacht beginnt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45459:1"
+}
+]
+}
+}

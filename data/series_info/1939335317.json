@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-17",
+"episode_count": 1,
+"id": 974676347,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZsWeJzJbsb14IjNgTeBP3FEmvx.jpg"
+}
+],
+"info": {
+"name": "DE - #blackAF (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZsWeJzJbsb14IjNgTeBP3FEmvx.jpg",
+"plot": "",
+"cast": "",
+"director": "Kenya Barris",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908702",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "972452081"
+},
+"episodes": {
+"1": [
+{
+"id": "576165336",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-17",
+"plot": "A father takes an irreverent and honest approach to parenting and relationships.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908702",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzOTYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5396:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-21",
+"episode_count": 1,
+"id": 501788139,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/j0gJj90qYbMN7uZXpFSXtQJatsS.jpg"
+}
+],
+"info": {
+"name": "EN - ARK: The Animated Series (2024)",
+"cover": "https://image.tmdb.org/t/p/original/j0gJj90qYbMN7uZXpFSXtQJatsS.jpg",
+"plot": "",
+"cast": "",
+"director": "Jesse Rapczak, Jeremy Stieglitz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908618",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "1543289714",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-21",
+"plot": "In a mysterious primeval land populated by dinosaurs and other extinct creatures, people from throughout human history have been resurrected. When 21st century Australian paleontologist Helena Walker awakes there after tragedy, she must learn to survive and find new allies, or die again at the hands of ruthless warlords, all while trying to uncover the true nature of their strange new world.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908618",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNTU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31559:1"
+}
+]
+}
+}

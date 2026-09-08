@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-01",
+"episode_count": 1,
+"id": 184766038,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg"
+}
+],
+"info": {
+"name": "NL -  DRACULA",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+"plot": "",
+"cast": "",
+"director": "Hartswood Films, BBC",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908552",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1873917108"
+},
+"episodes": {
+"1": [
+{
+"id": "1924049671",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-01",
+"plot": "Van de makers van Sherlock. In Transsylvanië trekt de bloeddrinkende graaf in 1897 zijn plannen tegen Victoriaans Londen. En wees gewaarschuwd: de doden reizen snel.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908552",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwOTIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1092:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-26",
+"episode_count": 1,
+"id": 752114409,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC4JawqYlUS9fwvAzGfY5lSz5uB.jpg"
+}
+],
+"info": {
+"name": "FR - BAKI-DOU : Le samouraï invincible (2026) (JP)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC4JawqYlUS9fwvAzGfY5lSz5uB.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908633",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "1439854779",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-26",
+"plot": "Baki et les maîtres de l'arène souterraine se retrouvent face à une menace d'envergure historique : le plus grand samouraï du Japon, Musashi Miyamoto, a été ramené à la vie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908633",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mjk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48296:1"
+}
+]
+}
+}

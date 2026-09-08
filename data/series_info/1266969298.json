@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2017-09-25",
+"episode_count": 7,
+"id": 1912228364,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53P8oHo9cfOsgb1cLxBi4pFY0ja.jpg"
+}
+],
+"info": {
+"name": "FR -  The Good Doctor",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53P8oHo9cfOsgb1cLxBi4pFY0ja.jpg",
+"plot": "",
+"cast": "",
+"director": "ABC Studios, 3AD, Sony Pictures Television",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908665",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "1914351703",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Atteint du syndrome d'Asperger, le chirurgien Shaun Murphy rejoint un prestigieux hôpital de Boston. Isolé, il éprouve des difficultés à s'intégrer à l'équipe. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige suscite l'admiration de ses collègues, même les plus sceptiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1512:1"
+},
+{
+"id": "1932636079",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Atteint du syndrome d'Asperger, le chirurgien Shaun Murphy rejoint un prestigieux hôpital de Boston. Isolé, il éprouve des difficultés à s'intégrer à l'équipe. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige suscite l'admiration de ses collègues, même les plus sceptiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTIsInNlYXNvbl9udW0iOjcsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1512:7"
+},
+{
+"id": "107108576",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Atteint du syndrome d'Asperger, le chirurgien Shaun Murphy rejoint un prestigieux hôpital de Boston. Isolé, il éprouve des difficultés à s'intégrer à l'équipe. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige suscite l'admiration de ses collègues, même les plus sceptiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTIsInNlYXNvbl9udW0iOjYsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1512:6"
+},
+{
+"id": "1933743666",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Atteint du syndrome d'Asperger, le chirurgien Shaun Murphy rejoint un prestigieux hôpital de Boston. Isolé, il éprouve des difficultés à s'intégrer à l'équipe. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige suscite l'admiration de ses collègues, même les plus sceptiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1512:2"
+},
+{
+"id": "83356139",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Atteint du syndrome d'Asperger, le chirurgien Shaun Murphy rejoint un prestigieux hôpital de Boston. Isolé, il éprouve des difficultés à s'intégrer à l'équipe. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige suscite l'admiration de ses collègues, même les plus sceptiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTIsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1512:5"
+},
+{
+"id": "680006670",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Atteint du syndrome d'Asperger, le chirurgien Shaun Murphy rejoint un prestigieux hôpital de Boston. Isolé, il éprouve des difficultés à s'intégrer à l'équipe. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige suscite l'admiration de ses collègues, même les plus sceptiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTIsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1512:3"
+},
+{
+"id": "4946249",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "Atteint du syndrome d'Asperger, le chirurgien Shaun Murphy rejoint un prestigieux hôpital de Boston. Isolé, il éprouve des difficultés à s'intégrer à l'équipe. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige suscite l'admiration de ses collègues, même les plus sceptiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908665",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MTIsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1512:4"
+}
+]
+}
+}

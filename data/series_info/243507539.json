@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-05",
+"episode_count": 1,
+"id": 166235418,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/195/19429.jpg"
+}
+],
+"info": {
+"name": "EN - Among Us (2026) (US)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/195/19429.jpg",
+"plot": "",
+"cast": "",
+"director": "Owen Dennis",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908619",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "1305640085",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-05",
+"plot": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5ODk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49898:1"
+}
+]
+}
+}

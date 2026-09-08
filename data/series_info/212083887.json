@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-01-22",
+"episode_count": 2,
+"id": 760644548,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/pN5TGy2cTKHMCnY2UNIhkDWHY2X.jpg"
+}
+],
+"info": {
+"name": "EN - Accused (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/pN5TGy2cTKHMCnY2UNIhkDWHY2X.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908624",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "419140965",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-22",
+"plot": "In this crime anthology series, viewers discover how an ordinary person got caught up in an extraordinary situation, ultimately revealing how one wrong turn leads to another, until it’s too late to turn back. Told from the defendant’s point of view, each episode opens in a courtroom on the accused without knowing their crime or how they ended up on trial.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzOTQ0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23944:2"
+},
+{
+"id": "1454293802",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-01-22",
+"plot": "In this crime anthology series, viewers discover how an ordinary person got caught up in an extraordinary situation, ultimately revealing how one wrong turn leads to another, until it’s too late to turn back. Told from the defendant’s point of view, each episode opens in a courtroom on the accused without knowing their crime or how they ended up on trial.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzOTQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23944:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-04-06",
+"episode_count": 1,
+"id": 462985053,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg"
+}
+],
+"info": {
+"name": "NL - STAR WARS MAUL",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+"plot": "",
+"cast": "",
+"director": "Dave Filoni",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "285708219",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-04-06",
+"plot": "Na de gebeurtenissen van 'The Clone Wars' wil Maul z'n misdaadsyndicaat opnieuw opbouwen op een planeet waar het Rijk nog niet is geweest. Daar treft hij een ontgoochelde, jonge Jedi Padawan, die de leerling kan zijn die hij zoekt om hem te helpen bij zijn onophoudelijke streven naar wraak.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NDY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49465:1"
+}
+]
+}
+}

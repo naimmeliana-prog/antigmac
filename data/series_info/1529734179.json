@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-04",
+"episode_count": 2,
+"id": 1117145458,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuDysbuWHcg2Xt5a0JsqAxeGH1X.jpg"
+}
+],
+"info": {
+"name": "NF - Action Pack",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuDysbuWHcg2Xt5a0JsqAxeGH1X.jpg",
+"plot": "",
+"cast": "",
+"director": "William Harper",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908585",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "103056505",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-04",
+"plot": "The heroic kids of the Action Academy take on the bad guys with their hearts, their wits and their superpowers, and bring out the best in them.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTQ3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15947:2"
+},
+{
+"id": "1699845160",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-04",
+"plot": "The heroic kids of the Action Academy take on the bad guys with their hearts, their wits and their superpowers, and bring out the best in them.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15947:1"
+}
+]
+}
+}

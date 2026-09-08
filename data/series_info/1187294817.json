@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-04",
+"episode_count": 1,
+"id": 1468353897,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/pPWPsbW1cP7TdPP8O5NGC8fOSgf.jpg"
+}
+],
+"info": {
+"name": "EN - All Or Nothing: Arsenal (2022)",
+"cover": "https://image.tmdb.org/t/p/original/pPWPsbW1cP7TdPP8O5NGC8fOSgf.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908608",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "55762277",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-04",
+"plot": "Mikel Arteta leads North London-based football club Arsenal through the 2021-22 season.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908608",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5NDUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19451:1"
+}
+]
+}
+}

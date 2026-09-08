@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-08-04",
+"episode_count": 1,
+"id": 548509837,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDIXKLKDCGDLum19WrkNwZT60a0.jpg"
+}
+],
+"info": {
+"name": "FR - Cooking With Paris",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDIXKLKDCGDLum19WrkNwZT60a0.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908657",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "660797040"
+},
+"episodes": {
+"1": [
+{
+"id": "1212971854",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-04",
+"plot": "Paris Hilton sait cuisiner... en quelque sorte. Et elle bouleverse l'émission de cuisine traditionnelle. Elle n'est pas un chef qualifié et elle n'essaie pas de l'être. Avec l'aide de ses amis célèbres, elle découvre de nouveaux ingrédients, de nouvelles recettes et des appareils de cuisine exotiques.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908657",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11302:1"
+}
+]
+}
+}

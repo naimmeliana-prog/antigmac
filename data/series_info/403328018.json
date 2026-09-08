@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2018-11-30",
+"episode_count": 3,
+"id": 1908344436,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xswkOJni9tJYda2yN1QQtgBVaVJ.jpg"
+}
+],
+"info": {
+"name": "FR - Baby",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xswkOJni9tJYda2yN1QQtgBVaVJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Anna Negri, Andrea De Sica",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908650",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "312315299",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-30",
+"plot": "Un groupe d'ados en quête d'identité et d'indépendance défient les codes sociaux sur fond d'amours interdites, de pressions familiales et de secrets partagés. Lasses de leur univers huppé qui n'est que paraître, Ludovica et Chiara entament une vie secrète qui n'obéit à aucune règle...\r\n\r\nHistoire librement inspirée d’un fait divers survenu à Rome il y a quelques années.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5367:1"
+},
+{
+"id": "966143643",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-30",
+"plot": "Un groupe d'ados en quête d'identité et d'indépendance défient les codes sociaux sur fond d'amours interdites, de pressions familiales et de secrets partagés. Lasses de leur univers huppé qui n'est que paraître, Ludovica et Chiara entament une vie secrète qui n'obéit à aucune règle...\r\n\r\nHistoire librement inspirée d’un fait divers survenu à Rome il y a quelques années.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5367:2"
+},
+{
+"id": "1588806622",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-30",
+"plot": "Un groupe d'ados en quête d'identité et d'indépendance défient les codes sociaux sur fond d'amours interdites, de pressions familiales et de secrets partagés. Lasses de leur univers huppé qui n'est que paraître, Ludovica et Chiara entament une vie secrète qui n'obéit à aucune règle...\r\n\r\nHistoire librement inspirée d’un fait divers survenu à Rome il y a quelques années.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5367:3"
+}
+]
+}
+}

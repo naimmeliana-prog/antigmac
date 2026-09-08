@@ -1,0 +1,297 @@
+{
+"seasons": [
+{
+"air_date": "2009-09-17",
+"episode_count": 12,
+"id": 1383918223,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o51NY5Zjgh7ridCu93dKOdKftVy.jpg"
+}
+],
+"info": {
+"name": "FR - Archer",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o51NY5Zjgh7ridCu93dKOdKftVy.jpg",
+"plot": "",
+"cast": "",
+"director": "Adam Reed",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908661",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "1612138786",
+"episode_num": 1,
+"title": "Season 13",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjoxMywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "12411:13"
+},
+{
+"id": "1704198478",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:4"
+},
+{
+"id": "1907962016",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:6"
+},
+{
+"id": "403643437",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:3"
+},
+{
+"id": "71611651",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:2"
+},
+{
+"id": "562133572",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:1"
+},
+{
+"id": "1864776606",
+"episode_num": 1,
+"title": "Season 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjo5LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:9"
+},
+{
+"id": "903686226",
+"episode_num": 1,
+"title": "Season 12",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjoxMiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "12411:12"
+},
+{
+"id": "474914192",
+"episode_num": 1,
+"title": "Season 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjo4LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:8"
+},
+{
+"id": "998330645",
+"episode_num": 1,
+"title": "Season 10",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjoxMCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "12411:10"
+},
+{
+"id": "1015517706",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:7"
+},
+{
+"id": "535766487",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-09-17",
+"plot": "Archer, espion stylé et séducteur, a beau posséder les gadgets les plus cool, il perd complètement ses moyens quand il a affaire à la patronne, qui est aussi sa mère.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNDExLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12411:5"
+}
+]
+}
+}

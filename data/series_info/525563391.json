@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-04",
+"episode_count": 1,
+"id": 1123044067,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/civ6fOaj6yWA73VeP8qUhlc7Yro.jpg"
+}
+],
+"info": {
+"name": "FR - All the Sharks : Trouvez-les tous ! (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/civ6fOaj6yWA73VeP8qUhlc7Yro.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908655",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "660797040"
+},
+"episodes": {
+"1": [
+{
+"id": "1774209335",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-04",
+"plot": "Dans cette compétition de téléréalité, quatre équipes de passionnés des océans et des requins sillonnent les océans dans une course autour du monde pour identifier, filmer et recenser les requins les plus rares et remporter un prix de 50 000 dollars destiné à une organisation engagée dans la protection des océans.\r\n\r\nDes eaux du Japon, des Maldives, d’Afrique du Sud, d’Australie, des Bahamas et des îles Galapagos à la recherche de requins, des Caraïbes au Pacifique, les participants cherchent à localiser des espèces aussi menacées qu’exceptionnelles, comme le grand requin-marteau ou le requin-chabot ocellé. Une compétition de téléréalité haletante entre science, écologie et aventure.\r\n\r\nAlliant aventure, sensibilisation et compétition, c'est une série éducative et visuellement impressionnante, qui met en lumière la beauté et la vulnérabilité du monde sous-marin.\r\n\r\nUne série pour les passionnés de nature et de défis.\r\n\r\nUn hommage visuel aux requins et à leur écosystème.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908655",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0MTkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44191:1"
+}
+]
+}
+}

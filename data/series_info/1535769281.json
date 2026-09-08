@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-05-29",
+"episode_count": 3,
+"id": 260858914,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/4qWHyGzJk9BSZfn0aqydhSMHGLv.jpg"
+}
+],
+"info": {
+"name": "A+ - Central Park (2020)",
+"cover": "https://www.themoviedb.org/t/p/original/4qWHyGzJk9BSZfn0aqydhSMHGLv.jpg",
+"plot": "",
+"cast": "",
+"director": "Josh Gad, Loren Bouchard, Nora Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908592",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "721712031",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-29",
+"plot": "An animated musical comedy about the Tillermans, a family that lives in a castle in Central Park. Owen, the park manager, and Paige, his journalist wife, raise their kids Molly and Cole in the world’s most famous park, while fending off a hotel heiress, Bitsy Brandenham, who would love nothing more than to turn the park into condos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU2NTksInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5659:3"
+},
+{
+"id": "41470963",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-29",
+"plot": "An animated musical comedy about the Tillermans, a family that lives in a castle in Central Park. Owen, the park manager, and Paige, his journalist wife, raise their kids Molly and Cole in the world’s most famous park, while fending off a hotel heiress, Bitsy Brandenham, who would love nothing more than to turn the park into condos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU2NTksInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5659:2"
+},
+{
+"id": "1490765959",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-05-29",
+"plot": "An animated musical comedy about the Tillermans, a family that lives in a castle in Central Park. Owen, the park manager, and Paige, his journalist wife, raise their kids Molly and Cole in the world’s most famous park, while fending off a hotel heiress, Bitsy Brandenham, who would love nothing more than to turn the park into condos.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU2NTksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5659:1"
+}
+]
+}
+}

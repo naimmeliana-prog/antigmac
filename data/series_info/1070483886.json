@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-28",
+"episode_count": 1,
+"id": 751433703,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1eL0iQiLx141MSVbDoY4B24Oqo.jpg"
+}
+],
+"info": {
+"name": "FR - Au service du passé",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1eL0iQiLx141MSVbDoY4B24Oqo.jpg",
+"plot": "",
+"cast": "",
+"director": "Adam Glass",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908646",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "1000223101",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Lorsque son passé d'espionne russe refait surface, une mère célibataire aux compétences uniques doit gérer sa vie de famille tout en combattant un ennemi insidieux.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908646",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NDg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15485:1"
+}
+]
+}
+}

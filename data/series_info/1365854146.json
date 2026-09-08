@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2003-09-20",
+"episode_count": 2,
+"id": 553668841,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBkLL9XoFwqqfhn8cRdocl9DEho.jpg"
+}
+],
+"info": {
+"name": "NL - LILO & STITCH: DE SERIE (2003)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBkLL9XoFwqqfhn8cRdocl9DEho.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Sanders, Dean DeBlois",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908567",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "286716286",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-09-20",
+"plot": "Als Stitch, Dr. Jumba's geliefde experiment 626 was, waar zijn dan de andere 625? Jumba's overgebleven experimenten zijn overal op Hawaii geland in de vorm van uitgedroogde peulen. De experimenten worden geactiveerd wanneer ze in water terecht komen en, net als Sticth, heeft ieder experiment zijn eigen specifieke talent voor destructie...en humor. Lilo en Stitch gaan op pad om de \"neefjes\" van Stitch te vinden voor ze in de handen vallen van de kwaadaardige Dr. Jacques von Hamsterviel!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908567",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTI5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38529:2"
+},
+{
+"id": "1688158150",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2003-09-20",
+"plot": "Als Stitch, Dr. Jumba's geliefde experiment 626 was, waar zijn dan de andere 625? Jumba's overgebleven experimenten zijn overal op Hawaii geland in de vorm van uitgedroogde peulen. De experimenten worden geactiveerd wanneer ze in water terecht komen en, net als Sticth, heeft ieder experiment zijn eigen specifieke talent voor destructie...en humor. Lilo en Stitch gaan op pad om de \"neefjes\" van Stitch te vinden voor ze in de handen vallen van de kwaadaardige Dr. Jacques von Hamsterviel!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908567",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NTI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38529:1"
+}
+]
+}
+}

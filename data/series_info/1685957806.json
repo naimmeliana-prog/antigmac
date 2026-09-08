@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "1989-04-15",
+"episode_count": 1,
+"id": 1266496625,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LmWAQFMD2j8gTUGgmD8vq7xxyA.jpg"
+}
+],
+"info": {
+"name": "DE - Ranma ½ (1989)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LmWAQFMD2j8gTUGgmD8vq7xxyA.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908707",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1681055178"
+},
+"episodes": {
+"1": [
+{
+"id": "1276643319",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1989-04-15",
+"plot": "Der Kampfsport-Fan Ranma Saotome begibt sich gemeinsam mit seinem Vater Genma auf eine Trainingsexpedition nach China. Während des Trainings stossen sie sich gegenseitig in die sogenannten Verfluchten Quellen - Genma fällt in die Quelle des ertrunkenen Pandas, Ranma in die Quelle des ertrunkenen Mädchens. Die Folge: Kommen die beiden jetzt mit kalten Wasser in Berührung, verwandelt sich Genma in einen Panda, Ranma in ein Mädchen. Bei Kontakt mit heissem Wasser verwandeln sie sich zurück. Kurz darauf erfährt Ranma, dass sein Vater ihn gegen seinen Willen mit der jungen Akane verlobt hat. Diese kann Männer nicht leiden und ist natürlich überrascht, dass ihr Verlobter ein halbes Mädchen ist...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908707",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxMzkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41393:1"
+}
+]
+}
+}

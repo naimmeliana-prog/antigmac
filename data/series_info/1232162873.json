@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-11-11",
+"episode_count": 2,
+"id": 823585067,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/40TZH8I1mPCKRkYjA95iD2AWwSs.jpg"
+}
+],
+"info": {
+"name": "FR - 44 chats",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/40TZH8I1mPCKRkYjA95iD2AWwSs.jpg",
+"plot": "",
+"cast": "",
+"director": "Iginio Straffi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908658",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "134239570",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-11",
+"plot": "Les moustaches dressées et les queues entortillées, les 44 chats forment un groupe de musique joyeux et bienveillant. Ils sont toujours prêts à rendre service et à accueillir tout le monde dans leur garage",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908658",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMDI2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12026:2"
+},
+{
+"id": "579962249",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-11-11",
+"plot": "Les moustaches dressées et les queues entortillées, les 44 chats forment un groupe de musique joyeux et bienveillant. Ils sont toujours prêts à rendre service et à accueillir tout le monde dans leur garage",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908658",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMDI2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12026:1"
+}
+]
+}
+}

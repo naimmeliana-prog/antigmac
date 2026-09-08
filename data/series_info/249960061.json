@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-24",
+"episode_count": 1,
+"id": 1988460431,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/enS7OYgJoL2GqTFmvb58PYUIjAZ.jpg"
+}
+],
+"info": {
+"name": "NL - AMERICAN BORN CHINESE",
+"cover": "https://image.tmdb.org/t/p/w154/enS7OYgJoL2GqTFmvb58PYUIjAZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Kelvin Yu",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908565",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "33182876",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-24",
+"plot": "Gebaseerd op de grensverleggende striproman van Gene Luen Yang, waarin de beproevingen worden beschreven van een gewone Amerikaanse tiener wiens leven voor altijd verandert als hij vriendschap sluit met de zoon van een mythische god. Dit is het verhaal van een jongeman die knokt voor zijn eigen identiteit, met familiebeslommeringen, komedie en heel wat kungfu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908565",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2ODMwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "26830:1"
+}
+]
+}
+}

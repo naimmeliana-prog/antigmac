@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2012-03-23",
+"episode_count": 1,
+"id": 1190016028,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg"
+}
+],
+"info": {
+"name": "EN - Doc McStuffins (2012)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Nee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908632",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "485975234",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2012-03-23",
+"plot": "A young African-American girl aspires to be a doctor like her mom.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908632",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNzM0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41734:4"
+}
+]
+}
+}

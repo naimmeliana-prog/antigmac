@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-15",
+"episode_count": 1,
+"id": 1055389023,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://m.media-amazon.com/images/M/MV5BMjBjNmQyMjYtYzExYy00Y2JiLWE2ZTItZDkxNzEyYjliNzk0XkEyXkFqcGdeQXVyNDg0NjMwNDY@._V1_FMjpg_UX1000_.jpg"
+}
+],
+"info": {
+"name": "EN - #NoFilter (BR) (2023)",
+"cover": "https://m.media-amazon.com/images/M/MV5BMjBjNmQyMjYtYzExYy00Y2JiLWE2ZTItZDkxNzEyYjliNzk0XkEyXkFqcGdeQXVyNDg0NjMwNDY@._V1_FMjpg_UX1000_.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908603",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "484638868"
+},
+"episodes": {
+"1": [
+{
+"id": "1508530364",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-15",
+"plot": "Marcely no longer feels like studying and quits to focus on a new goal: becoming an influencer. But life online is harder than it looks.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908603",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIzNDkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "23493:1"
+}
+]
+}
+}

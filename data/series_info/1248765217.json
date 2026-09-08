@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-09",
+"episode_count": 1,
+"id": 1507884729,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/e1HOt09BgYH5oZ8xfgi8TQiReYR.jpg"
+}
+],
+"info": {
+"name": "FR - A Killer Paradox",
+"cover": "https://image.tmdb.org/t/p/w154/e1HOt09BgYH5oZ8xfgi8TQiReYR.jpg",
+"plot": "",
+"cast": "",
+"director": "Lee Chang-hee, Kim Da-min",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908636",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "1191316815",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-09",
+"plot": "Un meurtre fortuit en entraînant un autre, un jeune homme ordinaire se retrouve coincé dans un interminable jeu du chat et de la souris avec un détective trop perspicace.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908636",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwNTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30594:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-05-25",
+"episode_count": 1,
+"id": 790727839,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://image.tmdb.org/t/p/w154/qkkEreanwpk4SEeejSToobXsqpC.jpg"
+}
+],
+"info": {
+"name": "NL - ALL THE SAME OR NOT",
+"cover": "http://image.tmdb.org/t/p/w154/qkkEreanwpk4SEeejSToobXsqpC.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908564",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1343320773"
+},
+"episodes": {
+"1": [
+{
+"id": "1202532841",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-05-25",
+"plot": "Voor Carol en haar vriendinnen begint een nieuw schooljaar, waarin ze vaak naar het strand gaan en zich gaan vermaken in hun geliefde Rio de Janeiro. Maar hun vriendschap wordt op de proef gesteld. De moeder van Carol gaat trouwen, haar stiefvader wordt haar leraar, ze krijgt er een onuitstaanbare stiefbroer bij en haar vriendinnen kampen met persoonlijke problemen. Maar ze blijven bij elkaar… Niet dus.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908564",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMDA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20004:1"
+}
+]
+}
+}

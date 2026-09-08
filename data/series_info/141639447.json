@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-09",
+"episode_count": 1,
+"id": 1799568504,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHQGu6ducKC7JcDU6lqWyx7tWW5.jpg"
+}
+],
+"info": {
+"name": "NL - BALLARD (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHQGu6ducKC7JcDU6lqWyx7tWW5.jpg",
+"plot": "",
+"cast": "",
+"director": "Kendall Sherwood",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908562",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "1162060300",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-09",
+"plot": "Rechercheur Renée Ballard geeft de leiding aan een nieuwe, ondergefinancierde divisie die onopgeloste zaken behandelt in Los Angeles. Terwijl ze tientallen jaren aan misdaden onderzoekt, waaronder de reeks moorden van een seriemoordenaar en een vermoorde John Doe, ontdekt Ballard al snel een gevaarlijke samenzwering binnen de LAPD. Met de hulp van haar vrijwilligersteam en de gepensioneerde rechercheur Harry Bosch, navigeert Ballard door persoonlijke trauma's, professionele uitdagingen en levensbedreigende gevaren om de waarheid aan het licht te brengen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908562",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0Nzk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44797:1"
+}
+]
+}
+}

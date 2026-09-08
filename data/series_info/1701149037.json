@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-10",
+"episode_count": 1,
+"id": 1395429406,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eCGq50CMloT2a1bMDB8JPpGuf2.jpg"
+}
+],
+"info": {
+"name": "FR - Class of '09",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eCGq50CMloT2a1bMDB8JPpGuf2.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom Rob Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908678",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "800653890"
+},
+"episodes": {
+"1": [
+{
+"id": "1649705675",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-10",
+"plot": "Une cohorte d'agents du FBI à trois époques différentes qui doit affronter des changements importants alors que le système juridique américain est altéré par l'intelligence artificielle. Racontant des histoires qui s'entremêlent pendant de nombreuses décennies, la série examine la nature de la justice, l'humanité et les choix qui finissent par définir nos vies et notre héritage. La série met en vedette Tayo, un des agents les plus inorthodoxes à joindre l'organisation, ainsi que Poet, une agente d'infiltration extrêmement talentueuse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908678",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25002:1"
+}
+]
+}
+}

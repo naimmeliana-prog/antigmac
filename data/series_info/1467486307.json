@@ -1,0 +1,187 @@
+{
+"seasons": [
+{
+"air_date": "2016-01-17",
+"episode_count": 7,
+"id": 915765584,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg"
+}
+],
+"info": {
+"name": "FR - Billions",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Koppelman, David Levien, Andrew Ross Sorkin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908690",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "1541453535",
+"episode_num": 1,
+"title": "Season 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "Dans le monde de la finance, Chuck Rhoades, un procureur fédéral de New York, affronte certains des plus riches gestionnaires de fonds d'investissement des Etats-Unis. Dans la ligne de mire, l'ambitieux et brillant Bobby \"Axe\" Axelrod, dont la puissance ne cesse de croître. Les deux hommes rivalisent d'ingéniosité pour manoeuvrer au mieux au grand dam de l'autre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTUxLCJzZWFzb25fbnVtIjo3LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15551:7"
+},
+{
+"id": "38004707",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "Dans le monde de la finance, Chuck Rhoades, un procureur fédéral de New York, affronte certains des plus riches gestionnaires de fonds d'investissement des Etats-Unis. Dans la ligne de mire, l'ambitieux et brillant Bobby \"Axe\" Axelrod, dont la puissance ne cesse de croître. Les deux hommes rivalisent d'ingéniosité pour manoeuvrer au mieux au grand dam de l'autre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTUxLCJzZWFzb25fbnVtIjo2LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15551:6"
+},
+{
+"id": "1459449041",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "Dans le monde de la finance, Chuck Rhoades, un procureur fédéral de New York, affronte certains des plus riches gestionnaires de fonds d'investissement des Etats-Unis. Dans la ligne de mire, l'ambitieux et brillant Bobby \"Axe\" Axelrod, dont la puissance ne cesse de croître. Les deux hommes rivalisent d'ingéniosité pour manoeuvrer au mieux au grand dam de l'autre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTUxLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15551:4"
+},
+{
+"id": "1838343722",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "Dans le monde de la finance, Chuck Rhoades, un procureur fédéral de New York, affronte certains des plus riches gestionnaires de fonds d'investissement des Etats-Unis. Dans la ligne de mire, l'ambitieux et brillant Bobby \"Axe\" Axelrod, dont la puissance ne cesse de croître. Les deux hommes rivalisent d'ingéniosité pour manoeuvrer au mieux au grand dam de l'autre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTUxLCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15551:5"
+},
+{
+"id": "901684561",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "Dans le monde de la finance, Chuck Rhoades, un procureur fédéral de New York, affronte certains des plus riches gestionnaires de fonds d'investissement des Etats-Unis. Dans la ligne de mire, l'ambitieux et brillant Bobby \"Axe\" Axelrod, dont la puissance ne cesse de croître. Les deux hommes rivalisent d'ingéniosité pour manoeuvrer au mieux au grand dam de l'autre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTUxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15551:3"
+},
+{
+"id": "1235217214",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "Dans le monde de la finance, Chuck Rhoades, un procureur fédéral de New York, affronte certains des plus riches gestionnaires de fonds d'investissement des Etats-Unis. Dans la ligne de mire, l'ambitieux et brillant Bobby \"Axe\" Axelrod, dont la puissance ne cesse de croître. Les deux hommes rivalisent d'ingéniosité pour manoeuvrer au mieux au grand dam de l'autre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15551:1"
+},
+{
+"id": "144254429",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-17",
+"plot": "Dans le monde de la finance, Chuck Rhoades, un procureur fédéral de New York, affronte certains des plus riches gestionnaires de fonds d'investissement des Etats-Unis. Dans la ligne de mire, l'ambitieux et brillant Bobby \"Axe\" Axelrod, dont la puissance ne cesse de croître. Les deux hommes rivalisent d'ingéniosité pour manoeuvrer au mieux au grand dam de l'autre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTUxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15551:2"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-30",
+"episode_count": 1,
+"id": 1422816829,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWnaPJiiVeCBJyDDDXwivuPA4F.jpg"
+}
+],
+"info": {
+"name": "NF - A-List To Playlist (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWnaPJiiVeCBJyDDDXwivuPA4F.jpg",
+"plot": "",
+"cast": "",
+"director": "Lee Jung-won, Yang Jung-woo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908584",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "1050891819",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-30",
+"plot": "With a 20-year acting career, Cho Jung-seok takes on the challenge of debuting as a singer in 100 days, mobilizing his entire network against the clock!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908584",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NTEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36512:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-01",
+"episode_count": 1,
+"id": 1367743925,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/bA0Zxbqkpz3M6r19quD6f3LDk7i.jpg"
+}
+],
+"info": {
+"name": "EN - Branson (2022)",
+"cover": "https://www.themoviedb.org/t/p/original/bA0Zxbqkpz3M6r19quD6f3LDk7i.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Smith",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908617",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "1399655009",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-01",
+"plot": "An expansive and intimate 70-year journey, from Branson’s upbringing as the son of a spirited, tough-love mother in Britain, to his pursuits of extreme, personal daredevilry that serve both to grow his businesses’ brands and feed his insatiable, lifelong thirst for high-stakes adventure.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908617",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMjM0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22234:1"
+}
+]
+}
+}

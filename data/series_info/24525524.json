@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-08-17",
+"episode_count": 1,
+"id": 269202033,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://image.tmdb.org/t/p/w154/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg"
+}
+],
+"info": {
+"name": "NL - ALL OR NOTHING MANCHESTER CITY",
+"cover": "http://image.tmdb.org/t/p/w154/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908560",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "531424144",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-17",
+"plot": "Achter de schermen bij Manchester City in hun Premier League ‘17-18 seizoen waar ze op fabelachtige wijze kampioen geworden zijn.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908560",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2MTUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16151:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-19",
+"episode_count": 1,
+"id": 1780510010,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/850lMgW2R8lRuCMj7ovXK36vpev.jpg"
+}
+],
+"info": {
+"name": "FR - Ancestral",
+"cover": "https://image.tmdb.org/t/p/w154/850lMgW2R8lRuCMj7ovXK36vpev.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908653",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1487237529"
+},
+"episodes": {
+"1": [
+{
+"id": "141555022",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-19",
+"plot": "La jeune, Yun Seo-ha, hérite des terres familiales à la mort soudaine de son oncle et qui se retrouve mêlée à des événements étranges...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908653",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30088:1"
+}
+]
+}
+}

@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-08",
+"episode_count": 4,
+"id": 990922374,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTmpmCTPOSPjK18FVMYfuSUu76Y.jpg"
+}
+],
+"info": {
+"name": "FR - Acapulco",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTmpmCTPOSPjK18FVMYfuSUu76Y.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Shuman, Austin Winsberg, Eduardo Cisneros",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908670",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "383929549",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Les rêves de Máximo Gallardo, vingt ans et plus, deviennent réalité lorsqu'il obtient le travail de sa vie en tant que garçon de cabane dans la station balnéaire la plus chaude d'Acapulco. Il se rend vite compte que le travail est beaucoup plus compliqué qu'il ne l'avait jamais imaginé et pour réussir, il doit apprendre à naviguer dans une clientèle exigeante, un mentor mercuriel et une vie familiale compliquée, sans se perdre dans les raccourcis ou les tentations.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908670",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTQ3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12947:4"
+},
+{
+"id": "292494866",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Les rêves de Máximo Gallardo, vingt ans et plus, deviennent réalité lorsqu'il obtient le travail de sa vie en tant que garçon de cabane dans la station balnéaire la plus chaude d'Acapulco. Il se rend vite compte que le travail est beaucoup plus compliqué qu'il ne l'avait jamais imaginé et pour réussir, il doit apprendre à naviguer dans une clientèle exigeante, un mentor mercuriel et une vie familiale compliquée, sans se perdre dans les raccourcis ou les tentations.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908670",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTQ3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12947:3"
+},
+{
+"id": "160425850",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Les rêves de Máximo Gallardo, vingt ans et plus, deviennent réalité lorsqu'il obtient le travail de sa vie en tant que garçon de cabane dans la station balnéaire la plus chaude d'Acapulco. Il se rend vite compte que le travail est beaucoup plus compliqué qu'il ne l'avait jamais imaginé et pour réussir, il doit apprendre à naviguer dans une clientèle exigeante, un mentor mercuriel et une vie familiale compliquée, sans se perdre dans les raccourcis ou les tentations.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908670",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTQ3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12947:2"
+},
+{
+"id": "1009792472",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Les rêves de Máximo Gallardo, vingt ans et plus, deviennent réalité lorsqu'il obtient le travail de sa vie en tant que garçon de cabane dans la station balnéaire la plus chaude d'Acapulco. Il se rend vite compte que le travail est beaucoup plus compliqué qu'il ne l'avait jamais imaginé et pour réussir, il doit apprendre à naviguer dans une clientèle exigeante, un mentor mercuriel et une vie familiale compliquée, sans se perdre dans les raccourcis ou les tentations.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908670",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12947:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-23",
+"episode_count": 1,
+"id": 1761027566,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRuy69wbGalOVbVFXS92A7qpVfs.jpg"
+}
+],
+"info": {
+"name": "FR - Cool Attitude : Encore plus cool",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRuy69wbGalOVbVFXS92A7qpVfs.jpg",
+"plot": "",
+"cast": "",
+"director": "Bruce W. Smith, Ralph Farquhar",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908685",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "270780515"
+},
+"episodes": {
+"1": [
+{
+"id": "1042444863",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-23",
+"plot": "Suite de la série acclamée, \"Cool Attitude : Encore plus cool\" suit les aventures et mésaventures de Penny Proud, qui vient d'avoir 14 ans, et de sa famille alors qu'ils naviguent dans la vie moderne avec hilarité et un grand cœur. Les années 2020 apportent une nouvelle carrière à maman Trudy, des rêves plus fous pour papa Oscar et de nouveaux défis pour Penny, y compris une voisine socialement engagée qui pense qu'elle a beaucoup à lui apprendre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908685",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2NTE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16514:1"
+}
+]
+}
+}

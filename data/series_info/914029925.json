@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-09-21",
+"episode_count": 1,
+"id": 924752204,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6wGRQNp2XlgFlmX15R70QnwplU.jpg"
+}
+],
+"info": {
+"name": "NF - 18 Again",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6wGRQNp2XlgFlmX15R70QnwplU.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908581",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "826111864",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-21",
+"plot": "Jung Da-Jung is married to 37-year-old Hong Dae-Young. They have an 18-year-old son and daughter. Jung Da-Jung works hard as a rookie announcer and she has a warm heart. She becomes completely fed up with her husband and is unable to deal with him anymore. Hong Dae-Young gets fired from his job and is looked down upon by his family. Jung Da-Jung hands him divorce papers.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908581",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkzMTIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9312:1"
+}
+]
+}
+}

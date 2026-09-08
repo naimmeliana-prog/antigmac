@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-09-06",
+"episode_count": 1,
+"id": 402847005,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEs3hBKHkIhE597SguuggGtFGOf.jpg"
+}
+],
+"info": {
+"name": "NF - Archibald's Next Big Thing",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEs3hBKHkIhE597SguuggGtFGOf.jpg",
+"plot": "",
+"cast": "",
+"director": "Tony Hale, Drew Champion, Jacob Moffat",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908587",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "1508446195",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-09-06",
+"plot": "Happy-go-lucky chicken Archibald may not remember to do his chores, but he never forgets to have fun. After all, life's an adventure!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908587",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTksInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2119:2"
+}
+]
+}
+}

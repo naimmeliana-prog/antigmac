@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-09-04",
+"episode_count": 1,
+"id": 729853866,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfSauM2c95LkHwTFrr8ojigQ36y.jpg"
+}
+],
+"info": {
+"name": "DE - NCIS: Tony & Ziva (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfSauM2c95LkHwTFrr8ojigQ36y.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908715",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "1737891409",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-09-04",
+"plot": "Als seine Sicherheitsfirma angegriffen wird, müssen Tony und Ziva quer durch Europa fliehen, um herauszufinden, wer hinter ihnen her ist, und vielleicht sogar wieder lernen, einander zu vertrauen, damit sie endlich ihr unkonventionelles Glück finden können.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908715",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1MzYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45361:1"
+}
+]
+}
+}

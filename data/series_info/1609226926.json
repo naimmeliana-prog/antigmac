@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-02-20",
+"episode_count": 1,
+"id": 332693298,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6wWJFDOHGTDfwucvFGpE1OfcYm.jpg"
+}
+],
+"info": {
+"name": "DE - Banksters (2026) (DE)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6wWJFDOHGTDfwucvFGpE1OfcYm.jpg",
+"plot": "",
+"cast": "",
+"director": "Bernd Lange",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908720",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "741500315"
+},
+"episodes": {
+"1": [
+{
+"id": "937267696",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-02-20",
+"plot": "Berlin, 2004, Yusuf wird mitten auf dem Fußballplatz festgenommen. Der Vorwurf: mehrfacher Bankraub. Die Frage: Wer waren seine Komplizen? Schweigen bedeutet Gefängnis, Reden Verrat. Doch wer hat ihn verpfiffen und warum ausgerechnet ihn? Nichts ist wie es zunächst scheint.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908720",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4MTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48165:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2018-03-02",
+"episode_count": 2,
+"id": 1399448872,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouigEf38GDHsH5U46J7iwNUBqIN.jpg"
+}
+],
+"info": {
+"name": "FR - B Le Commencement",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouigEf38GDHsH5U46J7iwNUBqIN.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908661",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "1201189260",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-02",
+"plot": "Le détective de génie Keith Flick intègre la police royale tandis qu'émerge B, un tueur en série. Le mystérieux Koku sera-t-il un allié ou une cible ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMjE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11215:1"
+},
+{
+"id": "1690311142",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-02",
+"plot": "Le détective de génie Keith Flick intègre la police royale tandis qu'émerge B, un tueur en série. Le mystérieux Koku sera-t-il un allié ou une cible ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908661",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMjE1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11215:2"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-19",
+"episode_count": 1,
+"id": 638732770,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xI0gpmNljWQRCkB8UgSraXRB56.jpg"
+}
+],
+"info": {
+"name": "FR - Alma",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xI0gpmNljWQRCkB8UgSraXRB56.jpg",
+"plot": "",
+"cast": "",
+"director": "Sergio G. Sánchez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908645",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "543094481",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-19",
+"plot": "Après avoir perdu la mémoire dans un étrange accident où presque tous ses camarades ont péri, Alma tente de comprendre ce qui s'est passé et de retrouver son identité.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908645",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5Njg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19688:1"
+}
+]
+}
+}

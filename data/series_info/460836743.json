@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-14",
+"episode_count": 1,
+"id": 1234876795,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/noRVimjdx6PwPBCVikhExYqogsX.jpg"
+}
+],
+"info": {
+"name": "DE - Das Vermächtnis von Montezuma (2022)",
+"cover": "https://image.tmdb.org/t/p/w154/noRVimjdx6PwPBCVikhExYqogsX.jpg",
+"plot": "",
+"cast": "",
+"director": "Cormac Wibberley, Marianne Wibberley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908709",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "453474425",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-14",
+"plot": "Auf der Suche nach dem größten Schatz der Geschichte lüftet Jess Valenzuela das Geheimnis um die Vergangenheit ihrer Familie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908709",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNzQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21747:1"
+}
+]
+}
+}

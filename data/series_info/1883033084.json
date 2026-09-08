@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-08-31",
+"episode_count": 2,
+"id": 586595461,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/dFNVzNm9UUDdn5ValXlAe1Vyp6V.jpg"
+}
+],
+"info": {
+"name": "EN - Adventure Time: Fionna & Cake (2023) (US)",
+"cover": "https://image.tmdb.org/t/p/original/dFNVzNm9UUDdn5ValXlAe1Vyp6V.jpg",
+"plot": "",
+"cast": "",
+"director": "Adam Muto",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908615",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "1091237112",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-31",
+"plot": "Fionna and Cake – with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2Njk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46694:2"
+},
+{
+"id": "1118068410",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-31",
+"plot": "Fionna and Cake – with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2Njk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46694:1"
+}
+]
+}
+}

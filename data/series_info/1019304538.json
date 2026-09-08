@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-09",
+"episode_count": 3,
+"id": 550974539,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/fX99Fs5XPPh5C7NSJuzrYfjF3Xi.jpg"
+}
+],
+"info": {
+"name": "EN - And Just Like That… (2021)",
+"cover": "https://www.themoviedb.org/t/p/original/fX99Fs5XPPh5C7NSJuzrYfjF3Xi.jpg",
+"plot": "",
+"cast": "",
+"director": "Darren Star",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908615",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "131790589",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "This new chapter of “Sex and the City” follows Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NDU2LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14456:3"
+},
+{
+"id": "287022139",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "This new chapter of “Sex and the City” follows Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NDU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14456:1"
+},
+{
+"id": "235169476",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-09",
+"plot": "This new chapter of “Sex and the City” follows Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908615",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NDU2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14456:2"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-09-04",
+"episode_count": 1,
+"id": 1724106932,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnyhfnDvaeJNY6LZbU75mzxL0lK.jpg"
+}
+],
+"info": {
+"name": "FR - Allô la Terre, ici Ned",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnyhfnDvaeJNY6LZbU75mzxL0lK.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908683",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "270780515"
+},
+"episodes": {
+"1": [
+{
+"id": "1772477846",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-04",
+"plot": "Ned est un extraterrestre à la peau bleue, accompagné de son lieutenant Cornelius, ils sont envoyés sur Terre pour une éventuelle invasion. Les deux aliens se plaisent sur notre planète et assimilent rapidement sa culture populaire. Ned va jusqu'à devenir animateur d'un talk-show où se bousculent les célébrités...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908683",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY1MzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6531:1"
+}
+]
+}
+}

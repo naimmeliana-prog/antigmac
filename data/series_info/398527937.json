@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2018-03-25",
+"episode_count": 4,
+"id": 1840456669,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
+}
+],
+"info": {
+"name": "NL - BARRY",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+"plot": "",
+"cast": "",
+"director": "Alec Berg, Bill Hader",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908557",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "1803923567",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-25",
+"plot": "Bill Hader schittert als Barry, een depressieve huursoldaat met lage huurprijs uit het Midwesten. Eenzaam en ontevreden in zijn leven, reist hij met tegenzin naar Los Angeles om een hit uit te voeren op een aspirant-acteur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMTUsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1015:4"
+},
+{
+"id": "1515540485",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-25",
+"plot": "Bill Hader schittert als Barry, een depressieve huursoldaat met lage huurprijs uit het Midwesten. Eenzaam en ontevreden in zijn leven, reist hij met tegenzin naar Los Angeles om een hit uit te voeren op een aspirant-acteur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMTUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1015:3"
+},
+{
+"id": "1883109659",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-25",
+"plot": "Bill Hader schittert als Barry, een depressieve huursoldaat met lage huurprijs uit het Midwesten. Eenzaam en ontevreden in zijn leven, reist hij met tegenzin naar Los Angeles om een hit uit te voeren op een aspirant-acteur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMTUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1015:2"
+},
+{
+"id": "631088028",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-03-25",
+"plot": "Bill Hader schittert als Barry, een depressieve huursoldaat met lage huurprijs uit het Midwesten. Eenzaam en ontevreden in zijn leven, reist hij met tegenzin naar Los Angeles om een hit uit te voeren op een aspirant-acteur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMTUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1015:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-08-07",
+"episode_count": 1,
+"id": 519762152,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6Sj4dqUc5AVe66HddTN5wj7zYw.jpg"
+}
+],
+"info": {
+"name": "FR - Beverly Hills : BH90210",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6Sj4dqUc5AVe66HddTN5wj7zYw.jpg",
+"plot": "",
+"cast": "",
+"director": "Aaron Spelling",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908690",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "1055682925",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-07",
+"plot": "Jouant une version exagérée et irrévérencieuse d'eux-mêmes, les héros de la série culte Beverly Hills tentent de convaincre la chaîne de produire un revival. Les coulisses du projet se révèlent bien plus croustillantes que la série en elle-même. Que se passera-t-il quand les premiers amours, les amitiés et les vieilles rivalités vont mettre à mal la cohésion du groupe ? Les tentatives pour relancer une aventure qui s'est arrêtée 19 ans plus tôt se concrétiseront-elles pour ces acteurs qui ont grandi sous les yeux des téléspectateurs du monde entier ?",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908690",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc4NjksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7869:1"
+}
+]
+}
+}

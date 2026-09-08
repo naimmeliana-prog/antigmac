@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-19",
+"episode_count": 2,
+"id": 176168400,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/inSe4HBqnwIoeqoChGlagVs0avG.jpg"
+}
+],
+"info": {
+"name": "NL - AVENUE 5",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/inSe4HBqnwIoeqoChGlagVs0avG.jpg",
+"plot": "",
+"cast": "",
+"director": "Armando Iannucci",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908556",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "1871112802",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Ruim 40 jaar in de toekomst navigeren ruimtekapitein Ryan Clark en de bemanning van het luxe ruimtecruiseschip Avenue 5 door ontevreden passagiers en onverwachte gebeurtenissen na technische problemen aan boord.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908556",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNjksInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1169:2"
+},
+{
+"id": "767409102",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Ruim 40 jaar in de toekomst navigeren ruimtekapitein Ryan Clark en de bemanning van het luxe ruimtecruiseschip Avenue 5 door ontevreden passagiers en onverwachte gebeurtenissen na technische problemen aan boord.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908556",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNjksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1169:1"
+}
+]
+}
+}

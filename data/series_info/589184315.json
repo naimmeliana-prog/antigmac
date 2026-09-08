@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-11-17",
+"episode_count": 1,
+"id": 1307661334,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmpUDEgZawIlDU5HP3IJ9HjnpI3.jpg"
+}
+],
+"info": {
+"name": "NL - 1899 (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmpUDEgZawIlDU5HP3IJ9HjnpI3.jpg",
+"plot": "",
+"cast": "",
+"director": "Baran bo Odar, Jantje Friese",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908554",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1873917108"
+},
+"episodes": {
+"1": [
+{
+"id": "1364540626",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-11-17",
+"plot": "Op een migrantenstoomschip dat naar het westen vaart om het oude continent van Londen naar New York te verlaten, zijn de passagiers, een allegaartje van Europese afkomst, verenigd door hun hoop en dromen voor de nieuwe eeuw en hun toekomst in het buitenland. Wanneer ze een ander migrantenschip op open zee ontdekken, neemt hun reis een onverwachte wending. Wat ze aan boord vinden, zal hun reis naar het beloofde land veranderen in een gruwelijke nachtmerrie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908554",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMzQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "21342:1"
+}
+]
+}
+}

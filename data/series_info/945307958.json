@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-24",
+"episode_count": 1,
+"id": 1840123234,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg"
+}
+],
+"info": {
+"name": "DE - King & Conqueror (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Robert Johnson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908713",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "1758343147",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-24",
+"plot": "Harold von Wessex und Herzog William von Normandie sind zunächst Verbündete, doch im Kampf um die Krone Englands stehen sie sich auf dem Schlachtfeld gegenüber, wo einer der beiden sterben muss, was den Lauf der Geschichte für immer verändert.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908713",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "48992:1"
+}
+]
+}
+}

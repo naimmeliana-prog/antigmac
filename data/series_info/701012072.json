@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-07-26",
+"episode_count": 1,
+"id": 139773844,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/cXJ63njAt7sRnOxHeKFLCyk5v71.jpg"
+}
+],
+"info": {
+"name": "EN - A Suitable Boy (2020) (GB)",
+"cover": "https://image.tmdb.org/t/p/original/cXJ63njAt7sRnOxHeKFLCyk5v71.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908605",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "484638868"
+},
+"episodes": {
+"1": [
+{
+"id": "1400145972",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-07-26",
+"plot": "Modernity confronts tradition in 1950s post-Partition India as a young woman resists an arranged marriage in favour of pursuit of love and a politician's son becomes involved in a transgressive affair.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908605",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwMDksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4009:1"
+}
+]
+}
+}

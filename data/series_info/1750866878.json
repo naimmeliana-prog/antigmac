@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-01-27",
+"episode_count": 1,
+"id": 1012848293,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg"
+}
+],
+"info": {
+"name": "EN - 50M² (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQfJUnWtl2GfqkJufSKuYqOl70o.jpg",
+"plot": "",
+"cast": "",
+"director": "Burak Aksak",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908604",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "484638868"
+},
+"episodes": {
+"1": [
+{
+"id": "1765807443",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-01-27",
+"plot": "Seeking to uncover the truth about his past, a henchman betrays someone close to him and assumes a new identity in a small Istanbul neighborhood.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908604",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgwMDUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8005:1"
+}
+]
+}
+}

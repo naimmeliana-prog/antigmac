@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-13",
+"episode_count": 1,
+"id": 180147423,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30759.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Beschütze sie (2023) (US)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30759.jpg",
+"plot": "",
+"cast": "",
+"director": "Laura Dave, Josh Singer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908696",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "987387581"
+},
+"episodes": {
+"1": [
+{
+"id": "1782292306",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-13",
+"plot": "Eine Frau muss eine Beziehung zu ihrer Stieftochter im Teenageralter aufbauen, um ihren Mann zu finden, der auf mysteriöse Weise verschwunden ist.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908696",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDgwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46080:1"
+}
+]
+}
+}

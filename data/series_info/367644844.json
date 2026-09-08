@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-10",
+"episode_count": 1,
+"id": 786765095,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg"
+}
+],
+"info": {
+"name": "NL - THE MUPPETS MAYHEM",
+"cover": "https://image.tmdb.org/t/p/w154/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg",
+"plot": "",
+"cast": "",
+"director": "Adam F. Goldberg, Bill Barretta, Jeff Yorkes",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908569",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "38632853",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-10",
+"plot": "Na 45 jaar rock-’n-roll maakt The Electric Mayhem, een epische, muzikale reis om eindelijk hun eerste studioalbum op te nemen geven. Met hulp van een gedreven, jonge platenbaas moet de eindeloos coole, iconische Muppet-rockband zich op orde krijgen als ze terechtkomen in de gestoorde, moderne muziekbiz en hun poging om eindelijk platina te halen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25020:1"
+}
+]
+}
+}

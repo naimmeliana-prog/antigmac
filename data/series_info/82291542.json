@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-10-06",
+"episode_count": 1,
+"id": 698229800,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/biebJjdTledf0pjA5LUlzOuo9z4.jpg"
+}
+],
+"info": {
+"name": "EN - Alaska Daily (2022)",
+"cover": "https://www.themoviedb.org/t/p/original/biebJjdTledf0pjA5LUlzOuo9z4.jpg",
+"plot": "",
+"cast": "",
+"director": "Tom McCarthy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908624",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "1639736886",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-10-06",
+"plot": "A star journalist moves to Alaska for a fresh start after a career-killing misstep, and finds redemption personally and professionally joining a daily metro newspaper in Anchorage.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908624",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwNDk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20494:1"
+}
+]
+}
+}

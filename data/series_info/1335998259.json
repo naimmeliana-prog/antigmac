@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-02-17",
+"episode_count": 1,
+"id": 80198950,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://image.tmdb.org/t/p/w154/xgu7gih8wYtd4As95uDhVajjkM4.jpg"
+}
+],
+"info": {
+"name": "NL - BAPTISTE",
+"cover": "http://image.tmdb.org/t/p/w154/xgu7gih8wYtd4As95uDhVajjkM4.jpg",
+"plot": "",
+"cast": "",
+"director": "Harry Williams, Jack Williams",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908557",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "635790407",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-02-17",
+"plot": "Baptiste gaat over de norse en koppige inspecteur Julien Baptiste. Wanneer Julien en zijn vrouw Amsterdam bezoeken, vraagt het hoofd van de politie, die ook nog eens een voormalige vriendin van hem is, om zijn hulp en kennis om een misdrijf op te lossen. Al snel raakt Julien verwikkeld in een zaak die hem naar de grimmige onderwereld van de stad brengt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMTkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13193:1"
+}
+]
+}
+}

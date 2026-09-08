@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2009-02-13",
+"episode_count": 2,
+"id": 655951928,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp5SmLaTcr2v8ndBA6PCmOgJ9XZ.jpg"
+}
+],
+"info": {
+"name": "FR - Aaron Stone",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp5SmLaTcr2v8ndBA6PCmOgJ9XZ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908682",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "1816955084",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-13",
+"plot": "Charlie Landers, un adolescent ordinaire de 16 ans, voit sa vie être bouleversée lorsque un richissime reclus veut créer son alter-ego virtuel pour un jeu vidéo, persuadé que le jeune garçon a tout ce qu'il faut pour sauver le monde !",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908682",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMzI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12327:1"
+},
+{
+"id": "493848948",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-13",
+"plot": "Charlie Landers, un adolescent ordinaire de 16 ans, voit sa vie être bouleversée lorsque un richissime reclus veut créer son alter-ego virtuel pour un jeu vidéo, persuadé que le jeune garçon a tout ce qu'il faut pour sauver le monde !",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908682",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyMzI3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12327:2"
+}
+]
+}
+}

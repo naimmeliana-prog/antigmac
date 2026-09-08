@@ -1,0 +1,165 @@
+{
+"seasons": [
+{
+"air_date": "2016-09-20",
+"episode_count": 6,
+"id": 1898433610,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/ivxiVGQwbnHewhSYewOJscDKjVu.jpg"
+}
+],
+"info": {
+"name": "EN - Bull (2016)",
+"cover": "https://image.tmdb.org/t/p/original/ivxiVGQwbnHewhSYewOJscDKjVu.jpg",
+"plot": "",
+"cast": "",
+"director": "Paul Attanasio, Phil McGraw",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908621",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "1657914485",
+"episode_num": 1,
+"title": "Season 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-20",
+"plot": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MSwic2Vhc29uX251bSI6NiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "281:6"
+},
+{
+"id": "171366539",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-20",
+"plot": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MSwic2Vhc29uX251bSI6NSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "281:5"
+},
+{
+"id": "289388382",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-20",
+"plot": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MSwic2Vhc29uX251bSI6MiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "281:2"
+},
+{
+"id": "1006901931",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-20",
+"plot": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MSwic2Vhc29uX251bSI6MywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "281:3"
+},
+{
+"id": "183358232",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-20",
+"plot": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MSwic2Vhc29uX251bSI6NCwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "281:4"
+},
+{
+"id": "568998391",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-09-20",
+"plot": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MSwic2Vhc29uX251bSI6MSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "281:1"
+}
+]
+}
+}

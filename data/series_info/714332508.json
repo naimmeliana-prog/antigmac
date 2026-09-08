@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-26",
+"episode_count": 1,
+"id": 195786489,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxa7YxVln3Rwnd2Va82PoclTznj.jpg"
+}
+],
+"info": {
+"name": "EX - Agent Kim Reactivated (2026)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+"plot": "",
+"cast": "",
+"director": "Nam Dae-joong, Lee Sung-young, Lee So-eun",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908775",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1569160013"
+},
+"episodes": {
+"1": [
+{
+"id": "428970934",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-26",
+"plot": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908775",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNTI3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51527:1"
+}
+]
+}
+}

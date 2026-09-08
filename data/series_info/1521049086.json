@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-20",
+"episode_count": 1,
+"id": 1419987403,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/4UoPcJYypzVZWrFUn4Cm3yUddEb.jpg"
+}
+],
+"info": {
+"name": "EN - As We See It (2022)",
+"cover": "https://image.tmdb.org/t/p/original/4UoPcJYypzVZWrFUn4Cm3yUddEb.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Katims",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908609",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "88934271",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-20",
+"plot": "Finding love, making friends, getting a job, adulting. Watch as three roommates on the autism spectrum navigate their early 20s with all its joy, tears and laughter. With the help of their families, aide, and sometimes even each other, these roommates experience setbacks and celebrate triumphs on their own unique journeys towards independence and acceptance.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908609",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15263:1"
+}
+]
+}
+}

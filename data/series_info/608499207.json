@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2005-02-21",
+"episode_count": 3,
+"id": 13763308,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaGt4GIutpbXHsv48tWceWg6s56.jpg"
+}
+],
+"info": {
+"name": "NF - Avatar: The Last Airbender (2005-2008)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Dante DiMartino, Bryan Konietzko",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908588",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "1414325152",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-02-21",
+"plot": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908588",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3MTkyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27192:3"
+},
+{
+"id": "655470676",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-02-21",
+"plot": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908588",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3MTkyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27192:2"
+},
+{
+"id": "1424360738",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-02-21",
+"plot": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908588",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3MTkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27192:1"
+}
+]
+}
+}

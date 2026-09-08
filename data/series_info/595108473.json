@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2005-09-27",
+"episode_count": 1,
+"id": 530791163,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WMS3a43ppLxqDTHyGYmOsqOBbr.jpg"
+}
+],
+"info": {
+"name": "D+ - Commander in Chief",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WMS3a43ppLxqDTHyGYmOsqOBbr.jpg",
+"plot": "",
+"cast": "",
+"director": "Rod Lurie",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908598",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "1268281919",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2005-09-27",
+"plot": "When the President of the United States dies in office, his independent Vice President ventures into territory no woman has ever entered before. Now, the nation's first female Commander In Chief must balance the pressures of running the country and the responsibility of raising a family while facing a sustained torrent of underhanded attacks from the Speaker of the House, Nathan Templeton.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908598",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15977:1"
+}
+]
+}
+}

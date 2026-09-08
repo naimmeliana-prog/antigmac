@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-08-21",
+"episode_count": 2,
+"id": 1573468621,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVX1jUchy3zTaZeL12Lo7HqDEly.jpg"
+}
+],
+"info": {
+"name": "FR - Beforeigners (NO)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVX1jUchy3zTaZeL12Lo7HqDEly.jpg",
+"plot": "",
+"cast": "",
+"director": "Anne Bjørnstad, Eilif Skodvin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908675",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "588367011",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-21",
+"plot": "A cause d'une faille spatio-temporelle, des \" visiteurs du passé \" surgissent aujourd'hui dans les rues d'Oslo. Parmi eux, des vikings combattifs. Le détective, Lars, est chargé de comprendre ce qui a pu permettre cet incident. Il s'associe alors à Alfhildr Enginnsdóttir, une guerrière viking...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908675",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4262:2"
+},
+{
+"id": "623643336",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-21",
+"plot": "A cause d'une faille spatio-temporelle, des \" visiteurs du passé \" surgissent aujourd'hui dans les rues d'Oslo. Parmi eux, des vikings combattifs. Le détective, Lars, est chargé de comprendre ce qui a pu permettre cet incident. Il s'associe alors à Alfhildr Enginnsdóttir, une guerrière viking...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908675",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4262:1"
+}
+]
+}
+}

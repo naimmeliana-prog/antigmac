@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-08-16",
+"episode_count": 1,
+"id": 1662540090,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN50JvMxnVmctBeKxZenQ2qHyL6.jpg"
+}
+],
+"info": {
+"name": "FR - Apache  La vie de Carlos Tevez",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN50JvMxnVmctBeKxZenQ2qHyL6.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "39386225",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-08-16",
+"plot": "Cette adaptation réaliste dépeint la vie de Carlos Tevez, devenu une véritable star du football après une enfance difficile dans un quartier pauvre d'Argentine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc4NjUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7865:1"
+}
+]
+}
+}

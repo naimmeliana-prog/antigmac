@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-22",
+"episode_count": 1,
+"id": 598986215,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/udbHDrx7k9ShCB4q7KxptAxocHG.jpg"
+}
+],
+"info": {
+"name": "EN - Call It Love (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/udbHDrx7k9ShCB4q7KxptAxocHG.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908627",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "860727217",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-22",
+"plot": "A woman vows revenge on her for, a heart-wrenchingly lonely and gentle man.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908627",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24437:1"
+}
+]
+}
+}

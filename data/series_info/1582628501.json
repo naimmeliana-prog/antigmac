@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-05-06",
+"episode_count": 1,
+"id": 973920243,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NVTQvxmgaGug1PtbjVURodm7NK.jpg"
+}
+],
+"info": {
+"name": "FR - Brigada Costa del Sol",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NVTQvxmgaGug1PtbjVURodm7NK.jpg",
+"plot": "",
+"cast": "",
+"director": "Warner Bros. Pictures",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908642",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "775256714",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-05-06",
+"plot": "A Torremolinos, sur la Costa del Sol, les origines de l'une des premières brigades anti-narcotique.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908642",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MjMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2523:1"
+}
+]
+}
+}

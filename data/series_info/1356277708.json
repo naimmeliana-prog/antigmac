@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-11",
+"episode_count": 3,
+"id": 1930544375,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQTmlqa0jlaMxQ2FZXkKAcMP547.jpg"
+}
+],
+"info": {
+"name": "DE - No Activity (2017) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQTmlqa0jlaMxQ2FZXkKAcMP547.jpg",
+"plot": "",
+"cast": "",
+"director": "Patrick Brammall, Trent O'Donnell",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908715",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "401533040",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-11",
+"plot": "Die beiden Polizisten Nick Cullen und Judd Tolbeck wären gerne erfolgreiche, harte Cops. Doch statt dessen werden sie bei ihrem Dienst in der kalifornischen Großstadt San Diego hauptsächlich in der Observierung von Verdächtigen eingesetzt. Das bedeutet „No Activity“: Stundenlang im Auto sitzen, abwarten dass was passiert, und sich gegenseitig anöden. Einzige Abwechslung ist der Kontakt mit der Funkzentrale.\r\n\r\nDoch eines Tages gerät das beschaulich-öde Leben der beiden durcheinander, als Tolbeck bei einem Einsatz im Umfeld eines großen Drogendeals zwischen einem mexikanischen Kartell und einer örtlichen Gang eines der Gangmitglieder anschießt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908715",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU1ODMsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5583:3"
+},
+{
+"id": "191145883",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-11",
+"plot": "Die beiden Polizisten Nick Cullen und Judd Tolbeck wären gerne erfolgreiche, harte Cops. Doch statt dessen werden sie bei ihrem Dienst in der kalifornischen Großstadt San Diego hauptsächlich in der Observierung von Verdächtigen eingesetzt. Das bedeutet „No Activity“: Stundenlang im Auto sitzen, abwarten dass was passiert, und sich gegenseitig anöden. Einzige Abwechslung ist der Kontakt mit der Funkzentrale.\r\n\r\nDoch eines Tages gerät das beschaulich-öde Leben der beiden durcheinander, als Tolbeck bei einem Einsatz im Umfeld eines großen Drogendeals zwischen einem mexikanischen Kartell und einer örtlichen Gang eines der Gangmitglieder anschießt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908715",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU1ODMsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5583:2"
+},
+{
+"id": "732534201",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-11",
+"plot": "Die beiden Polizisten Nick Cullen und Judd Tolbeck wären gerne erfolgreiche, harte Cops. Doch statt dessen werden sie bei ihrem Dienst in der kalifornischen Großstadt San Diego hauptsächlich in der Observierung von Verdächtigen eingesetzt. Das bedeutet „No Activity“: Stundenlang im Auto sitzen, abwarten dass was passiert, und sich gegenseitig anöden. Einzige Abwechslung ist der Kontakt mit der Funkzentrale.\r\n\r\nDoch eines Tages gerät das beschaulich-öde Leben der beiden durcheinander, als Tolbeck bei einem Einsatz im Umfeld eines großen Drogendeals zwischen einem mexikanischen Kartell und einer örtlichen Gang eines der Gangmitglieder anschießt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908715",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU1ODMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5583:1"
+}
+]
+}
+}

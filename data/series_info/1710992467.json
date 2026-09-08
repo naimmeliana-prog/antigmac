@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-14",
+"episode_count": 2,
+"id": 1129371674,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/hVXyRIwGfuC5x8w8ARts9HtRpTZ.jpg"
+}
+],
+"info": {
+"name": "A+ - Puppy Place (2021)",
+"cover": "https://image.tmdb.org/t/p/original/hVXyRIwGfuC5x8w8ARts9HtRpTZ.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908594",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "1074039753",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-14",
+"plot": "Charles and Lizzie Peterson have found the perfect way to foster their love of dogs — literally. The siblings take on the tough but rewarding task of fostering puppies and finding their forever homes. With every new pup, a new adventure begins.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908594",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NTk5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28599:2"
+},
+{
+"id": "161398267",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-14",
+"plot": "Charles and Lizzie Peterson have found the perfect way to foster their love of dogs — literally. The siblings take on the tough but rewarding task of fostering puppies and finding their forever homes. With every new pup, a new adventure begins.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908594",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28599:1"
+}
+]
+}
+}

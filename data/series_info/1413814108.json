@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-28",
+"episode_count": 1,
+"id": 1031299812,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lypznNe82xNRw6O9580JvpnUkN6.jpg"
+}
+],
+"info": {
+"name": "FR - Adults (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+"plot": "",
+"cast": "",
+"director": "Ben Kronengold, Rebecca Shaw",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908682",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "1161904144",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-28",
+"plot": "Cinq amis dans la vingtaine, à New York, s'efforcent d'être des gens bien, même s'ils ne savent pas encore ce que ça englobe.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908682",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43975:1"
+}
+]
+}
+}

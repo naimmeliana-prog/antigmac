@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-07-08",
+"episode_count": 2,
+"id": 1963302832,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/9oY4OR0jQUbnKC5BhoUOQRrgIp9.jpg"
+}
+],
+"info": {
+"name": "DE - Gossip Girl (2021)",
+"cover": "https://image.tmdb.org/t/p/w154/9oY4OR0jQUbnKC5BhoUOQRrgIp9.jpg",
+"plot": "",
+"cast": "",
+"director": "Joshua Safran",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908722",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "741500315"
+},
+"episodes": {
+"1": [
+{
+"id": "1325202520",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-08",
+"plot": "Acht Jahre nach dem Verschwinden der ursprünglichen Website wird eine neue Generation von New Yorker Privatschülern in die soziale Überwachung von Gossip Girl eingeführt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908722",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDE1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29015:2"
+},
+{
+"id": "978753786",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-07-08",
+"plot": "Acht Jahre nach dem Verschwinden der ursprünglichen Website wird eine neue Generation von New Yorker Privatschülern in die soziale Überwachung von Gossip Girl eingeführt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908722",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "29015:1"
+}
+]
+}
+}

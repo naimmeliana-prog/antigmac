@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-21",
+"episode_count": 1,
+"id": 1861945445,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/8NJVn1H27qDFxOwXtaRsFjugZHf.jpg"
+}
+],
+"info": {
+"name": "NL - DROPS OF GOD",
+"cover": "https://image.tmdb.org/t/p/w154/8NJVn1H27qDFxOwXtaRsFjugZHf.jpg",
+"plot": "",
+"cast": "",
+"director": "Quoc Dang Tran",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908571",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "1320679762",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-21",
+"plot": "Terwijl de wijnwereld rouwt om het overlijden van Alexandre Léger ontdekt zijn vervreemde dochter Camille dat zijn uitzonderlijke collectie nu van haar is. Maar voordat ze de erfenis krijgt, moet Camille Alexandres beste protegé, Issei, zien te verslaan in een smaaktest.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908571",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NjkzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24693:1"
+}
+]
+}
+}

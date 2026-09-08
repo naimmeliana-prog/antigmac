@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-04-24",
+"episode_count": 1,
+"id": 552988858,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/hoYKjsOO7UwbXHB3NKtuZx9jWUR.jpg"
+}
+],
+"info": {
+"name": "A+ - Defending Jacob (2020)",
+"cover": "https://image.tmdb.org/t/p/original/hoYKjsOO7UwbXHB3NKtuZx9jWUR.jpg",
+"plot": "",
+"cast": "",
+"director": "Mark Bomback",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908591",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "1420372977",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-04-24",
+"plot": "A family's lives are irreparably disrupted when the 14-year-old son is accused of murdering a fellow classmate.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908591",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU2NjEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5661:1"
+}
+]
+}
+}

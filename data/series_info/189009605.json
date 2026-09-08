@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-04-11",
+"episode_count": 2,
+"id": 73673622,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/gx36rMh4CyZAZLVpypkNBhPsFT5.jpg"
+}
+],
+"info": {
+"name": "Black Summer (2019)",
+"cover": "https://image.tmdb.org/t/p/original/gx36rMh4CyZAZLVpypkNBhPsFT5.jpg",
+"plot": "",
+"cast": "",
+"director": "John Hyams, Karl Schaefer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908603",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "484638868"
+},
+"episodes": {
+"1": [
+{
+"id": "345164906",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908603",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NDgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3648:1"
+},
+{
+"id": "1947926563",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908603",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2NDgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3648:2"
+}
+]
+}
+}

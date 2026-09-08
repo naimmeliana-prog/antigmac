@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-03-30",
+"episode_count": 1,
+"id": 951780702,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/322/32195.jpg"
+}
+],
+"info": {
+"name": "4K-DE - MobLand (2025) (GB)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/322/32195.jpg",
+"plot": "",
+"cast": "",
+"director": "Ronan Bennett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908701",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "974888874"
+},
+"episodes": {
+"1": [
+{
+"id": "1923562060",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-03-30",
+"plot": "Hier steht eine professionelle Fixer-Familie die Donovans aus London im Mittelpunkt, die für die mächtigsten Menschen Europas arbeitet. In einem unsteten Business müssen die Donovans sich auf merkwürdige Verbündete und zahlreiche Überraschungen einstellen. In einem Geschäft, in dem Verrat überall möglich ist, ist es gut, dass wenigsten die Familie zusammenhält.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46761:1"
+}
+]
+}
+}

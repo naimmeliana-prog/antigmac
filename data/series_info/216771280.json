@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-06-05",
+"episode_count": 1,
+"id": 358187326,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/rGeJjuMX1GgaMV9710ozwlCXYJc.jpg"
+}
+],
+"info": {
+"name": "A+ - Dear... (2020)",
+"cover": "https://image.tmdb.org/t/p/original/rGeJjuMX1GgaMV9710ozwlCXYJc.jpg",
+"plot": "",
+"cast": "",
+"director": "R. J. Cutler",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908591",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "278596050",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-05",
+"plot": "An inventive and cinematic approach to biographies of the most iconic figures in society today by using letters written by those whose lives have been changed through their work.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908591",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU2NjAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5660:1"
+}
+]
+}
+}

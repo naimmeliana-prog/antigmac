@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-19",
+"episode_count": 1,
+"id": 1920653864,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/c1NZBVLQGOIYayVWhUXxeKgF86R.jpg"
+}
+],
+"info": {
+"name": "EN - A Very Royal Scandal (2024)",
+"cover": "https://image.tmdb.org/t/p/original/c1NZBVLQGOIYayVWhUXxeKgF86R.jpg",
+"plot": "",
+"cast": "",
+"director": "Jeremy Brock",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908608",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "727104486",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-19",
+"plot": "Follow Emily Maitlis' professional and personal journey as a Newsnight journalist, leading up to her acclaimed interview with Prince Andrew, in which he explained his friendship with Jeffrey Epstein.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908608",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4MDY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "38069:1"
+}
+]
+}
+}

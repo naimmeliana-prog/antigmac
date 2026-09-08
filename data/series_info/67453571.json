@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-24",
+"episode_count": 1,
+"id": 1402030201,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/7KwCbiYVQZJ9jmhWtV5b3ufRKBk.jpg"
+}
+],
+"info": {
+"name": "EN - American Born Chinese (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/7KwCbiYVQZJ9jmhWtV5b3ufRKBk.jpg",
+"plot": "",
+"cast": "",
+"director": "Kelvin Yu",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908627",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "438037989",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-24",
+"plot": "Average teenager Jin Wang juggles his high school social life with his immigrant home life. When he meets a new foreign student on the first day of the school year, even more worlds collide as Jin is unwittingly entangled in a battle of Chinese mythological gods.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908627",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MzA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25308:1"
+}
+]
+}
+}

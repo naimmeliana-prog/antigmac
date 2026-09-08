@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-19",
+"episode_count": 2,
+"id": 1123722164,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30758.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Bad Sisters (2022) (GB)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30758.jpg",
+"plot": "",
+"cast": "",
+"director": "Sharon Horgan, Brett Baer, Dave Finkel",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908696",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "987387581"
+},
+"episodes": {
+"1": [
+{
+"id": "451235499",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-19",
+"plot": "Die eng verbundenen Garvey-Schwestern waren immer füreinander da. Doch als der toxische Schwager, den sie alle tot sehen wollten, tatsächlich stirbt, wird ihr Leben auf den Kopf gestellt und ihr Zusammenhalt auf eine harte Probe gestellt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908696",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46079:1"
+},
+{
+"id": "243151429",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-19",
+"plot": "Die eng verbundenen Garvey-Schwestern waren immer füreinander da. Doch als der toxische Schwager, den sie alle tot sehen wollten, tatsächlich stirbt, wird ihr Leben auf den Kopf gestellt und ihr Zusammenhalt auf eine harte Probe gestellt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908696",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDc5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46079:2"
+}
+]
+}
+}

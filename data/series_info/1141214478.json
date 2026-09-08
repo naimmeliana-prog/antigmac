@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-10-06",
+"episode_count": 3,
+"id": 439022477,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://fr.web.img6.acsta.net/pictures/20/12/23/10/09/4576002.jpg"
+}
+],
+"info": {
+"name": "NL - BATWOMAN",
+"cover": "https://fr.web.img6.acsta.net/pictures/20/12/23/10/09/4576002.jpg",
+"plot": "",
+"cast": "",
+"director": "Berlanti Productions, Mad Ghost Productions, DC Entertainment, Warner Bros. Television",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908557",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "768831450",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-06",
+"plot": "Kate Kane is gewapend met een passie voor sociale rechtvaardigheid en een flair haar directheid. Ze stijgt op in de straten van Gotham als Batwoman, een lesbische en goed getrainde straatjager die klaar is om de criminele heropleving van de falende stad uit te wissen. Maar noem haar nog geen held. In een stad die wanhopig op zoek is naar een redder, moet Kate haar eigen demonen overwinnen voordat ze de roep om het Gotham-symbool van hoop te zijn, kan omhelzen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc2Mywic2Vhc29uX251bSI6MywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "763:3"
+},
+{
+"id": "898579600",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-06",
+"plot": "Kate Kane is gewapend met een passie voor sociale rechtvaardigheid en een flair haar directheid. Ze stijgt op in de straten van Gotham als Batwoman, een lesbische en goed getrainde straatjager die klaar is om de criminele heropleving van de falende stad uit te wissen. Maar noem haar nog geen held. In een stad die wanhopig op zoek is naar een redder, moet Kate haar eigen demonen overwinnen voordat ze de roep om het Gotham-symbool van hoop te zijn, kan omhelzen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc2Mywic2Vhc29uX251bSI6MiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "763:2"
+},
+{
+"id": "1501852308",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-10-06",
+"plot": "Kate Kane is gewapend met een passie voor sociale rechtvaardigheid en een flair haar directheid. Ze stijgt op in de straten van Gotham als Batwoman, een lesbische en goed getrainde straatjager die klaar is om de criminele heropleving van de falende stad uit te wissen. Maar noem haar nog geen held. In een stad die wanhopig op zoek is naar een redder, moet Kate haar eigen demonen overwinnen voordat ze de roep om het Gotham-symbool van hoop te zijn, kan omhelzen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908557",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc2Mywic2Vhc29uX251bSI6MSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "763:1"
+}
+]
+}
+}

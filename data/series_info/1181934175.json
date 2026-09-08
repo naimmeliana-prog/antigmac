@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-04-20",
+"episode_count": 1,
+"id": 1560668610,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PAAskjDFxJRdgAlvI1AspfNCHe.jpg"
+}
+],
+"info": {
+"name": "FR - Aggretsuko",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PAAskjDFxJRdgAlvI1AspfNCHe.jpg",
+"plot": "",
+"cast": "",
+"director": "Rareko",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908660",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "643813226"
+},
+"episodes": {
+"1": [
+{
+"id": "1426476482",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-20",
+"plot": "Insatisfaite de son travail de bureau ingrat, Retsuko la petite panda rousse surmonte les tracas du quotidien en chantant du death metal à tue-tête dans un bar karaoké.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908660",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NTMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2953:1"
+}
+]
+}
+}

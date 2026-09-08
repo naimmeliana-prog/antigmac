@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-17",
+"episode_count": 2,
+"id": 1864365477,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/322/32194.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Landman (2024) (US)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/322/32194.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan, Christian Wallace",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908700",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "974888874"
+},
+"episodes": {
+"1": [
+{
+"id": "1311989225",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-17",
+"plot": "Die Serie spielt in den sprichwörtlichen Boomtowns von West-Texas und ist eine moderne Geschichte über die Suche nach dem Glück in der Welt der Ölplattformen. Sie erzählt die Geschichte von Raufbolden und wilden Milliardären, die einen so großen Boom anheizen, dass er unser Klima, unsere Wirtschaft und unsere Geopolitik umgestaltet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908700",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzU4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46758:2"
+},
+{
+"id": "493395130",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-17",
+"plot": "Die Serie spielt in den sprichwörtlichen Boomtowns von West-Texas und ist eine moderne Geschichte über die Suche nach dem Glück in der Welt der Ölplattformen. Sie erzählt die Geschichte von Raufbolden und wilden Milliardären, die einen so großen Boom anheizen, dass er unser Klima, unsere Wirtschaft und unsere Geopolitik umgestaltet.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908700",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46758:1"
+}
+]
+}
+}

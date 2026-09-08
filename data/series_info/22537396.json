@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-04-11",
+"episode_count": 2,
+"id": 1923930932,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d27fZpY8jSZDOs1k0JCL0RY0b94.jpg"
+}
+],
+"info": {
+"name": "FR - Black Summer",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d27fZpY8jSZDOs1k0JCL0RY0b94.jpg",
+"plot": "",
+"cast": "",
+"director": "John Hyams, Karl Schaefer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908641",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "790782906"
+},
+"episodes": {
+"1": [
+{
+"id": "569919248",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "Au coeur d'une apocalypse zombie, une mère est arrachée à sa fille. Elle commmence une longue aventure pour la retrouver à travers un monde hostile.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908641",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTEsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4911:2"
+},
+{
+"id": "1727759704",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-04-11",
+"plot": "Au coeur d'une apocalypse zombie, une mère est arrachée à sa fille. Elle commmence une longue aventure pour la retrouver à travers un monde hostile.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908641",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4911:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-08-27",
+"episode_count": 1,
+"id": 419794681,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUwy6xIffGNp94bkiqowBDM9W1S.jpg"
+}
+],
+"info": {
+"name": "DE - Dalliance (2026) (AU)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
+"plot": "",
+"cast": "",
+"director": "John Edwards, Heather Mitchell, Pip Karmel",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908712",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "846490747",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-08-27",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908712",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjQ0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51644:1"
+}
+]
+}
+}

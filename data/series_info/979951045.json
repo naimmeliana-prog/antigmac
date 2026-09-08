@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2021-06-11",
+"episode_count": 4,
+"id": 1657225145,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0G8IVjGqCQkE2cv6Bd6w9BidIG.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Clarkson's Farm (2021) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0G8IVjGqCQkE2cv6Bd6w9BidIG.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908694",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "610406899",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-06-11",
+"plot": "Ein intensives, beschwerliches, aber oft auch glückliches Jahr im Leben von Englands komischstem Bauern: Jeremy Clarkson. Sehen Sie, wie Jeremy und eine bunte Schar von Helfern aus der Landwirtschaft, mit ungünstigen Wetterbedingungen, ungehorsamen Tieren, gestressten Feldfrüchten und einer unerwarteten Pandemie zurechtkommen. So hat man Jeremy Clarkson noch nie erlebt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU4LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45458:4"
+},
+{
+"id": "65449519",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-06-11",
+"plot": "Ein intensives, beschwerliches, aber oft auch glückliches Jahr im Leben von Englands komischstem Bauern: Jeremy Clarkson. Sehen Sie, wie Jeremy und eine bunte Schar von Helfern aus der Landwirtschaft, mit ungünstigen Wetterbedingungen, ungehorsamen Tieren, gestressten Feldfrüchten und einer unerwarteten Pandemie zurechtkommen. So hat man Jeremy Clarkson noch nie erlebt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45458:1"
+},
+{
+"id": "1156782492",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-06-11",
+"plot": "Ein intensives, beschwerliches, aber oft auch glückliches Jahr im Leben von Englands komischstem Bauern: Jeremy Clarkson. Sehen Sie, wie Jeremy und eine bunte Schar von Helfern aus der Landwirtschaft, mit ungünstigen Wetterbedingungen, ungehorsamen Tieren, gestressten Feldfrüchten und einer unerwarteten Pandemie zurechtkommen. So hat man Jeremy Clarkson noch nie erlebt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45458:2"
+},
+{
+"id": "396318037",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-06-11",
+"plot": "Ein intensives, beschwerliches, aber oft auch glückliches Jahr im Leben von Englands komischstem Bauern: Jeremy Clarkson. Sehen Sie, wie Jeremy und eine bunte Schar von Helfern aus der Landwirtschaft, mit ungünstigen Wetterbedingungen, ungehorsamen Tieren, gestressten Feldfrüchten und einer unerwarteten Pandemie zurechtkommen. So hat man Jeremy Clarkson noch nie erlebt.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NDU4LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45458:3"
+}
+]
+}
+}

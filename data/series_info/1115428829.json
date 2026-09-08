@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-06-22",
+"episode_count": 1,
+"id": 528145422,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wU0kZ93zyN4FFlUwMx4Jsn95ch.jpg"
+}
+],
+"info": {
+"name": "FR - Cooking on High",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wU0kZ93zyN4FFlUwMx4Jsn95ch.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908657",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "660797040"
+},
+"episodes": {
+"1": [
+{
+"id": "818916621",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-06-22",
+"plot": "Du jamais vu ! Voici le premier concours de cuisine où deux chefs préparent de délicieux plats à base de marijuana pour un jury de célébrités particulièrement détendu.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908657",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5NDksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6949:1"
+}
+]
+}
+}

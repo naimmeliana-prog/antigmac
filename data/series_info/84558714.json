@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-10",
+"episode_count": 1,
+"id": 251030437,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/wj3GyuflnUxaEPTTq1biDSvwwWh.jpg"
+}
+],
+"info": {
+"name": "EN - Back To The Frontier (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/original/wj3GyuflnUxaEPTTq1biDSvwwWh.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908616",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "978256806",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-10",
+"plot": "Follow three American families as they reimagine their lives as 1880s homesteaders, challenged to forgo the comforts of the present day for a more analog life on the frontier.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908616",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NTYxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44561:1"
+}
+]
+}
+}

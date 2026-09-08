@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-11",
+"episode_count": 1,
+"id": 1475466933,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/yLx44hdSpt9GhP67JafP5sMEoMB.jpg"
+}
+],
+"info": {
+"name": "NL - FIVE DAYS AT MEMORIAL",
+"cover": "https://image.tmdb.org/t/p/w154/yLx44hdSpt9GhP67JafP5sMEoMB.jpg",
+"plot": "",
+"cast": "",
+"director": "John Ridley, Carlton Cuse",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908572",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "239354606",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-11",
+"plot": "Serie, gebaseerd op het gelijknamige boek van Sheri Fink, die gaat over de impact van orkaan Katrina gedurende de eerste vijf dagen nadat de storm in augustus 2005 toesloeg, en de gevolgen hiervan voor een lokaal ziekenhuis in New Orleans. De uitgeputte zorgverleners worden gedwongen werden beslissingen op leven en dood te nemen te midden van opkomend water, intense hitte en zonder stroom. Deze zouden hen nog jaren later achtervolgen. De artsen werden er later bijvoorbeeld zelfs van beschuldigd patiënten dodelijke injecties te hebben gegeven, zodat ze eerder zouden overlijden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMjY2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20266:1"
+}
+]
+}
+}

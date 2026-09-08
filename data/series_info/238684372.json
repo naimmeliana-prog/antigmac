@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2015-06-21",
+"episode_count": 5,
+"id": 1917189912,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WyIazPyjmcFMC42nWEpI0jr56x.jpg"
+}
+],
+"info": {
+"name": "FR - Ballers",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
+"plot": "",
+"cast": "",
+"director": "Stephen Levinson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908674",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "401130557",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "La série suit le quotidien des anciens et actuels joueurs de football à Miami. Notamment celui d'une ancienne star Spencer Strasmore. Après une grande carrière en tant que Footballeur professionnel, Spencer Strasmore prend sa retraite mais ne se coupe pas entièrement de sa passion. En effet, après avoir été joueur, celui-ci se lance dans la gestion de carrières de la nouvelle génération de footballeurs, mais il découvre rapidement que dans ce milieu, la compétition est tout aussi intense que sur le terrain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3ODgsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4788:5"
+},
+{
+"id": "655549479",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "La série suit le quotidien des anciens et actuels joueurs de football à Miami. Notamment celui d'une ancienne star Spencer Strasmore. Après une grande carrière en tant que Footballeur professionnel, Spencer Strasmore prend sa retraite mais ne se coupe pas entièrement de sa passion. En effet, après avoir été joueur, celui-ci se lance dans la gestion de carrières de la nouvelle génération de footballeurs, mais il découvre rapidement que dans ce milieu, la compétition est tout aussi intense que sur le terrain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3ODgsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4788:4"
+},
+{
+"id": "1641547989",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "La série suit le quotidien des anciens et actuels joueurs de football à Miami. Notamment celui d'une ancienne star Spencer Strasmore. Après une grande carrière en tant que Footballeur professionnel, Spencer Strasmore prend sa retraite mais ne se coupe pas entièrement de sa passion. En effet, après avoir été joueur, celui-ci se lance dans la gestion de carrières de la nouvelle génération de footballeurs, mais il découvre rapidement que dans ce milieu, la compétition est tout aussi intense que sur le terrain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3ODgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4788:2"
+},
+{
+"id": "482016755",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "La série suit le quotidien des anciens et actuels joueurs de football à Miami. Notamment celui d'une ancienne star Spencer Strasmore. Après une grande carrière en tant que Footballeur professionnel, Spencer Strasmore prend sa retraite mais ne se coupe pas entièrement de sa passion. En effet, après avoir été joueur, celui-ci se lance dans la gestion de carrières de la nouvelle génération de footballeurs, mais il découvre rapidement que dans ce milieu, la compétition est tout aussi intense que sur le terrain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3ODgsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4788:3"
+},
+{
+"id": "1952759928",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-06-21",
+"plot": "La série suit le quotidien des anciens et actuels joueurs de football à Miami. Notamment celui d'une ancienne star Spencer Strasmore. Après une grande carrière en tant que Footballeur professionnel, Spencer Strasmore prend sa retraite mais ne se coupe pas entièrement de sa passion. En effet, après avoir été joueur, celui-ci se lance dans la gestion de carrières de la nouvelle génération de footballeurs, mais il découvre rapidement que dans ce milieu, la compétition est tout aussi intense que sur le terrain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3ODgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4788:1"
+}
+]
+}
+}

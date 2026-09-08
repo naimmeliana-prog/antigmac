@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-20",
+"episode_count": 1,
+"id": 455329936,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/bF5hgMJKiu8FtERGPXGhyuQ1ISo.jpg"
+}
+],
+"info": {
+"name": "A+ - Fraggle Rock: Back To The Rock (2022)",
+"cover": "https://www.themoviedb.org/t/p/original/bF5hgMJKiu8FtERGPXGhyuQ1ISo.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908593",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "562728421",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-20",
+"plot": "Join Gobo, Red, Wembley, Mokey, Boober, and new Fraggle friends on hilarious, epic adventures about the magic that happens when we celebrate and care for our interconnected world.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908593",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15503:1"
+}
+]
+}
+}

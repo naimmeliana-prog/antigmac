@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-03-19",
+"episode_count": 1,
+"id": 1971679011,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg"
+}
+],
+"info": {
+"name": "FR - Calls",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg",
+"plot": "",
+"cast": "",
+"director": "Fede Alvarez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908672",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "1141732639",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-19",
+"plot": "Racontée à travers une série de conversations téléphoniques interconnectées, cette série inédite raconte l'histoire mystérieuse d'un groupe d'étrangers dont la vie est bouleversée à l'approche d'un événement apocalyptique.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908672",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkxODEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9181:1"
+}
+]
+}
+}

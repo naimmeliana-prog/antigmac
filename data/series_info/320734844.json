@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-08-31",
+"episode_count": 1,
+"id": 1786424506,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yZFXWZLfa2tCAzLfJOrYLAXzK.jpg"
+}
+],
+"info": {
+"name": "FR - Arthur's Law",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yZFXWZLfa2tCAzLfJOrYLAXzK.jpg",
+"plot": "",
+"cast": "",
+"director": "Benjamin Gutsche",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908674",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "652911012",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-31",
+"plot": "Chômeur et malheureux en ménage, Arthur Ahnepol coule des jours bien mornes. Pour échapper à sa condition, il échafaude un jour un plan plus que risqué : faire disparaître son insupportable épouse et prendre un nouveau départ avec l’argent de l’assurance vie et son nouvel amour. Mais c’était sans compter la loi de Murphy : chaque fois qu’il pense avoir enfin réglé un problème, Arthur déclenche une catastrophe encore plus grave. Et le voilà emporté par une avalanche d’événements désastreux.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908674",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "10272:1"
+}
+]
+}
+}

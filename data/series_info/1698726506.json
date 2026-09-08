@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-28",
+"episode_count": 4,
+"id": 1559993095,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/vHoHuYdtCkQlj8UtqePjnvUZf80.jpg"
+}
+],
+"info": {
+"name": "NF - Ada Twist, Scientist (2021)",
+"cover": "https://www.themoviedb.org/t/p/original/vHoHuYdtCkQlj8UtqePjnvUZf80.jpg",
+"plot": "",
+"cast": "",
+"director": "Chris Nee",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908585",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "1866136087",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-28",
+"plot": "Pint-sized scientist Ada Twist and her two best friends are asking big questions — and working together to discover the truth about everything!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMDQxLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13041:4"
+},
+{
+"id": "603063666",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-28",
+"plot": "Pint-sized scientist Ada Twist and her two best friends are asking big questions — and working together to discover the truth about everything!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMDQxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13041:3"
+},
+{
+"id": "191478336",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-28",
+"plot": "Pint-sized scientist Ada Twist and her two best friends are asking big questions — and working together to discover the truth about everything!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMDQxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13041:2"
+},
+{
+"id": "150660016",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-28",
+"plot": "Pint-sized scientist Ada Twist and her two best friends are asking big questions — and working together to discover the truth about everything!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908585",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzMDQxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13041:1"
+}
+]
+}
+}

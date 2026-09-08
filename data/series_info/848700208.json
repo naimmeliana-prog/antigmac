@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-03-31",
+"episode_count": 1,
+"id": 1421229860,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nel144y4dIOdFFid6twN5mAX9Yd.jpg"
+}
+],
+"info": {
+"name": "NL - 13 REASONS WHY",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
+"plot": "",
+"cast": "",
+"director": "Brian Yorkey, Diana Son",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908553",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1873917108"
+},
+"episodes": {
+"1": [
+{
+"id": "1124383808",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-03-31",
+"plot": "After a teenage girl's perplexing suicide, a classmate receives a series of tapes that unravel the mystery of her tragic choice.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908553",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7:3"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-08-30",
+"episode_count": 1,
+"id": 746275307,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI22aHKtFHQ5r6AVu0uf7q9UUAn.jpg"
+}
+],
+"info": {
+"name": "FR - 100 ans de plénitude : Les secrets des zones bleues",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI22aHKtFHQ5r6AVu0uf7q9UUAn.jpg",
+"plot": "",
+"cast": "",
+"director": "Clay Jeter",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908662",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "1426303668",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-08-30",
+"plot": "Parcourez le monde aux côtés de Dan Buettner à la découverte de cinq communautés singulières dont les membres jouissent d'une vie incroyablement longue et dynamique.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908662",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NTcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28571:1"
+}
+]
+}
+}

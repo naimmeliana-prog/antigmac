@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2018-04-20",
+"episode_count": 5,
+"id": 428971279,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJ737LXVzdHyDA46MeKXh3iorMV.jpg"
+}
+],
+"info": {
+"name": "NF - Aggretsuko",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJ737LXVzdHyDA46MeKXh3iorMV.jpg",
+"plot": "",
+"cast": "",
+"director": "Rareko",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908586",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "514325511",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-20",
+"plot": "Frustrated with her thankless office job, Retsuko the Red Panda copes with her daily struggles by belting out death metal karaoke after work.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Mzk3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15397:3"
+},
+{
+"id": "1004628876",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-20",
+"plot": "Frustrated with her thankless office job, Retsuko the Red Panda copes with her daily struggles by belting out death metal karaoke after work.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Mzk3LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15397:5"
+},
+{
+"id": "724968363",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-20",
+"plot": "Frustrated with her thankless office job, Retsuko the Red Panda copes with her daily struggles by belting out death metal karaoke after work.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Mzk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15397:1"
+},
+{
+"id": "1064321022",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-20",
+"plot": "Frustrated with her thankless office job, Retsuko the Red Panda copes with her daily struggles by belting out death metal karaoke after work.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Mzk3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15397:2"
+},
+{
+"id": "636555972",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-04-20",
+"plot": "Frustrated with her thankless office job, Retsuko the Red Panda copes with her daily struggles by belting out death metal karaoke after work.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Mzk3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15397:4"
+}
+]
+}
+}

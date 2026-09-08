@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2014-02-22",
+"episode_count": 2,
+"id": 1498003057,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTMbfMqUZ1OCqh9CQq5H5Pi13CH.jpg"
+}
+],
+"info": {
+"name": "FR - About a Boy",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTMbfMqUZ1OCqh9CQq5H5Pi13CH.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Hornby",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908669",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "1397449145",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-02-22",
+"plot": "Will Freeman mène une parfaite vie de célibataire sans emploi. C'était sans compter sur Fiona, sa nouvelle voisine, qui emménage accompagnée de son fils de onze ans : Marcus. Si dans un premier temps, la relation de Will et Marcus est conflictuel, l'adulte découvre que sa côté auprès des femmes remonte inexorablement lorsqu'il est accompagné du jeune garçon. Will propose alors un marché à Marcus : laisser ce dernier s'inviter chez lui quand il en a envie, et en échange, il devra accepter de se faire passer pour son fils...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908669",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNTc5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12579:2"
+},
+{
+"id": "78282311",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-02-22",
+"plot": "Will Freeman mène une parfaite vie de célibataire sans emploi. C'était sans compter sur Fiona, sa nouvelle voisine, qui emménage accompagnée de son fils de onze ans : Marcus. Si dans un premier temps, la relation de Will et Marcus est conflictuel, l'adulte découvre que sa côté auprès des femmes remonte inexorablement lorsqu'il est accompagné du jeune garçon. Will propose alors un marché à Marcus : laisser ce dernier s'inviter chez lui quand il en a envie, et en échange, il devra accepter de se faire passer pour son fils...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908669",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNTc5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "12579:1"
+}
+]
+}
+}

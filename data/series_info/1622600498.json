@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-10",
+"episode_count": 3,
+"id": 1819708919,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20mOwAAPwZ1vLQkw0fvuQHiG7bO.jpg"
+}
+],
+"info": {
+"name": "FR - Alice In Borderland",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20mOwAAPwZ1vLQkw0fvuQHiG7bO.jpg",
+"plot": "",
+"cast": "",
+"director": "Yoshiki Watanabe, Yasuko Kuramitsu",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908644",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "1426350496",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-10",
+"plot": "Un gamer paumé et ses deux amis se retrouvent dans un Tokyo parallèle, où ils sont contraints de participer à une série de jeux sadiques pour survivre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMDAwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22000:3"
+},
+{
+"id": "1650901934",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-10",
+"plot": "Un gamer paumé et ses deux amis se retrouvent dans un Tokyo parallèle, où ils sont contraints de participer à une série de jeux sadiques pour survivre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMDAwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22000:1"
+},
+{
+"id": "1699320204",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-10",
+"plot": "Un gamer paumé et ses deux amis se retrouvent dans un Tokyo parallèle, où ils sont contraints de participer à une série de jeux sadiques pour survivre.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908644",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMDAwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22000:2"
+}
+]
+}
+}

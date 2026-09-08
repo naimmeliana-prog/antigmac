@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2016-10-03",
+"episode_count": 2,
+"id": 1114609199,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/dgYhoKfNFctYTzDjDoDkbFQP8jr.jpg"
+}
+],
+"info": {
+"name": "D+ - Milo Murphy's Law (US)",
+"cover": "https://image.tmdb.org/t/p/original/dgYhoKfNFctYTzDjDoDkbFQP8jr.jpg",
+"plot": "",
+"cast": "",
+"director": "Dan Povenmire, Jeff 'Swampy' Marsh",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908602",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "467400189",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-03",
+"plot": "Milo Murphy is the personification of Murphy’s Law where anything that can go wrong will go wrong. Suffering from Extreme Hereditary Murphy’s Law condition (EHML), Milo always looks to make the best of the cards he’s been dealt and his endless optimism and enthusiasm can turn any catastrophe into a wild adventure. Together, he and his friends will learn that it’s all about a positive attitude and not to sweat the big stuff… and it’s all big stuff.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908602",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY2MzIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6632:2"
+},
+{
+"id": "1734459868",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-10-03",
+"plot": "Milo Murphy is the personification of Murphy’s Law where anything that can go wrong will go wrong. Suffering from Extreme Hereditary Murphy’s Law condition (EHML), Milo always looks to make the best of the cards he’s been dealt and his endless optimism and enthusiasm can turn any catastrophe into a wild adventure. Together, he and his friends will learn that it’s all about a positive attitude and not to sweat the big stuff… and it’s all big stuff.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908602",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY2MzIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6632:1"
+}
+]
+}
+}

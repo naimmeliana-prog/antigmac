@@ -1,5 +1,334 @@
 [
   {
+    "category_id": "1873917108",
+    "category_name": "🇪🇸 NL| NETFLIX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1314"
+  },
+  {
+    "category_id": "298471282",
+    "category_name": "🇪🇸 NL| HBO MAX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1319"
+  },
+  {
+    "category_id": "814871167",
+    "category_name": "🇪🇸 NL| AMAZON PRIME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1315"
+  },
+  {
+    "category_id": "1343320773",
+    "category_name": "🇪🇸 NL| DISNEY+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1318"
+  },
+  {
+    "category_id": "612157397",
+    "category_name": "🇪🇸 NL| DISNEY+ KIDS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1406"
+  },
+  {
+    "category_id": "1049388792",
+    "category_name": "🇪🇸 NL| APPLE TV+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1316"
+  },
+  {
+    "category_id": "1752431682",
+    "category_name": "🇪🇸 MULTI| NETFLIX SERIES 4K",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "848"
+  },
+  {
+    "category_id": "793709751",
+    "category_name": "🇪🇸 MULTI| NETFLIX SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "558"
+  },
+  {
+    "category_id": "16596207",
+    "category_name": "🇪🇸 MULTI| NETFLIX ASIA",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1035"
+  },
+  {
+    "category_id": "625975772",
+    "category_name": "🇪🇸 MULTI| NETFLIX KIDS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "718"
+  },
+  {
+    "category_id": "517703105",
+    "category_name": "🇪🇸 MULTI| APPLE+ SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "935"
+  },
+  {
+    "category_id": "282005150",
+    "category_name": "🇪🇸 MULTI| APPLE+ KIDS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "936"
+  },
+  {
+    "category_id": "715439361",
+    "category_name": "🇪🇸 MULTI| DISNEY+ SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "933"
+  },
+  {
+    "category_id": "640360090",
+    "category_name": "🇪🇸 MULTI| DISNEY+ KIDS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "934"
+  },
+  {
+    "category_id": "484638868",
+    "category_name": "🇪🇸 EN| NETFLIX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1136"
+  },
+  {
+    "category_id": "30433091",
+    "category_name": "🇪🇸 EN| AMAZON PRIME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1137"
+  },
+  {
+    "category_id": "17731180",
+    "category_name": "🇪🇸 EN| APPLE TV+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1146"
+  },
+  {
+    "category_id": "1396325268",
+    "category_name": "🇪🇸 EN| HBO MAX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1174"
+  },
+  {
+    "category_id": "1572551767",
+    "category_name": "🇪🇸 EN| CBS/PARAMOUNT+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1398"
+  },
+  {
+    "category_id": "1507464953",
+    "category_name": "🇪🇸 EN| HULU/FX/FOX/ABC",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1176"
+  },
+  {
+    "category_id": "1043000164",
+    "category_name": "🇪🇸 EN| DISNEY+ SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1138"
+  },
+  {
+    "category_id": "295100462",
+    "category_name": "🇪🇸 EN| DISNEY+ ANIMATION",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1183"
+  },
+  {
+    "category_id": "1943579352",
+    "category_name": "🇪🇸 FR| NETFLIX 2026",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1600"
+  },
+  {
+    "category_id": "1766891204",
+    "category_name": "🇪🇸 FR| NETFLIX COMEDIE",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1815"
+  },
+  {
+    "category_id": "790782906",
+    "category_name": "🇪🇸 FR| NETFLIX ACTION",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1820"
+  },
+  {
+    "category_id": "1276308331",
+    "category_name": "🇪🇸 FR| NETFLIX SF",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1817"
+  },
+  {
+    "category_id": "878002532",
+    "category_name": "🇪🇸 FR| NETFLIX DRAME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1819"
+  },
+  {
+    "category_id": "1487237529",
+    "category_name": "🇪🇸 FR| NETFLIX CRIME | MYSTERE",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2070"
+  },
+  {
+    "category_id": "660797040",
+    "category_name": "🇪🇸 FR| NETFLIX REALITY",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1818"
+  },
+  {
+    "category_id": "643813226",
+    "category_name": "🇪🇸 FR| NETFLIX KIDS",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "886"
+  },
+  {
+    "category_id": "789466277",
+    "category_name": "🇪🇸 FR| NETFLIX DOC",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1135"
+  },
+  {
+    "category_id": "1995202404",
+    "category_name": "🇪🇸 FR| AMAZON PRIME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "888"
+  },
+  {
+    "category_id": "509099321",
+    "category_name": "🇪🇸 FR| APPLE TV+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1100"
+  },
+  {
+    "category_id": "705851663",
+    "category_name": "🇪🇸 FR| HBO MAX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "889"
+  },
+  {
+    "category_id": "800653890",
+    "category_name": "🇪🇸 FR| HULU SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "937"
+  },
+  {
+    "category_id": "904986791",
+    "category_name": "🇪🇸 FR| DISNEY+ SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "885"
+  },
+  {
+    "category_id": "270780515",
+    "category_name": "🇪🇸 FR| DISNEY+  ANIME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1182"
+  },
+  {
+    "category_id": "460987393",
+    "category_name": "🇪🇸 FR| PARAMOUNT+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1339"
+  },
+  {
+    "category_id": "585499062",
+    "category_name": "🇪🇸 DE| PRIME 4K",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2237"
+  },
+  {
+    "category_id": "987387581",
+    "category_name": "🇪🇸 DE| APPLE TV 4K",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2239"
+  },
+  {
+    "category_id": "974888874",
+    "category_name": "🇪🇸 DE| PARAMOUNT+ & MTV STUDIOS 4K",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2241"
+  },
+  {
+    "category_id": "972452081",
+    "category_name": "🇪🇸 DE| NETFLIX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1825"
+  },
+  {
+    "category_id": "1681055178",
+    "category_name": "🇪🇸 DE| NETFLIX ANIME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1828"
+  },
+  {
+    "category_id": "1192433266",
+    "category_name": "🇪🇸 DE| DISNEY+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1829"
+  },
+  {
+    "category_id": "1959438118",
+    "category_name": "🇪🇸 DE| PARAMOUNT+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1830"
+  },
+  {
+    "category_id": "1100179950",
+    "category_name": "🇪🇸 DE| APPLE TV+",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1831"
+  },
+  {
+    "category_id": "741500315",
+    "category_name": "🇪🇸 DE| HBO MAX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2374"
+  },
+  {
     "category_id": "261389690",
     "category_name": "🇪🇸 ES| ESPANA SERIES",
     "parent_id": 0,
@@ -89,5 +418,12 @@
     "parent_id": 0,
     "_lang": "es_spain",
     "_stalker_id": "2023"
+  },
+  {
+    "category_id": "1569160013",
+    "category_name": "🇪🇸 EXYU| NETFLIX SERIJE",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2031"
   }
 ]

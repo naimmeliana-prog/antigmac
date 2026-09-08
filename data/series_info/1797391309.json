@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-01-24",
+"episode_count": 1,
+"id": 1846469385,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/6FwEjvxoIKqr47Un3UK32NXqxX0.jpg"
+}
+],
+"info": {
+"name": "FR - 1001 vraies pattes",
+"cover": "https://image.tmdb.org/t/p/w154/6FwEjvxoIKqr47Un3UK32NXqxX0.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908680",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "1482774853",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-01-24",
+"plot": "Explorez un univers microscopique inconnu où un groupe charismatique de héros miniatures ne doit sa survie qu’à des super-pouvoirs ahurissants. Volez dans la jungle avec des abeilles iridescentes, faites du saut à l’élastique avec une araignée en pleine ville, et battez-vous contre des monstres dans l’étang d’un village…  Grâce à des techniques de réalisation ultramodernes et aux dernières avancées scientifiques, découvrez des spectacles impressionnants et des drames envoûtants sous votre nez.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908680",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "30175:1"
+}
+]
+}
+}

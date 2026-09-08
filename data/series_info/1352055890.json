@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-03-06",
+"episode_count": 2,
+"id": 481251868,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/drbcYg8OU0JMADZ8id2WuDjIWul.jpg"
+}
+],
+"info": {
+"name": "EN -  Winning Time: The Rise Of The Lakers Dynasty (2022-2023)",
+"cover": "https://www.themoviedb.org/t/p/original/drbcYg8OU0JMADZ8id2WuDjIWul.jpg",
+"plot": "",
+"cast": "",
+"director": "Max Borenstein, Jim Hecht",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908614",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "304598242",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-06",
+"plot": "A fast-break series chronicling the professional and personal lives of the 1980s Los Angeles Lakers, one of sports’ most revered and dominant dynasties — a team that defined an era, both on and off the court.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908614",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2Mjg0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16284:2"
+},
+{
+"id": "989475521",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-03-06",
+"plot": "A fast-break series chronicling the professional and personal lives of the 1980s Los Angeles Lakers, one of sports’ most revered and dominant dynasties — a team that defined an era, both on and off the court.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908614",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE2Mjg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "16284:1"
+}
+]
+}
+}

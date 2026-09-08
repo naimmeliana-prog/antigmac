@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "1985-09-07",
+"episode_count": 2,
+"id": 210904649,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/uv7QkoePPK5PfpYVVim6JI8DEpO.jpg"
+}
+],
+"info": {
+"name": "D+ - Ewoks (1985)",
+"cover": "https://image.tmdb.org/t/p/original/uv7QkoePPK5PfpYVVim6JI8DEpO.jpg",
+"plot": "",
+"cast": "",
+"director": "George Lucas, Dale Schott, Raymond Jafelice",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908601",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "1830258496",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1985-09-07",
+"plot": "The Ewok Wicket and his friends from the Bright Tree Village go on many magical adventures.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk0ODUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9485:1"
+},
+{
+"id": "1712234222",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "1985-09-07",
+"plot": "The Ewok Wicket and his friends from the Bright Tree Village go on many magical adventures.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk0ODUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9485:2"
+}
+]
+}
+}

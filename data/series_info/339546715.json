@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2018-08-10",
+"episode_count": 1,
+"id": 1992283210,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDNEWowpAE8iHl3X8r1qpshSSfp.jpg"
+}
+],
+"info": {
+"name": "FR - All About the Washingtons",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDNEWowpAE8iHl3X8r1qpshSSfp.jpg",
+"plot": "",
+"cast": "",
+"director": "Jeremy Bronson",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908638",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "1816572771",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2018-08-10",
+"plot": "L'icône du hip-hop MC Joe Speed quitte le show-business et trouve un nouveau rythme entre travail, vie sentimentale et quotidien familial chaotique.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908638",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MjksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4929:1"
+}
+]
+}
+}

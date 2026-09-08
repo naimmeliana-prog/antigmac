@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-06-04",
+"episode_count": 3,
+"id": 102592845,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RpfJBZKOZHbxvJ07TwVeJ4J4hU.jpg"
+}
+],
+"info": {
+"name": "FR - Alex Rider",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RpfJBZKOZHbxvJ07TwVeJ4J4hU.jpg",
+"plot": "",
+"cast": "",
+"director": "Guy Burt",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908668",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "58805149",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-04",
+"plot": "Les aventures de l'adolescent espion Alex Rider, qui se voit contraint d'infiltrer une école correctionnelle pour les enfants de la haute société qui semble cacher de sombres secrets...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908668",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NDk0LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14494:3"
+},
+{
+"id": "1819848600",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-04",
+"plot": "Les aventures de l'adolescent espion Alex Rider, qui se voit contraint d'infiltrer une école correctionnelle pour les enfants de la haute société qui semble cacher de sombres secrets...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908668",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NDk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14494:2"
+},
+{
+"id": "1468306562",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-06-04",
+"plot": "Les aventures de l'adolescent espion Alex Rider, qui se voit contraint d'infiltrer une école correctionnelle pour les enfants de la haute société qui semble cacher de sombres secrets...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908668",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NDk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14494:1"
+}
+]
+}
+}

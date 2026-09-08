@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-09-18",
+"episode_count": 1,
+"id": 1861188082,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0gA36Bmm3bijhP2rYsAW8zYcDY.jpg"
+}
+],
+"info": {
+"name": "D+ - Becoming",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0gA36Bmm3bijhP2rYsAW8zYcDY.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908597",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "715439361"
+},
+"episodes": {
+"1": [
+{
+"id": "1420847582",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-09-18",
+"plot": "The origin stories of 10 athletes, entertainers, and musicians. Each episode centers around a visit to the celebrity’s hometown, touring important locations central to their upbringing. A supporting cast of family members, coaches, teachers, mentors and friends are interviewed, sharing rarely heard anecdotes and insights into the star’s “becoming” story.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908597",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU3MDUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5705:1"
+}
+]
+}
+}

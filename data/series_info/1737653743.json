@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2014-10-20",
+"episode_count": 2,
+"id": 1400424737,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/6UmFB4qXaZTk294y9e4tnhwZZD3.jpg"
+}
+],
+"info": {
+"name": "D+ - Kirby Buckets (2014)",
+"cover": "https://image.tmdb.org/t/p/original/6UmFB4qXaZTk294y9e4tnhwZZD3.jpg",
+"plot": "",
+"cast": "",
+"director": "Gabe Snyder, Mike Alber",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908601",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "374344235",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-10-20",
+"plot": "This single-camera animation/live-action hybrid comedy revolves around  Kirby Buckets, a kid who dreams of being the biggest animator in the  world. His drawings take shape as he and his best friends, Fish and Eli,  go on outrageous adventures.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzcxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15371:3"
+},
+{
+"id": "1527496859",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2014-10-20",
+"plot": "This single-camera animation/live-action hybrid comedy revolves around  Kirby Buckets, a kid who dreams of being the biggest animator in the  world. His drawings take shape as he and his best friends, Fish and Eli,  go on outrageous adventures.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908601",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzcxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15371:1"
+}
+]
+}
+}

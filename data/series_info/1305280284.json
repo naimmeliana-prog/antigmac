@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-06-29",
+"episode_count": 1,
+"id": 1738269265,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/uZ346EcDxqfL5hWDGPNtcGcz4e0.jpg"
+}
+],
+"info": {
+"name": "EN - Adventure Time: Side Quests (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/original/uZ346EcDxqfL5hWDGPNtcGcz4e0.jpg",
+"plot": "",
+"cast": "",
+"director": "Nate Cash",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908629",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "1336182675",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-06-29",
+"plot": "Young hero Finn and his magical dog best friend Jake embark on adventures across the fantastical land of Ooo — partying with cloud people and punching evil in the butt along the way.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908629",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwNDE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50417:1"
+}
+]
+}
+}

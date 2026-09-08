@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2009-02-13",
+"episode_count": 2,
+"id": 867031377,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/o0ByJM7zGlJEUD3M9M0oUjSmCL9.jpg"
+}
+],
+"info": {
+"name": "EN - Aaron Stone (2009–2010)",
+"cover": "https://www.themoviedb.org/t/p/original/o0ByJM7zGlJEUD3M9M0oUjSmCL9.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908626",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "1931578747",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-13",
+"plot": "Charlie Landers is a whiz at the online video game Hero Rising. In fact, he and his online avatar, Aaron Stone, hold its highest rank. But Charlie's life is thrown into chaos when reclusive billionaire T. Abner Hall, creator of the game, asks Charlie to use his avatar to become a real-life crime-fighter. Aided by his Sentient Tactical Assisting Neohuman (S.T.A.N.), Charlie, as Aaron Stone, rights wrongs committed around the world by the Omega Defiance.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2NDc2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "26476:2"
+},
+{
+"id": "555426034",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2009-02-13",
+"plot": "Charlie Landers is a whiz at the online video game Hero Rising. In fact, he and his online avatar, Aaron Stone, hold its highest rank. But Charlie's life is thrown into chaos when reclusive billionaire T. Abner Hall, creator of the game, asks Charlie to use his avatar to become a real-life crime-fighter. Aided by his Sentient Tactical Assisting Neohuman (S.T.A.N.), Charlie, as Aaron Stone, rights wrongs committed around the world by the Omega Defiance.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2NDc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "26476:1"
+}
+]
+}
+}

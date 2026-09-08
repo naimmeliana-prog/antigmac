@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-07",
+"episode_count": 1,
+"id": 177660276,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg"
+}
+],
+"info": {
+"name": "FR - All Her Fault (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+"plot": "",
+"cast": "",
+"director": "Megan Gallagher",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908668",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "1654359215",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-07",
+"plot": "A Chicago, Marissa Irvine se présente au 14 Arthur Avenue pour récupérer son fils, Milo, censé être avec un camarade de classe de sa nouvelle école. Mais la femme qui lui ouvre la porte n’est ni la mère de l’ami de son fils, ni sa nourrice. Pire, elle ne connaît pas Milo et prétend ne l’avoir jamais vu ! Où est l’enfant et qui est responsable de sa disparition ? Milo demeure introuvable et l’angoisse grandit. Débute alors le cauchemar absolu de tout parent...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908668",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NjY2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47666:1"
+}
+]
+}
+}

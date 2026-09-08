@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-11-18",
+"episode_count": 1,
+"id": 1699731443,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/frDntanA2DMcNppQYBY5NfHmMM2.jpg"
+}
+],
+"info": {
+"name": "NL - COOPER & FRY (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
+"plot": "",
+"cast": "",
+"director": "Caroline Ip, Ben Court",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908571",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "752532468",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-11-18",
+"plot": "De serie speelt zich af in het mysterieuze Peak District en volgt twee totaal verschillende jonge rechercheurs: de aimabele lokale Ben Cooper en de gereserveerde nieuwkomer Diane Fry. Ze worden samen ingezet om een ​​reeks mysterieuze sterfgevallen te onderzoeken en moeten leren samenwerken om resultaten te boeken. Terwijl hun persoonlijke levens met elkaar verweven raken, ontstaat er een bijzondere vriendschap... maar die zal niet altijd even makkelijk zijn.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908571",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NTUwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49550:1"
+}
+]
+}
+}

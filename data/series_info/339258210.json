@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-08-22",
+"episode_count": 1,
+"id": 456740437,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/px9zvccELOZ3LUVxMb62gFO6D6o.jpg"
+}
+],
+"info": {
+"name": "FR - Aema (2025) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/px9zvccELOZ3LUVxMb62gFO6D6o.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908637",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "68372196",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-08-22",
+"plot": "Dans la Corée des années 80, une icône du cinéma et une starlette dénoncent une industrie dominée par les hommes et la corruption sur le tournage du film érotique \"Madame Aema\".",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0ODEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "44812:1"
+}
+]
+}
+}

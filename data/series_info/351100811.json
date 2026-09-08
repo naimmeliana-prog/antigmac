@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-11-29",
+"episode_count": 2,
+"id": 511661183,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni2CjULs8BFOrFkHOD3A9FwZWEB.jpg"
+}
+],
+"info": {
+"name": "NL - 30 COINS (2020)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni2CjULs8BFOrFkHOD3A9FwZWEB.jpg",
+"plot": "",
+"cast": "",
+"director": "Álex de la Iglesia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908555",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "298471282"
+},
+"episodes": {
+"1": [
+{
+"id": "996085506",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-29",
+"plot": "Pater Vergara vlucht voor zijn verleden en zoekt zijn toevlucht bij de duivel, die hem vraagt ​​een van de dertig munten terug te vinden waarvoor Judas Jezus Christus heeft verraden. Het is tijd om hem weer onder ogen te zien, en deze keer is hij er klaar voor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908555",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41716:2"
+},
+{
+"id": "296695508",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-29",
+"plot": "Pater Vergara vlucht voor zijn verleden en zoekt zijn toevlucht bij de duivel, die hem vraagt ​​een van de dertig munten terug te vinden waarvoor Judas Jezus Christus heeft verraden. Het is tijd om hem weer onder ogen te zien, en deze keer is hij er klaar voor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908555",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41716:1"
+}
+]
+}
+}

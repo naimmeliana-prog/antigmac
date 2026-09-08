@@ -1,0 +1,143 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-19",
+"episode_count": 5,
+"id": 1588701572,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/BOTITv548LYGB4xRD3rHfbwkqm.jpg"
+}
+],
+"info": {
+"name": "FR - 9-1-1: Lone Star",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+"plot": "",
+"cast": "",
+"director": "Ryan Murphy, Tim Minear, Brad Falchuk",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908681",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "904986791"
+},
+"episodes": {
+"1": [
+{
+"id": "158994388",
+"episode_num": 1,
+"title": "Season 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Après que la caserne 126 d'Austin, Texas, a été décimée lors d'une intervention, Owen Strand, un capitaine des pompiers de New York, est approché par la hiérarchie des pompiers texans.\r\n\r\nSeul survivant de sa caserne après les attentats du 11 septembre, Strand a dû rebâtir sa compagnie en partant de zéro. Les Texans aimeraient qu'il fasse la même chose à Austin avec la caserne 126. Strand accepte.\r\n\r\nEn plus de venir en aide aux personnes en difficulté, il se retrouve à devoir affronter le souvenir de la 126 et ses propres problèmes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908681",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzcsInNlYXNvbl9udW0iOjUsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4477:5"
+},
+{
+"id": "87655212",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Après que la caserne 126 d'Austin, Texas, a été décimée lors d'une intervention, Owen Strand, un capitaine des pompiers de New York, est approché par la hiérarchie des pompiers texans.\r\n\r\nSeul survivant de sa caserne après les attentats du 11 septembre, Strand a dû rebâtir sa compagnie en partant de zéro. Les Texans aimeraient qu'il fasse la même chose à Austin avec la caserne 126. Strand accepte.\r\n\r\nEn plus de venir en aide aux personnes en difficulté, il se retrouve à devoir affronter le souvenir de la 126 et ses propres problèmes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908681",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzcsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4477:4"
+},
+{
+"id": "234775294",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Après que la caserne 126 d'Austin, Texas, a été décimée lors d'une intervention, Owen Strand, un capitaine des pompiers de New York, est approché par la hiérarchie des pompiers texans.\r\n\r\nSeul survivant de sa caserne après les attentats du 11 septembre, Strand a dû rebâtir sa compagnie en partant de zéro. Les Texans aimeraient qu'il fasse la même chose à Austin avec la caserne 126. Strand accepte.\r\n\r\nEn plus de venir en aide aux personnes en difficulté, il se retrouve à devoir affronter le souvenir de la 126 et ses propres problèmes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908681",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4477:2"
+},
+{
+"id": "679445378",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Après que la caserne 126 d'Austin, Texas, a été décimée lors d'une intervention, Owen Strand, un capitaine des pompiers de New York, est approché par la hiérarchie des pompiers texans.\r\n\r\nSeul survivant de sa caserne après les attentats du 11 septembre, Strand a dû rebâtir sa compagnie en partant de zéro. Les Texans aimeraient qu'il fasse la même chose à Austin avec la caserne 126. Strand accepte.\r\n\r\nEn plus de venir en aide aux personnes en difficulté, il se retrouve à devoir affronter le souvenir de la 126 et ses propres problèmes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908681",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4477:3"
+},
+{
+"id": "324188342",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-19",
+"plot": "Après que la caserne 126 d'Austin, Texas, a été décimée lors d'une intervention, Owen Strand, un capitaine des pompiers de New York, est approché par la hiérarchie des pompiers texans.\r\n\r\nSeul survivant de sa caserne après les attentats du 11 septembre, Strand a dû rebâtir sa compagnie en partant de zéro. Les Texans aimeraient qu'il fasse la même chose à Austin avec la caserne 126. Strand accepte.\r\n\r\nEn plus de venir en aide aux personnes en difficulté, il se retrouve à devoir affronter le souvenir de la 126 et ses propres problèmes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908681",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ0NzcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4477:1"
+}
+]
+}
+}

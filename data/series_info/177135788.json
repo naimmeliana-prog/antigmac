@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2015-08-03",
+"episode_count": 1,
+"id": 75365922,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg"
+}
+],
+"info": {
+"name": "NF - Alvinnn!!! and The Chipmunks",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg",
+"plot": "",
+"cast": "",
+"director": "Janice Karman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908586",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "1850029877",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2015-08-03",
+"plot": "Everyone's favorite chipmunks -- Alvin, Simon and Theodore -- are back in this computer-animated version of the classic animated series. The brothers are famous rock stars who tour around the world with their best friends, the Chipettes.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5NzUyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19752:2"
+}
+]
+}
+}

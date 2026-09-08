@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-03-25",
+"episode_count": 1,
+"id": 1945010731,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://photo-tmdb.com/stalker_portal/screenshots/392/39181.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Bait (2026) (US)",
+"cover": "https://photo-tmdb.com/stalker_portal/screenshots/392/39181.jpg",
+"plot": "",
+"cast": "",
+"director": "Riz Ahmed",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908692",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "530832130",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-03-25",
+"plot": "Folgt dem erfolglosen Schauspieler Shah, dessen letzte Chance auf Erfolg ein Vorsprechen ist, das sein Leben verändern könnte. Die humorvolle Miniserie zeigt vier Tage seines Lebens, in denen sein Leben außer Kontrolle gerät und seine Familie, seine Ex-Freundin und die ganze Welt zu wissen glauben, ob er der Richtige für die Rolle ist.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908692",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMTM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50137:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-06",
+"episode_count": 1,
+"id": 1022115686,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/FpBhE0JipV3PX70p1qDlwAwx2j.jpg"
+}
+],
+"info": {
+"name": "FR - American Aryans : la traque des néo-nazis (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/FpBhE0JipV3PX70p1qDlwAwx2j.jpg",
+"plot": "",
+"cast": "",
+"director": "Neil Rawles",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908670",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "851675509",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-06",
+"plot": "Découvrez les six ans d'enquêtes de l'agent Rich Boehning, qui ont conduit à l'arrestation de 73 dirigeants du gang de la Fraternité aryenne du Texas.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908670",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41611:1"
+}
+]
+}
+}

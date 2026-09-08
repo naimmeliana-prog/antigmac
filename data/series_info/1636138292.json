@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-29",
+"episode_count": 1,
+"id": 105422857,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCHoTInUYqkcMCl98RFho3WN2Bc.jpg"
+}
+],
+"info": {
+"name": "DE - Das Buch von Boba Fett (2021)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCHoTInUYqkcMCl98RFho3WN2Bc.jpg",
+"plot": "",
+"cast": "",
+"director": "Jon Favreau, Dave Filoni",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908708",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1192433266"
+},
+"episodes": {
+"1": [
+{
+"id": "151094025",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-29",
+"plot": "Boba Fett ist kein Söldner mehr und geht auf Tatooine neue Wege mit Fennec Shand.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908708",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "14715:1"
+}
+]
+}
+}

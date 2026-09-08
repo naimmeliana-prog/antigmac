@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-11",
+"episode_count": 1,
+"id": 849054444,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAy540Q3e7N55u5YV87MYW34azt.jpg"
+}
+],
+"info": {
+"name": "FR - Bretzel et les bébés chiens",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAy540Q3e7N55u5YV87MYW34azt.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908672",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "480536204",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-11",
+"plot": "Faites la connaissance de Bretzel, le teckel le plus long du monde. C'est un papa attentionné qui adore jouer avec ses cinq chiots pleins de vie. Avec sa femme, Greta, ils encouragent leurs petits à \"toper la patte\" pour résoudre leurs problèmes et \"laisser leur empreinte\" sur le monde qui les entoure.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908672",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1Nzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15798:1"
+}
+]
+}
+}

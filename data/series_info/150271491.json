@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-01-20",
+"episode_count": 3,
+"id": 383167247,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yidvzRidnDDpLxAXpO7aLNXRsS8.jpg"
+}
+],
+"info": {
+"name": "FR - Black Monday",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yidvzRidnDDpLxAXpO7aLNXRsS8.jpg",
+"plot": "",
+"cast": "",
+"director": "Showtime Networks, Sony Pictures Television",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908691",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "1529203054",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-20",
+"plot": "19 octobre 1987 - le lundi noir. Le pire krash boursier de l'histoire de Wall Street. Jusqu'à ce jour, personne ne sait ce qui l'a causé... Découvrez-le maintenant.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908691",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDQsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2144:3"
+},
+{
+"id": "1225679335",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-20",
+"plot": "19 octobre 1987 - le lundi noir. Le pire krash boursier de l'histoire de Wall Street. Jusqu'à ce jour, personne ne sait ce qui l'a causé... Découvrez-le maintenant.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908691",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2144:2"
+},
+{
+"id": "700773943",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-01-20",
+"plot": "19 octobre 1987 - le lundi noir. Le pire krash boursier de l'histoire de Wall Street. Jusqu'à ce jour, personne ne sait ce qui l'a causé... Découvrez-le maintenant.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908691",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxNDQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "2144:1"
+}
+]
+}
+}

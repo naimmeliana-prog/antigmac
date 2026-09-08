@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2001-06-02",
+"episode_count": 3,
+"id": 389268552,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpV3zWEmiHZ5eEi3QXr00JpR0Xu.jpg"
+}
+],
+"info": {
+"name": "NL - BEUGELBEKKIE (2001)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpV3zWEmiHZ5eEi3QXr00JpR0Xu.jpg",
+"plot": "",
+"cast": "",
+"director": "Melissa Clark",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908566",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "1999545698",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-02",
+"plot": "De serie draait om het doen en laten van het blonde pubermeisje Sharon Spitz, wier leven sterk wordt beïnvloed door haar beugel. Met de beugel is ze verwikkeld in een voortdurende haat-liefdeverhouding aangezien deze haar zowel negatief beïnvloedt alswel mysterieuze krachten geeft die zo nu en dan handig van pas komen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908566",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNDQ5LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40449:3"
+},
+{
+"id": "141268400",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-02",
+"plot": "De serie draait om het doen en laten van het blonde pubermeisje Sharon Spitz, wier leven sterk wordt beïnvloed door haar beugel. Met de beugel is ze verwikkeld in een voortdurende haat-liefdeverhouding aangezien deze haar zowel negatief beïnvloedt alswel mysterieuze krachten geeft die zo nu en dan handig van pas komen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908566",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNDQ5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40449:2"
+},
+{
+"id": "1740417394",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2001-06-02",
+"plot": "De serie draait om het doen en laten van het blonde pubermeisje Sharon Spitz, wier leven sterk wordt beïnvloed door haar beugel. Met de beugel is ze verwikkeld in een voortdurende haat-liefdeverhouding aangezien deze haar zowel negatief beïnvloedt alswel mysterieuze krachten geeft die zo nu en dan handig van pas komen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908566",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNDQ5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40449:1"
+}
+]
+}
+}

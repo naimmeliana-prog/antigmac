@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-10-28",
+"episode_count": 1,
+"id": 308742856,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GbXnv3kvmATU0p6E5gC1AiNqtc.jpg"
+}
+],
+"info": {
+"name": "FR - 100 % physique : Asie (2025) (KR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GbXnv3kvmATU0p6E5gC1AiNqtc.jpg",
+"plot": "",
+"cast": "",
+"director": "장호기",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908654",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "660797040"
+},
+"episodes": {
+"1": [
+{
+"id": "467269738",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-10-28",
+"plot": "Des athlètes de huit nationalités différentes s'affrontent pour la gloire de leur pays. Après des épreuves de force pure et d'endurance, seul un drapeau se lèvera pour la victoire.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908654",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2Nzg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46788:1"
+}
+]
+}
+}

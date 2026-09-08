@@ -1,5 +1,96 @@
 [
   {
+    "category_id": "300048330",
+    "category_name": "🇪🇸 AT| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1536"
+  },
+  {
+    "category_id": "733082726",
+    "category_name": "🇪🇸 BE| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1533"
+  },
+  {
+    "category_id": "133437979",
+    "category_name": "🇪🇸 BE| DAZN PPV VIP",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2190"
+  },
+  {
+    "category_id": "484637749",
+    "category_name": "🇪🇸 BE| DAZN PPV VIP BK",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2191"
+  },
+  {
+    "category_id": "1544508010",
+    "category_name": "🇪🇸 CH| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1534"
+  },
+  {
+    "category_id": "148492941",
+    "category_name": "🇪🇸 DENMARK DISNEY+ PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2215"
+  },
+  {
+    "category_id": "917769225",
+    "category_name": "🇪🇸 DE| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1761"
+  },
+  {
+    "category_id": "934267364",
+    "category_name": "🇪🇸 DE| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1086"
+  },
+  {
+    "category_id": "692908514",
+    "category_name": "🇪🇸 DE| DISNEY+ PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2429"
+  },
+  {
+    "category_id": "372285704",
+    "category_name": "🇪🇸 DE| DISNEY+ ᴿᴬᵂ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2393"
+  },
+  {
+    "category_id": "1169004184",
+    "category_name": "🇪🇸 DE| HULU ᴿᴬᵂ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2392"
+  },
+  {
+    "category_id": "1006886661",
+    "category_name": "🇪🇸 DE| PRIME VIDEO ᴿᴬᵂ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2394"
+  },
+  {
+    "category_id": "579735499",
+    "category_name": "🇪🇸 DE| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2185"
+  },
+  {
     "category_id": "1131879312",
     "category_name": "🇪🇸 ES| 24/7 ESPAÑA",
     "parent_id": 0,
@@ -343,6 +434,69 @@
     "_stalker_id": "906"
   },
   {
+    "category_id": "1383453929",
+    "category_name": "🇪🇸 FR| DAZN LA LIGA PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2522"
+  },
+  {
+    "category_id": "895295265",
+    "category_name": "🇪🇸 FR| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1555"
+  },
+  {
+    "category_id": "1270239036",
+    "category_name": "🇪🇸 FR| DISNEY+ PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2523"
+  },
+  {
+    "category_id": "138895959",
+    "category_name": "🇪🇸 FR| DISNEY+ PPV VIP",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2527"
+  },
+  {
+    "category_id": "1089141665",
+    "category_name": "🇪🇸 FR| DISNEY+ PPV ⱽᴵᴾ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2529"
+  },
+  {
+    "category_id": "235289558",
+    "category_name": "🇪🇸 FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2182"
+  },
+  {
+    "category_id": "136782241",
+    "category_name": "🇪🇸 IT| AMAZON PRIME",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1101"
+  },
+  {
+    "category_id": "8978830",
+    "category_name": "🇪🇸 IT| DAZN",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1149"
+  },
+  {
+    "category_id": "119435404",
+    "category_name": "🇪🇸 IT| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1928"
+  },
+  {
     "category_id": "1720166326",
     "category_name": "🇪🇸 IT| FORMULA 1 / MOTOGP",
     "parent_id": 0,
@@ -350,11 +504,151 @@
     "_stalker_id": "1116"
   },
   {
+    "category_id": "1140334362",
+    "category_name": "🇪🇸 IT| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2184"
+  },
+  {
+    "category_id": "856508164",
+    "category_name": "🇪🇸 NL| 24/7 DISNEY",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2354"
+  },
+  {
+    "category_id": "776938529",
+    "category_name": "🇪🇸 NL| 24/7 NETFLIX",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2353"
+  },
+  {
+    "category_id": "1648657117",
+    "category_name": "🇪🇸 NL| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2124"
+  },
+  {
+    "category_id": "1912177668",
+    "category_name": "🇪🇸 NL| DAZN PPV ˢᵘᵖᵉ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2388"
+  },
+  {
+    "category_id": "1093379446",
+    "category_name": "🇪🇸 NL| HBO MAX PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1926"
+  },
+  {
+    "category_id": "91323163",
+    "category_name": "🇪🇸 NL| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2181"
+  },
+  {
+    "category_id": "1455269609",
+    "category_name": "🇪🇸 PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1919"
+  },
+  {
+    "category_id": "1924233114",
+    "category_name": "🇪🇸 PT| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1552"
+  },
+  {
+    "category_id": "918878810",
+    "category_name": "🇪🇸 SWEDEN DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1530"
+  },
+  {
+    "category_id": "1842105823",
+    "category_name": "🇪🇸 SWEDEN DISNEY+ PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1983"
+  },
+  {
+    "category_id": "615909303",
+    "category_name": "🇪🇸 SWEDEN DISNEY+ PPV VIP",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2406"
+  },
+  {
+    "category_id": "799741875",
+    "category_name": "🇪🇸 UK| AMAZON PRIME +",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1127"
+  },
+  {
+    "category_id": "994714543",
+    "category_name": "🇪🇸 UK| APPLE TV F1 PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2425"
+  },
+  {
+    "category_id": "445115185",
+    "category_name": "🇪🇸 UK| APPLE TV+ SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2247"
+  },
+  {
+    "category_id": "1501494778",
+    "category_name": "🇪🇸 UK| DAZN PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "1523"
+  },
+  {
     "category_id": "614572616",
     "category_name": "🇪🇸 UK| FORMULA 1 + MOTOGP",
     "parent_id": 0,
     "_lang": "es_spain",
     "_stalker_id": "1580"
+  },
+  {
+    "category_id": "404898767",
+    "category_name": "🇪🇸 UK| NETFLIX ORIGINAL",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2248"
+  },
+  {
+    "category_id": "1853348944",
+    "category_name": "🇪🇸 UK| NETFLIX PPV",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2021"
+  },
+  {
+    "category_id": "984380190",
+    "category_name": "🇪🇸 UK| PRIME VIDEO SERIES",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2246"
+  },
+  {
+    "category_id": "1051163632",
+    "category_name": "🇪🇸 UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+    "parent_id": 0,
+    "_lang": "es_spain",
+    "_stalker_id": "2183"
   },
   {
     "category_id": "133320181",
@@ -404,41 +698,6 @@
     "parent_id": 0,
     "_lang": "fr_france",
     "_stalker_id": "2481"
-  },
-  {
-    "category_id": "1383453929",
-    "category_name": "🇫🇷 FR| DAZN LA LIGA PPV",
-    "parent_id": 0,
-    "_lang": "fr_france",
-    "_stalker_id": "2522"
-  },
-  {
-    "category_id": "895295265",
-    "category_name": "🇫🇷 FR| DAZN PPV",
-    "parent_id": 0,
-    "_lang": "fr_france",
-    "_stalker_id": "1555"
-  },
-  {
-    "category_id": "1270239036",
-    "category_name": "🇫🇷 FR| DISNEY+ PPV",
-    "parent_id": 0,
-    "_lang": "fr_france",
-    "_stalker_id": "2523"
-  },
-  {
-    "category_id": "138895959",
-    "category_name": "🇫🇷 FR| DISNEY+ PPV VIP",
-    "parent_id": 0,
-    "_lang": "fr_france",
-    "_stalker_id": "2527"
-  },
-  {
-    "category_id": "1089141665",
-    "category_name": "🇫🇷 FR| DISNEY+ PPV ⱽᴵᴾ",
-    "parent_id": 0,
-    "_lang": "fr_france",
-    "_stalker_id": "2529"
   },
   {
     "category_id": "16951991",
@@ -553,13 +812,6 @@
     "_stalker_id": "1077"
   },
   {
-    "category_id": "235289558",
-    "category_name": "🇫🇷 FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
-    "parent_id": 0,
-    "_lang": "fr_france",
-    "_stalker_id": "2182"
-  },
-  {
     "category_id": "1713055537",
     "category_name": "🇫🇷 FR| SOCCER PPV",
     "parent_id": 0,
@@ -609,27 +861,6 @@
     "_stalker_id": "615"
   },
   {
-    "category_id": "799741875",
-    "category_name": "🇬🇧 UK| AMAZON PRIME +",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "1127"
-  },
-  {
-    "category_id": "994714543",
-    "category_name": "🇬🇧 UK| APPLE TV F1 PPV",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "2425"
-  },
-  {
-    "category_id": "445115185",
-    "category_name": "🇬🇧 UK| APPLE TV+ SERIES",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "2247"
-  },
-  {
     "category_id": "256765650",
     "category_name": "🇬🇧 UK| BBC STREAM PPV",
     "parent_id": 0,
@@ -670,13 +901,6 @@
     "parent_id": 0,
     "_lang": "en_uk",
     "_stalker_id": "2511"
-  },
-  {
-    "category_id": "1501494778",
-    "category_name": "🇬🇧 UK| DAZN PPV",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "1523"
   },
   {
     "category_id": "1851152042",
@@ -903,20 +1127,6 @@
     "_stalker_id": "1367"
   },
   {
-    "category_id": "404898767",
-    "category_name": "🇬🇧 UK| NETFLIX ORIGINAL",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "2248"
-  },
-  {
-    "category_id": "1853348944",
-    "category_name": "🇬🇧 UK| NETFLIX PPV",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "2021"
-  },
-  {
     "category_id": "1735349363",
     "category_name": "🇬🇧 UK| NEWS",
     "parent_id": 0,
@@ -950,20 +1160,6 @@
     "parent_id": 0,
     "_lang": "en_uk",
     "_stalker_id": "614"
-  },
-  {
-    "category_id": "984380190",
-    "category_name": "🇬🇧 UK| PRIME VIDEO SERIES",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "2246"
-  },
-  {
-    "category_id": "1051163632",
-    "category_name": "🇬🇧 UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
-    "parent_id": 0,
-    "_lang": "en_uk",
-    "_stalker_id": "2183"
   },
   {
     "category_id": "460899137",

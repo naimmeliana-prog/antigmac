@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-11-13",
+"episode_count": 1,
+"id": 183807382,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/6j7PguBOmq71QbxwduVSwt2vtFv.jpg"
+}
+],
+"info": {
+"name": "A+ - Becoming You (2020)",
+"cover": "https://www.themoviedb.org/t/p/original/6j7PguBOmq71QbxwduVSwt2vtFv.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908592",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "282005150"
+},
+"episodes": {
+"1": [
+{
+"id": "1570832780",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-13",
+"plot": "Told through the eyes of over 100 kids across the globe, this docuseries chronicles how children learn to think, speak, move, and love from birth to age five.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908592",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU2NTgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5658:1"
+}
+]
+}
+}

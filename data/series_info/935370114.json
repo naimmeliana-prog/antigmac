@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-03-06",
+"episode_count": 1,
+"id": 1537648456,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R5V6R3t1ZVtU2ZpTQT21GNgceb.jpg"
+}
+],
+"info": {
+"name": "NL - AMAZING STORIES",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R5V6R3t1ZVtU2ZpTQT21GNgceb.jpg",
+"plot": "",
+"cast": "",
+"director": "Adam Horowitz, Edward Kitsis, Steven Spielberg",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908569",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "28734627",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-03-06",
+"plot": "Een nieuwe reeks losse verhalen brengt alledaagse personages naar wonderlijke en fantastische werelden waar alles mogelijk is. Van de visionaire uitvoerend producenten Steven Spielberg, Edward Kitsis en Adam Horowitz.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908569",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1484:1"
+}
+]
+}
+}

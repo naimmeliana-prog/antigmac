@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-07-27",
+"episode_count": 1,
+"id": 586565387,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/LmUKwtllNx03O1p7DPXtGaQPvz.jpg"
+}
+],
+"info": {
+"name": "EN -  Furious (2026) (US)",
+"cover": "https://image.tmdb.org/t/p/original/LmUKwtllNx03O1p7DPXtGaQPvz.jpg",
+"plot": "",
+"cast": "",
+"director": "Elizabeth Meriwether",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908621",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "1932241761",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-27",
+"plot": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908621",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMDAxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51001:1"
+}
+]
+}
+}

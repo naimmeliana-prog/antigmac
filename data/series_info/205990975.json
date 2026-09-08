@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-24",
+"episode_count": 1,
+"id": 1971827044,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://image.tmdb.org/t/p/w154/yjNnZRsLs5HLaJiIyQ3y4ZSapwg.jpg"
+}
+],
+"info": {
+"name": "NL -  STELLA BLOMKVIST",
+"cover": "http://image.tmdb.org/t/p/w154/yjNnZRsLs5HLaJiIyQ3y4ZSapwg.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908558",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "342843985",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-24",
+"plot": "De pientere, IJslandse advocate Stella Blómkvist staat erom bekend het gevaar niet uit de weg te gaan en af en toe een loopje te nemen met de regels. Die combinatie staat garant voor een elegante neo-noirserie die even sexy als dreigend is. Door haar duistere verleden, haar morele buigzaamheid en haar sympathie voor de underdog, blijkt ze altijd de juiste persoon op de foute plek op het slechtst mogelijke moment te zijn. Stella Blómkvist dompelt je helemaal onder in de troebele wateren van de IJslandse politiek.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908558",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13564:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-11-09",
+"episode_count": 1,
+"id": 1721661046,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVtXjxUziCfBdFVOoTbZM5MhndP.jpg"
+}
+],
+"info": {
+"name": "NF - A Love So Beautiful",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVtXjxUziCfBdFVOoTbZM5MhndP.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908583",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "917298672",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-11-09",
+"plot": "The ups and downs of school, family and growing up test the affection between a budding artist and her handsome but indifferent classmate and neighbor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908583",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkzMTgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9318:1"
+}
+]
+}
+}

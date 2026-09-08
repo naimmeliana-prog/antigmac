@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-07-06",
+"episode_count": 1,
+"id": 1570967003,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khxkciCkPVG1c7R00vNZFxqgqFE.jpg"
+}
+],
+"info": {
+"name": "DE - Kaoru und Rin (2025) (JP)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khxkciCkPVG1c7R00vNZFxqgqFE.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908706",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1681055178"
+},
+"episodes": {
+"1": [
+{
+"id": "172877273",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-07-06",
+"plot": "Als der imposante Rintaro die aufgeschlossene Kaoruko trifft, kommen sich die beiden unerwartet näher. Es gibt nur Problem: Ihre benachbarten Schulen hassen einander.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908706",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1OTc2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45976:1"
+}
+]
+}
+}

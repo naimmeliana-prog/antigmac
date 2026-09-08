@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-01-11",
+"episode_count": 2,
+"id": 1024692713,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg"
+}
+],
+"info": {
+"name": "FR - Amandine Malabul, sorcière maladroite",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+"plot": "",
+"cast": "",
+"director": "Jill Murphy",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908645",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "75374662",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-01-11",
+"plot": "Après avoir atterri dans une école de sorcières, une héroïne maladroite réalise qu'elle y est peut-être à sa place. D'après la série de livres à succès de Jill Murphy.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908645",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcwNTQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7054:2"
+},
+{
+"id": "643142590",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-01-11",
+"plot": "Après avoir atterri dans une école de sorcières, une héroïne maladroite réalise qu'elle y est peut-être à sa place. D'après la série de livres à succès de Jill Murphy.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908645",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjcwNTQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7054:1"
+}
+]
+}
+}

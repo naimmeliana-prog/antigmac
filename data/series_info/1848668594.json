@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-06-11",
+"episode_count": 1,
+"id": 835441321,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1lVe9Inh9ufcGCCDf1fB6HOk28.jpg"
+}
+],
+"info": {
+"name": "DE - Aus Mangel an Beweisen (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1lVe9Inh9ufcGCCDf1fB6HOk28.jpg",
+"plot": "",
+"cast": "",
+"director": "David E. Kelley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908716",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1100179950"
+},
+"episodes": {
+"1": [
+{
+"id": "1773231033",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-06-11",
+"plot": "Ein brutaler Mord erschüttert die Staatsanwaltschaft von Chicago, als einer ihrer Mitarbeiter des Verbrechens beschuldigt wird und der Beschuldigte um den Zusammenhalt seiner Familie kämpfen muss.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908716",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34460:1"
+}
+]
+}
+}

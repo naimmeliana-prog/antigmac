@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-09-18",
+"episode_count": 1,
+"id": 1057936432,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/r62X99wfPjR6ZwpMiqr3YyT5HVP.jpg"
+}
+],
+"info": {
+"name": "EN - Agatha All Along (2024)",
+"cover": "https://image.tmdb.org/t/p/original/r62X99wfPjR6ZwpMiqr3YyT5HVP.jpg",
+"plot": "",
+"cast": "",
+"director": "Jac Schaeffer",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908626",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "256555027",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-09-18",
+"plot": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36360:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-04-30",
+"episode_count": 2,
+"id": 235521124,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KCAZaKHmoMIN9dHutqaMtubQqD.jpg"
+}
+],
+"info": {
+"name": "NL - AMERICAN GODS",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KCAZaKHmoMIN9dHutqaMtubQqD.jpg",
+"plot": "",
+"cast": "",
+"director": "Michael Green, Bryan Fuller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908561",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "42715922",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-30",
+"plot": "”Shadow” is een ex-gevangenen die onlangs is vrijgelaten. Hij heeft moeite met het verwerken van de tragische dood van zijn vrouw. Dan ontmoet hij een mysterieuze man die zichzelf ”Wednesday” noemt. ”Shadow” besluit om de bodyguard van ”Wednesday” te worden. Hij komt terecht in een wereld waarvan hij moeite heeft deze te begrijpen. Het is een wereld waar magie echt is, waar de oude goden terrein verliezen aan nieuwe goden die staan voor geld, drugs, technologie en media….",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908561",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjYwOCwic2Vhc29uX251bSI6MiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "608:2"
+},
+{
+"id": "272527137",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-04-30",
+"plot": "”Shadow” is een ex-gevangenen die onlangs is vrijgelaten. Hij heeft moeite met het verwerken van de tragische dood van zijn vrouw. Dan ontmoet hij een mysterieuze man die zichzelf ”Wednesday” noemt. ”Shadow” besluit om de bodyguard van ”Wednesday” te worden. Hij komt terecht in een wereld waarvan hij moeite heeft deze te begrijpen. Het is een wereld waar magie echt is, waar de oude goden terrein verliezen aan nieuwe goden die staan voor geld, drugs, technologie en media….",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908561",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjYwOCwic2Vhc29uX251bSI6MSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "608:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-05-21",
+"episode_count": 1,
+"id": 409136151,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/fX6VYu3FQRylnmUcCTKKbeKeXcs.jpg"
+}
+],
+"info": {
+"name": "A+ - 1971: The Year That Music Changed Everything (2021)",
+"cover": "https://image.tmdb.org/t/p/original/fX6VYu3FQRylnmUcCTKKbeKeXcs.jpg",
+"plot": "",
+"cast": "",
+"director": "Asif Kapadia",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908588",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "692996903",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-05-21",
+"plot": "An immersive, deep-dive docuseries rich with archival footage and interviews that explores the musicians and soundtracks that shaped the culture and politics of 1971.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908588",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9740:1"
+}
+]
+}
+}

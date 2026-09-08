@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-27",
+"episode_count": 1,
+"id": 884352693,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mysnnnNc6AN8GIyAF7O4ySCSvPp.jpg"
+}
+],
+"info": {
+"name": "FR - 100% loup : La légende de la pierre de lune",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mysnnnNc6AN8GIyAF7O4ySCSvPp.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908669",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "1803169489",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-27",
+"plot": "Freddy est peut-être un caniche, mais il a le cœur d'un loup, et il va le prouver en obtenant son diplôme de la Howlington Academy, réservée aux loups-garous.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908669",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE4MTk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "18196:1"
+}
+]
+}
+}

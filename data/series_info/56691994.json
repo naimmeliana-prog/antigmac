@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2019-07-25",
+"episode_count": 2,
+"id": 294944814,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg"
+}
+],
+"info": {
+"name": "FR - Another Life",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg",
+"plot": "",
+"cast": "",
+"director": "Aaron Martin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908646",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1276308331"
+},
+"episodes": {
+"1": [
+{
+"id": "1791203383",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "Quand un gigantesque artefact extraterrestre atterrit sur Terre, Niko Breckinridge mène une mission interstellaire pour retrouver ses propriétaires et établir le contact.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908646",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4915:2"
+},
+{
+"id": "504767647",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "Quand un gigantesque artefact extraterrestre atterrit sur Terre, Niko Breckinridge mène une mission interstellaire pour retrouver ses propriétaires et établir le contact.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908646",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MTUsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "4915:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-24",
+"episode_count": 1,
+"id": 1129084108,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
+}
+],
+"info": {
+"name": "NL - JURASSIC WORLD THE CHAOS THEORY",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+"plot": "",
+"cast": "",
+"director": "Scott Kreamer, Zack Stentz",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908567",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "1851630183",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-24",
+"plot": "De groep van Kamp Krijtastisch komt samen om een mysterie te ontrafelen als ze ontdekken dat er een wereldwijde samenzwering is die gevaar levert voor de dinosaurussen en henzelf.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908567",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzODE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "33817:1"
+}
+]
+}
+}

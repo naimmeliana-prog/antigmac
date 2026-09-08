@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-09-08",
+"episode_count": 2,
+"id": 1083832366,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/jevVq9DYl5KMM1JafeCoCN5elwy.jpg"
+}
+],
+"info": {
+"name": "NL - DOOGIE KAMEALOHA",
+"cover": "https://image.tmdb.org/t/p/w154/jevVq9DYl5KMM1JafeCoCN5elwy.jpg",
+"plot": "",
+"cast": "",
+"director": "Kourtney Kang",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908566",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "1763632138",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-08",
+"plot": "Dr Lahela 'Doogie' Kamealoha is een 16-jarig wonderkind die haar medische carrière combineert met de dagelijkse tienerbeslommeringen. Thuis zijn haar vader Benny en moeder Clara, stafchef van het ziekenhuis en Lahela's baas, bang dat ze te snel volwassen wordt. Met de steun van haar ohana (familie en vrienden), zoekt Lahela haar eigen weg.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908566",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDU5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25059:2"
+},
+{
+"id": "1431354306",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-09-08",
+"plot": "Dr Lahela 'Doogie' Kamealoha is een 16-jarig wonderkind die haar medische carrière combineert met de dagelijkse tienerbeslommeringen. Thuis zijn haar vader Benny en moeder Clara, stafchef van het ziekenhuis en Lahela's baas, bang dat ze te snel volwassen wordt. Met de steun van haar ohana (familie en vrienden), zoekt Lahela haar eigen weg.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908566",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDU5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25059:1"
+}
+]
+}
+}

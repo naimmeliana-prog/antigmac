@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-12-18",
+"episode_count": 2,
+"id": 529380843,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg"
+}
+],
+"info": {
+"name": "FR - 1923",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908666",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1995202404"
+},
+"episodes": {
+"1": [
+{
+"id": "237887380",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-18",
+"plot": "1923 explore l'aube du XXème siècle et suit une autre génération de Dutton, alors que les épidémies, la sécheresse, la fin de la prohibition et la Grande Dépression s'abattent sur l'Ouest américain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0MTI4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24128:2"
+},
+{
+"id": "613682768",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-12-18",
+"plot": "1923 explore l'aube du XXème siècle et suit une autre génération de Dutton, alors que les épidémies, la sécheresse, la fin de la prohibition et la Grande Dépression s'abattent sur l'Ouest américain.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908666",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0MTI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24128:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-09-06",
+"episode_count": 1,
+"id": 1544063729,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/93Og24s24IAl1l3qXBPgMSBvp1D.jpg"
+}
+],
+"info": {
+"name": "NF - 6ixtynin9 The Series (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/93Og24s24IAl1l3qXBPgMSBvp1D.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908582",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "16596207"
+},
+"episodes": {
+"1": [
+{
+"id": "1622134142",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-09-06",
+"plot": "After losing her job, a woman discovers a mysterious package on her apartment doorstep and her life takes a turn for the worse.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908582",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3NjE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27615:1"
+}
+]
+}
+}

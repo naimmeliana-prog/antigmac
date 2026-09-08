@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-12",
+"episode_count": 1,
+"id": 402085378,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffMQvNZ8vccV7CrmkYuQ8P89Y4x.jpg"
+}
+],
+"info": {
+"name": "DE - A Model Family (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffMQvNZ8vccV7CrmkYuQ8P89Y4x.jpg",
+"plot": "",
+"cast": "",
+"director": "Kim Jin-woo, Lee Jae-gon",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908704",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "972452081"
+},
+"episodes": {
+"1": [
+{
+"id": "70919854",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-12",
+"plot": "Als ein Professor mit Geldproblemen unwissentlich ein Drogenkartell bestiehlt, bleibt ihm nur ein Weg, seine Familie zu retten: Er muss als Drogenkurier arbeiten.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908704",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5NzY4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19768:1"
+}
+]
+}
+}

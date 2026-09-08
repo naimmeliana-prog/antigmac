@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2017-09-25",
+"episode_count": 3,
+"id": 1410700682,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg"
+}
+],
+"info": {
+"name": "NL - ABSENTIA",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg",
+"plot": "",
+"cast": "",
+"director": "Matthew Cirulnick, Gaia Violo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908559",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "814871167"
+},
+"episodes": {
+"1": [
+{
+"id": "926259429",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "FBI-agente Emily Byrne verdwijnt spoorloos, terwijl ze Bostons meest beruchte seriemoordenaar, Conrad Harlow, achtervolgt. Ze wordt doodverklaard en Harlow belandt achter de tralies. Zes jaar later wordt Emily op sterven na dood gevonden. Ze kan zich niets herinneren van de zieke geest die haar heeft ontvoerd en gemarteld. Haar man blijkt intussen hertrouwd te zijn en haar zoontje is compleet van haar vervreemd. Emily gooit alles in de strijd om het raadsel van haar ontvoering op te lossen en haar leven weer op de rit te krijgen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908559",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc5MDksInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7909:3"
+},
+{
+"id": "251047707",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "FBI-agente Emily Byrne verdwijnt spoorloos, terwijl ze Bostons meest beruchte seriemoordenaar, Conrad Harlow, achtervolgt. Ze wordt doodverklaard en Harlow belandt achter de tralies. Zes jaar later wordt Emily op sterven na dood gevonden. Ze kan zich niets herinneren van de zieke geest die haar heeft ontvoerd en gemarteld. Haar man blijkt intussen hertrouwd te zijn en haar zoontje is compleet van haar vervreemd. Emily gooit alles in de strijd om het raadsel van haar ontvoering op te lossen en haar leven weer op de rit te krijgen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908559",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc5MDksInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7909:2"
+},
+{
+"id": "747412208",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-09-25",
+"plot": "FBI-agente Emily Byrne verdwijnt spoorloos, terwijl ze Bostons meest beruchte seriemoordenaar, Conrad Harlow, achtervolgt. Ze wordt doodverklaard en Harlow belandt achter de tralies. Zes jaar later wordt Emily op sterven na dood gevonden. Ze kan zich niets herinneren van de zieke geest die haar heeft ontvoerd en gemarteld. Haar man blijkt intussen hertrouwd te zijn en haar zoontje is compleet van haar vervreemd. Emily gooit alles in de strijd om het raadsel van haar ontvoering op te lossen en haar leven weer op de rit te krijgen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908559",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc5MDksInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7909:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-05-01",
+"episode_count": 1,
+"id": 1065910102,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/gKB7C2TYHxhymcwQT1iijkJDh9w.jpg"
+}
+],
+"info": {
+"name": "EN - A Small Light (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/gKB7C2TYHxhymcwQT1iijkJDh9w.jpg",
+"plot": "",
+"cast": "",
+"director": "Joan Rater, Tony Phelan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908626",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "1640021918",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-05-01",
+"plot": "Twentysomething Miep Gies didn't hesitate when her boss Otto Frank came to her and asked her to hide his family from the Nazis during World War II. For the next two years, Miep, her husband Jan, and the other helpers watched over the eight souls in hiding in the Secret Annex. And it was Miep who found Anne’s Diary and kept it safe so Otto, the only one of the eight who survived, could later share it with the world as one of the most powerful accounts of the Holocaust.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908626",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0NzU2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24756:1"
+}
+]
+}
+}

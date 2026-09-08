@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2020-11-18",
+"episode_count": 3,
+"id": 257258175,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/8RDaoNGmUXDxISTM4XYnRm38frd.jpg"
+}
+],
+"info": {
+"name": "EN  - The Wonderful World Of Mickey Mouse (2020)",
+"cover": "https://www.themoviedb.org/t/p/original/8RDaoNGmUXDxISTM4XYnRm38frd.jpg",
+"plot": "",
+"cast": "",
+"director": "Darrick Bachman",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908629",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "1113651515",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-18",
+"plot": "It's nothing but fun and excitement for Mickey and his best pals – Minnie, Donald, Daisy, Goofy and Pluto - as they embark on their greatest adventures yet, navigating the curveballs of a wild and zany world where the magic of Disney makes the impossible possible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908629",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkxMTgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9118:2"
+},
+{
+"id": "217689727",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-18",
+"plot": "It's nothing but fun and excitement for Mickey and his best pals – Minnie, Donald, Daisy, Goofy and Pluto - as they embark on their greatest adventures yet, navigating the curveballs of a wild and zany world where the magic of Disney makes the impossible possible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908629",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkxMTgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9118:1"
+},
+{
+"id": "1552380167",
+"episode_num": 1,
+"title": "Specials",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-11-18",
+"plot": "It's nothing but fun and excitement for Mickey and his best pals – Minnie, Donald, Daisy, Goofy and Pluto - as they embark on their greatest adventures yet, navigating the curveballs of a wild and zany world where the magic of Disney makes the impossible possible.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908629",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjkxMTgsInNlYXNvbl9udW0iOjAsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "9118:0"
+}
+]
+}
+}

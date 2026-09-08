@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-04",
+"episode_count": 1,
+"id": 1306012124,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA28nLteurVboSSzltuyYt1lvlC.jpg"
+}
+],
+"info": {
+"name": "NL - STAR WARS TALES OF THE EMPIRE",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA28nLteurVboSSzltuyYt1lvlC.jpg",
+"plot": "",
+"cast": "",
+"director": "Dave Filoni",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908568",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "356208745",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-04",
+"plot": "Een wraakzuchtige jonge vrouw en een voormalige Jedi navigeren tijdens verschillende tijdperken door het meedogenloze Galactische Rijk, waarbij hun uiteenlopende keuzes hun lot bepalen in een snel veranderend sterrenstelsel.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908568",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0MTIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34120:1"
+}
+]
+}
+}

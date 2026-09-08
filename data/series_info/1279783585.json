@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-06-11",
+"episode_count": 1,
+"id": 1691202089,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcQsD6mUUchYQ0OCFUE6pnTp5xR.jpg"
+}
+],
+"info": {
+"name": "FR - An!ela (2025)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcQsD6mUUchYQ0OCFUE6pnTp5xR.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908639",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "1471108165",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-06-11",
+"plot": "Quand son richissime mari la laisse sans un sou, une snob de la haute société de Varsovie doit mettre à profit la seule arme qui lui reste pour survivre : son esprit acéré.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908639",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzOTAwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43900:1"
+}
+]
+}
+}

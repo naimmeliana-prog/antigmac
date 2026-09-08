@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-10",
+"episode_count": 1,
+"id": 1663324775,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/1oFkjiF9fT2asKWjRiJtlbhu3hn.jpg"
+}
+],
+"info": {
+"name": "NL - MARVEL MOON GIRL DINOSAURIS",
+"cover": "https://image.tmdb.org/t/p/w154/1oFkjiF9fT2asKWjRiJtlbhu3hn.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908567",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "1075357603",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-10",
+"plot": "Een tienergenie en haar dinosaurus werken samen als superhelden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908567",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1MDYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25062:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-15",
+"episode_count": 1,
+"id": 1643897462,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icb4OGYT0txTnDY9Z22oWJekm4i.jpg"
+}
+],
+"info": {
+"name": "DE - Duster (2025) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icb4OGYT0txTnDY9Z22oWJekm4i.jpg",
+"plot": "",
+"cast": "",
+"director": "J.J. Abrams, LaToya Morgan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908721",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "741500315"
+},
+"episodes": {
+"1": [
+{
+"id": "1161150428",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-15",
+"plot": "1972, Südwesten der USA: Die erste schwarze FBI-Agentin Nina nimmt es mit einem skrupellosen Verbrechersyndikat auf – doch um es zu Fall zu bringen, braucht sie Hilfe von einem, der selbst Teil des Problems ist. Jim, ein charismatischer Fluchtwagenfahrer mit einem Hang zur Selbstzerstörung, wird zu ihrem unwahrscheinlichen Verbündeten. Gemeinsam tauchen sie ein in eine Welt voller Korruption, Gewalt und verräterischer Loyalitäten – verfolgt von Gesetzlosen, Kollegen und ihrer eigenen Vergangenheit.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908721",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNDA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43406:1"
+}
+]
+}
+}

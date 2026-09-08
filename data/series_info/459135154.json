@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2016-11-25",
+"episode_count": 2,
+"id": 1587790439,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbwjI8rp88XNA4fdEex3kOwbr9O.jpg"
+}
+],
+"info": {
+"name": "NF - 3% (BR) (4K)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbwjI8rp88XNA4fdEex3kOwbr9O.jpg",
+"plot": "",
+"cast": "",
+"director": "Pedro Aguilera",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908574",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "1805021682",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908574",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4ODcsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5887:4"
+},
+{
+"id": "1313110928",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-11-25",
+"plot": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908574",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4ODcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "5887:3"
+}
+]
+}
+}

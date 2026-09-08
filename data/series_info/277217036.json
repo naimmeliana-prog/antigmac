@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-02-28",
+"episode_count": 1,
+"id": 424213173,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSeCcQ2yMMmetbKZWePRLFqwDT.jpg"
+}
+],
+"info": {
+"name": "EN - The Widow 4k (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSeCcQ2yMMmetbKZWePRLFqwDT.jpg",
+"plot": "",
+"cast": "",
+"director": "Jack Williams, Harry Williams",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908573",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1752431682"
+},
+"episodes": {
+"1": [
+{
+"id": "73260091",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-02-28",
+"plot": "A woman's search to uncover the mystery of the disappearance of her husband leads her to the Congo, where she's forced to seek the truth about what happened to the man she loved.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908573",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNzA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11705:1"
+}
+]
+}
+}

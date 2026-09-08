@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-18",
+"episode_count": 1,
+"id": 1096061464,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w154/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg"
+}
+],
+"info": {
+"name": "NL - SHE HULK ATTORNET AT LAW",
+"cover": "https://image.tmdb.org/t/p/w154/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+"plot": "",
+"cast": "",
+"director": "Jessica Gao",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908567",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "612157397"
+},
+"episodes": {
+"1": [
+{
+"id": "198970767",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-18",
+"plot": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908567",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwOTAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20903:1"
+}
+]
+}
+}

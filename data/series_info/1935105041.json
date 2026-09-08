@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-17",
+"episode_count": 1,
+"id": 1378696408,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCUjRtMldbX78E8am13nQ0sNv5g.jpg"
+}
+],
+"info": {
+"name": "FR - Alger confidentiel",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCUjRtMldbX78E8am13nQ0sNv5g.jpg",
+"plot": "",
+"cast": "",
+"director": "Abdel Raouf Dafri",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908670",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "534839733",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-17",
+"plot": "Un inspecteur de police attaché à l’ambassade d’Allemagne à Alger vit une histoire d’amour interdite avec une juge d’instruction algérienne. Alors qu’ils tentent de cacher cette relation à leurs hiérarchies respectives, le kidnapping d’un vendeur d’armes les place dans un conflit d’intérêt...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908670",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15917:1"
+}
+]
+}
+}

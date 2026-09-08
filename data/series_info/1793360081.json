@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2016-06-08",
+"episode_count": 4,
+"id": 1035276756,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4LQqWbZ9601ZiNvkQyQ5X3modi.jpg"
+}
+],
+"info": {
+"name": "NF - 100% Hotter",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4LQqWbZ9601ZiNvkQyQ5X3modi.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908578",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "793709751"
+},
+"episodes": {
+"1": [
+{
+"id": "1882727351",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-06-08",
+"plot": "Entertaining makeunder series in which fashion eyesores are stripped of their excessive make-up and outrageous clothes and transformed by fashion stylist Grace Woodward, hair designer Daniel K Palmer and makeup Melissa Sophia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908578",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3553:4"
+},
+{
+"id": "1395825394",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-06-08",
+"plot": "Entertaining makeunder series in which fashion eyesores are stripped of their excessive make-up and outrageous clothes and transformed by fashion stylist Grace Woodward, hair designer Daniel K Palmer and makeup Melissa Sophia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908578",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3553:3"
+},
+{
+"id": "5776366",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-06-08",
+"plot": "Entertaining makeunder series in which fashion eyesores are stripped of their excessive make-up and outrageous clothes and transformed by fashion stylist Grace Woodward, hair designer Daniel K Palmer and makeup Melissa Sophia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908578",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3553:2"
+},
+{
+"id": "65752868",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-06-08",
+"plot": "Entertaining makeunder series in which fashion eyesores are stripped of their excessive make-up and outrageous clothes and transformed by fashion stylist Grace Woodward, hair designer Daniel K Palmer and makeup Melissa Sophia.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908578",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NTMsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "3553:1"
+}
+]
+}
+}

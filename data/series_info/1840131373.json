@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-16",
+"episode_count": 1,
+"id": 702463651,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/olgW2odNSspmonxT7UgXbxbx7HP.jpg"
+}
+],
+"info": {
+"name": "EN - A Private Affair (2022)",
+"cover": "https://image.tmdb.org/t/p/original/olgW2odNSspmonxT7UgXbxbx7HP.jpg",
+"plot": "",
+"cast": "",
+"director": "Ramón Campos, Gema R. Neira, Teresa Fernández-Valdés",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908607",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "30433091"
+},
+"episodes": {
+"1": [
+{
+"id": "80923349",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-16",
+"plot": "Marina Quiroga, a daring upper-class girl with a detective's soul, sets off to catch the serial killer that has been terrorizing her town with her faithful butler Hector's help.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908607",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMjE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20215:1"
+}
+]
+}
+}

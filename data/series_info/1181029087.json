@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-08-13",
+"episode_count": 1,
+"id": 1339218266,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/esyFihcDz4HmBlckOSXVnDbOkRe.jpg"
+}
+],
+"info": {
+"name": "EN - Bad Monkey (2024)",
+"cover": "https://image.tmdb.org/t/p/original/esyFihcDz4HmBlckOSXVnDbOkRe.jpg",
+"plot": "",
+"cast": "",
+"director": "Bill Lawrence",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908611",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "17731180"
+},
+"episodes": {
+"1": [
+{
+"id": "266154104",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-08-13",
+"plot": "A detective turned restaurant inspector in Southern Florida is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908611",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1NjE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35614:1"
+}
+]
+}
+}

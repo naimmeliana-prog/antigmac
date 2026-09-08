@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-06-18",
+"episode_count": 2,
+"id": 170272769,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg"
+}
+],
+"info": {
+"name": "NF - ALCHEMY OF SOULS (2022)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg",
+"plot": "",
+"cast": "",
+"director": "Hong Mi-ran, Hong Jeong-eun",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908551",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1873917108"
+},
+"episodes": {
+"1": [
+{
+"id": "352668359",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-18",
+"plot": "Een machtige tovenares in het lichaam van een blinde vrouw ontmoet een man uit een prestigieuze familie, die haar hulp nodig heeft om zijn lot te veranderen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908551",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMTIwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22120:2"
+},
+{
+"id": "1708865813",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-06-18",
+"plot": "Een machtige tovenares in het lichaam van een blinde vrouw ontmoet een man uit een prestigieuze familie, die haar hulp nodig heeft om zijn lot te veranderen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908551",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyMTIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "22120:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2017-02-10",
+"episode_count": 1,
+"id": 1354351536,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuaELHfbwiDB12rFuInWPUWToDv.jpg"
+}
+],
+"info": {
+"name": "FR - Abstract : L'art du design",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuaELHfbwiDB12rFuInWPUWToDv.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908664",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "789466277"
+},
+"episodes": {
+"1": [
+{
+"id": "816204459",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-02-10",
+"plot": "Voyagez dans l'esprit des créateurs et designers les plus novateurs dans diverses disciplines et découvrez comment leur travail touche tous les aspects de notre vie.\r\n\r\nArchitecture, photographie, typographie : leur art façonne notre vie. Dans cette série documentaire, huit créateurs confient leur histoire et évoquent ce qui les inspire.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908664",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "6937:1"
+}
+]
+}
+}

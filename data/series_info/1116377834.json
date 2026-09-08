@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2019-07-25",
+"episode_count": 4,
+"id": 764565690,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/wXFGXBOMtOwKvnVIpsgD6T6EMb9.jpg"
+}
+],
+"info": {
+"name": "EN - The Boys (2019) (US) (MULTI)",
+"cover": "https://image.tmdb.org/t/p/original/wXFGXBOMtOwKvnVIpsgD6T6EMb9.jpg",
+"plot": "",
+"cast": "",
+"director": "Eric Kripke",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908577",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "793709751"
+},
+"episodes": {
+"1": [
+{
+"id": "166229108",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908577",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzEsInNlYXNvbl9udW0iOjQsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1131:4"
+},
+{
+"id": "1847338238",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908577",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1131:3"
+},
+{
+"id": "421611342",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908577",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzEsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1131:2"
+},
+{
+"id": "1696467251",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-07-25",
+"plot": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908577",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExMzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1131:1"
+}
+]
+}
+}

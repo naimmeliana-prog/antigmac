@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-05-02",
+"episode_count": 1,
+"id": 1976845066,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6iM2JDs15CwEGEcNMUU8HtLivE.jpg"
+}
+],
+"info": {
+"name": "EX - A Man in Full (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6iM2JDs15CwEGEcNMUU8HtLivE.jpg",
+"plot": "",
+"cast": "",
+"director": "David E. Kelley",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908773",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1569160013"
+},
+"episodes": {
+"1": [
+{
+"id": "257846183",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-05-02",
+"plot": "Facing relentless foes and sudden bankruptcy, an Atlanta real estate tycoon must claw his way back to the top when his empire begins to crumble.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908773",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5MjkyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49292:1"
+}
+]
+}
+}

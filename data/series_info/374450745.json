@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-03-08",
+"episode_count": 3,
+"id": 361341884,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg"
+}
+],
+"info": {
+"name": "EN - After Life (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg",
+"plot": "",
+"cast": "",
+"director": "Ricky Gervais",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908606",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "484638868"
+},
+"episodes": {
+"1": [
+{
+"id": "249963967",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-03-08",
+"plot": "Tony had a perfect life. But after his wife Lisa suddenly dies, Tony changes. After contemplating taking his own life, he decides instead to live long enough to punish the world by saying and doing whatever he likes from now on.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908606",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NCwic2Vhc29uX251bSI6MywidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "484:3"
+},
+{
+"id": "1500819143",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-03-08",
+"plot": "Tony had a perfect life. But after his wife Lisa suddenly dies, Tony changes. After contemplating taking his own life, he decides instead to live long enough to punish the world by saying and doing whatever he likes from now on.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908606",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NCwic2Vhc29uX251bSI6MiwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "484:2"
+},
+{
+"id": "1335132302",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-03-08",
+"plot": "Tony had a perfect life. But after his wife Lisa suddenly dies, Tony changes. After contemplating taking his own life, he decides instead to live long enough to punish the world by saying and doing whatever he likes from now on.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908606",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4NCwic2Vhc29uX251bSI6MSwidHlwZSI6InNlcmllcyJ9",
+"_stalker_id": "484:1"
+}
+]
+}
+}

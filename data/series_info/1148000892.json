@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-02-02",
+"episode_count": 1,
+"id": 647800883,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/ftKq1idEvZRS2HlB2S7s2akVbNp.jpg"
+}
+],
+"info": {
+"name": "A+ - Dear Edward (2023)",
+"cover": "https://www.themoviedb.org/t/p/original/ftKq1idEvZRS2HlB2S7s2akVbNp.jpg",
+"plot": "",
+"cast": "",
+"director": "Jason Katims",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908591",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "51536209",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-02-02",
+"plot": "A 12-year-old boy survives a plane crash that kills every other passenger on the flight, including his family. As he and others affected by the tragedy try to make sense of what happened, unexpected friendships, romances, and communities are formed.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908591",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI1ODI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "25825:1"
+}
+]
+}
+}

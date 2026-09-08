@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-03-19",
+"episode_count": 1,
+"id": 804115787,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvp8wW6wm6LulWRtjjeBQcVXMBt.jpg"
+}
+],
+"info": {
+"name": "NL - CALLS",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvp8wW6wm6LulWRtjjeBQcVXMBt.jpg",
+"plot": "",
+"cast": "",
+"director": "Fede Álvarez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908570",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "486633223",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-19",
+"plot": "Deze baanbrekende serie bestaat uit een reeks onderling samenhangende telefoongesprekken. Ze vertellen het mysterieuze verhaal van een groep vreemden wiens leven wordt ontwricht in de aanloop naar een apocalyptische gebeurtenis.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908570",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgxNjAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8160:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-03-21",
+"episode_count": 1,
+"id": 1531168989,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg"
+}
+],
+"info": {
+"name": "EX - 3 Body Problem (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg",
+"plot": "",
+"cast": "",
+"director": "D. B. Weiss, David Benioff, Alexander Woo",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908772",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1569160013"
+},
+"episodes": {
+"1": [
+{
+"id": "827674871",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-03-21",
+"plot": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908772",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwNzIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "40723:1"
+}
+]
+}
+}

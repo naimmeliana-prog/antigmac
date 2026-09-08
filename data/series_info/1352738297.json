@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2017-03-19",
+"episode_count": 2,
+"id": 906864909,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg"
+}
+],
+"info": {
+"name": "FR - Anne with an E",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+"plot": "",
+"cast": "",
+"director": "Moira Walley-Beckett",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908649",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "1607679835",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-03-19",
+"plot": "Une jeune orpheline fougueuse et pleine d'aplomb vient vivre chez une vieille fille et son frère. Inspiré du roman \"Anne… La maison aux pignons verts\".",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc4NjQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7864:1"
+},
+{
+"id": "173523321",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2017-03-19",
+"plot": "Une jeune orpheline fougueuse et pleine d'aplomb vient vivre chez une vieille fille et son frère. Inspiré du roman \"Anne… La maison aux pignons verts\".",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908649",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjc4NjQsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "7864:2"
+}
+]
+}
+}

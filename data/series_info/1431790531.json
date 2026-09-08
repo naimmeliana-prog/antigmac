@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2025-02-21",
+"episode_count": 2,
+"id": 1926776277,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/sgd3dsg4SHlBX6e03WjknDc2pR4.jpg"
+}
+],
+"info": {
+"name": "EN - A Thousand Blows (2025)",
+"cover": "https://image.tmdb.org/t/p/original/sgd3dsg4SHlBX6e03WjknDc2pR4.jpg",
+"plot": "",
+"cast": "",
+"director": "Steven Knight",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908623",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1507464953"
+},
+"episodes": {
+"1": [
+{
+"id": "516259714",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-21",
+"plot": "Hezekiah and Alec, two friends from Jamaica, finds themselves thrust into the criminal underbelly of London's East End. Here they meet Mary Carr, Queen of an all-female criminal gang known as the Forty Elephants, and run afoul of Sugar Goodson, criminal kingpin and notorious boxer.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41810:2"
+},
+{
+"id": "1250177616",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-02-21",
+"plot": "Hezekiah and Alec, two friends from Jamaica, finds themselves thrust into the criminal underbelly of London's East End. Here they meet Mary Carr, Queen of an all-female criminal gang known as the Forty Elephants, and run afoul of Sugar Goodson, criminal kingpin and notorious boxer.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908623",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "41810:1"
+}
+]
+}
+}

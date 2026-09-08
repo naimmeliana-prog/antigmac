@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-04-06",
+"episode_count": 2,
+"id": 1408006986,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg"
+}
+],
+"info": {
+"name": "FR - Acharnés",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg",
+"plot": "",
+"cast": "",
+"director": "Lee Sung-jin",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908637",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1766891204"
+},
+"episodes": {
+"1": [
+{
+"id": "1392922177",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-06",
+"plot": "Un fâcheux incident survenu sur la route n'a de cesse de s'immiscer dans l'esprit de deux personnes et de consumer peu à peu toutes leurs pensées et actions.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0MTc0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24174:2"
+},
+{
+"id": "1203988062",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-04-06",
+"plot": "Un fâcheux incident survenu sur la route n'a de cesse de s'immiscer dans l'esprit de deux personnes et de consumer peu à peu toutes leurs pensées et actions.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908637",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI0MTc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "24174:1"
+}
+]
+}
+}

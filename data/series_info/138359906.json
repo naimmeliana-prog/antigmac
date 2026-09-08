@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2021-11-14",
+"episode_count": 4,
+"id": 782403146,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/vRKAxxc8FakKyMuW5QV0hVV7U30.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Mayor of Kingstown (2021) (US)",
+"cover": "https://image.tmdb.org/t/p/original/vRKAxxc8FakKyMuW5QV0hVV7U30.jpg",
+"plot": "",
+"cast": "",
+"director": "Hugh Dillon, Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908701",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "974888874"
+},
+"episodes": {
+"1": [
+{
+"id": "1555721255",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "In der Stadt Kingstown in Michigan ist das nach wirtschaftlichen Grundsätzen betriebene Gefängnis der einzige verbliebene florierende Wirtschaftszweig der Stadt. In der sitzt die McLusky-Familie an den Hebeln der Macht und versucht, „Recht und Gesetz“ in die Stadt zu holen, in der beides fehlt und in der der systematische Rassismus der USA, Korruption und Ungleicheit herrschen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46760:3"
+},
+{
+"id": "189892247",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "In der Stadt Kingstown in Michigan ist das nach wirtschaftlichen Grundsätzen betriebene Gefängnis der einzige verbliebene florierende Wirtschaftszweig der Stadt. In der sitzt die McLusky-Familie an den Hebeln der Macht und versucht, „Recht und Gesetz“ in die Stadt zu holen, in der beides fehlt und in der der systematische Rassismus der USA, Korruption und Ungleicheit herrschen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYwLCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46760:4"
+},
+{
+"id": "18205795",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "In der Stadt Kingstown in Michigan ist das nach wirtschaftlichen Grundsätzen betriebene Gefängnis der einzige verbliebene florierende Wirtschaftszweig der Stadt. In der sitzt die McLusky-Familie an den Hebeln der Macht und versucht, „Recht und Gesetz“ in die Stadt zu holen, in der beides fehlt und in der der systematische Rassismus der USA, Korruption und Ungleicheit herrschen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46760:2"
+},
+{
+"id": "698481771",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-11-14",
+"plot": "In der Stadt Kingstown in Michigan ist das nach wirtschaftlichen Grundsätzen betriebene Gefängnis der einzige verbliebene florierende Wirtschaftszweig der Stadt. In der sitzt die McLusky-Familie an den Hebeln der Macht und versucht, „Recht und Gesetz“ in die Stadt zu holen, in der beides fehlt und in der der systematische Rassismus der USA, Korruption und Ungleicheit herrschen.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908701",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46760:1"
+}
+]
+}
+}

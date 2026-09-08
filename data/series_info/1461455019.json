@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-09-11",
+"episode_count": 1,
+"id": 57051493,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg"
+}
+],
+"info": {
+"name": "FR - American Gigolo",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg",
+"plot": "",
+"cast": "",
+"director": "David Hollander",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908689",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "230151979",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-09-11",
+"plot": "Julian Kaye a toujours été un objet de désir, à tel point que les gens sont prêts à le détruire pour l'avoir. Disculpé, après 15 ans de prison pour un meurtre qu'il n'a pas commis, il doit maintenant relever le défi de recoller les morceaux alors que le détective qui l'a mis derrière les barreaux tente de percer le mystère qui a conduit à son incarcération injustifiée.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908689",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMTU4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20158:1"
+}
+]
+}
+}

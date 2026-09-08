@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-03-19",
+"episode_count": 1,
+"id": 169684745,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/tGongRDgCfIKWaSCn0gNPYabZmV.jpg"
+}
+],
+"info": {
+"name": "EN - Calls (2021)",
+"cover": "https://image.tmdb.org/t/p/original/tGongRDgCfIKWaSCn0gNPYabZmV.jpg",
+"plot": "",
+"cast": "",
+"director": "Fede Álvarez",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908612",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "17731180"
+},
+"episodes": {
+"1": [
+{
+"id": "1195875428",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-03-19",
+"plot": "Interconnected phone conversations chronicle the mysterious story of a group of strangers whose lives are thrown into disarray.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908612",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjgzOTEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "8391:1"
+}
+]
+}
+}

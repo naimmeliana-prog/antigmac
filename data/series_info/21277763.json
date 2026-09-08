@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2026-05-20",
+"episode_count": 1,
+"id": 1895228171,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg"
+}
+],
+"info": {
+"name": "FR - Carísima (2026) (AR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908635",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "197927056",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-05-20",
+"plot": "Caro Pardíaco, influenceuse pétillante et diva dans l'âme, a tout pour elle... jusqu'à ce qu'elle tombe dans le piège de l'amour romantique en pleine crise de la trentaine.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908635",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5NTQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "49545:1"
+}
+]
+}
+}

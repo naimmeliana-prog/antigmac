@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2019-06-17",
+"episode_count": 3,
+"id": 789392816,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/2tLPbzwpjEHIJ4XGGATxA8V1kWI.jpg"
+}
+],
+"info": {
+"name": "EN - Amphibia (2019)",
+"cover": "https://image.tmdb.org/t/p/original/2tLPbzwpjEHIJ4XGGATxA8V1kWI.jpg",
+"plot": "",
+"cast": "",
+"director": "Matt Braly",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908630",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "295100462"
+},
+"episodes": {
+"1": [
+{
+"id": "1620042546",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-17",
+"plot": "The adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the fictitious world of Amphibia, a rural marshland full of frog-people. With the help of an excitable young frog named Sprig, Anne will become a hero and discover the first true friendship of her life.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzQwLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31740:3"
+},
+{
+"id": "1279755697",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-17",
+"plot": "The adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the fictitious world of Amphibia, a rural marshland full of frog-people. With the help of an excitable young frog named Sprig, Anne will become a hero and discover the first true friendship of her life.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzQwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31740:2"
+},
+{
+"id": "1327915011",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-06-17",
+"plot": "The adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the fictitious world of Amphibia, a rural marshland full of frog-people. With the help of an excitable young frog named Sprig, Anne will become a hero and discover the first true friendship of her life.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908630",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "31740:1"
+}
+]
+}
+}

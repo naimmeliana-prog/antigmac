@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-11-21",
+"episode_count": 1,
+"id": 292784952,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNRvvyZJDOhbEEcTDhUIWbQDBUg.jpg"
+}
+],
+"info": {
+"name": "FR - Bad Boy (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNRvvyZJDOhbEEcTDhUIWbQDBUg.jpg",
+"plot": "",
+"cast": "",
+"director": "Hagar Ben-Asher",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908650",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "871727615",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-11-21",
+"plot": "Dans ce drame sur le passage à l'âge adulte inspiré de faits réels, un humoriste raconte comment son sens de l'humour lui a sauvé la vie dans une prison pour mineurs brutale.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908650",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "43303:1"
+}
+]
+}
+}

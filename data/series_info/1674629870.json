@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2010-03-14",
+"episode_count": 1,
+"id": 1150508812,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg"
+}
+],
+"info": {
+"name": "FR - Band of Brothers : L'Enfer du Pacifique",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
+"plot": "",
+"cast": "",
+"director": "Bruce C. McKenna",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908675",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "705851663"
+},
+"episodes": {
+"1": [
+{
+"id": "1485301705",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2010-03-14",
+"plot": "Suite à l'attaque de Pearl Harbor, le 7 décembre 1941, de jeunes américains pleins d'espoirs s'engagent dans l'armée pour défendre leur pays face à l'invasion japonaise. Ces soldats sont envoyés dans les îles du Pacifique où l'ennemi gagne du terrain. Ils n'ont aucune idée de l'enfer qui les attend. Les désillusions se mêlent vite à la peur, et la mort devient leur lot quotidien. Ce qu'ils vont vivre les changera à jamais. Suivez le parcours de trois marines américains - Robert Leckie, John Basilone et Eugene Sledge - au lendemain de l'attaque de Pearl Harbor jusqu'au retour à la maison des soldats après la capitulation japonaise...",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908675",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTk3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "13597:1"
+}
+]
+}
+}

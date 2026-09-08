@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2022-01-28",
+"episode_count": 3,
+"id": 1063637522,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSbJrcBunGVfFCrhYf6IDDQsw88.jpg"
+}
+],
+"info": {
+"name": "NF - Angry Birds: Summer Madness",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSbJrcBunGVfFCrhYf6IDDQsw88.jpg",
+"plot": "",
+"cast": "",
+"director": "Scott Sonneborn, Rob Doherty",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908586",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "625975772"
+},
+"episodes": {
+"1": [
+{
+"id": "283465102",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Teen birds Red, Chuck, Bomb and Stella are crashing through Camp Splinterwood with their fellow feathered campers for a summer of high-flying hijinks!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTQ1LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15945:3"
+},
+{
+"id": "1589300666",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Teen birds Red, Chuck, Bomb and Stella are crashing through Camp Splinterwood with their fellow feathered campers for a summer of high-flying hijinks!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTQ1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15945:2"
+},
+{
+"id": "1994762917",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-01-28",
+"plot": "Teen birds Red, Chuck, Bomb and Stella are crashing through Camp Splinterwood with their fellow feathered campers for a summer of high-flying hijinks!",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908586",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTQ1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15945:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2020-12-18",
+"episode_count": 1,
+"id": 442049630,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/196/19534.jpg"
+}
+],
+"info": {
+"name": "Disney Parks Sunrise Series (2020) (US)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/196/19534.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908625",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "892350942",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-12-18",
+"plot": "At daybreak, the first rays of sunlight gleam through the spires of Cinderella Castle, beam between the remarkable branches of The Tree of Life, and shimmer onto the brilliant sphere of Spaceship Earth. It’s a view of Disney Parks not often enough enjoyed – at sunrise.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908625",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUwMTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "50117:1"
+}
+]
+}
+}

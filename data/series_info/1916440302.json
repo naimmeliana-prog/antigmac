@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-07-23",
+"episode_count": 1,
+"id": 979377738,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpXllaKdCCgReGqQTtwc33alona.jpg"
+}
+],
+"info": {
+"name": "FR - Bandits, bandits (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpXllaKdCCgReGqQTtwc33alona.jpg",
+"plot": "",
+"cast": "",
+"director": "Jemaine Clement, Iain Morris, Taika Waititi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908671",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "509099321"
+},
+"episodes": {
+"1": [
+{
+"id": "849781216",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-07-23",
+"plot": "Kevin, 11 ans, éprouve sa passion pour l'histoire en rejoignant une bande hétéroclite de voleurs qui l'entraînent à travers le temps dans une aventure pleine d'humour.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908671",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1MjY3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "35267:1"
+}
+]
+}
+}

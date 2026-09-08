@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2023-12-13",
+"episode_count": 3,
+"id": 885497252,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "http://51.158.145.100/stalker_portal/screenshots/201/20056.jpg"
+}
+],
+"info": {
+"name": "EN - 1670 (2023) (PL) (MULTI)",
+"cover": "http://51.158.145.100/stalker_portal/screenshots/201/20056.jpg",
+"plot": "",
+"cast": "",
+"director": "Maciej Buchwald, Kordian Kądziela, Jakub Rużyłło",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908604",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "484638868"
+},
+"episodes": {
+"1": [
+{
+"id": "918753114",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "A zany nobleman contends with family feuds and clashes with peasants in his quest to become the most famous person in Poland.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908604",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMTcyLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51172:3"
+},
+{
+"id": "1795911479",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "A zany nobleman contends with family feuds and clashes with peasants in his quest to become the most famous person in Poland.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908604",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMTcyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51172:2"
+},
+{
+"id": "1919977942",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-12-13",
+"plot": "A zany nobleman contends with family feuds and clashes with peasants in his quest to become the most famous person in Poland.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908604",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxMTcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "51172:1"
+}
+]
+}
+}

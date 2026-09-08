@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2022-02-17",
+"episode_count": 2,
+"id": 937292334,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/p0TagVfhEoWABS5wj326qtRpo6v.jpg"
+}
+],
+"info": {
+"name": "EN - Big Nate (2022)",
+"cover": "https://www.themoviedb.org/t/p/original/p0TagVfhEoWABS5wj326qtRpo6v.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908619",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1572551767"
+},
+"episodes": {
+"1": [
+{
+"id": "1437708534",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-17",
+"plot": "Sixth-grader Nate Wright has a never-ending need to prove his awesomeness to the world. Whether he’s dealing with disasters at home or detention at school, Nate is no stranger to a challenge. Luckily, he’s able to express himself through the world of cartoons that he creates. Charming, mischievous and a magnet for misadventure – trouble is always fun when Nate is around.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTkwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15990:2"
+},
+{
+"id": "1757365237",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-02-17",
+"plot": "Sixth-grader Nate Wright has a never-ending need to prove his awesomeness to the world. Whether he’s dealing with disasters at home or detention at school, Nate is no stranger to a challenge. Luckily, he’s able to express himself through the world of cartoons that he creates. Charming, mischievous and a magnet for misadventure – trouble is always fun when Nate is around.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908619",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1OTkwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15990:1"
+}
+]
+}
+}

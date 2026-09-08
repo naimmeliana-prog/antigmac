@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-05",
+"episode_count": 1,
+"id": 1362859380,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg"
+}
+],
+"info": {
+"name": "DE - Lawmen: Bass Reeves (2023) (US)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+"plot": "",
+"cast": "",
+"director": "Chad Feehan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908714",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "1360231336",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-05",
+"plot": "George Reeves, der Sklavenhalter von Bass Reeves, tritt 1861 dem Sezessionskrieg auf Seiten der Konföderierten bei und nimmt dabei Bass mit. Im Laufe des Krieges, verlässt Bass seinen Sklavenhalter. Nachdem er ihn aufgrund eines Streits bei einem Kartenspiel schlägt, flüchtet er und landet dabei in einem Indianerreservat. Er lernt die Sprache der Ureinwohner. Als ihm bewusst wird, dass die Sklaverei abgeschafft wurde, zieht er als freier Mann nach Arkansas und lässt sich dort als Bauer nieder. 1875 wird Isaac Charles Parker zum Bundesrichter für das Indianerreservat ernannt und vereidigt Bass Reeves als ersten Afroamerikaner zum U.S. Deputy Marshal.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908714",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0OTE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "34919:1"
+}
+]
+}
+}

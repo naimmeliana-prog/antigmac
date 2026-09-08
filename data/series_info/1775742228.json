@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2025-05-22",
+"episode_count": 1,
+"id": 784576835,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQJZBIEWw91O9MbpUOBRcd5JvJl.jpg"
+}
+],
+"info": {
+"name": "DE - Little Disasters (2025) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQJZBIEWw91O9MbpUOBRcd5JvJl.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908714",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1959438118"
+},
+"episodes": {
+"1": [
+{
+"id": "1427806859",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2025-05-22",
+"plot": "Little Disasters konzentriert sich auf die über ein Jahrzehnt andauernde Freundschaft von Jess (Diane Kruger), Liz (Jo Joyner), Charlotte (Shelley Conn) und Mel (Emily Taaffe). Die vier Frauen wurden durch ihre gemeinsamen Geburtstermine zusammengebracht und stehen sich seither während ihrer Mutterschaft bei. Als die scheinbar perfekte Hausfrau Jess ihre kleine Tochter mit einer unerklärlichen Kopfverletzung ins Krankenhaus bringt, muss ihre enge Freundin Liz, die die behandelnde Notärztin ist, die schmerzhafte Entscheidung treffen, ob sie das Jugendamt einschalten soll. Mit diesem Anruf löst Liz eine Kette von Ereignissen aus, die nicht nur ihre Familien, sondern auch den gesamten Freundeskreis zu zerbrechen droht. (Quelle: Paramount+)",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908714",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "47023:1"
+}
+]
+}
+}

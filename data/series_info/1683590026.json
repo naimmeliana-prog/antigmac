@@ -1,0 +1,99 @@
+{
+"seasons": [
+{
+"air_date": "2016-01-15",
+"episode_count": 3,
+"id": 46143560,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/299/29846.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Das geheimnisvolle Kochbuch (2016) (US)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/299/29846.jpg",
+"plot": "",
+"cast": "",
+"director": "Olivia Sanabia, Abby Donnelly, Aubrey K. Miller",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908694",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "388880745",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-15",
+"plot": "Das geheimnisvolle Kochbuch dreht sich um Kelly Quinn und ihre beiden besten Freundinnen Darbie und Hannah. Sie finden auf dem Dachboden das Kochbuch von Kellys Großmutter und entdecken darin interessante Rezepte für magische Naschereien. Nach einigen Versuchen sind sie sich sicher: Jetzt besitzen sie die Macht der Magie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NTIzLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45523:3"
+},
+{
+"id": "1832524683",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-15",
+"plot": "Das geheimnisvolle Kochbuch dreht sich um Kelly Quinn und ihre beiden besten Freundinnen Darbie und Hannah. Sie finden auf dem Dachboden das Kochbuch von Kellys Großmutter und entdecken darin interessante Rezepte für magische Naschereien. Nach einigen Versuchen sind sie sich sicher: Jetzt besitzen sie die Macht der Magie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NTIzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45523:2"
+},
+{
+"id": "1800140624",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2016-01-15",
+"plot": "Das geheimnisvolle Kochbuch dreht sich um Kelly Quinn und ihre beiden besten Freundinnen Darbie und Hannah. Sie finden auf dem Dachboden das Kochbuch von Kellys Großmutter und entdecken darin interessante Rezepte für magische Naschereien. Nach einigen Versuchen sind sie sich sicher: Jetzt besitzen sie die Macht der Magie.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908694",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NTIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45523:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-14",
+"episode_count": 1,
+"id": 1766643343,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/300/29978.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Beasts Like Us (2024) (AT)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/300/29978.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908692",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "585499062"
+},
+"episodes": {
+"1": [
+{
+"id": "1325111846",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-14",
+"plot": "In einer verrückten Welt voller Kreaturen und Monster versuchen vier Freunde, ihren Alltag zu überstehen, ohne dabei gefressen oder infiziert zu werden.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908692",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1Njc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "45678:1"
+}
+]
+}
+}

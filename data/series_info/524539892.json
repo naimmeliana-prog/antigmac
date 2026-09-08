@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-08-19",
+"episode_count": 1,
+"id": 625343253,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/7Nd4VBnp3yJ19jTpxukx7Znq808.jpg"
+}
+],
+"info": {
+"name": "A+ - Bad Sisters (2022)",
+"cover": "https://image.tmdb.org/t/p/original/7Nd4VBnp3yJ19jTpxukx7Znq808.jpg",
+"plot": "",
+"cast": "",
+"director": "Sharon Horgan, Brett Baer, Dave Finkel",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908589",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "517703105"
+},
+"episodes": {
+"1": [
+{
+"id": "1107642979",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-08-19",
+"plot": "The tight-knit Garvey sisters have always looked out for each other. When their brother-in-law winds up dead, his life insurers launch an investigation to prove malicious intent—and set their sights on the sisters, all of whom had ample reason to kill him.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908589",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzYwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28760:1"
+}
+]
+}
+}

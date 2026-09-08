@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2019-11-01",
+"episode_count": 1,
+"id": 1810446097,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
+}
+],
+"info": {
+"name": "NL - FOR ALL MANKIND",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg",
+"plot": "",
+"cast": "",
+"director": "Ronald D. Moore, Matt Wolpert, Ben Nedivi",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908572",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1049388792"
+},
+"episodes": {
+"1": [
+{
+"id": "723816719",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2019-11-01",
+"plot": "For All Mankind begint op 16 juli 1969, terwijl NASA de mens voor het eerst op de maan ziet landen. Het verhaal wordt verteld door het leven van NASA-astronauten, ingenieurs en hun families en presenteert een ambitieuze wereld waarin NASA en het ruimtevaartprogramma een prioriteit en een centraal punt van onze hoop en dromen bleven. Ofwel, wat er zou zijn gebeurd als de wereldwijde ruimtewedloop nooit was geëindigd.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908572",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwNTYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_id": "1056:1"
+}
+]
+}
+}

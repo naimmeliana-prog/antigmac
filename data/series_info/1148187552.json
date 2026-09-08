@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2007-01-12",
+"episode_count": 2,
+"id": 696321474,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://www.themoviedb.org/t/p/original/9fQwpdC3xnvsxS1qPLcJZZIdTUy.jpg"
+}
+],
+"info": {
+"name": "EN - Cory In The House (2007)",
+"cover": "https://www.themoviedb.org/t/p/original/9fQwpdC3xnvsxS1qPLcJZZIdTUy.jpg",
+"plot": "",
+"cast": "",
+"director": "Dennis Rinsler, Marc Warren",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908628",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1043000164"
+},
+"episodes": {
+"1": [
+{
+"id": "453812375",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-01-12",
+"plot": "It's a brand new life for Cory Baxter when his dad, Victor, becomes the personal chef to the President of the United States. Cory's entrepreneurial scheming reaches new heights as he mingles amongst high-powered Washington D.C. elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3Mzk1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27395:2"
+},
+{
+"id": "1254031352",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2007-01-12",
+"plot": "It's a brand new life for Cory Baxter when his dad, Victor, becomes the personal chef to the President of the United States. Cory's entrepreneurial scheming reaches new heights as he mingles amongst high-powered Washington D.C. elite.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908628",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3Mzk1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "27395:1"
+}
+]
+}
+}

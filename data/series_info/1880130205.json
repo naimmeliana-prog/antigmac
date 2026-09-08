@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2020-01-17",
+"episode_count": 2,
+"id": 475708231,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/ywr39FkFgVlk6aNYT04NMTgR4z4.jpg"
+}
+],
+"info": {
+"name": "D+ - Diary Of A Future President (2020)",
+"cover": "https://image.tmdb.org/t/p/original/ywr39FkFgVlk6aNYT04NMTgR4z4.jpg",
+"plot": "",
+"cast": "",
+"director": "Ilana Peña",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908599",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "640360090"
+},
+"episodes": {
+"1": [
+{
+"id": "1062605467",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-17",
+"plot": "Told from the narration of her diary, 12-year-old Cuban-American Elena navigates the ups and downs of middle school and begins her journey to become the future president of the United States.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908599",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15325:1"
+},
+{
+"id": "339438366",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2020-01-17",
+"plot": "Told from the narration of her diary, 12-year-old Cuban-American Elena navigates the ups and downs of middle school and begins her journey to become the future president of the United States.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908599",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MzI1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "15325:2"
+}
+]
+}
+}

@@ -1,0 +1,121 @@
+{
+"seasons": [
+{
+"air_date": "2021-10-08",
+"episode_count": 4,
+"id": 1361431951,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30754.jpg"
+}
+],
+"info": {
+"name": "4K-DE - Acapulco (2021) (US)",
+"cover": "https://icon-tmdb.me/stalker_portal/screenshots/308/30754.jpg",
+"plot": "",
+"cast": "",
+"director": "Austin Winsberg, Jason Shuman, Eduardo Cisneros",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908695",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "987387581"
+},
+"episodes": {
+"1": [
+{
+"id": "1255849165",
+"episode_num": 1,
+"title": "Season 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Im Jahr 1984 wird Maximo Gallardos Traum wahr: Er bekommt einen Job in Acapulcos angesagtestem Urlaubsresort. Doch schon bald muss er erkennen, dass seine Arbeit dort um einiges schwieriger werden wird, als er es sich ausgemalt hatte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908695",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDc3LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46077:4"
+},
+{
+"id": "120353133",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Im Jahr 1984 wird Maximo Gallardos Traum wahr: Er bekommt einen Job in Acapulcos angesagtestem Urlaubsresort. Doch schon bald muss er erkennen, dass seine Arbeit dort um einiges schwieriger werden wird, als er es sich ausgemalt hatte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908695",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDc3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46077:2"
+},
+{
+"id": "1871112051",
+"episode_num": 1,
+"title": "Season 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Im Jahr 1984 wird Maximo Gallardos Traum wahr: Er bekommt einen Job in Acapulcos angesagtestem Urlaubsresort. Doch schon bald muss er erkennen, dass seine Arbeit dort um einiges schwieriger werden wird, als er es sich ausgemalt hatte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908695",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDc3LCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46077:3"
+},
+{
+"id": "1091113783",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-10-08",
+"plot": "Im Jahr 1984 wird Maximo Gallardos Traum wahr: Er bekommt einen Job in Acapulcos angesagtestem Urlaubsresort. Doch schon bald muss er erkennen, dass seine Arbeit dort um einiges schwieriger werden wird, als er es sich ausgemalt hatte.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908695",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "46077:1"
+}
+]
+}
+}

@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2022-07-28",
+"episode_count": 1,
+"id": 96319099,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/9u0VgK8UOcLpObTB1re1yk5I2S4.jpg"
+}
+],
+"info": {
+"name": "EN - Amber Brown (2022)",
+"cover": "https://image.tmdb.org/t/p/original/9u0VgK8UOcLpObTB1re1yk5I2S4.jpg",
+"plot": "",
+"cast": "",
+"director": "Bonnie Hunt",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908610",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "17731180"
+},
+"episodes": {
+"1": [
+{
+"id": "115867615",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2022-07-28",
+"plot": "Between her parents’ divorce and best friend moving away, Amber Brown is having a tough time. But her art, video diary, and new friend Brandi provide outlets for Amber to express her feelings and find gratitude in the love that surrounds her.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908610",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE5MzA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "19305:1"
+}
+]
+}
+}

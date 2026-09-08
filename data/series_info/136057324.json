@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2021-12-19",
+"episode_count": 1,
+"id": 304803468,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg"
+}
+],
+"info": {
+"name": "FR - 1883 (VOSTFR)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+"plot": "",
+"cast": "",
+"director": "Taylor Sheridan",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908688",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "460987393"
+},
+"episodes": {
+"1": [
+{
+"id": "1242144293",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-12-19",
+"plot": "Suivez la famille Dutton dans son voyage vers l'ouest, à travers les grandes plaines, vers le dernier bastion de l'Amérique sauvage. Un récit brutal de l'expansion de l'Ouest, et une étude intense d'une famille fuyant la pauvreté pour chercher un avenir meilleur dans la terre promise de l'Amérique : le Montana.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908688",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwOTg1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "20985:1"
+}
+]
+}
+}

@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2023-11-30",
+"episode_count": 2,
+"id": 989266325,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/59RBeaHNSp1SHDcY07c0ppB90Sf.jpg"
+}
+],
+"info": {
+"name": "EN - Bookie (2023)",
+"cover": "https://image.tmdb.org/t/p/original/59RBeaHNSp1SHDcY07c0ppB90Sf.jpg",
+"plot": "",
+"cast": "",
+"director": "Nick Bakay, Chuck Lorre",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908617",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1396325268"
+},
+"episodes": {
+"1": [
+{
+"id": "1607803536",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-30",
+"plot": "A veteran bookie struggles to survive the impending legalization of sports gambling, increasingly unstable clients, family, co-workers, and a lifestyle that bounces him around every corner of Los Angeles, high and low.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908617",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4ODg0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28884:2"
+},
+{
+"id": "1764603145",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2023-11-30",
+"plot": "A veteran bookie struggles to survive the impending legalization of sports gambling, increasingly unstable clients, family, co-workers, and a lifestyle that bounces him around every corner of Los Angeles, high and low.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908617",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4ODg0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "28884:1"
+}
+]
+}
+}

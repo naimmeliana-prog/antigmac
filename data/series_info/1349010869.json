@@ -1,0 +1,77 @@
+{
+"seasons": [
+{
+"air_date": "2021-08-12",
+"episode_count": 2,
+"id": 402342150,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sieppxxh6ydGHeWM6WgrHzqeYnJ.jpg"
+}
+],
+"info": {
+"name": "FR - AlRawabi School for Girls",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sieppxxh6ydGHeWM6WgrHzqeYnJ.jpg",
+"plot": "",
+"cast": "",
+"director": "Tima Shomali, Shirin Kamal",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908648",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "878002532"
+},
+"episodes": {
+"1": [
+{
+"id": "1542634847",
+"episode_num": 1,
+"title": "Season 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-12",
+"plot": "Les victimes de harcèlement de la prestigieuse école pour filles Al Rawabi échafaudent une série de coups risqués pour faire payer leurs tortionnaires.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908648",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNTUzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11553:2"
+},
+{
+"id": "1040084278",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2021-08-12",
+"plot": "Les victimes de harcèlement de la prestigieuse école pour filles Al Rawabi échafaudent une série de coups risqués pour faire payer leurs tortionnaires.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908648",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNTUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "11553:1"
+}
+]
+}
+}

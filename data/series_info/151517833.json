@@ -1,0 +1,55 @@
+{
+"seasons": [
+{
+"air_date": "2024-02-21",
+"episode_count": 1,
+"id": 64374189,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4WI9U8aX4zPERCXDbYNvjO5U0b.jpg"
+}
+],
+"info": {
+"name": "DE - Constellation (2024)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4WI9U8aX4zPERCXDbYNvjO5U0b.jpg",
+"plot": "",
+"cast": "",
+"director": "Peter Harness",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1788908719",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1100179950"
+},
+"episodes": {
+"1": [
+{
+"id": "704923361",
+"episode_num": 1,
+"title": "Season 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2024-02-21",
+"plot": "Als sich an Bord der Internationalen Raumstation ein verheerender Unfall ereignet, macht sich eine tapfere Astronautin ganz allein auf den Weg zurück zur Erde, und muss dort feststellen, dass sich wichtige Teile ihres Lebens - einschließlich ihrer kleinen Tochter – völlig verändert haben.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788908719",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_id": "36154:1"
+}
+]
+}
+}
