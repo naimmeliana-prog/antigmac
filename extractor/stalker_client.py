@@ -422,67 +422,95 @@ class StalkerClient:
 
     def get_series_info(self, series_id: str) -> Optional[Dict]:
         """
-        Obtiene información detallada de una serie: temporadas y episodios.
-        Pagina todas las páginas disponibles para obtener TODOS los episodios.
+        Obtiene temporadas y episodios de una serie usando el protocolo Stalker real.
+        
+        Protocolo:
+        1. get_ordered_list(movie_id=X) → lista de temporadas
+        2. Cada temporada tiene sus episodios en season['series'] o season['episodes']
+        3. Para resolver el stream: create_link(cmd=season_cmd, series=ep_num)
+        
+        Basado en el proyecto de referencia stalker-m3u.
         """
-        all_episodes = []
-        page = 0
-        total_items = 0
-
-        while True:
+        # ── Obtener temporadas paginadas ──────────────────────────────────────
+        seasons = []
+        page = 1
+        total = 0
+        for _ in range(100):  # max 100 páginas de temporadas
             params = {
                 "type": "series",
                 "action": "get_ordered_list",
-                "movie_id": series_id,
-                "season_id": "0",
-                "episode_id": "0",
+                "movie_id": str(series_id),
                 "p": str(page),
                 "JsHttpRequest": "1-xml",
             }
             result = self._request(params)
             if not result or "js" not in result:
                 break
-
             js = result["js"]
             if not isinstance(js, dict):
                 break
-
             data = js.get("data", [])
-
-            # Si "data" no es lista, devolver el dict directamente (formato no paginado)
-            if not isinstance(data, list):
-                return js
-
-            if not data:
+            # Normalizar: puede venir como dict de grupos
+            if isinstance(data, dict):
+                data = [item for group in data.values() for item in (group if isinstance(group, list) else [group])]
+            if not isinstance(data, list) or not data:
                 break
-
-            all_episodes.extend(data)
-            total_items = int(js.get("total_items", len(all_episodes)))
-            logger.debug(f"  Series {series_id} pág {page}: {len(data)} eps (total: {total_items})")
-
-            # Terminar si ya tenemos todos los episodios, si la página vino parcial (<14) o por seguridad de límite de páginas
-            if (total_items > 0 and len(all_episodes) >= total_items) or len(data) < 14 or page >= 50:
+            t = int(js.get("total_items") or 0)
+            if t:
+                total = t
+            seasons.extend(data)
+            if total and len(seasons) >= total:
                 break
             page += 1
 
-        if all_episodes:
-            return {"data": all_episodes, "total_items": len(all_episodes)}
+        if not seasons:
+            return None
 
-        # Fallback via VOD
-        params = {
-            "type": "vod",
-            "action": "get_ordered_list",
-            "movie_id": series_id,
-            "season_id": "0",
-            "episode_id": "0",
-            "p": "0",
-            "JsHttpRequest": "1-xml",
-        }
-        result = self._request(params)
-        if result and "js" in result:
-            return result["js"]
+        # ── Procesar episodios de cada temporada ──────────────────────────────
+        import re as _re
+        season_num_re = _re.compile(r"(\d+)")
+        all_episodes_flat = []
 
+        for idx, season in enumerate(seasons, 1):
+            # Número de temporada: extraer del campo "name" de la temporada
+            match = season_num_re.search(str(season.get("name") or ""))
+            season_num = int(match.group(1)) if match else idx
+            
+            # cmd de la temporada (sirve para todas las URLs de la misma temporada)
+            season_cmd = season.get("cmd", "")
+
+            # Episodios: pueden venir en season['series'], ['episodes'], ['list']
+            raw_eps = season.get("series") or season.get("episodes") or season.get("list") or []
+            if isinstance(raw_eps, dict):
+                raw_eps = list(raw_eps.values())
+            if not isinstance(raw_eps, list):
+                raw_eps = [raw_eps] if raw_eps else []
+
+            for ep_idx, ep in enumerate(raw_eps, 1):
+                if isinstance(ep, dict):
+                    ep_num = ep.get("series_number") or ep.get("num") or ep.get("id") or ep_idx
+                    ep_name = ep.get("name", "")
+                else:
+                    ep_num = ep or ep_idx
+                    ep_name = ""
+                try:
+                    ep_num = int(ep_num)
+                except (ValueError, TypeError):
+                    ep_num = ep_idx
+
+                all_episodes_flat.append({
+                    "season_number": season_num,
+                    "episode_num": ep_num,
+                    "name": ep_name or f"Episodio {ep_num}",
+                    "cmd": season_cmd,   # cmd de la temporada
+                    "_ep_series_num": ep_num,  # se pasa como 'series=' en create_link
+                    "id": f"{series_id}_{season_num}_{ep_num}",
+                })
+
+        if all_episodes_flat:
+            return {"data": all_episodes_flat, "total_items": len(all_episodes_flat)}
         return None
+
 
     def get_all_series_by_category(self, categories: List[Dict]) -> List[Dict]:
         """Obtiene todas las series de todas las categorías."""
@@ -524,10 +552,15 @@ class StalkerClient:
         logger.info(f"  → {len(all_series)} series totales")
         return all_series
 
-    def create_stream_link(self, cmd: str, series: int = 0) -> Optional[str]:
-        """Genera un enlace de stream desde un comando Stalker."""
+    def create_stream_link(self, cmd: str, series: int = 0, is_live: bool = False) -> Optional[str]:
+        """
+        Genera un enlace de stream desde un comando Stalker.
+        Usa type=itv para canales en vivo, type=vod para películas/episodios.
+        Devuelve la URL directa limpia (sin prefijos ffrt/auto).
+        """
+        stream_type = "itv" if is_live else "vod"
         params = {
-            "type": "vod",
+            "type": stream_type,
             "action": "create_link",
             "cmd": urllib.parse.quote(cmd),
             "series": str(series),
@@ -541,7 +574,38 @@ class StalkerClient:
         if result and "js" in result:
             js = result["js"]
             if isinstance(js, dict):
-                return js.get("cmd", js.get("url", ""))
+                raw = js.get("cmd", js.get("url", ""))
             elif isinstance(js, str):
-                return js
+                raw = js
+            else:
+                return None
+            # Limpiar prefijos ffrt/auto y devolver URL directa
+            if raw:
+                import re
+                cleaned = re.sub(r'^(ffrt\d*|auto)\s+', '', raw.strip())
+                return cleaned if cleaned else None
         return None
+
+    def resolve_cmd_url(self, cmd: str, is_live: bool = False) -> str:
+        """
+        Resuelve un cmd Stalker a su URL directa.
+        1. Si ya es una URL completa (http/https/rtmp), la devuelve limpia.
+        2. Si es una ruta relativa, llama a create_link para obtener la URL real.
+        3. Fallback: combina portalUrl + path.
+        """
+        import re
+        if not cmd:
+            return ""
+        # Quitar prefijos ffrt/auto
+        cleaned = re.sub(r'^(ffrt\d*|auto)\s+', '', cmd.strip())
+        if cleaned.startswith(("http://", "https://", "rtmp://")):
+            return cleaned
+        # Es una ruta relativa → pedir create_link al portal
+        resolved = self.create_stream_link(cmd, is_live=is_live)
+        if resolved and resolved.startswith(("http://", "https://", "rtmp://")):
+            return resolved
+        # Fallback: combinar con portalUrl
+        base = self.portal_url.rstrip("/")
+        path = cleaned if cleaned.startswith("/") else f"/{cleaned}"
+        return f"{base}{path}"
+
