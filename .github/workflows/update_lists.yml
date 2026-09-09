@@ -3,7 +3,7 @@ name: "🔄 Actualizar listas IPTV"
 on:
   schedule:
     # Ejecutar cada 2 días a las 06:00 am 
-    - cron: "0 5 */2 * *"
+    - cron: "0 6 */2 * *"
   workflow_dispatch:
     inputs:
       portal_id:
