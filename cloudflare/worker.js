@@ -200,8 +200,8 @@ function resolveRawUrl(stalkerCmd, portalUrl) {
 }
 
 /**
- * Realiza el handshake con el portal Stalker y devuelve el token.
- * Se usa para llamadas dinámicas de create_link desde el Worker.
+ * Realiza el handshake con el portal Stalker.
+ * Prueba múltiples endpoints (como el proyecto de referencia stalker-m3u).
  */
 async function stalkerHandshake(portalUrl, mac) {
   const base = portalUrl.replace(/\/$/, "");
@@ -211,41 +211,66 @@ async function stalkerHandshake(portalUrl, mac) {
     "Cookie": `mac=${mac}; stb_lang=es; timezone=Europe/Madrid`,
     "Accept": "*/*",
   };
-  try {
-    const url = `${base}/portal.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml`;
-    const r = await fetch(url, { headers });
-    const data = await r.json();
-    return data?.js?.token || data?.js || null;
-  } catch {
-    return null;
+  const ENTRY_POINTS = [
+    "/portal.php",
+    "/server/load.php",
+    "/c/server/load.php",
+    "/stalker_portal/server/load.php",
+  ];
+  for (const entry of ENTRY_POINTS) {
+    try {
+      const url = `${base}${entry}?type=stb&action=handshake&token=&JsHttpRequest=1-xml`;
+      const r = await fetch(url, { headers, signal: AbortSignal.timeout(8000) });
+      if (!r.ok) continue;
+      const data = await r.json();
+      const token = data?.js?.token;
+      if (token) return { token, entry };
+    } catch {
+      continue;
+    }
   }
+  return null;
 }
 
 /**
- * Llama a create_link en el portal Stalker para obtener la URL real
- * de un stream de VOD o serie. Devuelve la URL limpia o null.
+ * Llama a create_link en el portal Stalker.
+ * - Para Live TV: type=itv, sin series=
+ * - Para VOD/Series: prueba type=series primero, luego type=vod
+ * - seriesNum: número de episodio (para series Stalker, el cmd es de la temporada)
  */
-async function stalkerCreateLink(portalUrl, mac, cmd, isLive = false) {
+async function stalkerCreateLink(portalUrl, mac, cmd, isLive = false, seriesNum = 0) {
   const base = portalUrl.replace(/\/$/, "");
-  const token = await stalkerHandshake(portalUrl, mac);
-  const type = isLive ? "itv" : "vod";
+  const hs = await stalkerHandshake(portalUrl, mac);
+  const entry = hs?.entry || "/portal.php";
+  const token = hs?.token || "";
   const headers = {
     "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
     "X-User-Agent": "Model: MAG250; Link: WiFi",
     "Cookie": `mac=${mac}; stb_lang=es; timezone=Europe/Madrid${token ? `; token=${token}` : ""}`,
+    "Authorization": token ? `Bearer ${token}` : "",
     "Accept": "*/*",
   };
-  try {
-    const encodedCmd = encodeURIComponent(cmd);
-    const url = `${base}/portal.php?type=${type}&action=create_link&cmd=${encodedCmd}&series=0&forced_storage=undefined&disable_ad=0&download=0&force_ch_link_check=0&JsHttpRequest=1-xml`;
-    const r = await fetch(url, { headers });
-    const data = await r.json();
-    const resultCmd = data?.js?.cmd || data?.js?.url || data?.js || null;
-    if (resultCmd && typeof resultCmd === "string") {
-      return resolveRawUrl(resultCmd, portalUrl);
+
+  const types = isLive ? ["itv"] : ["series", "vod"];
+  const encodedCmd = encodeURIComponent(cmd);
+
+  for (const type of types) {
+    try {
+      const seriesParam = isLive ? "" : `&series=${seriesNum}`;
+      const url = `${base}${entry}?type=${type}&action=create_link&cmd=${encodedCmd}${seriesParam}&forced_storage=undefined&disable_ad=0&download=0&force_ch_link_check=0&JsHttpRequest=1-xml`;
+      const r = await fetch(url, { headers, signal: AbortSignal.timeout(8000) });
+      if (!r.ok) continue;
+      const data = await r.json();
+      const raw = data?.js?.cmd || data?.js?.url || (typeof data?.js === "string" ? data.js : null);
+      if (raw && typeof raw === "string") {
+        const cleaned = raw.trim().replace(/^(ffrt\d*|auto|ffmpeg)\s+/i, "").replace(/^\d+:\d+\s+/, "").trim();
+        if (cleaned.startsWith("http://") || cleaned.startsWith("https://") || cleaned.startsWith("rtmp://")) {
+          return cleaned;
+        }
+      }
+    } catch {
+      continue;
     }
-  } catch (e) {
-    console.error("create_link error:", e.message);
   }
   return null;
 }
@@ -257,23 +282,27 @@ async function stalkerCreateLink(portalUrl, mac, cmd, isLive = false) {
  * 2. Si es una ruta relativa → intentar create_link dinámico en el portal.
  * 3. Fallback: construir URL combinando portalUrl + path.
  */
-async function resolveStreamUrl(stalkerCmd, env, isLive = false) {
+async function resolveStreamUrl(stalkerCmd, env, isLive = false, seriesNum = 0) {
   if (!stalkerCmd) return null;
   const portalUrl = (env?.PORTAL_URL || "http://mag.greatott.me:80").replace(/\/$/, "");
   const mac = env?.PORTAL_MAC || "00:1A:79:74:B1:B9";
 
-  // Paso 1: si ya es una URL completa, usarla directamente (caso más común)
+  // Paso 1: si ya es una URL completa, usarla directamente (pero Live TV siempre pasa por create_link)
   const cleaned = cleanStalkerCmd(stalkerCmd);
-  if (cleaned && (cleaned.startsWith("http://") || cleaned.startsWith("https://") || cleaned.startsWith("rtmp://"))) {
+  if (!isLive && cleaned && (cleaned.startsWith("http://") || cleaned.startsWith("https://") || cleaned.startsWith("rtmp://"))) {
     return cleaned;
   }
 
-  // Paso 2: intentar create_link dinámico (para paths relativos o cmd sin limpiar)
-  const dynamic = await stalkerCreateLink(portalUrl, mac, stalkerCmd, isLive);
+  // Paso 2: create_link dinámico (obligatorio para Live TV; para VOD/Series cuando el cmd es relativo)
+  const dynamic = await stalkerCreateLink(portalUrl, mac, stalkerCmd, isLive, seriesNum);
   if (dynamic) return dynamic;
 
-  // Paso 3: construir URL combinando portal + path relativo
-  return resolveRawUrl(stalkerCmd, portalUrl);
+  // Paso 3 (solo para VOD/Series): combinar portal + path relativo como fallback
+  if (!isLive && cleaned) {
+    return resolveRawUrl(cleaned, portalUrl);
+  }
+
+  return null;
 }
 
 
@@ -652,24 +681,20 @@ async function findEpisodeById(episodeId) {
 
 /**
  * Maneja streams de Series/Episodios → Redirect 302
+ * El Worker usa _stalker_cmd (cmd de la temporada) + _stalker_series_num (número de episodio)
+ * para llamar a create_link en el portal, exactamente como hace el proyecto de referencia.
  */
 async function handleSeriesStream([, username, password, episodeId, ext], env) {
   try {
     const episode = await findEpisodeById(episodeId);
 
     if (!episode || !episode._stalker_cmd) {
-      // Fallback: intentar en vod_streams por si el episodio está ahí
-      const vodStreams = await loadJson("vod_streams.json");
-      const id = parseInt(episodeId);
-      const vodItem = vodStreams.find((s) => s.stream_id === id);
-      if (vodItem?._stalker_cmd) {
-        const url = await resolveStreamUrl(vodItem._stalker_cmd, env, false);
-        if (url) return Response.redirect(url, 302);
-      }
       return new Response("Episodio no encontrado", { status: 404 });
     }
 
-    const stalkerUrl = await resolveStreamUrl(episode._stalker_cmd, env, false);
+    // _stalker_series_num = número de episodio a pasar como 'series=' en create_link
+    const seriesNum = episode._stalker_series_num || episode.episode_num || 0;
+    const stalkerUrl = await resolveStreamUrl(episode._stalker_cmd, env, false, seriesNum);
     if (!stalkerUrl) {
       return new Response("URL de episodio no disponible", { status: 503 });
     }
