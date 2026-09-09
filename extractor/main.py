@@ -209,10 +209,13 @@ def process_portal(
     # Índice plano de episodios para que el Worker resuelva streams rápidamente
     episodes_index = []
 
-    for xs in xtream_series_list:
+    for idx, xs in enumerate(xtream_series_list, 1):
         stalker_id = xs.get("_stalker_id", "")
         series_id = xs["series_id"]
         stalker_serie = stalker_series_map.get(stalker_id, xs)
+
+        if idx % 10 == 0 or idx == len(xtream_series_list):
+            logger.info(f"    - Procesando episodios: {idx}/{len(xtream_series_list)} series...")
 
         try:
             stalker_info = client.get_series_info(stalker_id) if stalker_id else None
@@ -231,7 +234,9 @@ def process_portal(
                         "title": ep.get("title", ""),
                         "container_extension": ep.get("container_extension", "mkv"),
                         "_stalker_cmd": ep.get("_stalker_cmd", ""),
+                        "_stalker_series_num": ep.get("_stalker_series_num", ep.get("episode_num", 1)),
                     })
+
 
         except Exception as e:
             logger.warning(f"  ⚠️  No se pudo obtener info de '{xs.get('name', series_id)}': {e}")
