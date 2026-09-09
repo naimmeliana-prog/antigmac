@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "N/A",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 4,
 "id": 303689468,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953820",
+"last_modified": "1788957214",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "387519880",
+"id": "1071197694",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "N/A",
-"plot": "Is hij gek of zit er toch iets in? In 2017 verkochten Didi Taihuttu, zijn vrouw Romaine en hun drie jonge dochters Joli, Juna en Jessa al hun bezittingen en stopten het geld in bitcoins. Nu reizen ze de wereld over en iedereen kan via social media hun avonturen volgen. De familie werd beroemd en vader Didi werd een cultfiguur in de crypto wereld. Meer families, waaronder zijn eigen broer en zus, volgden hun voorbeeld. Hoe is het de afgelopen jaren met de familie gegaan terwijl de munt fluctueerde en hoe ziet hun dagelijks leven eruit?",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,80 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953820",
+"added": "1788957214",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzODE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "33818:1"
+"_stalker_series_num": 1,
+"_stalker_id": "33818:33818_1_1"
+},
+{
+"id": "1622218178",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957214",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzODE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "33818:33818_1_2"
+},
+{
+"id": "1087338171",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957214",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzODE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "33818:33818_1_3"
+},
+{
+"id": "1677232812",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957214",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzODE4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "33818:33818_1_4"
 }
 ]
 }

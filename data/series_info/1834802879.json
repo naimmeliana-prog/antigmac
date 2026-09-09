@@ -1,12 +1,12 @@
 {
 "seasons": [
 {
-"air_date": "2015-09-21",
+"air_date": "",
 "episode_count": 1,
-"id": 506254057,
-"name": "Temporada 1",
+"id": 1794872335,
+"name": "Temporada 3",
 "overview": "",
-"season_number": 1,
+"season_number": 3,
 "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wfyd41N8nIZq1TEonj90rcmqYE.jpg"
 }
 ],
@@ -18,7 +18,7 @@
 "director": "Martin Gero",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954059",
+"last_modified": "1788957452",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +27,16 @@
 "category_id": "445361173"
 },
 "episodes": {
-"1": [
+"3": [
 {
-"id": "704215451",
+"id": "76078190",
 "episode_num": 1,
-"title": "Season 3",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2015-09-21",
-"plot": "Blindspot parte de una atractiva mujer, sin recuerdos de su pasado, que aparece desnuda en Times Square cubriendo su cuerpo solamente de tatuajes intrincados. Su descubrimiento pone en marcha un gran y complejo misterio que llama inmediatamente la atención del FBI, que comienzan a seguir la hoja de ruta en su cuerpo para revelar una conspiración más amplia de delito y, de esa manera, descubrir la verdad sobre su identidad.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,11 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954059",
-"season": 1,
+"added": "1788957452",
+"season": 3,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMDIxLCJzZWFzb25fbnVtIjozLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "10021:3"
+"_stalker_series_num": 1,
+"_stalker_id": "10021:10021_3_1"
 }
 ]
 }

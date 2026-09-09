@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2018-06-01",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 3,
 "id": 23960274,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Gédéon Naudet, Jules Naudet",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953977",
+"last_modified": "1788957342",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1308006236",
+"id": "25458512",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2018-06-01",
-"plot": "Survivants et premiers intervenants racontent la nuit du 13 novembre 2015 et les actes de bienveillance et de bravoure dont ils ont été témoins dans les rues de Paris.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,57 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953977",
+"added": "1788957342",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "6932:1"
+"_stalker_series_num": 1,
+"_stalker_id": "6932:6932_1_1"
+},
+{
+"id": "282177293",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957342",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "6932:6932_1_2"
+},
+{
+"id": "540849962",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957342",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjY5MzIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "6932:6932_1_3"
 }
 ]
 }

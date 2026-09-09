@@ -1,7 +1,7 @@
 {
 "seasons": [
 {
-"air_date": "2020-03-06",
+"air_date": "",
 "episode_count": 1,
 "id": 1537648456,
 "name": "Temporada 1",
@@ -18,7 +18,7 @@
 "director": "Adam Horowitz, Edward Kitsis, Steven Spielberg",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953828",
+"last_modified": "1788957246",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "28734627",
+"id": "19821207",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2020-03-06",
-"plot": "Een nieuwe reeks losse verhalen brengt alledaagse personages naar wonderlijke en fantastische werelden waar alles mogelijk is. Van de visionaire uitvoerend producenten Steven Spielberg, Edward Kitsis en Adam Horowitz.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,11 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953828",
+"added": "1788957246",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0ODQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "1484:1"
+"_stalker_series_num": 1,
+"_stalker_id": "1484:1484_1_1"
 }
 ]
 }

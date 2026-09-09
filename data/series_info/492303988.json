@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-11-16",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 5,
 "id": 856923039,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Marton Olympio",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954006",
+"last_modified": "1788957384",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1655101534",
+"id": "1811091577",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-11-16",
-"plot": "Combien d'obstacles un champion doit-il franchir pour devenir l'icône noire de sa génération ? Le parcours d'Anderson Spider Silva, au fil des victoires et des défaites, sur le ring et en dehors.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,103 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954006",
+"added": "1788957384",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "28715:1"
+"_stalker_series_num": 1,
+"_stalker_id": "28715:28715_1_1"
+},
+{
+"id": "1466291929",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "28715:28715_1_2"
+},
+{
+"id": "1856371791",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "28715:28715_1_3"
+},
+{
+"id": "319414445",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "28715:28715_1_4"
+},
+{
+"id": "201611292",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957384",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4NzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "28715:28715_1_5"
 }
 ]
 }

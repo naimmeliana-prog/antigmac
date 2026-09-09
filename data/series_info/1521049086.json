@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-01-20",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 8,
 "id": 1419987403,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Jason Katims",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953909",
+"last_modified": "1788957287",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "88934271",
+"id": "23815235",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-01-20",
-"plot": "Finding love, making friends, getting a job, adulting. Watch as three roommates on the autism spectrum navigate their early 20s with all its joy, tears and laughter. With the help of their families, aide, and sometimes even each other, these roommates experience setbacks and celebrate triumphs on their own unique journeys towards independence and acceptance.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,172 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953909",
+"added": "1788957287",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "15263:1"
+"_stalker_series_num": 1,
+"_stalker_id": "15263:15263_1_1"
+},
+{
+"id": "1935211392",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "15263:15263_1_2"
+},
+{
+"id": "1549977095",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "15263:15263_1_3"
+},
+{
+"id": "1191496332",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "15263:15263_1_4"
+},
+{
+"id": "388797350",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "15263:15263_1_5"
+},
+{
+"id": "141864750",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "15263:15263_1_6"
+},
+{
+"id": "334564459",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "15263:15263_1_7"
+},
+{
+"id": "1732253691",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957287",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1MjYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "15263:15263_1_8"
 }
 ]
 }

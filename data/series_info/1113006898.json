@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2021-03-19",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 9,
 "id": 1521259015,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Fede Álvarez",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954056",
+"last_modified": "1788957447",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1509393218",
+"id": "464992921",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-03-19",
-"plot": "En esta innovadora serie narrada a través de conversaciones telefónicas, las vidas de un grupo de desconocidos se ven truncadas por lo que parece ser el inicio de un evento apocalíptico.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,195 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954056",
+"added": "1788957447",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "32014:1"
+"_stalker_series_num": 1,
+"_stalker_id": "32014:32014_1_1"
+},
+{
+"id": "95003215",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "32014:32014_1_2"
+},
+{
+"id": "1897531655",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "32014:32014_1_3"
+},
+{
+"id": "88539174",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "32014:32014_1_4"
+},
+{
+"id": "10971366",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "32014:32014_1_5"
+},
+{
+"id": "872539570",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "32014:32014_1_6"
+},
+{
+"id": "1961459365",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "32014:32014_1_7"
+},
+{
+"id": "603949421",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "32014:32014_1_8"
+},
+{
+"id": "1062635049",
+"episode_num": 9,
+"title": "Episodio 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyMDE0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 9,
+"_stalker_id": "32014:32014_1_9"
 }
 ]
 }

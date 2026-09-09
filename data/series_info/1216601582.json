@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-01-09",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 5,
 "id": 674270031,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954023",
+"last_modified": "1788957405",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "625769289",
+"id": "1530242487",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-01-09",
-"plot": "Maya Lopez wird von Wilson Fisks Verbrecherbande verfolgt. Der Weg führt sie in ihre Heimatstadt, wo sie sich ihrer Familie und deren Vermächtnis stellen muss.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,103 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954023",
+"added": "1788957405",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "29943:1"
+"_stalker_series_num": 1,
+"_stalker_id": "29943:29943_1_1"
+},
+{
+"id": "188060147",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957405",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "29943:29943_1_2"
+},
+{
+"id": "56629486",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957405",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "29943:29943_1_3"
+},
+{
+"id": "1095621583",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957405",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "29943:29943_1_4"
+},
+{
+"id": "1681406162",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957405",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5OTQzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "29943:29943_1_5"
 }
 ]
 }

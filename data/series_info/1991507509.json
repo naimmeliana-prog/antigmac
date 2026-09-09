@@ -1,12 +1,30 @@
 {
 "seasons": [
 {
-"air_date": "2019-03-08",
-"episode_count": 3,
+"air_date": "",
+"episode_count": 6,
+"id": 1892729433,
+"name": "Temporada 3",
+"overview": "",
+"season_number": 3,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 129422288,
 "name": "Temporada 1",
 "overview": "",
 "season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
+"id": 894429877,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
 "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eJf4h9XcvqK64vbx27EFlLVURm.jpg"
 }
 ],
@@ -18,7 +36,7 @@
 "director": "Ricky Gervais",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953945",
+"last_modified": "1788957316",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +45,156 @@
 "category_id": "1766891204"
 },
 "episodes": {
+"3": [
+{
+"id": "1278512653",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 1,
+"_stalker_id": "4776:4776_3_1"
+},
+{
+"id": "355416687",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "4776:4776_3_2"
+},
+{
+"id": "1270984851",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "4776:4776_3_3"
+},
+{
+"id": "1893119427",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "4776:4776_3_4"
+},
+{
+"id": "938487249",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "4776:4776_3_5"
+},
+{
+"id": "1118662829",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "4776:4776_3_6"
+}
+],
 "1": [
 {
-"id": "1324156172",
+"id": "468951982",
 "episode_num": 1,
-"title": "Season 3",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2019-03-08",
-"plot": "Tony avait une vie parfaite, mais lorsque sa femme Lisa meurt soudainement, Tony change. Après avoir envisagé de se suicider, il décide plutôt de vivre assez longtemps pour punir le monde entier...",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,42 +203,21 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953945",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "4776:3"
-},
-{
-"id": "228252938",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2019-03-08",
-"plot": "Tony avait une vie parfaite, mais lorsque sa femme Lisa meurt soudainement, Tony change. Après avoir envisagé de se suicider, il décide plutôt de vivre assez longtemps pour punir le monde entier...",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788953945",
+"added": "1788957316",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "4776:1"
+"_stalker_series_num": 1,
+"_stalker_id": "4776:4776_1_1"
 },
 {
-"id": "1096239421",
-"episode_num": 1,
-"title": "Season 2",
+"id": "612759975",
+"episode_num": 2,
+"title": "Episodio 2",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2019-03-08",
-"plot": "Tony avait une vie parfaite, mais lorsque sa femme Lisa meurt soudainement, Tony change. Après avoir envisagé de se suicider, il décide plutôt de vivre assez longtemps pour punir le monde entier...",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -89,10 +226,243 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953945",
+"added": "1788957316",
 "season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "4776:4776_1_2"
+},
+{
+"id": "1717654761",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "4776:4776_1_3"
+},
+{
+"id": "1163466120",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "4776:4776_1_4"
+},
+{
+"id": "1812337723",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "4776:4776_1_5"
+},
+{
+"id": "245339829",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "4776:4776_1_6"
+}
+],
+"2": [
+{
+"id": "1693991006",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 2,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "4776:2"
+"_stalker_series_num": 1,
+"_stalker_id": "4776:4776_2_1"
+},
+{
+"id": "1323802867",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "4776:4776_2_2"
+},
+{
+"id": "541979073",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "4776:4776_2_3"
+},
+{
+"id": "1818843645",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "4776:4776_2_4"
+},
+{
+"id": "216045516",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "4776:4776_2_5"
+},
+{
+"id": "891999530",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957316",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NzYsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "4776:4776_2_6"
 }
 ]
 }

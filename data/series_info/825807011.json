@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2021-05-21",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 8,
 "id": 409136151,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Asif Kapadia",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953850",
+"last_modified": "1788957266",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "692996903",
+"id": "1019577597",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-05-21",
-"plot": "An immersive, deep-dive docuseries rich with archival footage and interviews that explores the musicians and soundtracks that shaped the culture and politics of 1971.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,172 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953850",
+"added": "1788957266",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "9740:1"
+"_stalker_series_num": 1,
+"_stalker_id": "9740:9740_1_1"
+},
+{
+"id": "750278856",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "9740:9740_1_2"
+},
+{
+"id": "1412443570",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "9740:9740_1_3"
+},
+{
+"id": "1522553283",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "9740:9740_1_4"
+},
+{
+"id": "1429996668",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "9740:9740_1_5"
+},
+{
+"id": "1959519434",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "9740:9740_1_6"
+},
+{
+"id": "1071412459",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 7,
+"_stalker_id": "9740:9740_1_7"
+},
+{
+"id": "312360761",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957266",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk3NDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 8,
+"_stalker_id": "9740:9740_1_8"
 }
 ]
 }

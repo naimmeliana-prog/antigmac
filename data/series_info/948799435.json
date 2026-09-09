@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2021-09-26",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 1702144486,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Randy Huggins",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954053",
+"last_modified": "1788957443",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "877019465",
+"id": "533248957",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-09-26",
-"plot": "Drama inspirado en la historia real de dos hermanos que se criaron en las decadentes calles del suroeste de Detroit a fines de la década de 1980 y dieron origen a una de las familias criminales más influyentes de Estados Unidos. El carismático liderazgo de Demetrius 'Big Meech' Flenory, la perspicacia empresarial de Terry 'Southwest T' Flenory y la visión de la hermandad en comunidad, más allá del tráfico de drogas y dentro del mundo del hip-hop, convertirían a los hermanos en un icono a nivel mundial. Su inquebrantable creencia en la lealtad a la familia sería la piedra angular de su relación y el núcleo de su posible distanciamiento.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954053",
+"added": "1788957443",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "31635:1"
+"_stalker_series_num": 1,
+"_stalker_id": "31635:31635_1_1"
+},
+{
+"id": "467265321",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957443",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "31635:31635_1_2"
+},
+{
+"id": "925535769",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957443",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "31635:31635_1_3"
+},
+{
+"id": "279658647",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957443",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "31635:31635_1_4"
+},
+{
+"id": "825096770",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957443",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "31635:31635_1_5"
+},
+{
+"id": "40320263",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957443",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "31635:31635_1_6"
 }
 ]
 }

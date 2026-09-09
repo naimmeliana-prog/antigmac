@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2020-10-23",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 6,
+"id": 1223707532,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3cUaeLUGT8c0YIR8qCDDH2iJSU.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 1031819022,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Arne Nolting, Jan Martin Scharf, Andreas Heckmann",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953947",
+"last_modified": "1788957320",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,156 @@
 "category_id": "790782906"
 },
 "episodes": {
+"2": [
+{
+"id": "1461253506",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 1,
+"_stalker_id": "5368:5368_2_1"
+},
+{
+"id": "757495597",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "5368:5368_2_2"
+},
+{
+"id": "371073369",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "5368:5368_2_3"
+},
+{
+"id": "144359095",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "5368:5368_2_4"
+},
+{
+"id": "695959612",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "5368:5368_2_5"
+},
+{
+"id": "110969149",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "5368:5368_2_6"
+}
+],
 "1": [
 {
-"id": "1660404779",
+"id": "1498288083",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2020-10-23",
-"plot": "Les hésitations d'un officier romain déchiré entre l'empire puissant qui l'a éduqué et sa tribu d'origine vont provoquer un conflit qui entrera dans l'Histoire.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +194,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953947",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "5368:2"
-},
-{
-"id": "976167891",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2020-10-23",
-"plot": "Les hésitations d'un officier romain déchiré entre l'empire puissant qui l'a éduqué et sa tribu d'origine vont provoquer un conflit qui entrera dans l'Histoire.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788953947",
+"added": "1788957320",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "5368:1"
+"_stalker_series_num": 1,
+"_stalker_id": "5368:5368_1_1"
+},
+{
+"id": "1687462595",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "5368:5368_1_2"
+},
+{
+"id": "1887536126",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "5368:5368_1_3"
+},
+{
+"id": "1034009753",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "5368:5368_1_4"
+},
+{
+"id": "518123536",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "5368:5368_1_5"
+},
+{
+"id": "1020421504",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957320",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjgsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "5368:5368_1_6"
 }
 ]
 }

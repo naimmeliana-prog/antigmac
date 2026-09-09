@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2024-10-18",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 6,
+"id": 127738698,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iqnF9VuG9FNDJPpQ9Mfo9a7gr0.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 999222198,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Mark Herwick, Jeff Tomsic",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954058",
+"last_modified": "1788957450",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,156 @@
 "category_id": "445361173"
 },
 "episodes": {
+"2": [
+{
+"id": "1960110509",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "46805:46805_2_1"
+},
+{
+"id": "1177887191",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "46805:46805_2_2"
+},
+{
+"id": "1268196735",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "46805:46805_2_3"
+},
+{
+"id": "821696870",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "46805:46805_2_4"
+},
+{
+"id": "770655167",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "46805:46805_2_5"
+},
+{
+"id": "1414466626",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "46805:46805_2_6"
+}
+],
 "1": [
 {
-"id": "1017445170",
+"id": "1576810190",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-10-18",
-"plot": "Esta serie de comedia nocturna destaca las historias más impactantes del Estado del Sol, recreadas por algunos de los favoritos de Hollywood.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +194,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954058",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "46805:2"
-},
-{
-"id": "1031021215",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2024-10-18",
-"plot": "Esta serie de comedia nocturna destaca las historias más impactantes del Estado del Sol, recreadas por algunos de los favoritos de Hollywood.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788954058",
+"added": "1788957450",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "46805:1"
+"_stalker_series_num": 1,
+"_stalker_id": "46805:46805_1_1"
+},
+{
+"id": "1293174659",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "46805:46805_1_2"
+},
+{
+"id": "915599576",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "46805:46805_1_3"
+},
+{
+"id": "1959468312",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "46805:46805_1_4"
+},
+{
+"id": "1091546716",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "46805:46805_1_5"
+},
+{
+"id": "1263773024",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957450",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2ODA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "46805:46805_1_6"
 }
 ]
 }

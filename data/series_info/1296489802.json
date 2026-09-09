@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-12-13",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 8,
 "id": 680022400,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953815",
+"last_modified": "1788957180",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "705972939",
+"id": "645969245",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-12-13",
-"plot": "De serie volgt de bezigheden van Jan Paweł Adamczewski, het hoofd van een szlachta-familie in het Pools-Litouwse Gemenebest in de 17e eeuw. [3] V40 [5]",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,172 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953815",
+"added": "1788957180",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "29773:1"
+"_stalker_series_num": 1,
+"_stalker_id": "29773:29773_1_1"
+},
+{
+"id": "1485225524",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957180",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "29773:29773_1_2"
+},
+{
+"id": "1644239302",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957180",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "29773:29773_1_3"
+},
+{
+"id": "1728332224",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957180",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "29773:29773_1_4"
+},
+{
+"id": "292530449",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957180",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "29773:29773_1_5"
+},
+{
+"id": "788387377",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957180",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "29773:29773_1_6"
+},
+{
+"id": "981322200",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957180",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "29773:29773_1_7"
+},
+{
+"id": "319893002",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957180",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5NzczLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "29773:29773_1_8"
 }
 ]
 }

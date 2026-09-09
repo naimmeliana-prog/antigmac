@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2020-01-20",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 2,
 "id": 1016141227,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953823",
+"last_modified": "1788957231",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1704219779",
+"id": "103701484",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2020-01-20",
-"plot": "Wanneer een vriend van Aaron Hernandez dood wordt aangetroffen in de buurt van zijn huis, richten rechercheurs hun blik op de New England Patriot. Tijdens het proces ontvouwt zich een sensationeel familiedrama terwijl Aaron vecht voor zijn leven. Later komen er links naar een andere brute moord naar voren.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,34 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953823",
+"added": "1788957231",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3MzcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "27370:1"
+"_stalker_series_num": 1,
+"_stalker_id": "27370:27370_1_1"
+},
+{
+"id": "431812008",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957231",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI3MzcwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "27370:27370_1_2"
 }
 ]
 }

@@ -1,12 +1,21 @@
 {
 "seasons": [
 {
-"air_date": "2023-07-23",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 8,
 "id": 397792906,
 "name": "Temporada 1",
 "overview": "",
 "season_number": 1,
+"cover": "https://image.tmdb.org/t/p/original/xS3UR0yJaPTZLkToGrLRum1NnSO.jpg"
+},
+{
+"air_date": "",
+"episode_count": 8,
+"id": 672800903,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
 "cover": "https://image.tmdb.org/t/p/original/xS3UR0yJaPTZLkToGrLRum1NnSO.jpg"
 }
 ],
@@ -18,7 +27,7 @@
 "director": "Taylor Sheridan",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954015",
+"last_modified": "1788957395",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +38,14 @@
 "episodes": {
 "1": [
 {
-"id": "1737861686",
+"id": "667133055",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-07-23",
-"plot": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,20 +54,21 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954015",
+"added": "1788957395",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "46762:1"
+"_stalker_series_num": 1,
+"_stalker_id": "46762:46762_1_1"
 },
 {
-"id": "1766300778",
-"episode_num": 1,
-"title": "Season 2",
+"id": "1276685469",
+"episode_num": 2,
+"title": "Episodio 2",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-07-23",
-"plot": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -67,10 +77,335 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954015",
+"added": "1788957395",
 "season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "46762:46762_1_2"
+},
+{
+"id": "447085245",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "46762:46762_1_3"
+},
+{
+"id": "937187384",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "46762:46762_1_4"
+},
+{
+"id": "1737962375",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "46762:46762_1_5"
+},
+{
+"id": "1713467269",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "46762:46762_1_6"
+},
+{
+"id": "204489579",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "46762:46762_1_7"
+},
+{
+"id": "293755609",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "46762:46762_1_8"
+}
+],
+"2": [
+{
+"id": "1382451090",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "46762:2"
+"_stalker_series_num": 1,
+"_stalker_id": "46762:46762_2_1"
+},
+{
+"id": "670016556",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "46762:46762_2_2"
+},
+{
+"id": "3992350",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "46762:46762_2_3"
+},
+{
+"id": "1996328305",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "46762:46762_2_4"
+},
+{
+"id": "580956732",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "46762:46762_2_5"
+},
+{
+"id": "174044097",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "46762:46762_2_6"
+},
+{
+"id": "1037570061",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "46762:46762_2_7"
+},
+{
+"id": "1882527054",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957395",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2NzYyLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "46762:46762_2_8"
 }
 ]
 }

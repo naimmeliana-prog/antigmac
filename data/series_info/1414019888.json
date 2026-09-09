@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-10-12",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 50042583,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Nicolas Bedos",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953983",
+"last_modified": "1788957349",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "471214447",
+"id": "1995538298",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-10-12",
-"plot": "Il s’appelle Alphonse et vit en France. \"Je suis là, Mesdames, pour satisfaire tous vos désirs, même les plus inavouables. Toutes. Je deviendrai qui vous voudrez : votre amour de jeunesse, votre idole, votre animal de compagnie ou votre bourreau. Quel que soit votre physique ou votre âge, vous serez la plus belle femme du monde\" promet-il selon un tarif, à négocier.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953983",
+"added": "1788957349",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "28186:1"
+"_stalker_series_num": 1,
+"_stalker_id": "28186:28186_1_1"
+},
+{
+"id": "1380865963",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957349",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "28186:28186_1_2"
+},
+{
+"id": "1838144742",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957349",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "28186:28186_1_3"
+},
+{
+"id": "1293918126",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957349",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "28186:28186_1_4"
+},
+{
+"id": "102848819",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957349",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "28186:28186_1_5"
+},
+{
+"id": "96379207",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957349",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "28186:28186_1_6"
 }
 ]
 }

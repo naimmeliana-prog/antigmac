@@ -1,12 +1,21 @@
 {
 "seasons": [
 {
-"air_date": "2015-02-17",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 7,
 "id": 765046767,
 "name": "Temporada 1",
 "overview": "",
 "season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eONDHS7ty6RywYT6UEPV5o4o2H.jpg"
+},
+{
+"air_date": "",
+"episode_count": 9,
+"id": 52130184,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
 "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eONDHS7ty6RywYT6UEPV5o4o2H.jpg"
 }
 ],
@@ -18,7 +27,7 @@
 "director": "Ramón Campos, Gema R. Neira",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954040",
+"last_modified": "1788957428",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +38,14 @@
 "episodes": {
 "1": [
 {
-"id": "26825870",
+"id": "563141601",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2015-02-17",
-"plot": "Narra la investigación de dos policías nacionales designados como infiltrados al caso de una desaparición de una niña de siete años, el policía Víctor Reyes y la Inspectora Laura Cortés; y la investigación de su superior, el Comisario Casas.\r\n\r\nEl día de su primera comunión, Alicia Vega, una niña de siete años, desaparece sin dejar rastro. Tras dos semanas de intensa búsqueda, la policía solo tiene una cosa en claro: el culpable es uno de los invitados a la ceremonia y miembro de la familia de la niña. Los agentes Víctor y Laura se hacen pasar por un matrimonio recién llegado al pueblo de Cienfuegos, y se infiltran en el entorno de la familia Vega y del resto de sospechosos. Mientras ellos dos permanecen en la sombra, el comisario Casas es la parte oficial de la investigación y la única persona que conoce la verdadera identidad de sus agentes infiltrados.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,20 +54,21 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954040",
+"added": "1788957428",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34510:1"
+"_stalker_series_num": 1,
+"_stalker_id": "34510:34510_1_1"
 },
 {
-"id": "664589793",
-"episode_num": 1,
-"title": "Season 2",
+"id": "1979584511",
+"episode_num": 2,
+"title": "Episodio 2",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2015-02-17",
-"plot": "Narra la investigación de dos policías nacionales designados como infiltrados al caso de una desaparición de una niña de siete años, el policía Víctor Reyes y la Inspectora Laura Cortés; y la investigación de su superior, el Comisario Casas.\r\n\r\nEl día de su primera comunión, Alicia Vega, una niña de siete años, desaparece sin dejar rastro. Tras dos semanas de intensa búsqueda, la policía solo tiene una cosa en claro: el culpable es uno de los invitados a la ceremonia y miembro de la familia de la niña. Los agentes Víctor y Laura se hacen pasar por un matrimonio recién llegado al pueblo de Cienfuegos, y se infiltran en el entorno de la familia Vega y del resto de sospechosos. Mientras ellos dos permanecen en la sombra, el comisario Casas es la parte oficial de la investigación y la única persona que conoce la verdadera identidad de sus agentes infiltrados.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -67,10 +77,335 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954040",
+"added": "1788957428",
 "season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34510:34510_1_2"
+},
+{
+"id": "509558162",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34510:34510_1_3"
+},
+{
+"id": "260570894",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34510:34510_1_4"
+},
+{
+"id": "1308024723",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34510:34510_1_5"
+},
+{
+"id": "150520103",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "34510:34510_1_6"
+},
+{
+"id": "808832502",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "34510:34510_1_7"
+}
+],
+"2": [
+{
+"id": "364394570",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34510:2"
+"_stalker_series_num": 1,
+"_stalker_id": "34510:34510_2_1"
+},
+{
+"id": "1299687195",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34510:34510_2_2"
+},
+{
+"id": "960558630",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34510:34510_2_3"
+},
+{
+"id": "42911978",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34510:34510_2_4"
+},
+{
+"id": "1226361997",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34510:34510_2_5"
+},
+{
+"id": "600807127",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "34510:34510_2_6"
+},
+{
+"id": "1101639991",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "34510:34510_2_7"
+},
+{
+"id": "955724915",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "34510:34510_2_8"
+},
+{
+"id": "437164151",
+"episode_num": 9,
+"title": "Episodio 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957428",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 9,
+"_stalker_id": "34510:34510_2_9"
 }
 ]
 }

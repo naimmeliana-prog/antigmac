@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-12-09",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 1889631666,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953813",
+"last_modified": "1788957171",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "401971511",
+"id": "967538469",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-12-09",
-"plot": "Er staat veel op het spel als een groep rebelse magiërs en dieven de strijd aangaat met een duistere kracht die een gevaarlijk object in bezit heeft.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953813",
+"added": "1788957171",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxOTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "21946:1"
+"_stalker_series_num": 1,
+"_stalker_id": "21946:21946_1_1"
+},
+{
+"id": "769345659",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957171",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxOTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "21946:21946_1_2"
+},
+{
+"id": "802729258",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957171",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxOTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "21946:21946_1_3"
+},
+{
+"id": "389510801",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957171",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxOTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "21946:21946_1_4"
+},
+{
+"id": "1496108786",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957171",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxOTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "21946:21946_1_5"
+},
+{
+"id": "1355008931",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957171",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxOTQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "21946:21946_1_6"
 }
 ]
 }

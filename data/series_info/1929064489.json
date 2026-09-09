@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-05-13",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 458400988,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954013",
+"last_modified": "1788957393",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1569437505",
+"id": "1964745243",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-05-13",
-"plot": "Die Londoner Witwe Cora Seaborne zieht nach Essex, um den Gerüchten über eine mythische Schlange nachzugehen. Mit dem jungen Dorfvikar teilt sie die Sicht auf Wissenschaft und Skeptizismus, und eine überraschende Nähe entsteht. Doch als sich eine Tragödie ereignet, beschuldigen die Einheimischen sie, die Kreatur angelockt zu haben. Basierend auf dem Roman von Sarah Perry.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954013",
+"added": "1788957393",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "46088:1"
+"_stalker_series_num": 1,
+"_stalker_id": "46088:46088_1_1"
+},
+{
+"id": "1092923816",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "46088:46088_1_2"
+},
+{
+"id": "7093682",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "46088:46088_1_3"
+},
+{
+"id": "230393844",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "46088:46088_1_4"
+},
+{
+"id": "721568889",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "46088:46088_1_5"
+},
+{
+"id": "1760978986",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "46088:46088_1_6"
 }
 ]
 }

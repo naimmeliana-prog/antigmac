@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2026-04-28",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 504267739,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Richard Gadd",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954031",
+"last_modified": "1788957417",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1373394797",
+"id": "33972417",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2026-04-28",
-"plot": "Ruben (Richard Gadd) und Nialls (Jamie Bell) waren seit ihrer Teenager-Zeit beste Freunde, hatten sich dann aber als Erwachsene zerstritten. Nun steht Nialls Hochzeit an, die von Ruben „gesprengt“ wird. Das gewaltsame Aufeinandertreffen der beiden führt für die Zuschauer zu einem Zeitsprung zurück in die 1980er, von wo aus die Höhen und Tiefpunkte der Freundschaft aufgearbeitet werden – die guten Zeiten, die schlechten, die schrecklichen, die lustigen, die wütenden und die herausfordernden.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954031",
+"added": "1788957417",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "51672:1"
+"_stalker_series_num": 1,
+"_stalker_id": "51672:51672_1_1"
+},
+{
+"id": "1510853247",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "51672:51672_1_2"
+},
+{
+"id": "815166474",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "51672:51672_1_3"
+},
+{
+"id": "323735662",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "51672:51672_1_4"
+},
+{
+"id": "1578614489",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "51672:51672_1_5"
+},
+{
+"id": "581924615",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957417",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "51672:51672_1_6"
 }
 ]
 }

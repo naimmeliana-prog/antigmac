@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2020-06-25",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 3,
 "id": 624302641,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Pendleton Ward, Miki Brewster",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953913",
+"last_modified": "1788957293",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1798961512",
+"id": "1540884793",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2020-06-25",
-"plot": "Based on the animated series Adventure Time, these four specials explore the unseen corners of the world with both familiar and exciting brand-new characters.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,57 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953913",
+"added": "1788957293",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjk5MzAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "9930:1"
+"_stalker_series_num": 1,
+"_stalker_id": "9930:9930_1_1"
+},
+{
+"id": "1069850780",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957293",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk5MzAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "9930:9930_1_2"
+},
+{
+"id": "305848631",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957293",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjk5MzAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "9930:9930_1_3"
 }
 ]
 }

@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-06-30",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 3,
 "id": 732874166,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953999",
+"last_modified": "1788957361",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "580899587",
+"id": "926763059",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-06-30",
-"plot": "La jeune Patricia Aguilar disparaît et sa famille est anéantie. Des semaines d'angoisse s'ensuivent jusqu'à ce que Patricia donne des signes de vie. Mais cette dernière parle et agit étrangement, comme si elle était contrôlée par quelqu'un. La famille découvre qu'elle est partie au Pérou, séduite par le gourou d'une secte, et se bat pour la récupérer, même si Patricia résiste. En adoptant le point de vue des protagonistes, cette histoire est celle d'une famille qui surmonte une tragédie.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,57 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953999",
+"added": "1788957361",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2NDYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "26462:1"
+"_stalker_series_num": 1,
+"_stalker_id": "26462:26462_1_1"
+},
+{
+"id": "211216801",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957361",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2NDYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "26462:26462_1_2"
+},
+{
+"id": "1768524778",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957361",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI2NDYyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "26462:26462_1_3"
 }
 ]
 }

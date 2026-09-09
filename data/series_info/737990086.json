@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-09-24",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 8,
 "id": 323056086,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Álvaro Carmona",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954041",
+"last_modified": "1788957429",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "129984646",
+"id": "796806096",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-09-24",
-"plot": "Ana, la ayudante de Bassil, uno de los artistas más famosos del planeta, ha empezado a desaparecer. Si no quiere acabar volviéndose totalmente invisible, tendrá que cambiar de vida y dejar atrás a la persona en que se ha convertido. Ana los últimos años ha estado distanciada de la vida trabajando como ayudante de Bassil, uno de los artistas más famosos del planeta y cuya identidad es un misterio para el gran público, pero ahora que ha comenzado a desaparecer deberá enfrentarse con el resto del mundo con el que siente que no acaba de conectar.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,172 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954041",
+"added": "1788957429",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34438:1"
+"_stalker_series_num": 1,
+"_stalker_id": "34438:34438_1_1"
+},
+{
+"id": "789425277",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34438:34438_1_2"
+},
+{
+"id": "437548759",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34438:34438_1_3"
+},
+{
+"id": "1139073761",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34438:34438_1_4"
+},
+{
+"id": "1067177433",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34438:34438_1_5"
+},
+{
+"id": "1135143747",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "34438:34438_1_6"
+},
+{
+"id": "1866188749",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "34438:34438_1_7"
+},
+{
+"id": "1633862015",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "34438:34438_1_8"
 }
 ]
 }

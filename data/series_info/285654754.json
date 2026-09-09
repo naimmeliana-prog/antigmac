@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-01-07",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 3,
 "id": 98319184,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953860",
+"last_modified": "1788957270",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "14930602",
+"id": "139067684",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-01-07",
-"plot": "Going to school and making new friends can be tough. Having to do both while wearing a bulky hearing aid on your chest? That takes superpowers! With a little help from her superhero alter ego, El Deafo, Cece learns to embrace her differences.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,57 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953860",
+"added": "1788957270",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "15505:1"
+"_stalker_series_num": 1,
+"_stalker_id": "15505:15505_1_1"
+},
+{
+"id": "225997232",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957270",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "15505:15505_1_2"
+},
+{
+"id": "1569281701",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957270",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NTA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "15505:15505_1_3"
 }
 ]
 }

@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-07-03",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 1354838836,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Raúl Navarro, Miguel Esteban, Sergio Sarria",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954038",
+"last_modified": "1788957426",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1436182319",
+"id": "575013344",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-07-03",
-"plot": "Carlos Ferrer es un actor y presentador que lleva doce años disfrutando del cariño de todo el país, pero cuando es elegido para dar el pregón de Carnaval en un pequeño pueblo de Sevilla, hace una broma que le provoca una demanda por delito contra los sentimientos religiosos admitida a trámite por un juez devoto y que acaba con Carlos en la cárcel. Una vez en prisión, comprobará que los clichés no son tan acertados y que en el fondo no se está tan mal… Una vez dentro, Carlos es la celebridad, el preso con el que todo el mundo quiere hacerse selfies.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954038",
+"added": "1788957426",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34513:1"
+"_stalker_series_num": 1,
+"_stalker_id": "34513:34513_1_1"
+},
+{
+"id": "1977820684",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957426",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34513:34513_1_2"
+},
+{
+"id": "781906144",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957426",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34513:34513_1_3"
+},
+{
+"id": "42506262",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957426",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34513:34513_1_4"
+},
+{
+"id": "97149344",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957426",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34513:34513_1_5"
+},
+{
+"id": "269429721",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957426",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NTEzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "34513:34513_1_6"
 }
 ]
 }

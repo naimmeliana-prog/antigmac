@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-09-05",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 7,
 "id": 1748368990,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Jakob Rørvik",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954036",
+"last_modified": "1788957423",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1958136273",
+"id": "407547626",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-09-05",
-"plot": "Ida pasa la mayor parte de su vida en línea. Cuando su novio Marvin, a quien nunca conoció en persona, le anuncia que está saliendo con otra mujer en la vida real, su mundo se derrumba. Ida emprende una búsqueda para encontrar a su propia pareja física.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,149 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954036",
+"added": "1788957423",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "41411:1"
+"_stalker_series_num": 1,
+"_stalker_id": "41411:41411_1_1"
+},
+{
+"id": "558453934",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "41411:41411_1_2"
+},
+{
+"id": "518813097",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "41411:41411_1_3"
+},
+{
+"id": "1613699680",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "41411:41411_1_4"
+},
+{
+"id": "1866918624",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "41411:41411_1_5"
+},
+{
+"id": "1611199781",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "41411:41411_1_6"
+},
+{
+"id": "1426935519",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957423",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNDExLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "41411:41411_1_7"
 }
 ]
 }

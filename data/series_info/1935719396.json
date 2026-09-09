@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2025-09-26",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 3,
 "id": 1726346040,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Chun Sung-il",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954050",
+"last_modified": "1788957439",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "73747932",
+"id": "189140344",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2025-09-26",
-"plot": "En la anárquica Joseon, el río Gyeonggang se ha convertido en aguas turbias. Siyul esconde un pasado problemático, Choi Eun sueña con convertirse en la mayor comerciante del país, y Jung Chun aspira a ser un oficial recto. Sus destinos se entrelazan al luchar para dar forma a su mundo.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,57 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954050",
+"added": "1788957439",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "45629:1"
+"_stalker_series_num": 1,
+"_stalker_id": "45629:45629_1_1"
+},
+{
+"id": "1728677470",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957439",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "45629:45629_1_2"
+},
+{
+"id": "144209485",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957439",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ1NjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "45629:45629_1_3"
 }
 ]
 }

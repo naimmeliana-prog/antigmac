@@ -1,7 +1,7 @@
 {
 "seasons": [
 {
-"air_date": "2026-06-08",
+"air_date": "",
 "episode_count": 1,
 "id": 1211932532,
 "name": "Temporada 1",
@@ -18,7 +18,7 @@
 "director": "Sophie Goodhart",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954050",
+"last_modified": "1788957439",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "669734181",
+"id": "1385173075",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2026-06-08",
-"plot": "Alice se queda hundida cuando su mejor amigo Steve empieza a salir con su hija de 26 años, Izzy, y los dos anuncian que quieren intentar una relación. Alice lo intenta todo para acabar con la relación. Por desgracia para ella, Steve está más que preparado para el ataque y lo que empieza siendo una perfecta amistad se convierte en una guerra a muerte.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,11 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954050",
+"added": "1788957439",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "49954:1"
+"_stalker_series_num": 1,
+"_stalker_id": "49954:49954_1_1"
 }
 ]
 }

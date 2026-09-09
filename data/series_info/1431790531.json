@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2025-02-21",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 6,
+"id": 319512352,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/original/sgd3dsg4SHlBX6e03WjknDc2pR4.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 1926776277,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Steven Knight",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953921",
+"last_modified": "1788957302",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,156 @@
 "category_id": "1507464953"
 },
 "episodes": {
+"2": [
+{
+"id": "1541559756",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "41810:41810_2_1"
+},
+{
+"id": "1331356343",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "41810:41810_2_2"
+},
+{
+"id": "670090197",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "41810:41810_2_3"
+},
+{
+"id": "551116865",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "41810:41810_2_4"
+},
+{
+"id": "279309237",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "41810:41810_2_5"
+},
+{
+"id": "1859696603",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "41810:41810_2_6"
+}
+],
 "1": [
 {
-"id": "516259714",
+"id": "520740603",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2025-02-21",
-"plot": "Hezekiah and Alec, two friends from Jamaica, finds themselves thrust into the criminal underbelly of London's East End. Here they meet Mary Carr, Queen of an all-female criminal gang known as the Forty Elephants, and run afoul of Sugar Goodson, criminal kingpin and notorious boxer.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +194,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953921",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "41810:2"
-},
-{
-"id": "1250177616",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2025-02-21",
-"plot": "Hezekiah and Alec, two friends from Jamaica, finds themselves thrust into the criminal underbelly of London's East End. Here they meet Mary Carr, Queen of an all-female criminal gang known as the Forty Elephants, and run afoul of Sugar Goodson, criminal kingpin and notorious boxer.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788953921",
+"added": "1788957302",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "41810:1"
+"_stalker_series_num": 1,
+"_stalker_id": "41810:41810_1_1"
+},
+{
+"id": "66527491",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "41810:41810_1_2"
+},
+{
+"id": "166314271",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "41810:41810_1_3"
+},
+{
+"id": "53114710",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "41810:41810_1_4"
+},
+{
+"id": "1619657164",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "41810:41810_1_5"
+},
+{
+"id": "513159579",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957302",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxODEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "41810:41810_1_6"
 }
 ]
 }

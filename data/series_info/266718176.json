@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-12-05",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 1626414718,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Joe Barton",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953954",
+"last_modified": "1788957321",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "698902610",
+"id": "466787019",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-12-05",
-"plot": "Helen Webb, épouse et mère à l'esprit vif, terre à terre, dévouée… et espionne professionnelle. Depuis dix ans, Helen transmet les secrets de son mari, homme politique, à l'organisation mystérieuse pour laquelle elle travaille. Lorsque son amant Jason est assassiné, sa mentore, l'énigmatique Reed, fait appel à un vieil ami d'Helen, Sam, pour la protéger. Ensemble, ils cherchent à savoir qui a tué Jason et pourquoi, s'embarquant dans une enquête qui les mènera à découvrir une vaste conspiration aux ramifications multiples. Entre la pègre londonienne et une crise géopolitique imminente, ils vont devoir remettre en cause les choix moraux qu'ils ont faits.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953954",
+"added": "1788957321",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "38654:1"
+"_stalker_series_num": 1,
+"_stalker_id": "38654:38654_1_1"
+},
+{
+"id": "1474440476",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "38654:38654_1_2"
+},
+{
+"id": "1164875960",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "38654:38654_1_3"
+},
+{
+"id": "1583982605",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "38654:38654_1_4"
+},
+{
+"id": "1492712708",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "38654:38654_1_5"
+},
+{
+"id": "746487223",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM4NjU0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "38654:38654_1_6"
 }
 ]
 }

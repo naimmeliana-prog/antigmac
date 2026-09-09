@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-04-11",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 976261161,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954055",
+"last_modified": "1788957446",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "496591511",
+"id": "905641523",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-04-11",
-"plot": "En diciembre de 1776, Benjamin Franklin es conocido en todo el mundo por sus experimentos con la electricidad, pero su pasión y su poder se ponen a prueba cuando se embarca en una misión secreta a Francia de la que depende el sino de la independencia americana.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954055",
+"added": "1788957446",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "43517:1"
+"_stalker_series_num": 1,
+"_stalker_id": "43517:43517_1_1"
+},
+{
+"id": "96492461",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957446",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "43517:43517_1_2"
+},
+{
+"id": "63834208",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957446",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "43517:43517_1_3"
+},
+{
+"id": "790601477",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957446",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "43517:43517_1_4"
+},
+{
+"id": "879471243",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957446",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "43517:43517_1_5"
+},
+{
+"id": "131332112",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957446",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzNTE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "43517:43517_1_6"
 }
 ]
 }

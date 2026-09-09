@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2001-09-09",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 10,
 "id": 258889691,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953817",
+"last_modified": "1788957189",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1245859732",
+"id": "1432825560",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2001-09-09",
-"plot": "Band of Brothers is een tiendelige televisieserie uit 2001 over de laatste maanden van de Tweede Wereldoorlog. Het is een co-productie van Steven Spielberg en Tom Hanks, waarin de rol van de Easy Company van het 506th Parachute Infantry Regiment, US 101st Airborne Division, in de oorlog wordt getoond. De serie begint met de training in Amerika voorafgaand aan de landing in Normandië en eindigt in het \"Adelaarsnest\" van Adolf Hitler, aan het einde van de oorlog. 'Band of Brothers' is gebaseerd op het gelijknamige boek van Stephen Ambrose.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,218 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953817",
+"added": "1788957189",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "1434:1"
+"_stalker_series_num": 1,
+"_stalker_id": "1434:1434_1_1"
+},
+{
+"id": "440828939",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "1434:1434_1_2"
+},
+{
+"id": "203223325",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "1434:1434_1_3"
+},
+{
+"id": "501714121",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "1434:1434_1_4"
+},
+{
+"id": "1822890682",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "1434:1434_1_5"
+},
+{
+"id": "871558530",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "1434:1434_1_6"
+},
+{
+"id": "203461841",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 7,
+"_stalker_id": "1434:1434_1_7"
+},
+{
+"id": "1806189621",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 8,
+"_stalker_id": "1434:1434_1_8"
+},
+{
+"id": "156161780",
+"episode_num": 9,
+"title": "Episodio 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 9,
+"_stalker_id": "1434:1434_1_9"
+},
+{
+"id": "536444598",
+"episode_num": 10,
+"title": "Episodio 10",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957189",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0MzQsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 10,
+"_stalker_id": "1434:1434_1_10"
 }
 ]
 }

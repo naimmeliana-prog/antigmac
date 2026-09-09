@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-03-10",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 181659583,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Walter Mosley",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954013",
+"last_modified": "1788957393",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "18843792",
+"id": "1879251186",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-03-10",
-"plot": "Als Ptolemy Grey plötzlich ohne seinen vertrauten Betreuer dasteht, kommt er in die Obhut der verwaisten Teenagerin Robyn. Als sie von einer Behandlung erfahren, die Ptolemys von Demenz geprägtes Erinnerungsvermögen wiederherstellt, beginnt eine Reise zu schockierenden Wahrheiten.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954013",
+"added": "1788957393",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "46087:1"
+"_stalker_series_num": 1,
+"_stalker_id": "46087:46087_1_1"
+},
+{
+"id": "1395177988",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "46087:46087_1_2"
+},
+{
+"id": "981494052",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "46087:46087_1_3"
+},
+{
+"id": "788355353",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "46087:46087_1_4"
+},
+{
+"id": "681099250",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "46087:46087_1_5"
+},
+{
+"id": "442477451",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957393",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ2MDg3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "46087:46087_1_6"
 }
 ]
 }

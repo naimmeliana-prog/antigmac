@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2018-11-08",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 8,
 "id": 588436331,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Paco León, Anna R. Costa",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954036",
+"last_modified": "1788957424",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1219541688",
+"id": "1936290583",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2018-11-08",
-"plot": "Madrid 1961. Ana Mari es solterona, coja, franquista e instructora de la Sección Femenina. Por orden de Franco, recibe el encargo de ir a trabajar de criada a casa de Ava Gardner con la intención de espiarla. Para ello tiene que fingir estar casada con Manolo, un buscavidas que se convertirá en el chófer de la actriz americana. Manolo intentará aprovechar su posición para sus chanchullos con clanes gitanos implicando a Ana Mari y a su hermano esquizofrénico, Floren. Hasta tal punto que entre ellos surgirá una relación más que íntima. Junto a la joven doncella Pilar, asistirán a las continuas fiestas que Ava y su círculo disfrutaban a diario en esa Dolce Vita madrileña reservada para una élite. Fiestas que acabarán con los nervios de los vecinos de abajo, nada más y nada menos que el General Perón y su esposa Isabelita recién exiliados de Argentina.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,172 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954036",
+"added": "1788957424",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "22846:1"
+"_stalker_series_num": 1,
+"_stalker_id": "22846:22846_1_1"
+},
+{
+"id": "168993639",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "22846:22846_1_2"
+},
+{
+"id": "1033685010",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "22846:22846_1_3"
+},
+{
+"id": "317768546",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "22846:22846_1_4"
+},
+{
+"id": "796780228",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "22846:22846_1_5"
+},
+{
+"id": "1772094642",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "22846:22846_1_6"
+},
+{
+"id": "293790718",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "22846:22846_1_7"
+},
+{
+"id": "842858765",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957424",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIyODQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "22846:22846_1_8"
 }
 ]
 }

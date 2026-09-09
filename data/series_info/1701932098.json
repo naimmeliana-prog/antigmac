@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2025-02-02",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 2,
 "id": 60021617,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Steve Hely, Joseph Bennett",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954047",
+"last_modified": "1788957435",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1849947005",
+"id": "237767963",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2025-02-02",
-"plot": "Marshall y Frances, excompañeros de laboratorio, revelan una conspiración en la que están implicadas las grandes farmacéuticas y el gobierno para extraer un hongo que podría contener la solución para curar todas las enfermedades del mundo.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,34 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954047",
+"added": "1788957435",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNTk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "41596:1"
+"_stalker_series_num": 1,
+"_stalker_id": "41596:41596_1_1"
+},
+{
+"id": "1989533414",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957435",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNTk2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "41596:41596_1_2"
 }
 ]
 }

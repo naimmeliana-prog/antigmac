@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-01-24",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 5,
 "id": 1846469385,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953999",
+"last_modified": "1788957361",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1482774853",
+"id": "1904659013",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-01-24",
-"plot": "Explorez un univers microscopique inconnu où un groupe charismatique de héros miniatures ne doit sa survie qu’à des super-pouvoirs ahurissants. Volez dans la jungle avec des abeilles iridescentes, faites du saut à l’élastique avec une araignée en pleine ville, et battez-vous contre des monstres dans l’étang d’un village…  Grâce à des techniques de réalisation ultramodernes et aux dernières avancées scientifiques, découvrez des spectacles impressionnants et des drames envoûtants sous votre nez.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,103 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953999",
+"added": "1788957361",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "30175:1"
+"_stalker_series_num": 1,
+"_stalker_id": "30175:30175_1_1"
+},
+{
+"id": "283003706",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957361",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "30175:30175_1_2"
+},
+{
+"id": "13242141",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957361",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "30175:30175_1_3"
+},
+{
+"id": "1651908643",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957361",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "30175:30175_1_4"
+},
+{
+"id": "982943871",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957361",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "30175:30175_1_5"
 }
 ]
 }

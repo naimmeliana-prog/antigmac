@@ -1,12 +1,21 @@
 {
 "seasons": [
 {
-"air_date": "2017-06-11",
-"episode_count": 2,
-"id": 290651362,
-"name": "Temporada 1",
+"air_date": "",
+"episode_count": 9,
+"id": 1223147062,
+"name": "Temporada 3",
 "overview": "",
-"season_number": 1,
+"season_number": 3,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XtQTSWYpmv9NpC9MJt96nJ9fbf.jpg"
+},
+{
+"air_date": "",
+"episode_count": 4,
+"id": 290409485,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
 "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XtQTSWYpmv9NpC9MJt96nJ9fbf.jpg"
 }
 ],
@@ -18,7 +27,7 @@
 "director": "Eliot Laurence",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953998",
+"last_modified": "1788957359",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,16 @@
 "category_id": "800653890"
 },
 "episodes": {
-"1": [
+"3": [
 {
-"id": "1672372687",
+"id": "259965778",
 "episode_num": 1,
-"title": "Season 3",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2017-06-11",
-"plot": "Follow the life and crimes of five diverse and treacherous manicurists working at the Nail Artisan of Manatee County salon, where there is a lot more going on than silk wraps and pedicures.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,20 +54,21 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953998",
-"season": 1,
+"added": "1788957359",
+"season": 3,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "3635:3"
+"_stalker_series_num": 1,
+"_stalker_id": "3635:3635_3_1"
 },
 {
-"id": "1901879320",
-"episode_num": 1,
-"title": "Season 2",
+"id": "1234745982",
+"episode_num": 2,
+"title": "Episodio 2",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2017-06-11",
-"plot": "Follow the life and crimes of five diverse and treacherous manicurists working at the Nail Artisan of Manatee County salon, where there is a lot more going on than silk wraps and pedicures.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -67,10 +77,266 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953998",
-"season": 1,
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "3635:3635_3_2"
+},
+{
+"id": "612086313",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "3635:3635_3_3"
+},
+{
+"id": "1510094379",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "3635:3635_3_4"
+},
+{
+"id": "766958409",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "3635:3635_3_5"
+},
+{
+"id": "1343286690",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "3635:3635_3_6"
+},
+{
+"id": "1892888935",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 7,
+"_stalker_id": "3635:3635_3_7"
+},
+{
+"id": "1082198909",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 8,
+"_stalker_id": "3635:3635_3_8"
+},
+{
+"id": "1532342188",
+"episode_num": 9,
+"title": "Episodio 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 9,
+"_stalker_id": "3635:3635_3_9"
+}
+],
+"2": [
+{
+"id": "506828465",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 2,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "3635:2"
+"_stalker_series_num": 1,
+"_stalker_id": "3635:3635_2_1"
+},
+{
+"id": "1150717523",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "3635:3635_2_2"
+},
+{
+"id": "876057159",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "3635:3635_2_3"
+},
+{
+"id": "188532716",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957359",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM2MzUsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "3635:3635_2_4"
 }
 ]
 }

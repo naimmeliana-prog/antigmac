@@ -1,12 +1,21 @@
 {
 "seasons": [
 {
-"air_date": "2024-11-03",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 6,
 "id": 1631230146,
 "name": "Temporada 1",
 "overview": "",
 "season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayRzAZ68ovnEHXUGYxmVpCAOOlt.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
+"id": 10761623,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
 "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayRzAZ68ovnEHXUGYxmVpCAOOlt.jpg"
 }
 ],
@@ -18,7 +27,7 @@
 "director": "Sandra García Velten",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954030",
+"last_modified": "1788957415",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +38,14 @@
 "episodes": {
 "1": [
 {
-"id": "1048331774",
+"id": "313190272",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-11-03",
-"plot": "Tita de la Garza und Pedro Muzquiz sind zwei Seelen, die sich lieben, aber aufgrund tief verwurzelter Familientraditionen nicht zusammen sein können. Dies zwingt Tita, sich mit magischen Farben und Aromen zwischen dem von ihrer Familie diktierten Schicksal und dem Kampf um ihre Liebe zurechtzufinden, während wir sie in ihrem größten Zufluchtsort begleiten: der Küche.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,20 +54,21 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954030",
+"added": "1788957415",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "48994:1"
+"_stalker_series_num": 1,
+"_stalker_id": "48994:48994_1_1"
 },
 {
-"id": "1571077644",
-"episode_num": 1,
-"title": "Season 2",
+"id": "1982041125",
+"episode_num": 2,
+"title": "Episodio 2",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-11-03",
-"plot": "Tita de la Garza und Pedro Muzquiz sind zwei Seelen, die sich lieben, aber aufgrund tief verwurzelter Familientraditionen nicht zusammen sein können. Dies zwingt Tita, sich mit magischen Farben und Aromen zwischen dem von ihrer Familie diktierten Schicksal und dem Kampf um ihre Liebe zurechtzufinden, während wir sie in ihrem größten Zufluchtsort begleiten: der Küche.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -67,10 +77,243 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954030",
+"added": "1788957415",
 "season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "48994:48994_1_2"
+},
+{
+"id": "333682968",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "48994:48994_1_3"
+},
+{
+"id": "717301948",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "48994:48994_1_4"
+},
+{
+"id": "739111236",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "48994:48994_1_5"
+},
+{
+"id": "117796900",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "48994:48994_1_6"
+}
+],
+"2": [
+{
+"id": "1498451829",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 2,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "48994:2"
+"_stalker_series_num": 1,
+"_stalker_id": "48994:48994_2_1"
+},
+{
+"id": "867810583",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "48994:48994_2_2"
+},
+{
+"id": "575764323",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "48994:48994_2_3"
+},
+{
+"id": "975528148",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "48994:48994_2_4"
+},
+{
+"id": "809320726",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "48994:48994_2_5"
+},
+{
+"id": "196502531",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957415",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4OTk0LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "48994:48994_2_6"
 }
 ]
 }

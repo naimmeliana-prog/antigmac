@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-07-18",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 9,
 "id": 215004142,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Juan Carlos Pérez, Marta Betoldi, César Betancur",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954054",
+"last_modified": "1788957444",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1982026680",
+"id": "1441182809",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-07-18",
-"plot": "Cuenta la historia de la icónica Beatriz Pinzón Solano, Betty la fea, 20 años después de la conclusión de la serie original. Mientras la empoderada Betty sigue casada con su esposo y líder de la compañía, Armando Mendoza, ella reconstruye su relación con su hija adolescente Mila, y trata de sobrellevar la crisis de su compañía familiar, preguntándose si hace 20 años escogió el camino que la hizo verdaderamente feliz.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,195 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954054",
+"added": "1788957444",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "35286:1"
+"_stalker_series_num": 1,
+"_stalker_id": "35286:35286_1_1"
+},
+{
+"id": "681143593",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "35286:35286_1_2"
+},
+{
+"id": "55345993",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "35286:35286_1_3"
+},
+{
+"id": "1508493361",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "35286:35286_1_4"
+},
+{
+"id": "1508141232",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "35286:35286_1_5"
+},
+{
+"id": "1546108892",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "35286:35286_1_6"
+},
+{
+"id": "207874926",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "35286:35286_1_7"
+},
+{
+"id": "583512740",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "35286:35286_1_8"
+},
+{
+"id": "1817279920",
+"episode_num": 9,
+"title": "Episodio 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957444",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM1Mjg2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 9,
+"_stalker_id": "35286:35286_1_9"
 }
 ]
 }

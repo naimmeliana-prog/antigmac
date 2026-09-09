@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-12-07",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 636806332,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Maurice Hübner, Kerstin Laudascher",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954060",
+"last_modified": "1788957452",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "679306029",
+"id": "1110368119",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-12-07",
-"plot": "Bruno (Ben Becker) no es un policía cualquiera. Es Boom Boom Bruno, el vaquero del distrito. Aquí todo está bajo su control. Sus criminales, sus prostitutas, su jefe. Está encantado con su nuevo compañero Mark (Vincent zur Linden): de él depende enseñar a este chico inseguro a ser un verdadero hombre con pelotas. Sin embargo, cuando una drag queen aparece muerta en su territorio, tanto Bruno como Mark deben luchar contra sus propios prejuicios y encontrar resistencia por todos lados para resolver el caso.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954060",
+"added": "1788957452",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "29046:1"
+"_stalker_series_num": 1,
+"_stalker_id": "29046:29046_1_1"
+},
+{
+"id": "844927759",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957452",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "29046:29046_1_2"
+},
+{
+"id": "77132567",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957452",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "29046:29046_1_3"
+},
+{
+"id": "798412744",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957452",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "29046:29046_1_4"
+},
+{
+"id": "1829016357",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957452",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "29046:29046_1_5"
+},
+{
+"id": "1267080868",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957452",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI5MDQ2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "29046:29046_1_6"
 }
 ]
 }

@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2026-05-29",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 4,
 "id": 369918216,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Carles Porta",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954066",
+"last_modified": "1788957458",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1888418014",
+"id": "136163493",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2026-05-29",
-"plot": "4 episodios. Serie documental sobre uno de los episodios más desconcertantes de la crónica española: el 22 de abril de 1984, tres niños aparecieron abandonados en una estación de tren de la ciudad de Barcelona. No sabían explicar quiénes eran, quiénes eran sus padres, ni por qué estaban allí. Nadie los reclamó jamás. Fueron adoptados por dos pedagogos barceloneses, quienes los criaron con cariño y les dieron estabilidad. Pero 40 años después, aquellos niños convertidos en adultos quieren saber quiénes son sus padres y por qué fueron abandonados. Abandonados está protagonizada por los tres hermanos cuyos testimonios impulsan la investigación: Elvira Moral, Ramón Moral y Ricard Moral.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,80 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954066",
+"added": "1788957458",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "49957:1"
+"_stalker_series_num": 1,
+"_stalker_id": "49957:49957_1_1"
+},
+{
+"id": "150649899",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957458",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "49957:49957_1_2"
+},
+{
+"id": "1731265765",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957458",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "49957:49957_1_3"
+},
+{
+"id": "42087341",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957458",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ5OTU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "49957:49957_1_4"
 }
 ]
 }

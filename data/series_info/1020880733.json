@@ -1,12 +1,12 @@
 {
 "seasons": [
 {
-"air_date": "2018-03-23",
-"episode_count": 1,
-"id": 239966289,
-"name": "Temporada 1",
+"air_date": "",
+"episode_count": 8,
+"id": 202310704,
+"name": "Temporada 3",
 "overview": "",
-"season_number": 1,
+"season_number": 3,
 "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXNWQzzQ7yPSZMaWYA96NStN8DC.jpg"
 }
 ],
@@ -18,7 +18,7 @@
 "director": "Heather Wordham",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953833",
+"last_modified": "1788957251",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +27,16 @@
 "category_id": "1752431682"
 },
 "episodes": {
-"1": [
+"3": [
 {
-"id": "169948618",
+"id": "993303514",
 "episode_num": 1,
-"title": "Season 3",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2018-03-23",
-"plot": "Lifelong best friends Alexa and Katie are eagerly anticipating the start of their freshman year of high school. The pals confront a crisis that leaves them feeling like outsiders at a time when what seems to matter most is fitting in.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,172 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953833",
-"season": 1,
+"added": "1788957251",
+"season": 3,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "5891:3"
+"_stalker_series_num": 1,
+"_stalker_id": "5891:5891_3_1"
+},
+{
+"id": "1580314944",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957251",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "5891:5891_3_2"
+},
+{
+"id": "360860902",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957251",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "5891:5891_3_3"
+},
+{
+"id": "1346684743",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957251",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "5891:5891_3_4"
+},
+{
+"id": "194715013",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957251",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "5891:5891_3_5"
+},
+{
+"id": "218027141",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957251",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "5891:5891_3_6"
+},
+{
+"id": "100687667",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957251",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 7,
+"_stalker_id": "5891:5891_3_7"
+},
+{
+"id": "761496471",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957251",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjU4OTEsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 8,
+"_stalker_id": "5891:5891_3_8"
 }
 ]
 }

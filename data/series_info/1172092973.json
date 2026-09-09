@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-12-27",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 3,
 "id": 1890058539,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Sian Ejiwunmi-Le Berre",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954035",
+"last_modified": "1788957422",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "38329926",
+"id": "382605706",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-12-27",
-"plot": "Luke Fitzwilliam se encuentra tras la pista de un asesino en serie tras conocer a la señorita Pinkerton en un tren a Londres. Ahora Fitzwilliam tiene que encontrar al asesino antes de que se derrame más sangre.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,57 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954035",
+"added": "1788957422",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyOTA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "32907:1"
+"_stalker_series_num": 1,
+"_stalker_id": "32907:32907_1_1"
+},
+{
+"id": "273259708",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957422",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyOTA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "32907:32907_1_2"
+},
+{
+"id": "1602040096",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957422",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMyOTA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "32907:32907_1_3"
 }
 ]
 }

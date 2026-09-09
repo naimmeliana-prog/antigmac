@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-05-09",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 5,
 "id": 1057145562,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Nick Antosca, Robin Veith",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953997",
+"last_modified": "1788957358",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1741802134",
+"id": "617736647",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-05-09",
-"plot": "En 1980 au Texas, Candy avait tout pour plaire, un mari aimant avec un bon travail, une fille, un fils et une belle maison dans la nouvelle banlieue . Cette épouse et mère aimante, qui avait apparemment tout, fut soupçonnée, en 1980, d'avoir assassinée Betty Gore à coup de hache, la femme d'un membre de son Eglise avec qui elle entretenait une liaison.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,103 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953997",
+"added": "1788957358",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMzA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "20308:1"
+"_stalker_series_num": 1,
+"_stalker_id": "20308:20308_1_1"
+},
+{
+"id": "1279722818",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMzA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "20308:20308_1_2"
+},
+{
+"id": "482821733",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMzA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "20308:20308_1_3"
+},
+{
+"id": "1730212545",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMzA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "20308:20308_1_4"
+},
+{
+"id": "209009482",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957358",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIwMzA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "20308:20308_1_5"
 }
 ]
 }

@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-11-10",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 7,
 "id": 1949403849,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Melody Fox",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953912",
+"last_modified": "1788957292",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "212257130",
+"id": "564656314",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-11-10",
-"plot": "In this sci-fi anthology series, curiosity leads to chaos when students in the near future experience mysterious events.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,149 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953912",
+"added": "1788957292",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "21108:1"
+"_stalker_series_num": 1,
+"_stalker_id": "21108:21108_1_1"
+},
+{
+"id": "224587953",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "21108:21108_1_2"
+},
+{
+"id": "1495887129",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "21108:21108_1_3"
+},
+{
+"id": "60128226",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "21108:21108_1_4"
+},
+{
+"id": "629029694",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "21108:21108_1_5"
+},
+{
+"id": "1574889230",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "21108:21108_1_6"
+},
+{
+"id": "106505040",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957292",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjIxMTA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "21108:21108_1_7"
 }
 ]
 }

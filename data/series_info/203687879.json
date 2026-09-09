@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2024-04-11",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 6,
+"id": 806061648,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cs2XiUFB0qX7BlJm9AuYtkSWag.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 362473405,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Gastón Duprat, Mariano Cohn, Andrés Duprat",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954038",
+"last_modified": "1788957425",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,156 @@
 "category_id": "879047092"
 },
 "episodes": {
+"2": [
+{
+"id": "1597108596",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "31716:31716_2_1"
+},
+{
+"id": "230133068",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "31716:31716_2_2"
+},
+{
+"id": "125600470",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "31716:31716_2_3"
+},
+{
+"id": "1556657150",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "31716:31716_2_4"
+},
+{
+"id": "738713862",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "31716:31716_2_5"
+},
+{
+"id": "84177850",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "31716:31716_2_6"
+}
+],
 "1": [
 {
-"id": "440923093",
+"id": "1681178483",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-04-11",
-"plot": "Antonio Dumas, un prestigioso historiador de arte y gestor cultural. Culto y sofisticado, aunque bastante cínico y engreído, es nombrado director de un importante museo de arte contemporáneo en Madrid al salir victorioso en un concurso para ese cargo. Una vez asumida su nueva posición deberá afrontar, en medio de la fauna insólita del mundo del arte, un abanico de circunstancias y conflictos dispares: desde problemas gremiales y presiones políticas, hasta situaciones disparatadas en relación a las exposiciones y a los artistas.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +194,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954038",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "31716:2"
-},
-{
-"id": "1406998839",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2024-04-11",
-"plot": "Antonio Dumas, un prestigioso historiador de arte y gestor cultural. Culto y sofisticado, aunque bastante cínico y engreído, es nombrado director de un importante museo de arte contemporáneo en Madrid al salir victorioso en un concurso para ese cargo. Una vez asumida su nueva posición deberá afrontar, en medio de la fauna insólita del mundo del arte, un abanico de circunstancias y conflictos dispares: desde problemas gremiales y presiones políticas, hasta situaciones disparatadas en relación a las exposiciones y a los artistas.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788954038",
+"added": "1788957425",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "31716:1"
+"_stalker_series_num": 1,
+"_stalker_id": "31716:31716_1_1"
+},
+{
+"id": "656869552",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "31716:31716_1_2"
+},
+{
+"id": "29229676",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "31716:31716_1_3"
+},
+{
+"id": "141302006",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "31716:31716_1_4"
+},
+{
+"id": "643806974",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "31716:31716_1_5"
+},
+{
+"id": "839218564",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957425",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMxNzE2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "31716:31716_1_6"
 }
 ]
 }

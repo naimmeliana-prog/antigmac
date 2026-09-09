@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2019-08-02",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 4,
 "id": 1173185634,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Robin Thede",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953986",
+"last_modified": "1788957353",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1322577104",
+"id": "255763387",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2019-08-02",
-"plot": "A narrative series set in a limitless magical reality full of dynamic, hilarious characters and celebrity guests presenting sketches performed by a core cast of black women.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,80 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953986",
+"added": "1788957353",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwOTEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "4091:1"
+"_stalker_series_num": 1,
+"_stalker_id": "4091:4091_1_1"
+},
+{
+"id": "1753455815",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957353",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwOTEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "4091:4091_1_2"
+},
+{
+"id": "1937102401",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957353",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwOTEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "4091:4091_1_3"
+},
+{
+"id": "94535361",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957353",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQwOTEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "4091:4091_1_4"
 }
 ]
 }

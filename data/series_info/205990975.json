@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2017-11-24",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 1971827044,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953819",
+"last_modified": "1788957198",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "342843985",
+"id": "1719971396",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2017-11-24",
-"plot": "De pientere, IJslandse advocate Stella Blómkvist staat erom bekend het gevaar niet uit de weg te gaan en af en toe een loopje te nemen met de regels. Die combinatie staat garant voor een elegante neo-noirserie die even sexy als dreigend is. Door haar duistere verleden, haar morele buigzaamheid en haar sympathie voor de underdog, blijkt ze altijd de juiste persoon op de foute plek op het slechtst mogelijke moment te zijn. Stella Blómkvist dompelt je helemaal onder in de troebele wateren van de IJslandse politiek.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953819",
+"added": "1788957198",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "13564:1"
+"_stalker_series_num": 1,
+"_stalker_id": "13564:13564_1_1"
+},
+{
+"id": "215403088",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957198",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "13564:13564_1_2"
+},
+{
+"id": "648520997",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957198",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "13564:13564_1_3"
+},
+{
+"id": "1637584263",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957198",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "13564:13564_1_4"
+},
+{
+"id": "86132372",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957198",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "13564:13564_1_5"
+},
+{
+"id": "1444652864",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957198",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEzNTY0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "13564:13564_1_6"
 }
 ]
 }

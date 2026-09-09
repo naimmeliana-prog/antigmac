@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2025-04-30",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 2,
 "id": 792020604,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Ian Kelly, Davide Serino",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954056",
+"last_modified": "1788957447",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "415289564",
+"id": "1447985929",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2025-04-30",
-"plot": "Un joven y ambicioso chef utiliza su encanto seductor para trabajar como espía y así salvar a su padre y forjarse una reputación.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,34 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954056",
+"added": "1788957447",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "43309:1"
+"_stalker_series_num": 1,
+"_stalker_id": "43309:43309_1_1"
+},
+{
+"id": "233482444",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957447",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQzMzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "43309:43309_1_2"
 }
 ]
 }

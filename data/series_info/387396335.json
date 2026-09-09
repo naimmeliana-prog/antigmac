@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-06-20",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 7,
 "id": 111395946,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954065",
+"last_modified": "1788957457",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1974917888",
+"id": "1258461785",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-06-20",
-"plot": "Sigue a las animadoras de los Dallas Cowboys en audiciones, entrenamientos y la temporada de la NFL, mientras persiguen sus sueños y un codiciado puesto en el equipo.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,149 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954065",
+"added": "1788957457",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34863:1"
+"_stalker_series_num": 1,
+"_stalker_id": "34863:34863_1_1"
+},
+{
+"id": "7529694",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957457",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34863:34863_1_2"
+},
+{
+"id": "1368793485",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957457",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34863:34863_1_3"
+},
+{
+"id": "1382174244",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957457",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34863:34863_1_4"
+},
+{
+"id": "1715736238",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957457",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34863:34863_1_5"
+},
+{
+"id": "1536252744",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957457",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "34863:34863_1_6"
+},
+{
+"id": "263194424",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957457",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0ODYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "34863:34863_1_7"
 }
 ]
 }

@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2021-11-04",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 4,
+"id": 725986246,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/628U5ybT3fV0gGbT41Lk3R15Ya0.jpg"
+},
+{
+"air_date": "",
+"episode_count": 4,
 "id": 1583395571,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Simon Dekker",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953904",
+"last_modified": "1788957281",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,110 @@
 "category_id": "484638868"
 },
 "episodes": {
+"2": [
+{
+"id": "1473595640",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957281",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "15763:15763_2_1"
+},
+{
+"id": "625536627",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957281",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "15763:15763_2_2"
+},
+{
+"id": "1678874362",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957281",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "15763:15763_2_3"
+},
+{
+"id": "1727723498",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957281",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "15763:15763_2_4"
+}
+],
 "1": [
 {
-"id": "1704837898",
+"id": "70710696",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-11-04",
-"plot": "The investigators behind infamous serial killer cases reveal the harrowing, chilling details of their extraordinary efforts in this true crime series.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +148,80 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953904",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "15763:2"
-},
-{
-"id": "936158341",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2021-11-04",
-"plot": "The investigators behind infamous serial killer cases reveal the harrowing, chilling details of their extraordinary efforts in this true crime series.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788953904",
+"added": "1788957281",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "15763:1"
+"_stalker_series_num": 1,
+"_stalker_id": "15763:15763_1_1"
+},
+{
+"id": "1420371887",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957281",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "15763:15763_1_2"
+},
+{
+"id": "91943915",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957281",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "15763:15763_1_3"
+},
+{
+"id": "1499874373",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957281",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE1NzYzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "15763:15763_1_4"
 }
 ]
 }

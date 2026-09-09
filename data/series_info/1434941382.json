@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2026-01-18",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 6,
 "id": 1162326774,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "George R. R. Martin, Ira Parker",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953816",
+"last_modified": "1788957181",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "699379331",
+"id": "1527074316",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2026-01-18",
-"plot": "Een eeuw vóór de gebeurtenissen van 'Game of Thrones' dwaalden twee onwaarschijnlijke helden door Westeros... een jonge, naïeve maar moedige ridder, Ser Duncan  the Tall,, en zijn kleine schildknaap, Egg. Het speelt zich af in een tijdperk waarin de Targaryen-linie nog steeds de ijzeren troon in handen heeft en de herinnering aan de laatste draak nog niet uit de levende herinnering is verdwenen. Grote lotsbestemmingen, krachtige vijanden en gevaarlijke heldendaden wachten allemaal op deze onwaarschijnlijke en onvergelijkbare vrienden.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953816",
+"added": "1788957181",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "47565:1"
+"_stalker_series_num": 1,
+"_stalker_id": "47565:47565_1_1"
+},
+{
+"id": "346393746",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957181",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "47565:47565_1_2"
+},
+{
+"id": "1793600531",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957181",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "47565:47565_1_3"
+},
+{
+"id": "193404770",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957181",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "47565:47565_1_4"
+},
+{
+"id": "225219174",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957181",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "47565:47565_1_5"
+},
+{
+"id": "828757831",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957181",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3NTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "47565:47565_1_6"
 }
 ]
 }

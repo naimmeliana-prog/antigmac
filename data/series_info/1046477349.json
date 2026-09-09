@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2021-11-07",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 5,
+"id": 1071052836,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBX3kZCAS5O3gyKCYCVaevAChPi.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 1992471361,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Ana Rujas, Claudia Costafreda",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954040",
+"last_modified": "1788957429",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,133 @@
 "category_id": "481161310"
 },
 "episodes": {
+"2": [
+{
+"id": "1868846669",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "34435:34435_2_1"
+},
+{
+"id": "177452188",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34435:34435_2_2"
+},
+{
+"id": "699833767",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34435:34435_2_3"
+},
+{
+"id": "1273201903",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34435:34435_2_4"
+},
+{
+"id": "71787662",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34435:34435_2_5"
+}
+],
 "1": [
 {
-"id": "498356163",
+"id": "143185934",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-11-07",
-"plot": "'Cardo' narra la historia de María, una chica madrileña al borde de 30 años sin mucho que ofrecer al mundo, enganchada a las drogas y a desenvolverse a través de relaciones tóxicas y sexuales, odia su cuerpo a la vez que lo utiliza para conseguir retos efímeros. La ficción reflexiona sobre las expectativas que se nos imponen según lo que somos físicamente, según lo que somos socialmente y el vacío de toda una generación de jóvenes que hoy rondan los 30 años. Cómo llenamos ese vacío a través de consumismo y placeres efímeros sin ahondar en lo que realmente nos pasa ni en quiénes realmente somos.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +171,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954040",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34435:2"
-},
-{
-"id": "289095578",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2021-11-07",
-"plot": "'Cardo' narra la historia de María, una chica madrileña al borde de 30 años sin mucho que ofrecer al mundo, enganchada a las drogas y a desenvolverse a través de relaciones tóxicas y sexuales, odia su cuerpo a la vez que lo utiliza para conseguir retos efímeros. La ficción reflexiona sobre las expectativas que se nos imponen según lo que somos físicamente, según lo que somos socialmente y el vacío de toda una generación de jóvenes que hoy rondan los 30 años. Cómo llenamos ese vacío a través de consumismo y placeres efímeros sin ahondar en lo que realmente nos pasa ni en quiénes realmente somos.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788954040",
+"added": "1788957429",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34435:1"
+"_stalker_series_num": 1,
+"_stalker_id": "34435:34435_1_1"
+},
+{
+"id": "281634559",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34435:34435_1_2"
+},
+{
+"id": "232078870",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34435:34435_1_3"
+},
+{
+"id": "98745435",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34435:34435_1_4"
+},
+{
+"id": "209187879",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34435:34435_1_5"
+},
+{
+"id": "1735191478",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "34435:34435_1_6"
 }
 ]
 }

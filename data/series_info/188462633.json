@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2025-03-13",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 4,
 "id": 1608284387,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Stephen Graham, Jack Thorne",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953906",
+"last_modified": "1788957283",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "562318664",
+"id": "596530399",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2025-03-13",
-"plot": "When a 13-year-old is accused of the murder of a classmate, his family, therapist and the detective in charge are all left asking: what really happened?",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,80 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953906",
+"added": "1788957283",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "42317:1"
+"_stalker_series_num": 1,
+"_stalker_id": "42317:42317_1_1"
+},
+{
+"id": "1563523296",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957283",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "42317:42317_1_2"
+},
+{
+"id": "1877579840",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957283",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "42317:42317_1_3"
+},
+{
+"id": "834634570",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957283",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "42317:42317_1_4"
 }
 ]
 }

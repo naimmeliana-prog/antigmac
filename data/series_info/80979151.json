@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2025-02-05",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 2,
 "id": 98794742,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Dani de la Orden",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954054",
+"last_modified": "1788957445",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1565821000",
+"id": "426179632",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2025-02-05",
-"plot": "El mundo de Raúl se desmorona y Marta, inesperadamente, está embarazada. Tras encontrarse en un funeral, tropiezan por el caos de la vida y el amor.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,34 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954054",
+"added": "1788957445",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "41604:1"
+"_stalker_series_num": 1,
+"_stalker_id": "41604:41604_1_1"
+},
+{
+"id": "685034180",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957445",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQxNjA0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "41604:41604_1_2"
 }
 ]
 }

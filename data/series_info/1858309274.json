@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2021-07-28",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 11,
 "id": 568674398,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954021",
+"last_modified": "1788957403",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1721942400",
+"id": "670469350",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-07-28",
-"plot": "Zwei kleine Unruhestifter erleben Großes, während sie in einem Stadtpark ihr Leben genießen. Der nervöse, besorgte Chip und der gelassene Träumer Chap sind ein perfektes ungleiches Paar: Sie sind beste Freunde und treiben einander in den Wahnsinn. Diese ultimativen Außenseiter, die immer auf der Suche nach Eicheln sind, stellen sich mit der Hilfe von Pluto, Butch und anderen Disney-Kultfiguren vielen Bösewichten, groß und klein.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,241 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954021",
+"added": "1788957403",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "12975:1"
+"_stalker_series_num": 1,
+"_stalker_id": "12975:12975_1_1"
+},
+{
+"id": "23372671",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "12975:12975_1_2"
+},
+{
+"id": "1939598461",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "12975:12975_1_3"
+},
+{
+"id": "61626731",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "12975:12975_1_4"
+},
+{
+"id": "566849343",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "12975:12975_1_5"
+},
+{
+"id": "1065968602",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "12975:12975_1_6"
+},
+{
+"id": "232548207",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "12975:12975_1_7"
+},
+{
+"id": "1149480241",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "12975:12975_1_8"
+},
+{
+"id": "572993382",
+"episode_num": 9,
+"title": "Episodio 9",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 9,
+"_stalker_id": "12975:12975_1_9"
+},
+{
+"id": "668691165",
+"episode_num": 10,
+"title": "Episodio 10",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 10,
+"_stalker_id": "12975:12975_1_10"
+},
+{
+"id": "1820943880",
+"episode_num": 11,
+"title": "Episodio 11",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957403",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyOTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 11,
+"_stalker_id": "12975:12975_1_11"
 }
 ]
 }

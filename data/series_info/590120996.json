@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2024-05-16",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 3,
 "id": 1762877318,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953907",
+"last_modified": "1788957285",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "389406576",
+"id": "1803075716",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2024-05-16",
-"plot": "1999 was a year of groundbreaking success for England’s biggest and most powerful football club, Manchester United. Despite dominating domestic football during the 90s, manager Alex Ferguson was yet to restore Manchester United’s European glory when in 1999, glory arrived in an unprecedented fashion.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,57 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953907",
+"added": "1788957285",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMjI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "33225:1"
+"_stalker_series_num": 1,
+"_stalker_id": "33225:33225_1_1"
+},
+{
+"id": "886989722",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957285",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMjI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "33225:33225_1_2"
+},
+{
+"id": "1933039438",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957285",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMjI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "33225:33225_1_3"
 }
 ]
 }

@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2022-10-18",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 2,
 "id": 1919803643,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954038",
+"last_modified": "1788957426",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "623757015",
+"id": "1784344995",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2022-10-18",
-"plot": "El exfiscal Antoine Bellefond se convierte en abogado penalista y profesor de derecho penal en el sur de Francia. Decidido a cumplir la misión que se impuso, lucha contra la injusticia y los errores judiciales, acompañado por sus tres mejores alumnos.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,34 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954038",
+"added": "1788957426",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "42999:1"
+"_stalker_series_num": 1,
+"_stalker_id": "42999:42999_1_1"
+},
+{
+"id": "1702828399",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957426",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyOTk5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "42999:42999_1_2"
 }
 ]
 }

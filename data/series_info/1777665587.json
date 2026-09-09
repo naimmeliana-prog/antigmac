@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2019-08-21",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 6,
+"id": 910365600,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVX1jUchy3zTaZeL12Lo7HqDEly.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 1573468621,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Anne Bjørnstad, Eilif Skodvin",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953988",
+"last_modified": "1788957356",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,156 @@
 "category_id": "705851663"
 },
 "episodes": {
+"2": [
+{
+"id": "1596369377",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 1,
+"_stalker_id": "4262:4262_2_1"
+},
+{
+"id": "569149929",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "4262:4262_2_2"
+},
+{
+"id": "1557833665",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "4262:4262_2_3"
+},
+{
+"id": "270712208",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "4262:4262_2_4"
+},
+{
+"id": "1277832678",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "4262:4262_2_5"
+},
+{
+"id": "393206965",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "4262:4262_2_6"
+}
+],
 "1": [
 {
-"id": "588367011",
+"id": "1028224519",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2019-08-21",
-"plot": "A cause d'une faille spatio-temporelle, des \" visiteurs du passé \" surgissent aujourd'hui dans les rues d'Oslo. Parmi eux, des vikings combattifs. Le détective, Lars, est chargé de comprendre ce qui a pu permettre cet incident. Il s'associe alors à Alfhildr Enginnsdóttir, une guerrière viking...",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +194,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953988",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "4262:2"
-},
-{
-"id": "623643336",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2019-08-21",
-"plot": "A cause d'une faille spatio-temporelle, des \" visiteurs du passé \" surgissent aujourd'hui dans les rues d'Oslo. Parmi eux, des vikings combattifs. Le détective, Lars, est chargé de comprendre ce qui a pu permettre cet incident. Il s'associe alors à Alfhildr Enginnsdóttir, une guerrière viking...",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788953988",
+"added": "1788957356",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "4262:1"
+"_stalker_series_num": 1,
+"_stalker_id": "4262:4262_1_1"
+},
+{
+"id": "510870217",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "4262:4262_1_2"
+},
+{
+"id": "306008282",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "4262:4262_1_3"
+},
+{
+"id": "96921599",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "4262:4262_1_4"
+},
+{
+"id": "219581845",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "4262:4262_1_5"
+},
+{
+"id": "1496473840",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957356",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyNjIsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "4262:4262_1_6"
 }
 ]
 }

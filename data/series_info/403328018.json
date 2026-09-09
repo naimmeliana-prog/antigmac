@@ -1,12 +1,30 @@
 {
 "seasons": [
 {
-"air_date": "2018-11-30",
-"episode_count": 3,
+"air_date": "",
+"episode_count": 6,
 "id": 1908344436,
 "name": "Temporada 1",
 "overview": "",
 "season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xswkOJni9tJYda2yN1QQtgBVaVJ.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
+"id": 1953299119,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xswkOJni9tJYda2yN1QQtgBVaVJ.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
+"id": 214827550,
+"name": "Temporada 3",
+"overview": "",
+"season_number": 3,
 "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xswkOJni9tJYda2yN1QQtgBVaVJ.jpg"
 }
 ],
@@ -18,7 +36,7 @@
 "director": "Anna Negri, Andrea De Sica",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953968",
+"last_modified": "1788957329",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +47,14 @@
 "episodes": {
 "1": [
 {
-"id": "312315299",
+"id": "1224416288",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2018-11-30",
-"plot": "Un groupe d'ados en quête d'identité et d'indépendance défient les codes sociaux sur fond d'amours interdites, de pressions familiales et de secrets partagés. Lasses de leur univers huppé qui n'est que paraître, Ludovica et Chiara entament une vie secrète qui n'obéit à aucune règle...\r\n\r\nHistoire librement inspirée d’un fait divers survenu à Rome il y a quelques années.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,20 +63,21 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953968",
+"added": "1788957329",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "5367:1"
+"_stalker_series_num": 1,
+"_stalker_id": "5367:5367_1_1"
 },
 {
-"id": "966143643",
-"episode_num": 1,
-"title": "Season 2",
+"id": "739992715",
+"episode_num": 2,
+"title": "Episodio 2",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2018-11-30",
-"plot": "Un groupe d'ados en quête d'identité et d'indépendance défient les codes sociaux sur fond d'amours interdites, de pressions familiales et de secrets partagés. Lasses de leur univers huppé qui n'est que paraître, Ludovica et Chiara entament une vie secrète qui n'obéit à aucune règle...\r\n\r\nHistoire librement inspirée d’un fait divers survenu à Rome il y a quelques années.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -67,20 +86,138 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953968",
+"added": "1788957329",
 "season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "5367:5367_1_2"
+},
+{
+"id": "224407634",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "5367:5367_1_3"
+},
+{
+"id": "1012343727",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "5367:5367_1_4"
+},
+{
+"id": "383270244",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "5367:5367_1_5"
+},
+{
+"id": "332914944",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "5367:5367_1_6"
+}
+],
+"2": [
+{
+"id": "1864688684",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 2,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "5367:2"
+"_stalker_series_num": 1,
+"_stalker_id": "5367:5367_2_1"
 },
 {
-"id": "1588806622",
-"episode_num": 1,
-"title": "Season 3",
+"id": "857117636",
+"episode_num": 2,
+"title": "Episodio 2",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2018-11-30",
-"plot": "Un groupe d'ados en quête d'identité et d'indépendance défient les codes sociaux sur fond d'amours interdites, de pressions familiales et de secrets partagés. Lasses de leur univers huppé qui n'est que paraître, Ludovica et Chiara entament une vie secrète qui n'obéit à aucune règle...\r\n\r\nHistoire librement inspirée d’un fait divers survenu à Rome il y a quelques années.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -89,10 +226,243 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953968",
-"season": 1,
+"added": "1788957329",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "5367:5367_2_2"
+},
+{
+"id": "1175541673",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "5367:5367_2_3"
+},
+{
+"id": "893083175",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "5367:5367_2_4"
+},
+{
+"id": "262934171",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "5367:5367_2_5"
+},
+{
+"id": "1843800082",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjIsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "5367:5367_2_6"
+}
+],
+"3": [
+{
+"id": "1831027369",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 3,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
-"_stalker_id": "5367:3"
+"_stalker_series_num": 1,
+"_stalker_id": "5367:5367_3_1"
+},
+{
+"id": "1908842659",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 2,
+"_stalker_id": "5367:5367_3_2"
+},
+{
+"id": "50875408",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 3,
+"_stalker_id": "5367:5367_3_3"
+},
+{
+"id": "1607729883",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 4,
+"_stalker_id": "5367:5367_3_4"
+},
+{
+"id": "928772294",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 5,
+"_stalker_id": "5367:5367_3_5"
+},
+{
+"id": "1253061147",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957329",
+"season": 3,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUzNjcsInNlYXNvbl9udW0iOjMsInR5cGUiOiJzZXJpZXMifQ==",
+"_stalker_series_num": 6,
+"_stalker_id": "5367:5367_3_6"
 }
 ]
 }

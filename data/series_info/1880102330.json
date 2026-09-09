@@ -1,8 +1,17 @@
 {
 "seasons": [
 {
-"air_date": "2021-09-24",
-"episode_count": 2,
+"air_date": "",
+"episode_count": 6,
+"id": 1030761285,
+"name": "Temporada 2",
+"overview": "",
+"season_number": 2,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E6IPkHH541ii41NKpU5loI4fcr.jpg"
+},
+{
+"air_date": "",
+"episode_count": 6,
 "id": 692834358,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +27,7 @@
 "director": "Julien Leclercq, Hamid Hlioua",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953955",
+"last_modified": "1788957321",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -27,16 +36,156 @@
 "category_id": "790782906"
 },
 "episodes": {
+"2": [
+{
+"id": "1506021623",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "12688:12688_2_1"
+},
+{
+"id": "193474084",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "12688:12688_2_2"
+},
+{
+"id": "274239739",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "12688:12688_2_3"
+},
+{
+"id": "138021441",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "12688:12688_2_4"
+},
+{
+"id": "1002975215",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "12688:12688_2_5"
+},
+{
+"id": "155839363",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 2,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "12688:12688_2_6"
+}
+],
 "1": [
 {
-"id": "1989144556",
+"id": "212635817",
 "episode_num": 1,
-"title": "Season 2",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-09-24",
-"plot": "Voulant protéger sa famille d’un baron de la drogue, un braqueur chevronné est happé dans une guerre de territoire sans merci, entraînant avec lui son équipe.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,32 +194,126 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953955",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "12688:2"
-},
-{
-"id": "1089466514",
-"episode_num": 1,
-"title": "Season 1",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2021-09-24",
-"plot": "Voulant protéger sa famille d’un baron de la drogue, un braqueur chevronné est happé dans une guerre de territoire sans merci, entraînant avec lui son équipe.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788953955",
+"added": "1788957321",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "12688:1"
+"_stalker_series_num": 1,
+"_stalker_id": "12688:12688_1_1"
+},
+{
+"id": "1331370197",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "12688:12688_1_2"
+},
+{
+"id": "1673108971",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "12688:12688_1_3"
+},
+{
+"id": "1935174528",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "12688:12688_1_4"
+},
+{
+"id": "738143316",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "12688:12688_1_5"
+},
+{
+"id": "280562478",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957321",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEyNjg4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "12688:12688_1_6"
 }
 ]
 }

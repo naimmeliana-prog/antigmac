@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2018-08-31",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 2,
 "id": 1786424506,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Benjamin Gutsche",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788953987",
+"last_modified": "1788957355",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "652911012",
+"id": "1001532408",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2018-08-31",
-"plot": "Chômeur et malheureux en ménage, Arthur Ahnepol coule des jours bien mornes. Pour échapper à sa condition, il échafaude un jour un plan plus que risqué : faire disparaître son insupportable épouse et prendre un nouveau départ avec l’argent de l’assurance vie et son nouvel amour. Mais c’était sans compter la loi de Murphy : chaque fois qu’il pense avoir enfin réglé un problème, Arthur déclenche une catastrophe encore plus grave. Et le voilà emporté par une avalanche d’événements désastreux.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,34 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788953987",
+"added": "1788957355",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "10272:1"
+"_stalker_series_num": 1,
+"_stalker_id": "10272:10272_1_1"
+},
+{
+"id": "360861409",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957355",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjEwMjcyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "10272:10272_1_2"
 }
 ]
 }

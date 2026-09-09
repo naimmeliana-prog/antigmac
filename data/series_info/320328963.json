@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2021-08-11",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 4,
 "id": 848155882,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954003",
+"last_modified": "1788957366",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "1577866765",
+"id": "1855180266",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2021-08-11",
-"plot": "Dingo est de retour dans un trio de nouveaux courts métrages d'animation dessinés à la main, qui offrent un aperçu comique sur « Comment rester à la maison » avec des sujets tels que : le port du masque, les leçons de cuisine et les marathons télé.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,80 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954003",
+"added": "1788957366",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNDY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "11469:1"
+"_stalker_series_num": 1,
+"_stalker_id": "11469:11469_1_1"
+},
+{
+"id": "1532984862",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957366",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNDY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "11469:11469_1_2"
+},
+{
+"id": "309907568",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957366",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNDY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "11469:11469_1_3"
+},
+{
+"id": "311268583",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957366",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjExNDY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "11469:11469_1_4"
 }
 ]
 }

@@ -1,8 +1,8 @@
 {
 "seasons": [
 {
-"air_date": "2023-01-15",
-"episode_count": 1,
+"air_date": "",
+"episode_count": 8,
 "id": 1554858189,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "Daniel Écija",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788954041",
+"last_modified": "1788957429",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -29,14 +29,14 @@
 "episodes": {
 "1": [
 {
-"id": "559619341",
+"id": "1537215395",
 "episode_num": 1,
-"title": "Season 1",
+"title": "Episodio 1",
 "container_extension": "mkv",
 "info": {
 "tmdb_id": "",
-"releasedate": "2023-01-15",
-"plot": "Madrid, 1979. Ángel Cristo es el mejor domador del mundo. Bárbara Rey, actriz y musa del destape, la mujer más deseada de España. Desde que se conocen hasta que anuncian su matrimonio transcurren sólo unas semanas. Es la boda del año y la noticia copa las portadas de todas las revistas. El Circo de Bárbara Rey y Ángel Cristo se convierte en el espectáculo de moda; un negocio millonario. Dinero, fama, lujo… Nueve años de relación en los que España fue testigo de la felicidad de la pareja: el nacimiento de Angelito y Sofía, la compra de coches deportivos, joyas, un ostentoso chalet en La Moraleja… Lejos de los flashes, sin embargo, se esconde una escalada de drogadicción, ludopatía, infidelidades y malos tratos… Y, de fondo, la sombra de la relación de Bárbara con un poderoso hombre de estado.",
+"releasedate": "",
+"plot": "",
 "duration_secs": 0,
 "duration": "00:00:00",
 "video": {},
@@ -45,10 +45,172 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788954041",
+"added": "1788957429",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_id": "34437:1"
+"_stalker_series_num": 1,
+"_stalker_id": "34437:34437_1_1"
+},
+{
+"id": "188672582",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "34437:34437_1_2"
+},
+{
+"id": "1199856151",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "34437:34437_1_3"
+},
+{
+"id": "1141354335",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "34437:34437_1_4"
+},
+{
+"id": "1210198944",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "34437:34437_1_5"
+},
+{
+"id": "1844372971",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "34437:34437_1_6"
+},
+{
+"id": "1538715356",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "34437:34437_1_7"
+},
+{
+"id": "1087431038",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788957429",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjM0NDM3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "34437:34437_1_8"
 }
 ]
 }
