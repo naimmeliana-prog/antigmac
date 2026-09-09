@@ -18,7 +18,7 @@
 "director": "Alethea Arnaquq-Baril, Stacey Aglok MacDonald",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1788951879",
+"last_modified": "1788954045",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -28,6 +28,50 @@
 },
 "episodes": {
 "1": [
+{
+"id": "1322326525",
+"episode_num": 1,
+"title": "PL 4K - Vaiana (2026)  Dubbing",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "2026-07-08",
+"plot": "W starożytnej Polinezji, kiedy straszliwa klątwa, którą sprowadził na siebie Maui, dociera do wyspy porywczego Wodza, jego uparta córka odpowiada na wezwanie Oceanu, by odszukać półboga i naprawić sytuację.",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788954045",
+"season": 1,
+"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNTA2Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
+"_stalker_id": "2143506"
+},
+{
+"id": "1326711704",
+"episode_num": 1,
+"title": "PL 4K - Opowieści z magicznego ogrodu (2025)  Dubbing",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "N/A",
+"plot": "N/A",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1788954045",
+"season": 1,
+"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNTA1Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
+"_stalker_id": "2143505"
+},
 {
 "id": "1040317314",
 "episode_num": 1,
@@ -45,7 +89,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDkyIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143492"
@@ -67,7 +111,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDkxIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143491"
@@ -89,7 +133,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDI2Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143426"
@@ -111,7 +155,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDI1Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143425"
@@ -133,7 +177,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDI0Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143424"
@@ -155,7 +199,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIzIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143423"
@@ -177,7 +221,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIyIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143422"
@@ -199,7 +243,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIxIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143421"
@@ -221,7 +265,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDIwIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143420"
@@ -243,7 +287,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE5Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143419"
@@ -265,7 +309,7 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE4Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143418"
@@ -287,54 +331,10 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1788951879",
+"added": "1788954045",
 "season": 1,
 "_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE3Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
 "_stalker_id": "2143417"
-},
-{
-"id": "1329567407",
-"episode_num": 1,
-"title": "ES - CUPRA Game Changers (2026)",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "N/A",
-"plot": "5 países, 8 ciudades y cientos de jóvenes persiguiendo un mismo sueño: convertirse en los próximos referentes del pádel mundial. GAMECHANGERS sigue la búsqueda del talento llamado a marcar el futuro de este deporte, poniendo a prueba a sus protagonistas ante los mejores jugadores del mundo. Tras superar diferentes fases de selección, los seleccionados llegan a Barcelona para luchar por una beca que les dará el impulso necesario para marcar el futuro del pádel.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788951879",
-"season": 1,
-"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE2Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
-"_stalker_id": "2143416"
-},
-{
-"id": "1323552885",
-"episode_num": 1,
-"title": "ES - Furia de los Thunderman (LQ) (2026)",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "2026-09-03",
-"plot": "Chloe, la hermana pequeña, desarrolla de repente un poder energético impredecible, y la Liga de Héroes exige enviarla a un internado de alta seguridad. La familia se divide: unos quieren entregarla por seguridad y otros deciden esconderla. Cuando la decana revela un plan oculto y peligroso, todos tendrán que unirse para salvarla y proteger la ciudad.",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1788951879",
-"season": 1,
-"_stalker_cmd": "eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIyMTQzNDE1Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9",
-"_stalker_id": "2143415"
 }
 ]
 }
