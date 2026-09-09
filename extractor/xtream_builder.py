@@ -361,35 +361,17 @@ class XtreamBuilder:
         if stalker_info and isinstance(stalker_info, dict):
             data = stalker_info.get("data", [])
             if not isinstance(data, list):
-                # Algunos portales devuelven directamente la lista
-                data = [stalker_info] if stalker_info else []
+                data = []
 
             for item in data:
-                # ── Detectar número de temporada ──────────────────────────────
-                # Stalker puede usar: season_number, season, s, serie_season...
-                season_num = (
-                    item.get("season_number")
-                    or item.get("season")
-                    or item.get("serie_season")
-                    or item.get("s")
-                    or 1
-                )
+                # Los datos ya vienen normalizados de get_series_info
+                season_num = item.get("season_number", 1)
                 try:
                     season_num = int(season_num) or 1
                 except (ValueError, TypeError):
                     season_num = 1
 
-                # ── Detectar número de episodio ───────────────────────────────
-                # Stalker puede usar: series_number, episode, episode_num, e, num...
-                episode_num = (
-                    item.get("series_number")
-                    or item.get("episode_num")
-                    or item.get("episode")
-                    or item.get("num")
-                    or item.get("e")
-                    or item.get("order")
-                    or 1
-                )
+                episode_num = item.get("episode_num", 1)
                 try:
                     episode_num = int(episode_num) or 1
                 except (ValueError, TypeError):
@@ -398,7 +380,7 @@ class XtreamBuilder:
                 # Crear temporada si no existe
                 if str(season_num) not in seasons:
                     seasons[str(season_num)] = {
-                        "air_date": item.get("year", ""),
+                        "air_date": "",
                         "episode_count": 0,
                         "id": _stable_id(f"{series_id}_s{season_num}", self.portal_id),
                         "name": f"Temporada {season_num}",
@@ -414,12 +396,14 @@ class XtreamBuilder:
                     item.get("id", f"{series_id}_s{season_num}_e{episode_num}"),
                     f"{self.portal_id}_ep",
                 )
-                cmd = item.get("cmd", "")
-                ext = (
-                    item.get("container_extension")
-                    or item.get("ext")
-                    or (cmd.rsplit(".", 1)[-1].split("?")[0] if "." in str(cmd) else "mkv")
-                )
+                # cmd es el cmd de la TEMPORADA; _ep_series_num es el número de episodio
+                # que se pasará como "series=" en create_link del portal Stalker
+                season_cmd = item.get("cmd", "")
+                ep_series_num = item.get("_ep_series_num", episode_num)
+
+                ext = "mkv"
+                if season_cmd and "." in str(season_cmd):
+                    ext = season_cmd.rsplit(".", 1)[-1].split("?")[0] or "mkv"
 
                 episodes[str(season_num)].append({
                     "id": str(ep_id),
@@ -428,19 +412,21 @@ class XtreamBuilder:
                     "container_extension": ext,
                     "info": {
                         "tmdb_id": "",
-                        "releasedate": item.get("year", ""),
-                        "plot": item.get("description", item.get("desc", "")),
+                        "releasedate": "",
+                        "plot": "",
                         "duration_secs": 0,
                         "duration": "00:00:00",
                         "video": {},
                         "audio": {},
-                        "rating": item.get("rating", "0"),
+                        "rating": "0",
                     },
                     "subtitles": [],
                     "custom_sid": "",
                     "added": str(int(time.time())),
                     "season": season_num,
-                    "_stalker_cmd": _clean_cmd(cmd),
+                    # Datos necesarios para que el Worker resuelva la URL
+                    "_stalker_cmd": _clean_cmd(season_cmd),      # cmd de la temporada
+                    "_stalker_series_num": ep_series_num,        # ep número para create_link
                     "_stalker_id": str(item.get("id", "")),
                 })
 
@@ -464,6 +450,7 @@ class XtreamBuilder:
             },
             "episodes": episodes,
         }
+
 
     # ──────────────────────────────────────────────────────────────────────────
     # USERS
