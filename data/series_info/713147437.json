@@ -2,34 +2,34 @@
 "seasons": [
 {
 "air_date": "",
-"episode_count": 6,
-"id": 231008536,
+"episode_count": 5,
+"id": 1440696574,
 "name": "Temporada 1",
 "overview": "",
 "season_number": 1,
-"cover": "https://image.tmdb.org/t/p/original/1B9JsX4684BpDTGz60BewNyWlFF.jpg"
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82fby3JG8ObTxXwiB1cSaA37oB0.jpg"
 }
 ],
 "info": {
-"name": "A+ - Circuit Breakers (2022)",
-"cover": "https://image.tmdb.org/t/p/original/1B9JsX4684BpDTGz60BewNyWlFF.jpg",
+"name": "FR - Björnstad",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82fby3JG8ObTxXwiB1cSaA37oB0.jpg",
 "plot": "",
 "cast": "",
-"director": "Melody Fox",
+"director": "Linn Gottfridsson, Antonia Pyk, Peter Grönlund, Anders Weidemann",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1789296574",
+"last_modified": "1789296657",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
 "youtube_trailer": "",
 "episode_run_time": "0",
-"category_id": "517703105"
+"category_id": "705851663"
 },
 "episodes": {
 "1": [
 {
-"id": "871296176",
+"id": "1137879500",
 "episode_num": 1,
 "title": "Episodio 1",
 "container_extension": "mkv",
@@ -45,14 +45,14 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1789296574",
+"added": "1789296657",
 "season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 1,
-"_stalker_id": "28178:28178_1_1"
+"_stalker_id": "14540:14540_1_1"
 },
 {
-"id": "1991522150",
+"id": "1151621481",
 "episode_num": 2,
 "title": "Episodio 2",
 "container_extension": "mkv",
@@ -68,14 +68,14 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1789296574",
+"added": "1789296657",
 "season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 2,
-"_stalker_id": "28178:28178_1_2"
+"_stalker_id": "14540:14540_1_2"
 },
 {
-"id": "1107251545",
+"id": "1327146092",
 "episode_num": 3,
 "title": "Episodio 3",
 "container_extension": "mkv",
@@ -91,14 +91,14 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1789296574",
+"added": "1789296657",
 "season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 3,
-"_stalker_id": "28178:28178_1_3"
+"_stalker_id": "14540:14540_1_3"
 },
 {
-"id": "1611921322",
+"id": "260418010",
 "episode_num": 4,
 "title": "Episodio 4",
 "container_extension": "mkv",
@@ -114,14 +114,14 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1789296574",
+"added": "1789296657",
 "season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 4,
-"_stalker_id": "28178:28178_1_4"
+"_stalker_id": "14540:14540_1_4"
 },
 {
-"id": "12455210",
+"id": "1410858467",
 "episode_num": 5,
 "title": "Episodio 5",
 "container_extension": "mkv",
@@ -137,34 +137,11 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1789296574",
+"added": "1789296657",
 "season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjE0NTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 5,
-"_stalker_id": "28178:28178_1_5"
-},
-{
-"id": "1275504001",
-"episode_num": 6,
-"title": "Episodio 6",
-"container_extension": "mkv",
-"info": {
-"tmdb_id": "",
-"releasedate": "",
-"plot": "",
-"duration_secs": 0,
-"duration": "00:00:00",
-"video": {},
-"audio": {},
-"rating": "0"
-},
-"subtitles": [],
-"custom_sid": "",
-"added": "1789296574",
-"season": 1,
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjI4MTc4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 6,
-"_stalker_id": "28178:28178_1_6"
+"_stalker_id": "14540:14540_1_5"
 }
 ]
 }
