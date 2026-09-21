@@ -1,0 +1,125 @@
+{
+"seasons": [
+{
+"air_date": "",
+"episode_count": 4,
+"id": 279108575,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s50flEj06i7HmZx0lVMTHD4p6MF.jpg"
+}
+],
+"info": {
+"name": "EX - Catherine the Great (2019)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s50flEj06i7HmZx0lVMTHD4p6MF.jpg",
+"plot": "",
+"cast": "",
+"director": "Nigel Williams",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1789990072",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1973873224"
+},
+"episodes": {
+"1": [
+{
+"id": "366158238",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1789990072",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "47015:47015_1_1"
+},
+{
+"id": "1169055064",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1789990072",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "47015:47015_1_2"
+},
+{
+"id": "1647625332",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1789990072",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "47015:47015_1_3"
+},
+{
+"id": "62993088",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1789990072",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ3MDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "47015:47015_1_4"
+}
+]
+}
+}
