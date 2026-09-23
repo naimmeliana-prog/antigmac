@@ -6,8 +6,8 @@
     "server_protocol": "http",
     "rtmp_port": "1935",
     "timezone": "Europe/Madrid",
-    "timestamp_now": 1789989697,
-    "time_now": "2026-09-21 11:21:37"
+    "timestamp_now": 1790159149,
+    "time_now": "2026-09-23 10:25:49"
   },
   "user_info": {
     "username": "antigmac1",
@@ -18,7 +18,7 @@
     "exp_date": "9999999999",
     "is_trial": "0",
     "active_cons": "0",
-    "created_at": "1789989697",
+    "created_at": "1790159149",
     "max_connections": "3",
     "allowed_output_formats": [
       "ts",
