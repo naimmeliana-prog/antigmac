@@ -1,0 +1,217 @@
+{
+"seasons": [
+{
+"air_date": "",
+"episode_count": 8,
+"id": 940727718,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg"
+}
+],
+"info": {
+"name": "FR - Academie Minerva (2026) (IT)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
+"plot": "",
+"cast": "",
+"director": "N/A",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1790333469",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1943579352"
+},
+"episodes": {
+"1": [
+{
+"id": "444788523",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "52077:52077_1_1"
+},
+{
+"id": "1444736197",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "52077:52077_1_2"
+},
+{
+"id": "1671764543",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "52077:52077_1_3"
+},
+{
+"id": "652054986",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "52077:52077_1_4"
+},
+{
+"id": "1971049028",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "52077:52077_1_5"
+},
+{
+"id": "1669003148",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "52077:52077_1_6"
+},
+{
+"id": "1633637639",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "52077:52077_1_7"
+},
+{
+"id": "1071157555",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790333469",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMDc3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "52077:52077_1_8"
+}
+]
+}
+}
