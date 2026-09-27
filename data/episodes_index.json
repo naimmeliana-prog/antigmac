@@ -47487,6 +47487,17 @@
 "_stalker_series_num": 168
 },
 {
+"id": 257416788,
+"episode_id": 257416788,
+"series_id": 1906091606,
+"season": 2,
+"episode_num": 169,
+"title": "Episodio 169",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQyMDc3LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 169
+},
+{
 "id": 789927780,
 "episode_id": 789927780,
 "series_id": 1906091606,
@@ -136906,6 +136917,17 @@
 "_stalker_series_num": 8
 },
 {
+"id": 1300522032,
+"episode_id": 1300522032,
+"series_id": 939643846,
+"season": 1,
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1
+},
+{
 "id": 868272874,
 "episode_id": 868272874,
 "series_id": 359737731,
@@ -138674,94 +138696,6 @@
 "title": "Episodio 8",
 "container_extension": "mkv",
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjU3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 8
-},
-{
-"id": 1240825854,
-"episode_id": 1240825854,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 1,
-"title": "Episodio 1",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 1
-},
-{
-"id": 105031526,
-"episode_id": 105031526,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 2,
-"title": "Episodio 2",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 2
-},
-{
-"id": 1362969288,
-"episode_id": 1362969288,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 3,
-"title": "Episodio 3",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 3
-},
-{
-"id": 58229411,
-"episode_id": 58229411,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 4,
-"title": "Episodio 4",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 4
-},
-{
-"id": 1459528560,
-"episode_id": 1459528560,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 5,
-"title": "Episodio 5",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 5
-},
-{
-"id": 435121833,
-"episode_id": 435121833,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 6,
-"title": "Episodio 6",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 6
-},
-{
-"id": 1252411,
-"episode_id": 1252411,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 7,
-"title": "Episodio 7",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 7
-},
-{
-"id": 1711208756,
-"episode_id": 1711208756,
-"series_id": 399262116,
-"season": 1,
-"episode_num": 8,
-"title": "Episodio 8",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxNjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 8
 },
 {
@@ -180224,6 +180158,116 @@
 "_stalker_series_num": 6
 },
 {
+"id": 493011518,
+"episode_id": 493011518,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1
+},
+{
+"id": 1823046707,
+"episode_id": 1823046707,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2
+},
+{
+"id": 843506797,
+"episode_id": 843506797,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3
+},
+{
+"id": 243944500,
+"episode_id": 243944500,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4
+},
+{
+"id": 1699648075,
+"episode_id": 1699648075,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5
+},
+{
+"id": 1495445925,
+"episode_id": 1495445925,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6
+},
+{
+"id": 1514602629,
+"episode_id": 1514602629,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7
+},
+{
+"id": 1725141210,
+"episode_id": 1725141210,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8
+},
+{
+"id": 392617848,
+"episode_id": 392617848,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 9,
+"title": "Episodio 9",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 9
+},
+{
+"id": 1625971945,
+"episode_id": 1625971945,
+"series_id": 1388699838,
+"season": 1,
+"episode_num": 10,
+"title": "Episodio 10",
+"container_extension": "mkv",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTc1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 10
+},
+{
 "id": 1088567343,
 "episode_id": 1088567343,
 "series_id": 1830843842,
@@ -181093,136 +181137,15 @@
 "_stalker_series_num": 8
 },
 {
-"id": 39757166,
-"episode_id": 39757166,
-"series_id": 479102170,
+"id": 996600020,
+"episode_id": 996600020,
+"series_id": 1727423009,
 "season": 1,
 "episode_num": 1,
 "title": "Episodio 1",
 "container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMTQ3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 1
-},
-{
-"id": 334574877,
-"episode_id": 334574877,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 2,
-"title": "Episodio 2",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 2
-},
-{
-"id": 158799610,
-"episode_id": 158799610,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 3,
-"title": "Episodio 3",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 3
-},
-{
-"id": 1050023203,
-"episode_id": 1050023203,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 4,
-"title": "Episodio 4",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 4
-},
-{
-"id": 1366919258,
-"episode_id": 1366919258,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 5,
-"title": "Episodio 5",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 5
-},
-{
-"id": 753291683,
-"episode_id": 753291683,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 6,
-"title": "Episodio 6",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 6
-},
-{
-"id": 705684255,
-"episode_id": 705684255,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 7,
-"title": "Episodio 7",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 7
-},
-{
-"id": 1973204043,
-"episode_id": 1973204043,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 8,
-"title": "Episodio 8",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 8
-},
-{
-"id": 89766487,
-"episode_id": 89766487,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 9,
-"title": "Episodio 9",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 9
-},
-{
-"id": 540623685,
-"episode_id": 540623685,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 10,
-"title": "Episodio 10",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 10
-},
-{
-"id": 351949120,
-"episode_id": 351949120,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 11,
-"title": "Episodio 11",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 11
-},
-{
-"id": 677949677,
-"episode_id": 677949677,
-"series_id": 479102170,
-"season": 1,
-"episode_num": 12,
-"title": "Episodio 12",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjMzMTI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 12
 },
 {
 "id": 401970498,
@@ -184215,82 +184138,5 @@
 "container_extension": "mkv",
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjMwMTc0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 5
-},
-{
-"id": 75508795,
-"episode_id": 75508795,
-"series_id": 1489088969,
-"season": 1,
-"episode_num": 1,
-"title": "Episodio 1",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 1
-},
-{
-"id": 232806796,
-"episode_id": 232806796,
-"series_id": 1489088969,
-"season": 1,
-"episode_num": 2,
-"title": "Episodio 2",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 2
-},
-{
-"id": 774296086,
-"episode_id": 774296086,
-"series_id": 1489088969,
-"season": 1,
-"episode_num": 3,
-"title": "Episodio 3",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 3
-},
-{
-"id": 1338492291,
-"episode_id": 1338492291,
-"series_id": 1489088969,
-"season": 1,
-"episode_num": 4,
-"title": "Episodio 4",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 4
-},
-{
-"id": 95526461,
-"episode_id": 95526461,
-"series_id": 1489088969,
-"season": 1,
-"episode_num": 5,
-"title": "Episodio 5",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 5
-},
-{
-"id": 1804500770,
-"episode_id": 1804500770,
-"series_id": 1489088969,
-"season": 1,
-"episode_num": 6,
-"title": "Episodio 6",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 6
-},
-{
-"id": 690025719,
-"episode_id": 690025719,
-"series_id": 1489088969,
-"season": 1,
-"episode_num": 7,
-"title": "Episodio 7",
-"container_extension": "mkv",
-"_stalker_cmd": "eyJzZXJpZXNfaWQiOjQ4Mzk4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
-"_stalker_series_num": 7
 }
 ]
