@@ -2,7 +2,7 @@
 "seasons": [
 {
 "air_date": "",
-"episode_count": 1,
+"episode_count": 2,
 "id": 158826121,
 "name": "Temporada 1",
 "overview": "",
@@ -18,7 +18,7 @@
 "director": "N/A",
 "genre": "",
 "releaseDate": "",
-"last_modified": "1790507338",
+"last_modified": "1790682770",
 "rating": "0",
 "rating_5based": 0.0,
 "backdrop_path": [],
@@ -45,11 +45,34 @@
 },
 "subtitles": [],
 "custom_sid": "",
-"added": "1790507338",
+"added": "1790682770",
 "season": 1,
 "_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxOTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
 "_stalker_series_num": 1,
 "_stalker_id": "51965:51965_1_1"
+},
+{
+"id": "1803660865",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790682770",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUxOTY1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "51965:51965_1_2"
 }
 ]
 }
