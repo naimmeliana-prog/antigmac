@@ -1,0 +1,217 @@
+{
+"seasons": [
+{
+"air_date": "",
+"episode_count": 8,
+"id": 225884980,
+"name": "Temporada 1",
+"overview": "",
+"season_number": 1,
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxWSGo8D6MbFbQmM9tqhbaG80TP.jpg"
+}
+],
+"info": {
+"name": "DE- [4K-DV-HDR] - Lockwood & Co. (2023) (GB)",
+"cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxWSGo8D6MbFbQmM9tqhbaG80TP.jpg",
+"plot": "",
+"cast": "",
+"director": "Joe Cornish",
+"genre": "",
+"releaseDate": "",
+"last_modified": "1790856515",
+"rating": "0",
+"rating_5based": 0.0,
+"backdrop_path": [],
+"youtube_trailer": "",
+"episode_run_time": "0",
+"category_id": "1305060154"
+},
+"episodes": {
+"1": [
+{
+"id": "875034901",
+"episode_num": 1,
+"title": "Episodio 1",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 1,
+"_stalker_id": "52325:52325_1_1"
+},
+{
+"id": "272263094",
+"episode_num": 2,
+"title": "Episodio 2",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 2,
+"_stalker_id": "52325:52325_1_2"
+},
+{
+"id": "26478722",
+"episode_num": 3,
+"title": "Episodio 3",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 3,
+"_stalker_id": "52325:52325_1_3"
+},
+{
+"id": "933945430",
+"episode_num": 4,
+"title": "Episodio 4",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 4,
+"_stalker_id": "52325:52325_1_4"
+},
+{
+"id": "735717457",
+"episode_num": 5,
+"title": "Episodio 5",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 5,
+"_stalker_id": "52325:52325_1_5"
+},
+{
+"id": "619289715",
+"episode_num": 6,
+"title": "Episodio 6",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 6,
+"_stalker_id": "52325:52325_1_6"
+},
+{
+"id": "95009232",
+"episode_num": 7,
+"title": "Episodio 7",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 7,
+"_stalker_id": "52325:52325_1_7"
+},
+{
+"id": "1232284383",
+"episode_num": 8,
+"title": "Episodio 8",
+"container_extension": "mkv",
+"info": {
+"tmdb_id": "",
+"releasedate": "",
+"plot": "",
+"duration_secs": 0,
+"duration": "00:00:00",
+"video": {},
+"audio": {},
+"rating": "0"
+},
+"subtitles": [],
+"custom_sid": "",
+"added": "1790856515",
+"season": 1,
+"_stalker_cmd": "eyJzZXJpZXNfaWQiOjUyMzI1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0=",
+"_stalker_series_num": 8,
+"_stalker_id": "52325:52325_1_8"
+}
+]
+}
+}
